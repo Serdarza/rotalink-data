@@ -1,0 +1,40 @@
+{
+  "not": "Fiyatlar gecelik oda ücreti aralığıdır; tesise ve oda tipine göre değişebilir. isim alanları master_database_updated.json ile birebir aynı olmalıdır.",
+  "tesisler": [
+    {
+      "il": "Düzce",
+      "isim": "Düzce Öğretmenevi",
+      "fiyat_sivil": "1.500 – 2.650 TL",
+      "fiyat_kamu_personeli": "750 – 1.600 TL",
+      "fiyat_kurum_personeli": "750 – 1.600 TL"
+    },
+    {
+      "il": "Düzce",
+      "isim": "Düzce Polis Evi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "848 – 1.550 TL",
+      "fiyat_kurum_personeli": "848 – 1.550 TL"
+    },
+    {
+      "il": "Düzce",
+      "isim": "Düzce Askerlik Şubesi Ve Orduevi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": null,
+      "fiyat_kurum_personeli": "400 – 1.405 TL"
+    },
+    {
+      "il": "Düzce",
+      "isim": "Yığılca Öğretmenevi",
+      "fiyat_sivil": "1.200 – 2.100 TL",
+      "fiyat_kamu_personeli": "650 – 1.400 TL",
+      "fiyat_kurum_personeli": "650 – 1.400 TL"
+    },
+    {
+      "il": "Düzce",
+      "isim": "Akçakoca Öğretmen Evi",
+      "fiyat_sivil": "1.400 – 2.400 TL",
+      "fiyat_kamu_personeli": "700 – 1.500 TL",
+      "fiyat_kurum_personeli": "700 – 1.500 TL"
+    }
+  ]
+}
