@@ -26683,294 +26683,305 @@
       "latitude": 40.65353340056676,
       "longitude": 35.83313871139121
     },
-    {
-      "isim": "Antalya Kışla Gazinosu",
-      "tip": "Orduevi",
-      "il": "Antalya",
-      "adres": null,
-      "telefon": "0 506 063 0808",
-      "latitude": 36.886432696633776,
-      "longitude": 30.700467153531715
-    },
-    {
-      "isim": "Karpuzkaldıran Özel Eğitim Merkezi Komutanlığı",
-      "tip": "Orduevi",
-      "il": "Antalya",
-      "adres": null,
-      "telefon": "0 242 349 39 00",
-      "latitude": 36.85427486890357,
-      "longitude": 30.793932036338187
-    },
-    {
-      "isim": "Side Eğitim Ve Dinlenme Merkezi",
-      "tip": "Orduevi",
-      "il": "Antalya",
-      "adres": "Manavgat-Side",
-      "telefon": "0 242 763 67 58",
-      "latitude": 36.81334089319713,
-      "longitude": 31.32540997284317
-    },
-    {
-      "isim": "Akdeniz Üniversitesi Sosyal Tesisler",
-      "tip": "Üniversite Sosyal Tesisi",
-      "il": "Antalya",
-      "adres": "Pınarbaşı Mahallesi, Dumlupınar Bulv., 07058 Konyaaltı/Antalya",
-      "telefon": "(0242) 227 44 74",
-      "latitude": 36.89227245008057,
-      "longitude": 30.661722341888428
-    },
-    {
-      "isim": "Akdeniz Üniversitesi Avrupa Akdeniz Gençlik Eğitim Ve Dinlenme Tesisi",
-      "tip": "Üniversite Gençlik Tesisi",
-      "il": "Antalya",
-      "adres": "Adrasan Mahallesi, Deniz Cd., 07350 Kumluca/Antalya",
-      "telefon": "(0242) 883 13 30",
-      "latitude": 36.30441475764584,
-      "longitude": 30.459333082339775
-    },
-    {
-      "isim": "Akseki Ögretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Demirciler Mahallesi, 07630 Akseki/Antalya",
-      "telefon": "(0242) 678 20 18",
-      "latitude": 37.0483327349952,
-      "longitude": 31.791853118501184
-    },
-    {
-      "isim": "Alanya Meteoroloji Müdürlüğü ve Uluslararası Eğitim Tesisleri",
-      "tip": "Meteoroloji Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Kızlar Pınarı Mah. Meteoroloji Sok. 3, Alanya, Antalya",
-      "telefon": "(0242) 513 44 14",
-      "latitude": 36.5506201792583,
-      "longitude": 31.980226751666223
-    },
-    {
-      "isim": "Alanya Ögretmen Evi ve Akşam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Saray Mahallesi, Atatürk Cad. Otogar Yanı No:200, Alanya",
-      "telefon": "(0242) 512 57 92",
-      "latitude": 36.55238592608563,
-      "longitude": 31.976175468858457
-    },
-    {
-      "isim": "Antalya Büyüksehir Belediyesi Hasta Ve Hasta Yakinlari Sosyal Tesisi",
-      "tip": "Belediye Hasta Yakını Tesisi",
-      "il": "Antalya",
-      "adres": "Altındağ Mahallesi, 153. Sk. No:27, 07050 Muratpaşa/Antalya",
-      "telefon": "(0242) 248 49 29",
-      "latitude": 36.89147244331692,
-      "longitude": 30.69064021120323
-    },
-    {
-      "isim": "Antalya Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Kültür Mahallesi, Dumlupınar Blv. Yanyolu No:2, 07090 Kepez/Antalya",
-      "telefon": "(0242) 227 11 42",
-      "latitude": 36.90496333136625,
-      "longitude": 30.663942121246144
-    },
-    {
-      "isim": "Antalya Polisevi",
-      "tip": "Polisevi",
-      "il": "Antalya",
-      "adres": "Varlık Mahallesi, Piri Reis Cad. No:104, 07050 Muratpaşa/Antalya",
-      "telefon": "08502470155",
-      "latitude": 36.88747297540844,
-      "longitude": 30.682402095860493
-    },
-    {
-      "isim": "Antalya TEİAŞ Misafirhane",
-      "tip": "TEİAŞ Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Fabrikalar Mahallesi, 3041. Sk. No:22, 07090 Kepez/Antalya",
-      "telefon": "0 (242) 346 50 55",
-      "latitude": 36.91471983301813,
-      "longitude": 30.66839471120422
-    },
-    {
-      "isim": "ATGV Antalya Eğitim ve Sosyal Tesisi",
-      "tip": "ATGV Eğitim ve Sosyal Tesisi",
-      "il": "Antalya",
-      "adres": "Merkez Özlü mah., Tesisler Cad. No:422, 07100 Aksu/Antalya",
-      "telefon": "(0242) 431 22 40",
-      "latitude": 36.855196712618834,
-      "longitude": 30.902800355379714
-    },
-    {
-      "isim": "Demre Ögretmen Evi ve Akşam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Büyükkum Mahallesi, 07570 Demre/Antalya",
-      "telefon": "(0242) 871 23 88",
-      "latitude": 36.22723972198987,
-      "longitude": 29.994742182336157
-    },
-    {
-      "isim": "Antalya Devlet Su Isleri Misafirhanesi",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Deniz Mahallesi, Konyaaltı Cd. 21-5, 07050 Muratpaşa/Antalya",
-      "telefon": "(0242) 243 10 82",
-      "latitude": 36.88525928063408,
-      "longitude": 30.693404911202848
-    },
-    {
-      "isim": "Hacı Mehmet Gebizli Eğitim Merkezi ve Sosyal Tesisi",
-      "tip": "Diyanet Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Dutlubahçe Mah. 760 Sok. No:37 Bostanlar Apt. Kat:1 No:2, Muratpaşa/ANTALYA",
-      "telefon": "02423215545",
-      "latitude": 36.88553983065215,
-      "longitude": 30.726820595860367
-    },
-    {
-      "isim": "DSİ Alara Eğitim Ve Dinlenme Tesisleri",
-      "tip": "DSİ Kamp Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Aydınevler Mah. Oymapınar Cad. Manavgat, Antalya",
-      "telefon": "0242 746 1286",
-      "latitude": 36.708471766146,
-      "longitude": 31.575902752344767
-    },
-    {
-      "isim": "Elmalı Ögretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Yeni Mah. Antalya Cad., Elmalı Merkez, Elmalı, Antalya, 07060 Elmalı/Antalya",
-      "telefon": "(0242) 618 32 88",
-      "latitude": 36.732313142502505,
-      "longitude": 29.926997695853036
-    },
-    {
-      "isim": "Finike Karayolları Misafirhanesi",
-      "tip": "Karayolları Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Alanya Karayolları 136. Şube Şefliği, Finike, Antalya",
-      "telefon": "0 242 855 1297",
-      "latitude": 36.30332954497694,
-      "longitude": 30.151388572545596
-    },
-    {
-      "isim": "Finike Meteoroloji Misafirhanesi",
-      "tip": "Meteoroloji Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Finike Meteoroloji Müdürlüğü, Finike Meteoroloji Kampı, Finike, Antalya",
-      "telefon": "(0242) 855 11 27",
-      "latitude": 36.30212412260881,
-      "longitude": 30.146068638161598
-    },
-    {
-      "isim": "Gazipaşa Belediyesi Tatil ve Dinlenme Tesisleri Misafirhanesi",
-      "tip": "Belediye Tatil Tesisi",
-      "il": "Antalya",
-      "adres": "Gazipaşa Belediyesi Binası, Gazipaşa/ANTALYA",
-      "telefon": "0242 572 1631",
-      "latitude": 36.27124249619911,
-      "longitude": 32.31542434249231
-    },
-    {
-      "isim": "Gazipaşa Ögretmen Evi ve Akşam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Cumhuriyet Mah. Yıldız Sok. No:6, Gazipaşa/ANTALYA",
-      "telefon": "(0242) 572 42 83",
-      "latitude": 36.27096612012694,
-      "longitude": 32.31082012281745
-    },
-    {
-      "isim": "Antalya Gıda Tarım Ve Hayvancılık İl Müdürlüğü Misafirhanesi",
-      "tip": "Tarım Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Sedir Mahallesi, 725. Sk. 4 H, 07010 Muratpaşa/Antalya",
-      "telefon": "(0242) 345 2882",
-      "latitude": 36.90294775949767,
-      "longitude": 30.68646395353244
-    },
-    {
-      "isim": "Antalya Karayolları 13. Bölge Müdürlüğü Eğitim ve Dinlenme Tesisi",
-      "tip": "Karayolları Sosyal Tesisi",
-      "il": "Antalya",
-      "adres": "Pirireis Cad., Bahçelievler Mah., Meteoroloji yanı, Bahçeli/ANTALYA",
-      "telefon": "0 242 237 87 00",
-      "latitude": 36.886153703481696,
-      "longitude": 30.682771841888215
-    },
-    {
-      "isim": "Kepez Belediyesi (Hasta) Konuk Evi",
-      "tip": "Belediye Konuk Evi",
-      "il": "Antalya",
-      "adres": "Kültür Mah., Akdeniz Üniversitesi Tıp Fakültesi Arkası",
-      "telefon": "0242 226 36 58",
-      "latitude": 36.91581053056437,
-      "longitude": 30.651522165176743
-    },
-    {
-      "isim": "Korkuteli Ögretmen Evi ve Akşam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Kiremitli Mahallesi, Eski Antalya Caddesi No:46, Korkuteli/ANTALYA",
-      "telefon": "(0242) 643 22 40",
-      "latitude": 37.063165575841545,
-      "longitude": 30.198177009361988
-    },
-    {
-      "isim": "Kumluca Ögretmen Evi ve Akşam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Karşıyaka Mah. Hamam Sok. No:4, Kumluca/ANTALYA",
-      "telefon": "(0242) 887 59 55",
-      "latitude": 36.36573302076696,
-      "longitude": 30.288521607479293
-    },
-    {
-      "isim": "Antalya MEB Uygulama Oteli",
-      "tip": "Uygulama Oteli",
-      "il": "Antalya",
-      "adres": "Konyaaltı, Müzesi Arkası, Antalya",
-      "telefon": "0 242 238 51 30",
-      "latitude": 36.5413298892361,
-      "longitude": 32.03073541118664
-    },
-    {
-      "isim": "Antalya Orman Müdürlüğü Misafirhanesi",
-      "tip": "Orman Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Antalya Orman Bölge Müdürlüğü Misafirhanesi, Sedir Mah. Vatan Bulvarı, Muratpaşa/Antalya",
-      "telefon": "0 242 333 00 99",
-      "latitude": 36.900597133374816,
-      "longitude": 30.690793519148414
-    },
-    {
-      "isim": "Antalya Sayıştay Başkanlığı Eğitim ve Dinlenme Tesisleri",
-      "tip": "Sayıştay Tesisleri",
-      "il": "Antalya",
-      "adres": "Çenger Mahallesi, 07600 Manavgat/Antalya",
-      "telefon": "(0242) 766 42 11",
-      "latitude": 36.67823285899924,
-      "longitude": 31.62640075537132
-    },
-    {
-      "isim": "Serik Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Gedik, Serik Cd. No:114, 07500 Serik/Antalya",
-      "telefon": "(0242) 722 37 67",
-      "latitude": 36.91267453761922,
-      "longitude": 31.092107436340985
-    },
-    {
-      "isim": "TRT Lara Kampı",
-      "tip": "TRT Kampı",
-      "il": "Antalya",
-      "adres": "Güzeloba Mahallesi, Tesisler Caddesi, 07110 Aksu, Muratpaşa, Antalya",
-      "telefon": "(0242) 352 06 10",
-      "latitude": 36.8523889619922,
-      "longitude": 30.853202574977423
-    },
+  {
+    "isim": "Antalya Kışla Gazinosu",
+    "tip": "Orduevi",
+    "il": "Antalya",
+    "adres": null,
+    "telefon": "0 506 063 0808",
+    "latitude": 36.886432696633776,
+    "longitude": 30.700467153531715
+  },
+  {
+    "isim": "Karpuzkaldıran Özel Eğitim Merkezi Komutanlığı",
+    "tip": "Orduevi",
+    "il": "Antalya",
+    "adres": null,
+    "telefon": "0 242 349 39 00",
+    "latitude": 36.85427486890357,
+    "longitude": 30.793932036338187
+  },
+  {
+    "isim": "Side Eğitim Ve Dinlenme Merkezi",
+    "tip": "Orduevi",
+    "il": "Antalya",
+    "adres": "Manavgat-Side",
+    "telefon": "0 242 763 67 58",
+    "latitude": 36.81334089319713,
+    "longitude": 31.32540997284317
+  },
+
+  {
+    "isim": "Antalya Polisevi",
+    "tip": "Polisevi",
+    "il": "Antalya",
+    "adres": "Varlık Mahallesi, Piri Reis Cad. No:104, 07050 Muratpaşa/Antalya",
+    "telefon": "0850 247 01 55",
+    "latitude": 36.88747297540844,
+    "longitude": 30.682402095860493
+  },
+  {
+    "isim": "Antalya Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Kültür Mahallesi, Dumlupınar Blv. Yanyolu No:2, 07090 Kepez/Antalya",
+    "telefon": "(0242) 227 11 42",
+    "latitude": 36.90496333136625,
+    "longitude": 30.663942121246144
+  },
+  {
+    "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Konyaaltı, Antalya",
+    "telefon": "(0242) 229 14 31",
+    "latitude": 36.88,
+    "longitude": 30.64
+  },
+  {
+    "isim": "Alanya Öğretmenevi ve Akşam Sanat Okulu",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Saray Mahallesi, Atatürk Cad. Otogar Yanı No:200, Alanya",
+    "telefon": "(0242) 512 57 92",
+    "latitude": 36.55238592608563,
+    "longitude": 31.976175468858457
+  },
+  {
+    "isim": "Akseki Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Demirciler Mahallesi, 07630 Akseki/Antalya",
+    "telefon": "(0242) 678 20 18",
+    "latitude": 37.0483327349952,
+    "longitude": 31.791853118501184
+  },
+  {
+    "isim": "Elmalı Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Yeni Mah. Antalya Cad., Elmalı Merkez, Elmalı, Antalya, 07060",
+    "telefon": "(0242) 618 32 88",
+    "latitude": 36.732313142502505,
+    "longitude": 29.926997695853036
+  },
+  {
+    "isim": "Gazipaşa Öğretmenevi ve Akşam Sanat Okulu",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Cumhuriyet Mah. Yıldız Sok. No:6, Gazipaşa/ANTALYA",
+    "telefon": "(0242) 572 42 83",
+    "latitude": 36.27096612012694,
+    "longitude": 32.31082012281745
+  },
+  {
+    "isim": "Demre Öğretmenevi ve Akşam Sanat Okulu",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Büyükkum Mahallesi, 07570 Demre/Antalya",
+    "telefon": "(0242) 871 23 88",
+    "latitude": 36.22723972198987,
+    "longitude": 29.994742182336157
+  },
+  {
+    "isim": "Serik Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Gedik, Serik Cd. No:114, 07500 Serik/Antalya",
+    "telefon": "(0242) 722 37 67",
+    "latitude": 36.91267453761922,
+    "longitude": 31.092107436340985
+  },
+  {
+    "isim": "Korkuteli Öğretmenevi ve Akşam Sanat Okulu",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Kiremitli Mahallesi, Eski Antalya Caddesi No:46, Korkuteli/ANTALYA",
+    "telefon": "(0242) 643 22 40",
+    "latitude": 37.063165575841545,
+    "longitude": 30.198177009361988
+  },
+  {
+    "isim": "Kumluca Öğretmenevi ve Akşam Sanat Okulu",
+    "tip": "Öğretmenevi",
+    "il": "Antalya",
+    "adres": "Karşıyaka Mah. Hamam Sok. No:4, Kumluca/ANTALYA",
+    "telefon": "(0242) 887 59 55",
+    "latitude": 36.36573302076696,
+    "longitude": 30.288521607479293
+  },
+
+  {
+    "isim": "Akdeniz Üniversitesi Sosyal Tesisler",
+    "tip": "Üniversite Sosyal Tesisi",
+    "il": "Antalya",
+    "adres": "Pınarbaşı Mahallesi, Dumlupınar Bulv., 07058 Konyaaltı/Antalya",
+    "telefon": "(0242) 227 44 74",
+    "latitude": 36.89227245008057,
+    "longitude": 30.661722341888428
+  },
+  {
+    "isim": "Akdeniz Üniversitesi Avrupa Akdeniz Gençlik Eğitim Ve Dinlenme Tesisi",
+    "tip": "Üniversite Gençlik Tesisi",
+    "il": "Antalya",
+    "adres": "Adrasan Mahallesi, Deniz Cd., 07350 Kumluca/Antalya",
+    "telefon": "(0242) 883 13 30",
+    "latitude": 36.30441475764584,
+    "longitude": 30.459333082339775
+  },
+  {
+    "isim": "Alanya Meteoroloji Müdürlüğü ve Uluslararası Eğitim Tesisleri",
+    "tip": "Meteoroloji Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Kızlar Pınarı Mah. Meteoroloji Sok. 3, Alanya, Antalya",
+    "telefon": "(0242) 513 44 14",
+    "latitude": 36.5506201792583,
+    "longitude": 31.980226751666223
+  },
+  {
+    "isim": "Antalya Büyükşehir Belediyesi Hasta ve Hasta Yakınları Sosyal Tesisi",
+    "tip": "Belediye Hasta Yakını Tesisi",
+    "il": "Antalya",
+    "adres": "Altındağ Mahallesi, 153. Sk. No:27, 07050 Muratpaşa/Antalya",
+    "telefon": "(0242) 248 49 29",
+    "latitude": 36.89147244331692,
+    "longitude": 30.69064021120323
+  },
+  {
+    "isim": "Antalya TEİAŞ Misafirhane",
+    "tip": "TEİAŞ Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Fabrikalar Mahallesi, 3041. Sk. No:22, 07090 Kepez/Antalya",
+    "telefon": "(0242) 346 50 55",
+    "latitude": 36.91471983301813,
+    "longitude": 30.66839471120422
+  },
+  {
+    "isim": "ATGV Antalya Eğitim ve Sosyal Tesisi",
+    "tip": "ATGV Eğitim ve Sosyal Tesisi",
+    "il": "Antalya",
+    "adres": "Merkez Özlü mah., Tesisler Cad. No:422, 07100 Aksu/Antalya",
+    "telefon": "(0242) 431 22 40",
+    "latitude": 36.855196712618834,
+    "longitude": 30.902800355379714
+  },
+  {
+    "isim": "Antalya Devlet Su İşleri Misafirhanesi",
+    "tip": "DSİ Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Deniz Mahallesi, Konyaaltı Cd. 21-5, 07050 Muratpaşa/Antalya",
+    "telefon": "(0242) 243 10 82",
+    "latitude": 36.88525928063408,
+    "longitude": 30.693404911202848
+  },
+  {
+    "isim": "Hacı Mehmet Gebizli Eğitim Merkezi ve Sosyal Tesisi",
+    "tip": "Diyanet Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Dutlubahçe Mah. 760 Sok. No:37 Bostanlar Apt. Kat:1 No:2, Muratpaşa/ANTALYA",
+    "telefon": "(0242) 321 55 45",
+    "latitude": 36.88553983065215,
+    "longitude": 30.726820595860367
+  },
+  {
+    "isim": "DSİ Alara Eğitim Ve Dinlenme Tesisleri",
+    "tip": "DSİ Kamp Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Aydınevler Mah. Oymapınar Cad. Manavgat, Antalya",
+    "telefon": "(0242) 746 12 86",
+    "latitude": 36.708471766146,
+    "longitude": 31.575902752344767
+  },
+  {
+    "isim": "Finike Karayolları Misafirhanesi",
+    "tip": "Karayolları Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Alanya Karayolları 136. Şube Şefliği, Finike, Antalya",
+    "telefon": "(0242) 855 12 97",
+    "latitude": 36.30332954497694,
+    "longitude": 30.151388572545596
+  },
+  {
+    "isim": "Finike Meteoroloji Misafirhanesi",
+    "tip": "Meteoroloji Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Finike Meteoroloji Müdürlüğü, Finike Meteoroloji Kampı, Finike, Antalya",
+    "telefon": "(0242) 855 11 27",
+    "latitude": 36.30212412260881,
+    "longitude": 30.146068638161598
+  },
+  {
+    "isim": "Gazipaşa Belediyesi Tatil ve Dinlenme Tesisleri Misafirhanesi",
+    "tip": "Belediye Tatil Tesisi",
+    "il": "Antalya",
+    "adres": "Gazipaşa Belediyesi Binası, Gazipaşa/ANTALYA",
+    "telefon": "(0242) 572 16 31",
+    "latitude": 36.27124249619911,
+    "longitude": 32.31542434249231
+  },
+  {
+    "isim": "Antalya Gıda Tarım ve Hayvancılık İl Müdürlüğü Misafirhanesi",
+    "tip": "Tarım Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Sedir Mahallesi, 725. Sk. 4 H, 07010 Muratpaşa/Antalya",
+    "telefon": "(0242) 345 28 82",
+    "latitude": 36.90294775949767,
+    "longitude": 30.68646395353244
+  },
+  {
+    "isim": "Antalya Karayolları 13. Bölge Müdürlüğü Eğitim ve Dinlenme Tesisi",
+    "tip": "Karayolları Sosyal Tesisi",
+    "il": "Antalya",
+    "adres": "Pirireis Cad., Bahçelievler Mah., Meteoroloji yanı, Bahçeli/ANTALYA",
+    "telefon": "(0242) 237 87 00",
+    "latitude": 36.886153703481696,
+    "longitude": 30.682771841888215
+  },
+  {
+    "isim": "Kepez Belediyesi Hasta Konuk Evi",
+    "tip": "Belediye Konuk Evi",
+    "il": "Antalya",
+    "adres": "Kültür Mah., Akdeniz Üniversitesi Tıp Fakültesi Arkası",
+    "telefon": "(0242) 226 36 58",
+    "latitude": 36.91581053056437,
+    "longitude": 30.651522165176743
+  },
+  {
+    "isim": "Antalya MEB Uygulama Oteli",
+    "tip": "Uygulama Oteli",
+    "il": "Antalya",
+    "adres": "Konyaaltı, Müzesi Arkası, Antalya",
+    "telefon": "(0242) 238 51 30",
+    "latitude": 36.5413298892361,
+    "longitude": 32.03073541118664
+  },
+  {
+    "isim": "Antalya Orman Bölge Müdürlüğü Misafirhanesi",
+    "tip": "Orman Misafirhanesi",
+    "il": "Antalya",
+    "adres": "Sedir Mah. Vatan Bulvarı, Muratpaşa/Antalya",
+    "telefon": "(0242) 333 00 99",
+    "latitude": 36.900597133374816,
+    "longitude": 30.690793519148414
+  },
+  {
+    "isim": "Antalya Sayıştay Başkanlığı Eğitim ve Dinlenme Tesisleri",
+    "tip": "Sayıştay Tesisleri",
+    "il": "Antalya",
+    "adres": "Çenger Mahallesi, 07600 Manavgat/Antalya",
+    "telefon": "(0242) 766 42 11",
+    "latitude": 36.67823285899924,
+    "longitude": 31.62640075537132
+  },
+  {
+    "isim": "TRT Lara Kampı",
+    "tip": "TRT Kampı",
+    "il": "Antalya",
+    "adres": "Güzeloba Mahallesi, Tesisler Caddesi, 07110 Aksu, Muratpaşa, Antalya",
+    "telefon": "(0242) 352 06 10",
+    "latitude": 36.8523889619922,
+    "longitude": 30.853202574977423
+  },
     {
       "isim": "Çıldır Kışla Gazino Müdürlüğü",
       "tip": "Orduevi",
