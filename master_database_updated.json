@@ -34560,213 +34560,211 @@
       "latitude": 36.77451682889438,
       "longitude": 34.559012072806595
     },
-    {
-      "isim": "Bodrum Özel Eğitim Merkezi Komutanlığı",
-      "tip": "orduevi",
-      "il": "Muğla",
-      "adres": "Eski Çeşme Mah. Osman Nuri Bilgin Cad. No: 1",
-      "telefon": "02523130248",
-      "latitude": 37.03231329760216,
-      "longitude": 27.419035527235994
-    },
-    {
-      "isim": "Marmaris Aksaz Deniz Askeri Gazino Müdürlüğü",
-      "tip": "Orduevi",
-      "il": "Muğla",
-      "adres": null,
-      "telefon": "0-252-4210477",
-      "latitude": 36.883812792037915,
-      "longitude": 28.448778165422528
-    },
-    {
-      "isim": "Milas Milas Hava Radar Kışla Gazino Müdürlüğü",
-      "tip": "Orduevi",
-      "il": "Muğla",
-      "adres": null,
-      "telefon": "02525124020",
-      "latitude": 37.316738517536905,
-      "longitude": 27.780787022174394
-    },
-    {
-      "isim": "Marmaris Hisarönü Jandarma Yerleştirme Eğitim Merkezi Komutanlığı",
-      "tip": "orduevi",
-      "il": "Muğla",
-      "adres": null,
-      "telefon": "02524670168",
-      "latitude": 36.80436644534756,
-      "longitude": 28.103639220735595
-    },
-    {
-      "isim": "Aksaz Özel Askeri Eğitim Merkezi",
-      "tip": "Orduevi",
-      "il": "Muğla",
-      "adres": null,
-      "telefon": "02524210451",
-      "latitude": 36.88340164701198,
-      "longitude": 28.44847004636548
-    },
-    {
-      "isim": "Muğla Orman Müdürlüğü Misafirhane",
-      "tip": "Orman Bölge Müdürlüğü Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Emirbeyazıt, Cumhutriyet Cad. No:8 D:1, 48000 Muğla Merkez/Muğla",
-      "telefon": "0252 214 12 02",
-      "latitude": 37.21373912670081,
-      "longitude": 28.35691179611252
-    },
-    {
-      "isim": "Muğla DSİ Misafirhanesi Yıldıray",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Orhaniye, Şht. Asteğmen Yıldıray Çeltiklioğlu Cd. No:1, 48000 Menteşe/Muğla",
-      "telefon": "0252 214 11 37",
-      "latitude": 37.20925629173621,
-      "longitude": 28.368096596296695
-    },
-    {
-      "isim": "DSİ 21. Bölge Eğitim Tesisleri Fethiye",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Tuzla, Cahit Gündüz Cd. No:3, 48300 Fethiye/Muğla",
-      "telefon": "0252 614 37 84",
-      "latitude": 36.626302754175924,
-      "longitude": 29.116345358422365
-    },
-    {
-      "isim": "Muğla Karayolları Misafirhanesi Fethiye",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Tuzla, Cahit Gündüz Cd. No:3, 48300 Fethiye/Muğla",
-      "telefon": "0252 614 10 53",
-      "latitude": 36.641365565920005,
-      "longitude": 29.123048773842807
-    },
-    {
-      "isim": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler Konuk Evi",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Tuzla, Cahit Gündüz Cd. No:3, 48300 Fethiye/Muğla",
-      "telefon": "02522112199",
-      "latitude": 37.20901962728639,
-      "longitude": 28.371437910045447
-    },
-    {
-      "isim": "Dalaman Ceza infaz Kurumu Oteli",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Tuzla, Cahit Gündüz Cd. No:3, 48300 Fethiye/Muğla",
-      "telefon": "02526975004",
-      "latitude": 36.79209303699622,
-      "longitude": 28.80854532562878
-    },
-    {
-      "isim": "Muğla Tarım İl Müdürlüğü Misafirhanesi Menteşe",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Tuzla, Cahit Gündüz Cd. No:3, 48300 Fethiye/Muğla",
-      "telefon": "0252 214 12 50",
-      "latitude": 37.215498081938144,
-      "longitude": 28.35674903180761
-    },
-    {
-      "isim": "Fethiye Polisevi",
-      "tip": "Polisevi",
-      "il": "Muğla",
-      "adres": "Ölüdeniz Mahallesi, Atatürk Caddesi. No:6. Fethiye – MUĞLA",
-      "telefon": "0252 616 65 35",
-      "latitude": 36.58556199593044,
-      "longitude": 29.157072540706753
-    },
-    {
-      "isim": "Marmaris Polisevi",
-      "tip": "Polisevi",
-      "il": "Muğla",
-      "adres": "Kemeraltı Mahallesi. Atatürk Caddesi. 66 Sokak. No:2. Marmaris – MUĞLA",
-      "telefon": "0252 413 24 75",
-      "latitude": 36.85301181156521,
-      "longitude": 28.266632211882765
-    },
-    {
-      "isim": "Muğla Jandarma Misafirhanesi",
-      "tip": "Jandarma Misafirhanesi",
-      "il": "Muğla",
-      "adres": "Orhaniye Mah. Birlik Sok. Menteşe, Muğla",
-      "telefon": "0252 212 85 90",
-      "latitude": 37.207926346245685,
-      "longitude": 28.37502642539034
-    },
-    {
-      "isim": "Marmaris Uygulama Oteli",
-      "tip": "Uygulama Oteli",
-      "il": "Muğla",
-      "adres": "Armutalan Mah. (İçmeler- Armutalan Arası) Barbaros Cad. NO:2 İçmeler  Marmaris/Muğla",
-      "telefon": "05515054800",
-      "latitude": 36.790220796636795,
-      "longitude": 28.220299250499863
-    },
-    {
-      "isim": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler",
-      "tip": "Üniversite Sosyal Tesisi",
-      "il": "Muğla",
-      "adres": "Orhaniye, 20 İskender Alper Cd., 48000 Muğla Merkez",
-      "telefon": "0252 211 21 99",
-      "latitude": 37.20892563423543,
-      "longitude": 28.37147009655419
-    },
-    {
-      "isim": "Muğla Merkez Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Muğla",
-      "adres": "Emirbeyazit Mahallesi. Cumhuriyet Caddesi. No:2/B. Merkez – MUĞLA",
-      "telefon": "0252 214 53 36",
-      "latitude": 37.21432014502938,
-      "longitude": 28.364175883063215
-    },
-    {
-      "isim": "Bodrum Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Muğla",
-      "adres": "Kumbahçe Mahallesi. Paşatarlası Caddesi. No:1. Bodrum – MUĞLA",
-      "telefon": "02523161121",
-      "latitude": 37.02987253857581,
-      "longitude": 27.440634823528402
-    },
-    {
-      "isim": "Fethiye Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Muğla",
-      "adres": "Barış Manço Bulvarı. No:62. Fethiye – MUĞLA",
-      "telefon": "0252 622 12 30",
-      "latitude": 36.63764697243408,
-      "longitude": 29.179161998381606
-    },
-    {
-      "isim": "Köyceğiz Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Muğla",
-      "adres": "Gürpınar Mahallesi. Kordonboyu Paşapark Karşısı. Köyceğiz – MUĞLA",
-      "telefon": "0252 262 47 12",
-      "latitude": 36.956282066662595,
-      "longitude": 28.68760856770629
-    },
-    {
-      "isim": "Marmaris Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Muğla",
-      "adres": "Siteler Mahallesi. İsmet Kamil Öner Caddesi. 206. Sokak. No:8. Marmaris – MUĞLA",
-      "telefon": "02524132411",
-      "latitude": 36.84665702869431,
-      "longitude": 28.25450141002866
-    },
-    {
-      "isim": "Milas Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Muğla",
-      "adres": "Ahmetçavuş Mahallesi. Cemil Menteşe Caddesi. No:22. Milas – MUĞLA",
-      "telefon": "0252 512 50 28",
-      "latitude": 37.29144504319927,
-      "longitude": 27.779104638885517
-    },
+  // ====================== ORDUEVİ ======================
+  {
+    "isim": "Bodrum Özel Eğitim Merkezi Komutanlığı",
+    "tip": "Orduevi",
+    "il": "Muğla",
+    "adres": "Eski Çeşme Mah. Osman Nuri Bilgin Cad. No: 1",
+    "telefon": "02523130248",
+    "latitude": 37.03231329760216,
+    "longitude": 27.419035527235994
+  },
+  {
+    "isim": "Marmaris Aksaz Deniz Askeri Gazino Müdürlüğü",
+    "tip": "Orduevi",
+    "il": "Muğla",
+    "adres": null,
+    "telefon": "0-252-4210477",
+    "latitude": 36.883812792037915,
+    "longitude": 28.448778165422528
+  },
+  {
+    "isim": "Milas Milas Hava Radar Kışla Gazino Müdürlüğü",
+    "tip": "Orduevi",
+    "il": "Muğla",
+    "adres": null,
+    "telefon": "02525124020",
+    "latitude": 37.316738517536905,
+    "longitude": 27.780787022174394
+  },
+  {
+    "isim": "Marmaris Hisarönü Jandarma Yerleştirme Eğitim Merkezi Komutanlığı",
+    "tip": "Orduevi",
+    "il": "Muğla",
+    "adres": null,
+    "telefon": "02524670168",
+    "latitude": 36.80436644534756,
+    "longitude": 28.103639220735595
+  },
+  {
+    "isim": "Aksaz Özel Askeri Eğitim Merkezi",
+    "tip": "Orduevi",
+    "il": "Muğla",
+    "adres": null,
+    "telefon": "02524210451",
+    "latitude": 36.88340164701198,
+    "longitude": 28.44847004636548
+  },
+
+  // ====================== POLİSEVİ ======================
+  {
+    "isim": "Fethiye Polisevi",
+    "tip": "Polisevi",
+    "il": "Muğla",
+    "adres": "Ölüdeniz Mahallesi, Atatürk Caddesi. No:6. Fethiye – MUĞLA",
+    "telefon": "0252 616 65 35",
+    "latitude": 36.58556199593044,
+    "longitude": 29.157072540706753
+  },
+  {
+    "isim": "Marmaris Polisevi",
+    "tip": "Polisevi",
+    "il": "Muğla",
+    "adres": "Kemeraltı Mahallesi. Atatürk Caddesi. 66 Sokak. No:2. Marmaris – MUĞLA",
+    "telefon": "0252 413 24 75",
+    "latitude": 36.85301181156521,
+    "longitude": 28.266632211882765
+  },
+  {
+    "isim": "Muğla Jandarma Misafirhanesi",
+    "tip": "Jandarma Misafirhanesi",
+    "il": "Muğla",
+    "adres": "Orhaniye Mah. Birlik Sok. Menteşe, Muğla",
+    "telefon": "0252 212 85 90",
+    "latitude": 37.207926346245685,
+    "longitude": 28.37502642539034
+  },
+
+  // ====================== ÖĞRETMENEVİ ======================
+  {
+    "isim": "Muğla Merkez Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Muğla",
+    "adres": "Emirbeyazit Mahallesi. Cumhuriyet Caddesi. No:2/B. Merkez – MUĞLA",
+    "telefon": "0252 214 53 36",
+    "latitude": 37.21432014502938,
+    "longitude": 28.364175883063215
+  },
+  {
+    "isim": "Bodrum Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Muğla",
+    "adres": "Kumbahçe Mahallesi. Paşatarlası Caddesi. No:1. Bodrum – MUĞLA",
+    "telefon": "02523161121",
+    "latitude": 37.02987253857581,
+    "longitude": 27.440634823528402
+  },
+  {
+    "isim": "Fethiye Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Muğla",
+    "adres": "Barış Manço Bulvarı. No:62. Fethiye – MUĞLA",
+    "telefon": "0252 622 12 30",
+    "latitude": 36.63764697243408,
+    "longitude": 29.179161998381606
+  },
+  {
+    "isim": "Köyceğiz Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Muğla",
+    "adres": "Gürpınar Mahallesi. Kordonboyu Paşapark Karşısı. Köyceğiz – MUĞLA",
+    "telefon": "0252 262 47 12",
+    "latitude": 36.956282066662595,
+    "longitude": 28.68760856770629
+  },
+  {
+    "isim": "Marmaris Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Muğla",
+    "adres": "Siteler Mahallesi. İsmet Kamil Öner Caddesi. 206. Sokak. No:8. Marmaris – MUĞLA",
+    "telefon": "02524132411",
+    "latitude": 36.84665702869431,
+    "longitude": 28.25450141002866
+  },
+  {
+    "isim": "Milas Öğretmenevi",
+    "tip": "Öğretmenevi",
+    "il": "Muğla",
+    "adres": "Ahmetçavuş Mahallesi. Cemil Menteşe Caddesi. No:22. Milas – MUĞLA",
+    "telefon": "0252 512 50 28",
+    "latitude": 37.29144504319927,
+    "longitude": 27.779104638885517
+  },
+
+  // ====================== DİĞER ======================
+  {
+    "isim": "Muğla Orman Müdürlüğü Misafirhane",
+    "tip": "Orman Bölge Müdürlüğü Misafirhanesi",
+    "il": "Muğla",
+    "adres": "Emirbeyazıt, Cumhutriyet Cad. No:8 D:1, 48000 Muğla Merkez/Muğla",
+    "telefon": "0252 214 12 02",
+    "latitude": 37.21373912670081,
+    "longitude": 28.35691179611252
+  },
+  {
+    "isim": "Muğla DSİ Misafirhanesi Yıldıray",
+    "tip": "DSİ Misafirhanesi",
+    "il": "Muğla",
+    "adres": "Orhaniye, Şht. Asteğmen Yıldıray Çeltiklioğlu Cd. No:1, 48000 Menteşe/Muğla",
+    "telefon": "0252 214 11 37",
+    "latitude": 37.20925629173621,
+    "longitude": 28.368096596296695
+  },
+  {
+    "isim": "DSİ 21. Bölge Eğitim Tesisleri Fethiye",
+    "tip": "DSİ Misafirhanesi",
+    "il": "Muğla",
+    "adres": "Tuzla, Cahit Gündüz Cd. No:3, 48300 Fethiye/Muğla",
+    "telefon": "0252 614 37 84",
+    "latitude": 36.626302754175924,
+    "longitude": 29.116345358422365
+  },
+  {
+    "isim": "Muğla Karayolları Misafirhanesi Fethiye",
+    "tip": "Karayolları Misafirhanesi",
+    "il": "Muğla",
+    "adres": "Tuzla, Cahit Gündüz Cd. No:3, 48300 Fethiye/Muğla",
+    "telefon": "0252 614 10 53",
+    "latitude": 36.641365565920005,
+    "longitude": 29.123048773842807
+  },
+  {
+    "isim": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler Konuk Evi",
+    "tip": "Üniversite Sosyal Tesisi",
+    "il": "Muğla",
+    "adres": "Orhaniye, 20 İskender Alper Cd., 48000 Muğla Merkez",
+    "telefon": "0252 211 21 99",
+    "latitude": 37.20901962728639,
+    "longitude": 28.371437910045447
+  },
+  {
+    "isim": "Dalaman Ceza İnfaz Kurumu Oteli",
+    "tip": "Ceza İnfaz Kurumu Tesisi",
+    "il": "Muğla",
+    "adres": null,
+    "telefon": "02526975004",
+    "latitude": 36.79209303699622,
+    "longitude": 28.80854532562878
+  },
+  {
+    "isim": "Muğla Tarım İl Müdürlüğü Misafirhanesi Menteşe",
+    "tip": "Tarım Misafirhanesi",
+    "il": "Muğla",
+    "adres": null,
+    "telefon": "0252 214 12 50",
+    "latitude": 37.215498081938144,
+    "longitude": 28.35674903180761
+  },
+  {
+    "isim": "Marmaris Uygulama Oteli",
+    "tip": "Uygulama Oteli",
+    "il": "Muğla",
+    "adres": "Armutalan Mah. (İçmeler- Armutalan Arası) Barbaros Cad. NO:2 İçmeler Marmaris/Muğla",
+    "telefon": "05515054800",
+    "latitude": 36.790220796636795,
+    "longitude": 28.220299250499863
+  },
     {
       "isim": "Muş Merkez Öğretmenevi Aso",
       "tip": "Öğretmenevi",
