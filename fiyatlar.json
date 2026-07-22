@@ -35,6 +35,86 @@
       "fiyat_sivil": "1.400 – 2.400 TL",
       "fiyat_kamu_personeli": "700 – 1.500 TL",
       "fiyat_kurum_personeli": "700 – 1.500 TL"
-    }
+    },
+    {
+    "il": "Antalya",
+    "ilce": "Kepez",
+    "isim": "Antalya Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "4.150 – 9.200 TL",
+    "fiyat_kamu_personeli": "2.900 – 6.600 TL",
+    "fiyat_kurum_personeli": "2.900 – 6.600 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi",
+    "fiyat_sivil": "5.400 – 7.200 TL",
+    "fiyat_kamu_personeli": "2.900 – 5.600 TL",
+    "fiyat_kurum_personeli": "2.900 – 5.600 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Alanya",
+    "isim": "Alanya Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "5.200 – 10.200 TL",
+    "fiyat_kamu_personeli": "2.800 – 7.950 TL",
+    "fiyat_kurum_personeli": "2.800 – 7.950 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Akseki",
+    "isim": "Akseki Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "600 – 1.500 TL",
+    "fiyat_kamu_personeli": "400 – 1.000 TL",
+    "fiyat_kurum_personeli": "300 – 800 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Elmalı",
+    "isim": "Elmalı Öğretmenevi",
+    "fiyat_sivil": "600 – 1.800 TL",
+    "fiyat_kamu_personeli": "400 – 1.200 TL",
+    "fiyat_kurum_personeli": "300 – 900 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Gazipaşa",
+    "isim": "Gazipaşa Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "700 – 2.000 TL",
+    "fiyat_kamu_personeli": "500 – 1.400 TL",
+    "fiyat_kurum_personeli": "400 – 1.100 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Serik",
+    "isim": "Serik Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "800 – 2.200 TL",
+    "fiyat_kamu_personeli": "500 – 1.500 TL",
+    "fiyat_kurum_personeli": "400 – 1.200 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Kumluca",
+    "isim": "Kumluca Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "700 – 2.000 TL",
+    "fiyat_kamu_personeli": "500 – 1.400 TL",
+    "fiyat_kurum_personeli": "400 – 1.100 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Korkuteli",
+    "isim": "Korkuteli Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "600 – 1.800 TL",
+    "fiyat_kamu_personeli": "400 – 1.200 TL",
+    "fiyat_kurum_personeli": "300 – 900 TL"
+  },
+  {
+    "il": "Antalya",
+    "ilce": "Demre",
+    "isim": "Demre Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "700 – 2.000 TL",
+    "fiyat_kamu_personeli": "500 – 1.400 TL",
+    "fiyat_kurum_personeli": "400 – 1.100 TL"
+  }
   ]
 }
