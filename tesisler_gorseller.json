@@ -1,0 +1,1001 @@
+{
+  "not": "Google Places -> Bunny CDN (kismi: tamamlananlar). Ana DB degismez.",
+  "items": [
+    {
+      "il": "Adana",
+      "isim": "Adana Orduevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/adana/adana-adana-orduevi.jpg"
+      ]
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Yumurtalık Hava Kuvvetleri Askeri Kampı",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/adana/adana-adana-yumurtalık-hava-kuvvetleri-askeri-kampı.jpg"
+      ]
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Jandarma Sosyal Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/adana/adana-adana-jandarma-sosyal-tesisi.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Tandoğan Orduevi Müdürlüğü Astsubay Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tandoğan-orduevi-müdürlüğü-astsubay-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tandoğan-orduevi-müdürlüğü-astsubay-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tandoğan-orduevi-müdürlüğü-astsubay-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Tez-Koop-İş Sendikası Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tez-koop-i-ş-sendikası-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tez-koop-i-ş-sendikası-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tez-koop-i-ş-sendikası-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "TEKSİF EĞİTİM & DİNLENME TESİSİ",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-teksi-f-eği-ti-m-di-nlenme-tesi-si-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-teksi-f-eği-ti-m-di-nlenme-tesi-si-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-teksi-f-eği-ti-m-di-nlenme-tesi-si-3.png"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Adalet Bakanlığı Bekir Bozdağ Personel Eğitim Merkezi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-adalet-bakanlığı-bekir-bozdağ-personel-eğitim-merkezi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-adalet-bakanlığı-bekir-bozdağ-personel-eğitim-merkezi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-adalet-bakanlığı-bekir-bozdağ-personel-eğitim-merkezi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ceza İnfaz Kurumları Personeli Ankara Eğitim Merkezi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ceza-i-nfaz-kurumları-personeli-ankara-eğitim-merkezi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ceza-i-nfaz-kurumları-personeli-ankara-eğitim-merkezi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ceza-i-nfaz-kurumları-personeli-ankara-eğitim-merkezi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Gazi Orduevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gazi-orduevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gazi-orduevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gazi-orduevi-3.png"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Merkez Orduevi (Sb.)",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-merkez-orduevi-sb-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-merkez-orduevi-sb-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-merkez-orduevi-sb-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Etiler Orduevi Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-etiler-orduevi-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-etiler-orduevi-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-etiler-orduevi-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Keçiören Gülhane Refakatçi Misafirhanesi Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-keçiören-gülhane-refakatçi-misafirhanesi-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-keçiören-gülhane-refakatçi-misafirhanesi-müdürlüğü-2.png",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-keçiören-gülhane-refakatçi-misafirhanesi-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Polatlı Acıkır Kışlası Gazino Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-polatlı-acıkır-kışlası-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-polatlı-acıkır-kışlası-gazino-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-polatlı-acıkır-kışlası-gazino-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Lalahan Oramiral Emin Göksan Deniz Askeri Gazino Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-lalahan-oramiral-emin-göksan-deniz-askeri-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-lalahan-oramiral-emin-göksan-deniz-askeri-gazino-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-lalahan-oramiral-emin-göksan-deniz-askeri-gazino-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "HAKİK Hava Kuvvetleri Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-haki-k-hava-kuvvetleri-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-haki-k-hava-kuvvetleri-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-haki-k-hava-kuvvetleri-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Anıttepe Jandarma Sosyal Tesis Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-anıttepe-jandarma-sosyal-tesis-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-anıttepe-jandarma-sosyal-tesis-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-anıttepe-jandarma-sosyal-tesis-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Kara Kuvvetleri EDOK Kışlası Gazino Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-kara-kuvvetleri-edok-kışlası-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-kara-kuvvetleri-edok-kışlası-gazino-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-kara-kuvvetleri-edok-kışlası-gazino-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Polatlı Topçu ve Füze Okulu Kışlası Gazino Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-polatlı-topçu-ve-füze-okulu-kışlası-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-polatlı-topçu-ve-füze-okulu-kışlası-gazino-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-polatlı-topçu-ve-füze-okulu-kışlası-gazino-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Jandarma Misafirhanesi Güvercinlik",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-jandarma-misafirhanesi-güvercinlik-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-jandarma-misafirhanesi-güvercinlik-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-jandarma-misafirhanesi-güvercinlik-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ora. Emin Göksan Askerî Gazino Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ora-emin-göksan-askerî-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ora-emin-göksan-askerî-gazino-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ora-emin-göksan-askerî-gazino-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Hava Lojistik Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hava-lojistik-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hava-lojistik-misafirhanesi-2.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Beytepe Sosyal Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-beytepe-sosyal-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-beytepe-sosyal-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-beytepe-sosyal-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "GEST SOSYAL TESİSLERİ",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gest-sosyal-tesi-sleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gest-sosyal-tesi-sleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gest-sosyal-tesi-sleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Jandarma Sosyal Tesisleri Yazlık Bahçe",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-jandarma-sosyal-tesisleri-yazlık-bahçe-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-jandarma-sosyal-tesisleri-yazlık-bahçe-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-jandarma-sosyal-tesisleri-yazlık-bahçe-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Sincan Jandarma Vardiya Yatakhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sincan-jandarma-vardiya-yatakhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sincan-jandarma-vardiya-yatakhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sincan-jandarma-vardiya-yatakhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Altındağ Belediyesi Hasta ve Hasta Yakınları Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-altındağ-belediyesi-hasta-ve-hasta-yakınları-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-altındağ-belediyesi-hasta-ve-hasta-yakınları-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-altındağ-belediyesi-hasta-ve-hasta-yakınları-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Konukevi (Anadolu Üniversitesi)",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-konukevi-anadolu-üniversitesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-konukevi-anadolu-üniversitesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-konukevi-anadolu-üniversitesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Üniversitesi Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-üniversitesi-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-üniversitesi-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-üniversitesi-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Diyanet Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-diyanet-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-diyanet-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-diyanet-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Hakimevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-hakimevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-hakimevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-hakimevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Yenimahalle Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-yenimahalle-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-yenimahalle-uygulama-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-yenimahalle-uygulama-oteli-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Mogan Mesleki Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-mogan-mesleki-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-mogan-mesleki-uygulama-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-mogan-mesleki-uygulama-oteli-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Hacı Bayram Veli Üniversitesi Sosyal Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-hacı-bayram-veli-üniversitesi-sosyal-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-hacı-bayram-veli-üniversitesi-sosyal-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-hacı-bayram-veli-üniversitesi-sosyal-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Yıldırım Beyazıt Üniversitesi Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-yıldırım-beyazıt-üniversitesi-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-yıldırım-beyazıt-üniversitesi-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-yıldırım-beyazıt-üniversitesi-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Belediye - İş Sendikası Konuk Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-belediye-i-ş-sendikası-konuk-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-belediye-i-ş-sendikası-konuk-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-belediye-i-ş-sendikası-konuk-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "DHMİ Havaalanı Sosyal Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dhmi-havaalanı-sosyal-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dhmi-havaalanı-sosyal-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dhmi-havaalanı-sosyal-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "DSİ 5. Bölge Kızılay Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-kızılay-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-kızılay-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-kızılay-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "DSİ 5. Bölge Misafirhanesi Eskişehir Yolu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-misafirhanesi-eskişehir-yolu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-misafirhanesi-eskişehir-yolu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-misafirhanesi-eskişehir-yolu-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "DSİ 5. Bölge Müdürlüğü Bahçelievler Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-müdürlüğü-bahçelievler-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-müdürlüğü-bahçelievler-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-dsi-5-bölge-müdürlüğü-bahçelievler-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Sosyal Güvenlik Kurumu Fevzi Çakmak Eğitim Tesisi Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sosyal-güvenlik-kurumu-fevzi-çakmak-eğitim-tesisi-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sosyal-güvenlik-kurumu-fevzi-çakmak-eğitim-tesisi-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sosyal-güvenlik-kurumu-fevzi-çakmak-eğitim-tesisi-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "TEİAŞ Enerji Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tei-aş-enerji-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tei-aş-enerji-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-tei-aş-enerji-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Eti Maden İşletmeleri Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-eti-maden-i-şletmeleri-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-eti-maden-i-şletmeleri-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-eti-maden-i-şletmeleri-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Gazi Üniversitesi Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gazi-üniversitesi-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gazi-üniversitesi-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gazi-üniversitesi-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Gençlik ve Spor Bakanlığı - Konaklama",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gençlik-ve-spor-bakanlığı-konaklama-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gençlik-ve-spor-bakanlığı-konaklama-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gençlik-ve-spor-bakanlığı-konaklama-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Zonguldak Maden İş Genel Merkez Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-zonguldak-maden-i-ş-genel-merkez-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-zonguldak-maden-i-ş-genel-merkez-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-zonguldak-maden-i-ş-genel-merkez-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Hacettepe Hastanesi Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hacettepe-hastanesi-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hacettepe-hastanesi-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hacettepe-hastanesi-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Halkbank Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-halkbank-misafirhanesi-1.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "İlksan Ankara Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-i-lksan-ankara-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-i-lksan-ankara-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-i-lksan-ankara-konukevi-3.png"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "İller Bankası Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-i-ller-bankası-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-i-ller-bankası-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-i-ller-bankası-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Çankaya Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi ve Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-çankaya-borsa-i-stanbul-mesleki-ve-teknik-anadolu-lisesi-ve-uygulama-otel-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-çankaya-borsa-i-stanbul-mesleki-ve-teknik-anadolu-lisesi-ve-uygulama-otel-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-çankaya-borsa-i-stanbul-mesleki-ve-teknik-anadolu-lisesi-ve-uygulama-otel-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "T.C. Karayolları Genel Müdürlüğü Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-t-c-karayolları-genel-müdürlüğü-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-t-c-karayolları-genel-müdürlüğü-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-t-c-karayolları-genel-müdürlüğü-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Hazine ve Maliye Bakanlığı Personel Genel Müdürlüğü Misafirhanesi (PERGEN Misafirhanesi)",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hazine-ve-maliye-bakanlığı-personel-genel-müdürlüğü-misafirhanesi-pergen-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hazine-ve-maliye-bakanlığı-personel-genel-müdürlüğü-misafirhanesi-pergen-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-hazine-ve-maliye-bakanlığı-personel-genel-müdürlüğü-misafirhanesi-pergen-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "T.C. Maliye Bakanlığı Ankara Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-t-c-maliye-bakanlığı-ankara-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-t-c-maliye-bakanlığı-ankara-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-t-c-maliye-bakanlığı-ankara-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Meteoroloji Genel Müdürlüğü Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-meteoroloji-genel-müdürlüğü-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-meteoroloji-genel-müdürlüğü-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-meteoroloji-genel-müdürlüğü-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "MSB Sivil Memur Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-msb-sivil-memur-misafirhanesi-1.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Çalışma Ve Sosyal Güvenlik Bakanlığı Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-çalışma-ve-sosyal-güvenlik-bakanlığı-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-çalışma-ve-sosyal-güvenlik-bakanlığı-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-çalışma-ve-sosyal-güvenlik-bakanlığı-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "ODTU Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-odtu-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-odtu-misafirhanesi-2.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Orman Genel Müdürlüğü Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-orman-genel-müdürlüğü-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-orman-genel-müdürlüğü-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-orman-genel-müdürlüğü-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Gölbaşı Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gölbaşı-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gölbaşı-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-gölbaşı-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Öğretmenevi – Başkent",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-öğretmenevi-başkent-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-öğretmenevi-başkent-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-öğretmenevi-başkent-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Polis Moral Eğitim Merkezi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-polis-moral-eğitim-merkezi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-polis-moral-eğitim-merkezi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-polis-moral-eğitim-merkezi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Petrol İş Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-petrol-i-ş-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-petrol-i-ş-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-petrol-i-ş-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "PTT Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ptt-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ptt-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ptt-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "SGK Balgat Eğitim Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-balgat-eğitim-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-balgat-eğitim-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-balgat-eğitim-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "SGK Fevzi Çakmak Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-fevzi-çakmak-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-fevzi-çakmak-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-fevzi-çakmak-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "SGK Kavaklıdere Eğitim Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-kavaklıdere-eğitim-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-kavaklıdere-eğitim-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-sgk-kavaklıdere-eğitim-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Takav Sosyal Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-takav-sosyal-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-takav-sosyal-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-takav-sosyal-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Utem Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-utem-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-utem-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-utem-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Devlet Malzeme Ofisi Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-devlet-malzeme-ofisi-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-devlet-malzeme-ofisi-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-devlet-malzeme-ofisi-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Demiryol İş Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-demiryol-i-ş-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-demiryol-i-ş-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-demiryol-i-ş-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "TİGEM Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ti-gem-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ti-gem-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ti-gem-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Vilayet Evleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-vilayet-evleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-vilayet-evleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ankara-vilayet-evleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Yol-İş Sendikası Ankara Kızılay Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-yol-i-ş-sendikası-ankara-kızılay-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-yol-i-ş-sendikası-ankara-kızılay-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-yol-i-ş-sendikası-ankara-kızılay-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ziraat Bankası Eğitim Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ziraat-bankası-eğitim-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ziraat-bankası-eğitim-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-ziraat-bankası-eğitim-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Ankara",
+      "isim": "Zonguldak Amele Birliği Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-zonguldak-amele-birliği-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-zonguldak-amele-birliği-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-zonguldak-amele-birliği-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Kışla Gazinosu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-kışla-gazinosu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-kışla-gazinosu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-kışla-gazinosu-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Karpuzkaldıran Özel Eğitim Merkezi Komutanlığı",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-karpuzkaldıran-özel-eğitim-merkezi-komutanlığı-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-karpuzkaldıran-özel-eğitim-merkezi-komutanlığı-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-karpuzkaldıran-özel-eğitim-merkezi-komutanlığı-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Side Eğitim Ve Dinlenme Merkezi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-side-eğitim-ve-dinlenme-merkezi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-side-eğitim-ve-dinlenme-merkezi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-side-eğitim-ve-dinlenme-merkezi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Polisevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-polisevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-polisevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-polisevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-konyaaltı-mehmet-zeki-balcı-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-konyaaltı-mehmet-zeki-balcı-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-konyaaltı-mehmet-zeki-balcı-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Alanya Öğretmenevi ve Akşam Sanat Okulu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-alanya-öğretmenevi-ve-akşam-sanat-okulu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-alanya-öğretmenevi-ve-akşam-sanat-okulu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-alanya-öğretmenevi-ve-akşam-sanat-okulu-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Akseki Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akseki-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akseki-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akseki-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Elmalı Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-elmalı-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-elmalı-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-elmalı-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Gazipaşa Öğretmenevi ve Akşam Sanat Okulu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-gazipaşa-öğretmenevi-ve-akşam-sanat-okulu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-gazipaşa-öğretmenevi-ve-akşam-sanat-okulu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-gazipaşa-öğretmenevi-ve-akşam-sanat-okulu-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Demre Öğretmenevi ve Akşam Sanat Okulu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-demre-öğretmenevi-ve-akşam-sanat-okulu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-demre-öğretmenevi-ve-akşam-sanat-okulu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-demre-öğretmenevi-ve-akşam-sanat-okulu-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Serik Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-serik-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-serik-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-serik-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Korkuteli Öğretmenevi ve Akşam Sanat Okulu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-korkuteli-öğretmenevi-ve-akşam-sanat-okulu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-korkuteli-öğretmenevi-ve-akşam-sanat-okulu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-korkuteli-öğretmenevi-ve-akşam-sanat-okulu-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Kumluca Öğretmenevi ve Akşam Sanat Okulu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-kumluca-öğretmenevi-ve-akşam-sanat-okulu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-kumluca-öğretmenevi-ve-akşam-sanat-okulu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-kumluca-öğretmenevi-ve-akşam-sanat-okulu-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Akdeniz Üniversitesi Sosyal Tesisler",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akdeniz-üniversitesi-sosyal-tesisler-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akdeniz-üniversitesi-sosyal-tesisler-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akdeniz-üniversitesi-sosyal-tesisler-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Akdeniz Üniversitesi Avrupa Akdeniz Gençlik Eğitim Ve Dinlenme Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akdeniz-üniversitesi-avrupa-akdeniz-gençlik-eğitim-ve-dinlenme-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akdeniz-üniversitesi-avrupa-akdeniz-gençlik-eğitim-ve-dinlenme-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-akdeniz-üniversitesi-avrupa-akdeniz-gençlik-eğitim-ve-dinlenme-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Alanya Meteoroloji Müdürlüğü ve Uluslararası Eğitim Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-alanya-meteoroloji-müdürlüğü-ve-uluslararası-eğitim-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-alanya-meteoroloji-müdürlüğü-ve-uluslararası-eğitim-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-alanya-meteoroloji-müdürlüğü-ve-uluslararası-eğitim-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Büyükşehir Belediyesi Hasta ve Hasta Yakınları Sosyal Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-büyükşehir-belediyesi-hasta-ve-hasta-yakınları-sosyal-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-büyükşehir-belediyesi-hasta-ve-hasta-yakınları-sosyal-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-büyükşehir-belediyesi-hasta-ve-hasta-yakınları-sosyal-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya TEİAŞ Misafirhane",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-tei-aş-misafirhane-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-tei-aş-misafirhane-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-tei-aş-misafirhane-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "ATGV Antalya Eğitim ve Sosyal Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-atgv-antalya-eğitim-ve-sosyal-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-atgv-antalya-eğitim-ve-sosyal-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-atgv-antalya-eğitim-ve-sosyal-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Devlet Su İşleri Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-devlet-su-i-şleri-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-devlet-su-i-şleri-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-devlet-su-i-şleri-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Hacı Mehmet Gebizli Eğitim Merkezi ve Sosyal Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-hacı-mehmet-gebizli-eğitim-merkezi-ve-sosyal-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-hacı-mehmet-gebizli-eğitim-merkezi-ve-sosyal-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-hacı-mehmet-gebizli-eğitim-merkezi-ve-sosyal-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "DSİ Alara Eğitim Ve Dinlenme Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-dsi-alara-eğitim-ve-dinlenme-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-dsi-alara-eğitim-ve-dinlenme-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-dsi-alara-eğitim-ve-dinlenme-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Finike Karayolları Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-finike-karayolları-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-finike-karayolları-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-finike-karayolları-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Finike Meteoroloji Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-finike-meteoroloji-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-finike-meteoroloji-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-finike-meteoroloji-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Gazipaşa Belediyesi Tatil ve Dinlenme Tesisleri Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-gazipaşa-belediyesi-tatil-ve-dinlenme-tesisleri-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-gazipaşa-belediyesi-tatil-ve-dinlenme-tesisleri-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-gazipaşa-belediyesi-tatil-ve-dinlenme-tesisleri-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Gıda Tarım ve Hayvancılık İl Müdürlüğü Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-gıda-tarım-ve-hayvancılık-i-l-müdürlüğü-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-gıda-tarım-ve-hayvancılık-i-l-müdürlüğü-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-gıda-tarım-ve-hayvancılık-i-l-müdürlüğü-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Karayolları 13. Bölge Müdürlüğü Eğitim ve Dinlenme Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-karayolları-13-bölge-müdürlüğü-eğitim-ve-dinlenme-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-karayolları-13-bölge-müdürlüğü-eğitim-ve-dinlenme-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-karayolları-13-bölge-müdürlüğü-eğitim-ve-dinlenme-tesisi-3.png"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Kepez Belediyesi Hasta Konuk Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-kepez-belediyesi-hasta-konuk-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-kepez-belediyesi-hasta-konuk-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-kepez-belediyesi-hasta-konuk-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya MEB Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-meb-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-meb-uygulama-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-meb-uygulama-oteli-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Orman Bölge Müdürlüğü Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-orman-bölge-müdürlüğü-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-orman-bölge-müdürlüğü-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-orman-bölge-müdürlüğü-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Sayıştay Başkanlığı Eğitim ve Dinlenme Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-sayıştay-başkanlığı-eğitim-ve-dinlenme-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-sayıştay-başkanlığı-eğitim-ve-dinlenme-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-antalya-sayıştay-başkanlığı-eğitim-ve-dinlenme-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Antalya",
+      "isim": "TRT Lara Kampı",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-trt-lara-kampı-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-trt-lara-kampı-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/antalya/antalya-trt-lara-kampı-3.jpg"
+      ]
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın Polisevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-polisevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-polisevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-polisevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın Polisevi Didim Ek Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-polisevi-didim-ek-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-polisevi-didim-ek-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-polisevi-didim-ek-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın Söke Sahil Gazinosu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-söke-sahil-gazinosu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-söke-sahil-gazinosu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-söke-sahil-gazinosu-3.jpg"
+      ]
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın Jandarma Sosyal Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-jandarma-sosyal-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-jandarma-sosyal-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-jandarma-sosyal-tesisleri-3.jpg"
+      ]
+    }
+  ]
+}
