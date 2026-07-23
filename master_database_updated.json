@@ -34560,7 +34560,6 @@
       "latitude": 36.77451682889438,
       "longitude": 34.559012072806595
     },
-  // ====================== ORDUEVİ ======================
   {
     "isim": "Bodrum Özel Eğitim Merkezi Komutanlığı",
     "tip": "Orduevi",
@@ -34607,7 +34606,6 @@
     "longitude": 28.44847004636548
   },
 
-  // ====================== POLİSEVİ ======================
   {
     "isim": "Fethiye Polisevi",
     "tip": "Polisevi",
@@ -34636,7 +34634,6 @@
     "longitude": 28.37502642539034
   },
 
-  // ====================== ÖĞRETMENEVİ ======================
   {
     "isim": "Muğla Merkez Öğretmenevi",
     "tip": "Öğretmenevi",
@@ -34692,7 +34689,6 @@
     "longitude": 27.779104638885517
   },
 
-  // ====================== DİĞER ======================
   {
     "isim": "Muğla Orman Müdürlüğü Misafirhane",
     "tip": "Orman Bölge Müdürlüğü Misafirhanesi",
