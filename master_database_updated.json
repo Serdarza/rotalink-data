@@ -25883,7 +25883,7 @@
       "longitude": 32.83515954232788
     },
     {
-      "isim": "TEKSİF EĞİTİM & DİNLENME TESİSİ",
+      "isim": "TEKSİF Eğitim ve Dinlenme Tesisi",
       "tip": "Sendika",
       "il": "Ankara",
       "ilce": "Çankaya",
@@ -26054,7 +26054,7 @@
       "longitude": 32.73921789600678
     },
     {
-      "isim": "GEST SOSYAL TESİSLERİ",
+      "isim": "GEST Sosyal Tesisleri",
       "tip": null,
       "il": "Ankara",
       "adres": null,
@@ -26493,15 +26493,6 @@
       "telefon": "03122112305",
       "latitude": 40.03348485474523,
       "longitude": 32.808851329741664
-    },
-    {
-      "isim": "TEİAŞ Enerji Misafirhanesi",
-      "tip": "TEDAŞ Misafirhanesi",
-      "il": "Ankara",
-      "adres": "Nasuh Akar Mahallesi, Türk Ocağı Caddesi No:2, 06520 Balgat, Çankaya, Ankara",
-      "telefon": "0 (312) 203 87 18",
-      "latitude": 39.91247326961413,
-      "longitude": 32.82560918066776
     },
     {
       "isim": "TİGEM Misafirhanesi",
@@ -37745,15 +37736,6 @@
       "longitude": 33.90610154766507
     },
     {
-      "isim": "Adana Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Adana",
-      "adres": "İstasyon Meydanı, Kurtuluş, Atatürk Cad. No:101, 01120 Seyhan/Adana",
-      "telefon": "0322 453 31 58",
-      "latitude": 37.0026684,
-      "longitude": 35.318330599999996
-    },
-    {
       "isim": "Adana Yazlık Polis Evi",
       "tip": "Polisevi",
       "il": "Adana",
@@ -37770,15 +37752,6 @@
       "telefon": "0322 457 46 34",
       "latitude": 37.0024965,
       "longitude": 35.3140833
-    },
-    {
-      "isim": "ADANA TAPU VE KADASTRO MİSAFİRHANESİ (TAKAV SOSYAL TESİSLERİ ADANA)",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Adana",
-      "adres": "Beyazevler, Adnan Kahveci Blv. NO:48, 01150 Çukurova/Adana",
-      "telefon": "0322 228 42 81",
-      "latitude": 37.0340269,
-      "longitude": 35.319870400000006
     },
     {
       "isim": "Tcdd Sosyal Tesisleri",
@@ -37799,16 +37772,7 @@
       "longitude": 35.332534599999995
     },
     {
-      "isim": "3 Nolu Konukevi",
-      "tip": "Üniversite Konukevi",
-      "il": "Adana",
-      "adres": "Gültepe, Çukurova Ünv., 01790 Sarıçam/Adana",
-      "telefon": "",
-      "latitude": 37.0568453,
-      "longitude": 35.3514704
-    },
-    {
-      "isim": "ÇAMLITEPE KONUKEVİ ÇUKUROVA ÜNİVERSİTESİ",
+      "isim": "Çamlıtepe Konukevi Çukurova Üniversitesi",
       "tip": "Üniversite Konukevi",
       "il": "Adana",
       "adres": "balcalı mahallesi çukurova üniversitesi kampüsü, Balcalı, 01250 Sarıçam/Adana",
@@ -37826,7 +37790,7 @@
       "longitude": 35.3431262
     },
     {
-      "isim": "Evliya Celebi VeriLoan Application Hotel",
+      "isim": "Evliya Çelebi Uygulama Oteli",
       "tip": "Kamu Misafirhanesi",
       "il": "Adana",
       "adres": "Balcalı, Dr. Mithat Özsan Blv. 64/5, 01250 Sarıçam/Adana",
@@ -37878,15 +37842,6 @@
       "telefon": "0416 225 04 71",
       "latitude": 37.7646698,
       "longitude": 38.3025898
-    },
-    {
-      "isim": "ADIYAMAN İL JANDARMA KOMUTANLIĞI",
-      "tip": "Jandarma Sosyal Tesisi",
-      "il": "Adıyaman",
-      "adres": "Varlık, 02240 Adıyaman Merkez/Adıyaman",
-      "telefon": "",
-      "latitude": 37.7541326,
-      "longitude": 38.2811817
     },
     {
       "isim": "Devlet Su Isleri Misafirhanesi",
@@ -37997,7 +37952,7 @@
       "longitude": 30.5438141
     },
     {
-      "isim": "Afyon Kocatepe University Social Facilities",
+      "isim": "Afyon Kocatepe Üniversitesi Sosyal Tesisleri",
       "tip": "Kamu Misafirhanesi",
       "il": "Afyonkarahisar",
       "adres": "Battalgazi, 5/20 ANS KAMPÜSÜ, 03204 Afyonkarahisar Merkez/Afyonkarahisar",
@@ -38042,15 +37997,6 @@
       "longitude": 30.5551812
     },
     {
-      "isim": "Ağrı Öğretmenevi ( Merkez Burçin Uysal Öğretmenevi ve A.S.O. Müdürlüğü)",
-      "tip": "Öğretmenevi",
-      "il": "Ağrı",
-      "adres": "Fırat, 934. Sk. No:2 D:1, 04200 Ağrı Merkez/Ağrı",
-      "telefon": "0472 215 30 06",
-      "latitude": 39.7180107,
-      "longitude": 43.0311842
-    },
-    {
       "isim": "Orduevi",
       "tip": "Orduevi",
       "il": "Ağrı",
@@ -38058,15 +38004,6 @@
       "telefon": "",
       "latitude": 39.7198257,
       "longitude": 43.0536464
-    },
-    {
-      "isim": "Polisevi",
-      "tip": "Polisevi",
-      "il": "Ağrı",
-      "adres": "Fırat, 04100 Ağrı Merkez/Ağrı",
-      "telefon": "0472 215 29 76",
-      "latitude": 39.713854399999995,
-      "longitude": 43.0110184
     },
     {
       "isim": "İbrahim Çeçen Üniversitesi konukevi",
@@ -38114,24 +38051,6 @@
       "longitude": 43.010286
     },
     {
-      "isim": "Askeri Gazino",
-      "tip": "Orduevi",
-      "il": "Ağrı",
-      "adres": "Leylek Pınar, 1704. Sk. No:1, 04200 Ağrı Merkez/Ağrı",
-      "telefon": "",
-      "latitude": 39.71940000000001,
-      "longitude": 43.053562799999995
-    },
-    {
-      "isim": "Aksaray Uluırmak Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
-      "tip": "Uygulama Oteli",
-      "il": "Aksaray",
-      "adres": "Ereğlikapı, Şehit Polis Önder Güzel Cad No: 16, 68100 Aksaray Merkez/Aksaray",
-      "telefon": "0530 637 88 68",
-      "latitude": 38.3557219,
-      "longitude": 34.0247131
-    },
-    {
       "isim": "Nevşehir jandarma sosyal tesisi",
       "tip": "Jandarma Sosyal Tesisi",
       "il": "Aksaray",
@@ -38150,7 +38069,7 @@
       "longitude": 28.947184900000003
     },
     {
-      "isim": "Provincial Gendarmerie Regiment Command",
+      "isim": "Aksaray İl Jandarma Alay Komutanlığı",
       "tip": "Kamu Misafirhanesi",
       "il": "Aksaray",
       "adres": "Tacin, Aksaray Otogarı Yolu, 68200 Aksaray Merkez/Aksaray",
@@ -38204,15 +38123,6 @@
       "longitude": 35.8503903
     },
     {
-      "isim": "Dsi Sosyal Tesisleri",
-      "tip": "DSİ Misafirhanesi",
-      "il": "Amasya",
-      "adres": "Kirazlıdere, 05200 Amasya District/Amasya",
-      "telefon": "",
-      "latitude": 40.6654592,
-      "longitude": 35.8502795
-    },
-    {
       "isim": "Amasya Konuk Evi",
       "tip": "Üniversite Konukevi",
       "il": "Amasya",
@@ -38231,16 +38141,7 @@
       "longitude": 35.83472
     },
     {
-      "isim": "Başkent Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Ankara",
-      "adres": "Emniyet, Abant 2.Sokak No:15, 06560 Yenimahalle/Ankara",
-      "telefon": "0312 212 96 40",
-      "latitude": 39.934033899999996,
-      "longitude": 32.8187292
-    },
-    {
-      "isim": "GÖLBAŞI 75.YIL ÖĞRETMENEVİ MÜDÜRLÜĞÜ",
+      "isim": "Gölbaşı 75. Yıl Öğretmenevi Müdürlüğü",
       "tip": "Öğretmenevi",
       "il": "Ankara",
       "adres": "Gaziosmanpaşa, Sahil Cd. NO:2, 06830 Gölbaşı/Ankara",
@@ -38249,16 +38150,7 @@
       "longitude": 32.8040114
     },
     {
-      "isim": "Başkent Öğretmenevi Erkek Kuaförü",
-      "tip": "Öğretmenevi",
-      "il": "Ankara",
-      "adres": "Emniyet Mah, Başkent Öğretmenevi, Beşevler, Gazi Hst. Karşısı D:1. Kat, 06560 Yenimahalle/Ankara",
-      "telefon": "",
-      "latitude": 39.934318499999996,
-      "longitude": 32.8184991
-    },
-    {
-      "isim": "Sincan Teachers' Lodgings",
+      "isim": "Sincan Öğretmen Lojmanları",
       "tip": "Kamu Misafirhanesi",
       "il": "Ankara",
       "adres": "İstasyon, Erdal Sk. NO:12, 06934 Sincan/Ankara",
@@ -38285,7 +38177,7 @@
       "longitude": 32.8549116
     },
     {
-      "isim": "girne orduevi",
+      "isim": "Girne Orduevi",
       "tip": "Orduevi",
       "il": "Ankara",
       "adres": "Aydınlar, Hürriyet Cd., 06460 Çankaya/Ankara",
@@ -38339,7 +38231,7 @@
       "longitude": 32.8396105
     },
     {
-      "isim": "DSI BAHÇELİEVLER SOCIAL CLUB",
+      "isim": "DSİ Bahçelievler Sosyal Tesisi",
       "tip": "DSİ Misafirhanesi",
       "il": "Ankara",
       "adres": "Emek, Bosna Hersek Cd. No:90, 06510 Çankaya/Ankara",
@@ -38420,7 +38312,7 @@
       "longitude": 32.8500771
     },
     {
-      "isim": "TES İŞ SENDİKASI ULUS MİSAFİRHANESİ",
+      "isim": "TES-İŞ Sendikası Ulus Misafirhanesi",
       "tip": "Kamu Misafirhanesi",
       "il": "Ankara",
       "adres": "Hacı Bayram, Çankırı Cd. No:27, 06050 Altındağ/Ankara",
@@ -38438,7 +38330,7 @@
       "longitude": 32.8386648
     },
     {
-      "isim": "ATATÜRK ÜNİVERSİTESİ BAŞKENT KONUK EVİ",
+      "isim": "Atatürk Üniversitesi Başkent Konukevi",
       "tip": "Üniversite Konukevi",
       "il": "Ankara",
       "adres": "Kültür, İçel Sk. No:27, 06420 Çankaya/Ankara",
@@ -38483,15 +38375,6 @@
       "longitude": 32.8800859
     },
     {
-      "isim": "Turk Telekom Konukevi",
-      "tip": "Üniversite Konukevi",
-      "il": "Ankara",
-      "adres": "Yukarı Bahçelievler, Taşkent Cd. No:99, 06490 Çankaya/Ankara",
-      "telefon": "",
-      "latitude": 39.923470099999996,
-      "longitude": 32.8310386
-    },
-    {
       "isim": "TBB Litai Konukevi",
       "tip": "Üniversite Konukevi",
       "il": "Ankara",
@@ -38501,7 +38384,7 @@
       "longitude": 32.819615999999996
     },
     {
-      "isim": "Union of Municipalities of the guest house",
+      "isim": "Türkiye Belediyeler Birliği Konukevi",
       "tip": "Kamu Misafirhanesi",
       "il": "Ankara",
       "adres": "Kocatepe, Selanik Cd No:57, 06420 Çankaya/Ankara",
@@ -38537,7 +38420,7 @@
       "longitude": 32.863845
     },
     {
-      "isim": "tobb etü konukevi",
+      "isim": "TOBB ETÜ Konukevi",
       "tip": "Üniversite Konukevi",
       "il": "Ankara",
       "adres": "Beştepe, 22. Cad., 06560 Yenimahalle/Ankara",
@@ -38564,22 +38447,13 @@
       "longitude": 32.864956899999996
     },
     {
-      "isim": "TURK-SEN TDVS RELIGION FOUNDATION GUEST",
+      "isim": "Türk Diyanet Vakıf-Sen Misafirhanesi",
       "tip": "Kamu Misafirhanesi",
       "il": "Ankara",
       "adres": "Kültür, Dr. Mediha Eldem Sk. No:50, 06420 Çankaya/Ankara",
       "telefon": "0312 431 13 12",
       "latitude": 39.9199646,
       "longitude": 32.8598536
-    },
-    {
-      "isim": "Zonguldak Amele Birligi Konukevi",
-      "tip": "Üniversite Konukevi",
-      "il": "Ankara",
-      "adres": "Ayrancı, Hoşdere Cd. No:65, 06690 Çankaya/Ankara",
-      "telefon": "0312 426 47 14",
-      "latitude": 39.896243899999995,
-      "longitude": 32.848149299999996
     },
     {
       "isim": "Yenimahalle Municipality Inn",
@@ -38609,7 +38483,7 @@
       "longitude": 32.771241599999996
     },
     {
-      "isim": "METU Guesthouse for Graduate Students",
+      "isim": "ODTÜ Lisansüstü Öğrenci Konukevi",
       "tip": "Kamu Misafirhanesi",
       "il": "Ankara",
       "adres": "ODTÜ, Lisansüstü Konukevi, Üniversiteler, 06800 Çankaya/Ankara",
@@ -38663,15 +38537,6 @@
       "longitude": 32.7888255
     },
     {
-      "isim": "Gazi Üniversitesi Emek Misafirhanesi",
-      "tip": "Üniversite Misafirhanesi",
-      "il": "Ankara",
-      "adres": "Emek, 13. Sk. No:9, 06490 Çankaya/Ankara",
-      "telefon": "0312 222 10 04",
-      "latitude": 39.9207682,
-      "longitude": 32.8221333
-    },
-    {
       "isim": "Odtü Kız Konukevi",
       "tip": "Üniversite Konukevi",
       "il": "Ankara",
@@ -38681,7 +38546,7 @@
       "longitude": 32.791267999999995
     },
     {
-      "isim": "ÖZ ORMAN-İŞ KONUKEVİ",
+      "isim": "Öz Orman-İş Konukevi",
       "tip": "Üniversite Konukevi",
       "il": "Ankara",
       "adres": "No:, Hacı Bayram, Güvercin Sk. No:26, 06050 Altındağ/Ankara",
@@ -38726,7 +38591,7 @@
       "longitude": 32.8565034
     },
     {
-      "isim": "Republic of Turkey Gendarmerie General Command",
+      "isim": "T.C. Jandarma Genel Komutanlığı",
       "tip": "Kamu Misafirhanesi",
       "il": "Ankara",
       "adres": "Beştepe, 8. Sk. No:47, 06560 Yenimahalle/Ankara",
@@ -38744,15 +38609,6 @@
       "longitude": 32.7935501
     },
     {
-      "isim": "Anıttepe Jandarma Sosyal Tesisleri",
-      "tip": "Jandarma Sosyal Tesisi",
-      "il": "Ankara",
-      "adres": "Maltepe, Gençlik Cd. No:127, 06570 Çankaya/Ankara",
-      "telefon": "0312 601 29 99",
-      "latitude": 39.9215769,
-      "longitude": 32.8433084
-    },
-    {
       "isim": "Jandarma Genel Komutanlığı",
       "tip": "Jandarma Sosyal Tesisi",
       "il": "Ankara",
@@ -38762,7 +38618,7 @@
       "longitude": 32.8516531
     },
     {
-      "isim": "Anittepe Gendarmerie",
+      "isim": "Anıttepe Jandarma",
       "tip": "Kamu Misafirhanesi",
       "il": "Ankara",
       "adres": "Yücetepe, 89. Sk. No:2, 06570 Çankaya/Ankara",
@@ -38798,15 +38654,6 @@
       "longitude": 30.693255800000003
     },
     {
-      "isim": "Orman Bölge Müdürlüğü Misafirhanesi",
-      "tip": "Orman Misafirhanesi",
-      "il": "Antalya",
-      "adres": "Sedir, Vatan Blv., 07010 Muratpaşa/Antalya",
-      "telefon": "0242 333 00 99",
-      "latitude": 36.9006229,
-      "longitude": 30.6910081
-    },
-    {
       "isim": "Teiaş Misafirhane",
       "tip": "Kamu Misafirhanesi",
       "il": "Antalya",
@@ -38825,7 +38672,7 @@
       "longitude": 30.667659699999998
     },
     {
-      "isim": "EÜAŞ MİSAFİRHANESİ ANTALYA",
+      "isim": "EÜAŞ Misafirhanesi Antalya",
       "tip": "Kamu Misafirhanesi",
       "il": "Antalya",
       "adres": "Santral, Antalya Blv., 07190 Kepez/Antalya",
@@ -38841,15 +38688,6 @@
       "telefon": "",
       "latitude": 36.892114,
       "longitude": 30.6614245
-    },
-    {
-      "isim": "Kepez Belediyesi Hasta ve Yakınları Konuk Evi",
-      "tip": "Üniversite Konukevi",
-      "il": "Antalya",
-      "adres": "Ahatlı Mahallesi, Adnan Selekler Caddesi, Ahatlı, 3162. Sk., 07090 Kepez/Antalya",
-      "telefon": "0242 226 36 58",
-      "latitude": 36.915639,
-      "longitude": 30.651608
     },
     {
       "isim": "Nurten-Turan KİLİT Hasta ve Hasta Yakınları Konuk Evi",
@@ -38879,7 +38717,7 @@
       "longitude": 30.633228
     },
     {
-      "isim": "KAŞ UYGULAMA OTELİ",
+      "isim": "Kaş Uygulama Oteli",
       "tip": "Uygulama Oteli",
       "il": "Antalya",
       "adres": "Kaş Uygulama Oteli, Gökçeören, Gökseki Sokak, 07580 Kaş/Antalya",
@@ -38888,22 +38726,13 @@
       "longitude": 29.5952383
     },
     {
-      "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi ve ASO müdürlüğü",
+      "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi ve ASO Müdürlüğü",
       "tip": "Öğretmenevi",
       "il": "Antalya",
       "adres": "Gazi Mustafa Kemal Bulvarı, Gürsu, 310. Sk. No:1 No: 4, 07070 Konyaaltı/Antalya",
       "telefon": "0546 229 14 31",
       "latitude": 36.863879,
       "longitude": 30.634140499999994
-    },
-    {
-      "isim": "Konyaalti Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Antalya",
-      "adres": "Gürsu, Gazi Mustafa Kemal Blv. No:25, 07070 Bahtılı Köyü Köyü/Konyaaltı/Antalya",
-      "telefon": "0242 229 14 31",
-      "latitude": 36.8637917,
-      "longitude": 30.633934
     },
     {
       "isim": "Side jandarma kampı",
@@ -38915,7 +38744,7 @@
       "longitude": 31.325664600000003
     },
     {
-      "isim": "Karpuzkaldıran Social Facilities",
+      "isim": "Karpuzkaldıran Sosyal Tesisleri",
       "tip": "Kamu Misafirhanesi",
       "il": "Antalya",
       "adres": "Güzeloba, 07230 Muratpaşa/Antalya",
@@ -38924,7 +38753,7 @@
       "longitude": 30.796516399999998
     },
     {
-      "isim": "Antalya Provincial Gendarmerie Command",
+      "isim": "Antalya İl Jandarma Komutanlığı",
       "tip": "Kamu Misafirhanesi",
       "il": "Antalya",
       "adres": "Bayındır, Dumlupınar Blv. Yanyolu No:167, 07030 Muratpaşa/Antalya",
@@ -38949,15 +38778,6 @@
       "telefon": "0242 643 62 60",
       "latitude": 37.0662216,
       "longitude": 30.194863400000003
-    },
-    {
-      "isim": "Polisevi",
-      "tip": "Polisevi",
-      "il": "Ardahan",
-      "adres": "Kaptanpaşa, Hamam Cd. No:1, 75000 Ardahan Merkez/Ardahan",
-      "telefon": "",
-      "latitude": 41.112553999999996,
-      "longitude": 42.701122999999995
     },
     {
       "isim": "Gole Ilce Jandarma Komutanligi",
@@ -39014,15 +38834,6 @@
       "longitude": 42.7048345
     },
     {
-      "isim": "Artvin Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Artvin",
-      "adres": "Çarşı, Öğrt. Süleyman Yurttaş Sk. No:2, 08000 Artvin Merkez/Artvin",
-      "telefon": "0505 918 26 65",
-      "latitude": 41.1795997,
-      "longitude": 41.8170639
-    },
-    {
       "isim": "Askeri Gazino",
       "tip": "Orduevi",
       "il": "Artvin",
@@ -39030,15 +38841,6 @@
       "telefon": "",
       "latitude": 41.1865412,
       "longitude": 41.822972
-    },
-    {
-      "isim": "Artvin İsmet Acar Misafirhanesi",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Artvin",
-      "adres": "Çarşı, Dik Sk. No:1, 08000 Artvin Merkez/Artvin",
-      "telefon": "",
-      "latitude": 41.1817676,
-      "longitude": 41.8199016
     },
     {
       "isim": "Orman Bölge Müdürlüğü Misafirhanesi",
@@ -39050,40 +38852,13 @@
       "longitude": 41.8126427
     },
     {
-      "isim": "ŞAVŞAT ÖĞRETMENEVİ",
+      "isim": "Şavşat Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Artvin",
       "adres": "Söğütlü, HAMŞİOĞULLARI SOKAK NO:1, 08600 Şavşat/Artvin",
       "telefon": "0466 517 18 08",
       "latitude": 41.2581254,
       "longitude": 42.3337967
-    },
-    {
-      "isim": "Hope Teachers and Evening Art School",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Artvin",
-      "adres": "Merkez Kuledibi Şahintepe, Mevki, Merkez Kuledibi, Karadeniz Cd. No:32, 08600 Hopa/Artvin",
-      "telefon": "0466 351 24 11",
-      "latitude": 41.393723699999995,
-      "longitude": 41.4206584
-    },
-    {
-      "isim": "Borcka Ogretmenevi ve Aksam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Artvin",
-      "adres": "Gündoğdu, Emniyet Cd. No:8, 08400 Borçka/Artvin",
-      "telefon": "0466 415 24 11",
-      "latitude": 41.3604093,
-      "longitude": 41.675136699999996
-    },
-    {
-      "isim": "Yusufeli Ogretmenevi ve Aksam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Artvin",
-      "adres": "ÇORUH MAH. 15 TEMMUZ ŞEHİTLER CAD, Çoruh, ÖĞRETMENEVİ NO: 6, 08890 Yusufeli/Artvin",
-      "telefon": "0466 811 24 11",
-      "latitude": 40.812277099999996,
-      "longitude": 41.5196925
     },
     {
       "isim": "Suurlu Ogretmenler Dernegi",
@@ -39095,7 +38870,7 @@
       "longitude": 41.820765099999996
     },
     {
-      "isim": "Artvin Province Gendarmerie Command",
+      "isim": "Artvin İl Jandarma Komutanlığı",
       "tip": "Kamu Misafirhanesi",
       "il": "Artvin",
       "adres": "Çayağzı, Fevzi Çakmak Cd., 08000 Artvin Merkez/Artvin",
@@ -39111,15 +38886,6 @@
       "telefon": "",
       "latitude": 41.164535,
       "longitude": 41.795865899999995
-    },
-    {
-      "isim": "Aydın Efeler Teachers and ASO Directorate",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Aydın",
-      "adres": "Meşrutiyet, Atatürk Blv. No:21 D:21, 09100 Efeler/Aydın",
-      "telefon": "0256 225 26 81",
-      "latitude": 37.851617999999995,
-      "longitude": 27.835358
     },
     {
       "isim": "Jandarma Sosyal Tesisleri",
@@ -39158,7 +38924,7 @@
       "longitude": 27.853949999999998
     },
     {
-      "isim": "DSİ MERKEZ MİSAFİRHANE",
+      "isim": "DSİ Merkez Misafirhanesi",
       "tip": "DSİ Misafirhanesi",
       "il": "Aydın",
       "adres": "Cumhuriyet, 1984. Sk. No:24, 09020 Aydın Merkez/Aydın",
@@ -39203,7 +38969,7 @@
       "longitude": 27.378228300000004
     },
     {
-      "isim": "BayKus Konuk Evi Guesthouse",
+      "isim": "BayKuş Konuk Evi",
       "tip": "Üniversite Konukevi",
       "il": "Aydın",
       "adres": "Karacahayıt, 3250 sokak, 09200 Söke/Aydın",
@@ -39212,7 +38978,7 @@
       "longitude": 27.4694277
     },
     {
-      "isim": "Ionia Guest House / İonia Konuk Evi ( Saman Ev / Saman Otel )",
+      "isim": "İonia Konuk Evi (Saman Ev / Saman Otel)",
       "tip": "Üniversite Konukevi",
       "il": "Aydın",
       "adres": "Hıdırbeyli Mahallesi, Ilıca Caddesi 18, Hıdırbeyli, 09700 Germencik/Aydın",
@@ -39228,33 +38994,6 @@
       "telefon": "0256 761 24 24",
       "latitude": 37.7611821,
       "longitude": 27.7046928
-    },
-    {
-      "isim": "Kusadasi Ogretmenevi ve Aksam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Aydın",
-      "adres": "Camikebir, Cephane Sk. No:12, 09400 Kuşadası/Aydın",
-      "telefon": "0256 612 38 88",
-      "latitude": 37.8607051,
-      "longitude": 27.2577985
-    },
-    {
-      "isim": "Bozdoğan Öğretmenevi ve Akşam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Aydın",
-      "adres": "Yeni, Yazıkent Cd., 09760 Bozdoğan/Aydın",
-      "telefon": "0256 414 24 87",
-      "latitude": 37.672809699999995,
-      "longitude": 28.3138869
-    },
-    {
-      "isim": "Güzelçamlı Jandarma Kampı",
-      "tip": "Jandarma Sosyal Tesisi",
-      "il": "Aydın",
-      "adres": "Güzelçamlı, Kamp Sokak No:1, 09100 Kuşadası/Aydın",
-      "telefon": "0256 646 11 45",
-      "latitude": 37.7148547,
-      "longitude": 27.216594399999998
     },
     {
       "isim": "Söke Askeri Gazinosu",

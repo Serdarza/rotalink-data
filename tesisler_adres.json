@@ -429,7 +429,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "TEKSİF EĞİTİM & DİNLENME TESİSİ",
+      "isim": "TEKSİF Eğitim ve Dinlenme Tesisi",
       "adres": "Ön Cebeci, İncesu Cd. No:5, 06590 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
@@ -531,7 +531,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "GEST SOSYAL TESİSLERİ",
+      "isim": "GEST Sosyal Tesisleri",
       "adres": "Bahçekapı, 06797 Çankaya/Etimesgut/Ankara",
       "ilce": "Etimesgut"
     },
@@ -8301,12 +8301,6 @@
     },
     {
       "il": "Adana",
-      "isim": "Adana Öğretmenevi",
-      "adres": "İstasyon Meydanı, Kurtuluş, Atatürk Cad. No:101, 01120 Seyhan/Adana",
-      "ilce": "Seyhan"
-    },
-    {
-      "il": "Adana",
       "isim": "Adana Yazlık Polis Evi",
       "adres": "Güzelyalı, Adnan Menderes Blv. No:75, 01170 Çukurova/Adana",
       "ilce": "Çukurova"
@@ -8316,12 +8310,6 @@
       "isim": "Tcdd Misafirhanesi",
       "adres": "Kurtuluş, Atatürk Cad. No:136, 01130 Seyhan/Adana",
       "ilce": "Seyhan"
-    },
-    {
-      "il": "Adana",
-      "isim": "ADANA TAPU VE KADASTRO MİSAFİRHANESİ (TAKAV SOSYAL TESİSLERİ ADANA)",
-      "adres": "Beyazevler, Adnan Kahveci Blv. NO:48, 01150 Çukurova/Adana",
-      "ilce": "Çukurova"
     },
     {
       "il": "Adana",
@@ -8337,13 +8325,7 @@
     },
     {
       "il": "Adana",
-      "isim": "3 Nolu Konukevi",
-      "adres": "Gültepe, Çukurova Ünv., 01790 Sarıçam/Adana",
-      "ilce": "Sarıçam"
-    },
-    {
-      "il": "Adana",
-      "isim": "ÇAMLITEPE KONUKEVİ ÇUKUROVA ÜNİVERSİTESİ",
+      "isim": "Çamlıtepe Konukevi Çukurova Üniversitesi",
       "adres": "balcalı mahallesi çukurova üniversitesi kampüsü, Balcalı, 01250 Sarıçam/Adana",
       "ilce": "Sarıçam"
     },
@@ -8355,7 +8337,7 @@
     },
     {
       "il": "Adana",
-      "isim": "Evliya Celebi VeriLoan Application Hotel",
+      "isim": "Evliya Çelebi Uygulama Oteli",
       "adres": "Balcalı, Dr. Mithat Özsan Blv. 64/5, 01250 Sarıçam/Adana",
       "ilce": "Sarıçam"
     },
@@ -8387,12 +8369,6 @@
       "il": "Adıyaman",
       "isim": "Adiyaman Police House",
       "adres": "Siteler, Atatürk Blv. Yanyolu No:425 D:425, 02000 Adıyaman Merkez/Adıyaman",
-      "ilce": "Adıyaman Merkez"
-    },
-    {
-      "il": "Adıyaman",
-      "isim": "ADIYAMAN İL JANDARMA KOMUTANLIĞI",
-      "adres": "Varlık, 02240 Adıyaman Merkez/Adıyaman",
       "ilce": "Adıyaman Merkez"
     },
     {
@@ -8469,7 +8445,7 @@
     },
     {
       "il": "Afyonkarahisar",
-      "isim": "Afyon Kocatepe University Social Facilities",
+      "isim": "Afyon Kocatepe Üniversitesi Sosyal Tesisleri",
       "adres": "Battalgazi, 5/20 ANS KAMPÜSÜ, 03204 Afyonkarahisar Merkez/Afyonkarahisar",
       "ilce": "Afyonkarahisar Merkez"
     },
@@ -8511,12 +8487,6 @@
     },
     {
       "il": "Ağrı",
-      "isim": "Polisevi",
-      "adres": "Fırat, 04100 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
-    },
-    {
-      "il": "Ağrı",
       "isim": "İbrahim Çeçen Üniversitesi konukevi",
       "adres": "Fırat, 04010 Yolugüzel/Ağrı Merkez/Ağrı",
       "ilce": "Ağrı Merkez"
@@ -8546,18 +8516,6 @@
       "ilce": "Ağrı Merkez"
     },
     {
-      "il": "Ağrı",
-      "isim": "Askeri Gazino",
-      "adres": "Leylek Pınar, 1704. Sk. No:1, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
-    },
-    {
-      "il": "Aksaray",
-      "isim": "Aksaray Uluırmak Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
-      "adres": "Ereğlikapı, Şehit Polis Önder Güzel Cad No: 16, 68100 Aksaray Merkez/Aksaray",
-      "ilce": "Aksaray Merkez"
-    },
-    {
       "il": "Aksaray",
       "isim": "Nevşehir jandarma sosyal tesisi",
       "adres": "Yeni, Tusan Sk. No:4, 50160 Nevşehir Merkez/Nevşehir",
@@ -8571,7 +8529,7 @@
     },
     {
       "il": "Aksaray",
-      "isim": "Provincial Gendarmerie Regiment Command",
+      "isim": "Aksaray İl Jandarma Alay Komutanlığı",
       "adres": "Tacin, Aksaray Otogarı Yolu, 68200 Aksaray Merkez/Aksaray",
       "ilce": "Aksaray Merkez"
     },
@@ -8607,12 +8565,6 @@
     },
     {
       "il": "Amasya",
-      "isim": "Dsi Sosyal Tesisleri",
-      "adres": "Kirazlıdere, 05200 Amasya District/Amasya",
-      "ilce": "Amasya District"
-    },
-    {
-      "il": "Amasya",
       "isim": "Amasya Konuk Evi",
       "adres": "Hacılar Meydanı, Yavuz Acar Cd. No:8, 05100 Amasya Merkez/Amasya",
       "ilce": "Amasya Merkez"
@@ -8625,25 +8577,13 @@
     },
     {
       "il": "Ankara",
-      "isim": "Başkent Öğretmenevi",
-      "adres": "Emniyet, Abant 2.Sokak No:15, 06560 Yenimahalle/Ankara",
-      "ilce": "Yenimahalle"
-    },
-    {
-      "il": "Ankara",
-      "isim": "GÖLBAŞI 75.YIL ÖĞRETMENEVİ MÜDÜRLÜĞÜ",
+      "isim": "Gölbaşı 75. Yıl Öğretmenevi Müdürlüğü",
       "adres": "Gaziosmanpaşa, Sahil Cd. NO:2, 06830 Gölbaşı/Ankara",
       "ilce": "Gölbaşı"
     },
     {
       "il": "Ankara",
-      "isim": "Başkent Öğretmenevi Erkek Kuaförü",
-      "adres": "Emniyet Mah, Başkent Öğretmenevi, Beşevler, Gazi Hst. Karşısı D:1. Kat, 06560 Yenimahalle/Ankara",
-      "ilce": "Yenimahalle"
-    },
-    {
-      "il": "Ankara",
-      "isim": "Sincan Teachers' Lodgings",
+      "isim": "Sincan Öğretmen Lojmanları",
       "adres": "İstasyon, Erdal Sk. NO:12, 06934 Sincan/Ankara",
       "ilce": "Sincan"
     },
@@ -8661,7 +8601,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "girne orduevi",
+      "isim": "Girne Orduevi",
       "adres": "Aydınlar, Hürriyet Cd., 06460 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
@@ -8697,7 +8637,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "DSI BAHÇELİEVLER SOCIAL CLUB",
+      "isim": "DSİ Bahçelievler Sosyal Tesisi",
       "adres": "Emek, Bosna Hersek Cd. No:90, 06510 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
@@ -8751,7 +8691,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "TES İŞ SENDİKASI ULUS MİSAFİRHANESİ",
+      "isim": "TES-İŞ Sendikası Ulus Misafirhanesi",
       "adres": "Hacı Bayram, Çankırı Cd. No:27, 06050 Altındağ/Ankara",
       "ilce": "Altındağ"
     },
@@ -8763,7 +8703,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "ATATÜRK ÜNİVERSİTESİ BAŞKENT KONUK EVİ",
+      "isim": "Atatürk Üniversitesi Başkent Konukevi",
       "adres": "Kültür, İçel Sk. No:27, 06420 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
@@ -8793,19 +8733,13 @@
     },
     {
       "il": "Ankara",
-      "isim": "Turk Telekom Konukevi",
-      "adres": "Yukarı Bahçelievler, Taşkent Cd. No:99, 06490 Çankaya/Ankara",
-      "ilce": "Çankaya"
-    },
-    {
-      "il": "Ankara",
       "isim": "TBB Litai Konukevi",
       "adres": "Balgat, İlhami Soysal Sk. No:3, 06520 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
     {
       "il": "Ankara",
-      "isim": "Union of Municipalities of the guest house",
+      "isim": "Türkiye Belediyeler Birliği Konukevi",
       "adres": "Kocatepe, Selanik Cd No:57, 06420 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
@@ -8829,7 +8763,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "tobb etü konukevi",
+      "isim": "TOBB ETÜ Konukevi",
       "adres": "Beştepe, 22. Cad., 06560 Yenimahalle/Ankara",
       "ilce": "Yenimahalle"
     },
@@ -8847,14 +8781,8 @@
     },
     {
       "il": "Ankara",
-      "isim": "TURK-SEN TDVS RELIGION FOUNDATION GUEST",
+      "isim": "Türk Diyanet Vakıf-Sen Misafirhanesi",
       "adres": "Kültür, Dr. Mediha Eldem Sk. No:50, 06420 Çankaya/Ankara",
-      "ilce": "Çankaya"
-    },
-    {
-      "il": "Ankara",
-      "isim": "Zonguldak Amele Birligi Konukevi",
-      "adres": "Ayrancı, Hoşdere Cd. No:65, 06690 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
     {
@@ -8877,7 +8805,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "METU Guesthouse for Graduate Students",
+      "isim": "ODTÜ Lisansüstü Öğrenci Konukevi",
       "adres": "ODTÜ, Lisansüstü Konukevi, Üniversiteler, 06800 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
@@ -8913,19 +8841,13 @@
     },
     {
       "il": "Ankara",
-      "isim": "Gazi Üniversitesi Emek Misafirhanesi",
-      "adres": "Emek, 13. Sk. No:9, 06490 Çankaya/Ankara",
-      "ilce": "Çankaya"
-    },
-    {
-      "il": "Ankara",
       "isim": "Odtü Kız Konukevi",
       "adres": "Üniversiteler, ODTÜ Yurtlar Bölgesi, 06800 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
     {
       "il": "Ankara",
-      "isim": "ÖZ ORMAN-İŞ KONUKEVİ",
+      "isim": "Öz Orman-İş Konukevi",
       "adres": "No:, Hacı Bayram, Güvercin Sk. No:26, 06050 Altındağ/Ankara",
       "ilce": "Altındağ"
     },
@@ -8955,7 +8877,7 @@
     },
     {
       "il": "Ankara",
-      "isim": "Republic of Turkey Gendarmerie General Command",
+      "isim": "T.C. Jandarma Genel Komutanlığı",
       "adres": "Beştepe, 8. Sk. No:47, 06560 Yenimahalle/Ankara",
       "ilce": "Yenimahalle"
     },
@@ -8967,19 +8889,13 @@
     },
     {
       "il": "Ankara",
-      "isim": "Anıttepe Jandarma Sosyal Tesisleri",
-      "adres": "Maltepe, Gençlik Cd. No:127, 06570 Çankaya/Ankara",
-      "ilce": "Çankaya"
-    },
-    {
-      "il": "Ankara",
       "isim": "Jandarma Genel Komutanlığı",
       "adres": "Devlet, İsmet İnönü Blv. No:6, 06420 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
     {
       "il": "Ankara",
-      "isim": "Anittepe Gendarmerie",
+      "isim": "Anıttepe Jandarma",
       "adres": "Yücetepe, 89. Sk. No:2, 06570 Çankaya/Ankara",
       "ilce": "Çankaya"
     },
@@ -9003,12 +8919,6 @@
     },
     {
       "il": "Antalya",
-      "isim": "Orman Bölge Müdürlüğü Misafirhanesi",
-      "adres": "Sedir, Vatan Blv., 07010 Muratpaşa/Antalya",
-      "ilce": "Muratpaşa"
-    },
-    {
-      "il": "Antalya",
       "isim": "Teiaş Misafirhane",
       "adres": "Fabrikalar, Necip Nugay Cd. No:1, 07090 Kepez/Antalya",
       "ilce": "Kepez"
@@ -9021,7 +8931,7 @@
     },
     {
       "il": "Antalya",
-      "isim": "EÜAŞ MİSAFİRHANESİ ANTALYA",
+      "isim": "EÜAŞ Misafirhanesi Antalya",
       "adres": "Santral, Antalya Blv., 07190 Kepez/Antalya",
       "ilce": "Kepez"
     },
@@ -9030,12 +8940,6 @@
       "isim": "Akdeniz Üniversitesi Konukevi",
       "adres": "Pınarbaşı, 07070 Konyaaltı/Antalya",
       "ilce": "Konyaaltı"
-    },
-    {
-      "il": "Antalya",
-      "isim": "Kepez Belediyesi Hasta ve Yakınları Konuk Evi",
-      "adres": "Ahatlı Mahallesi, Adnan Selekler Caddesi, Ahatlı, 3162. Sk., 07090 Kepez/Antalya",
-      "ilce": "Kepez"
     },
     {
       "il": "Antalya",
@@ -9057,20 +8961,14 @@
     },
     {
       "il": "Antalya",
-      "isim": "KAŞ UYGULAMA OTELİ",
+      "isim": "Kaş Uygulama Oteli",
       "adres": "Kaş Uygulama Oteli, Gökçeören, Gökseki Sokak, 07580 Kaş/Antalya",
       "ilce": "Kaş"
     },
     {
       "il": "Antalya",
-      "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi ve ASO müdürlüğü",
+      "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi ve ASO Müdürlüğü",
       "adres": "Gazi Mustafa Kemal Bulvarı, Gürsu, 310. Sk. No:1 No: 4, 07070 Konyaaltı/Antalya",
-      "ilce": "Konyaaltı"
-    },
-    {
-      "il": "Antalya",
-      "isim": "Konyaalti Öğretmenevi",
-      "adres": "Gürsu, Gazi Mustafa Kemal Blv. No:25, 07070 Bahtılı Köyü Köyü/Konyaaltı/Antalya",
       "ilce": "Konyaaltı"
     },
     {
@@ -9081,13 +8979,13 @@
     },
     {
       "il": "Antalya",
-      "isim": "Karpuzkaldıran Social Facilities",
+      "isim": "Karpuzkaldıran Sosyal Tesisleri",
       "adres": "Güzeloba, 07230 Muratpaşa/Antalya",
       "ilce": "Muratpaşa"
     },
     {
       "il": "Antalya",
-      "isim": "Antalya Provincial Gendarmerie Command",
+      "isim": "Antalya İl Jandarma Komutanlığı",
       "adres": "Bayındır, Dumlupınar Blv. Yanyolu No:167, 07030 Muratpaşa/Antalya",
       "ilce": "Muratpaşa"
     },
@@ -9102,12 +9000,6 @@
       "isim": "Korkuteli İlçe Jandarma Komutanlığı",
       "adres": "Aşağıpazar, 07800 Korkuteli/Antalya",
       "ilce": "Korkuteli"
-    },
-    {
-      "il": "Ardahan",
-      "isim": "Polisevi",
-      "adres": "Kaptanpaşa, Hamam Cd. No:1, 75000 Ardahan Merkez/Ardahan",
-      "ilce": "Ardahan Merkez"
     },
     {
       "il": "Ardahan",
@@ -9147,20 +9039,8 @@
     },
     {
       "il": "Artvin",
-      "isim": "Artvin Öğretmenevi",
-      "adres": "Çarşı, Öğrt. Süleyman Yurttaş Sk. No:2, 08000 Artvin Merkez/Artvin",
-      "ilce": "Artvin Merkez"
-    },
-    {
-      "il": "Artvin",
       "isim": "Askeri Gazino",
       "adres": "Çayağzı, 08000 Artvin Merkez/Artvin",
-      "ilce": "Artvin Merkez"
-    },
-    {
-      "il": "Artvin",
-      "isim": "Artvin İsmet Acar Misafirhanesi",
-      "adres": "Çarşı, Dik Sk. No:1, 08000 Artvin Merkez/Artvin",
       "ilce": "Artvin Merkez"
     },
     {
@@ -9171,27 +9051,9 @@
     },
     {
       "il": "Artvin",
-      "isim": "ŞAVŞAT ÖĞRETMENEVİ",
+      "isim": "Şavşat Öğretmenevi",
       "adres": "Söğütlü, HAMŞİOĞULLARI SOKAK NO:1, 08600 Şavşat/Artvin",
       "ilce": "Şavşat"
-    },
-    {
-      "il": "Artvin",
-      "isim": "Hope Teachers and Evening Art School",
-      "adres": "Merkez Kuledibi Şahintepe, Mevki, Merkez Kuledibi, Karadeniz Cd. No:32, 08600 Hopa/Artvin",
-      "ilce": "Hopa"
-    },
-    {
-      "il": "Artvin",
-      "isim": "Borcka Ogretmenevi ve Aksam Sanat Okulu",
-      "adres": "Gündoğdu, Emniyet Cd. No:8, 08400 Borçka/Artvin",
-      "ilce": "Borçka"
-    },
-    {
-      "il": "Artvin",
-      "isim": "Yusufeli Ogretmenevi ve Aksam Sanat Okulu",
-      "adres": "ÇORUH MAH. 15 TEMMUZ ŞEHİTLER CAD, Çoruh, ÖĞRETMENEVİ NO: 6, 08890 Yusufeli/Artvin",
-      "ilce": "Yusufeli"
     },
     {
       "il": "Artvin",
@@ -9201,7 +9063,7 @@
     },
     {
       "il": "Artvin",
-      "isim": "Artvin Province Gendarmerie Command",
+      "isim": "Artvin İl Jandarma Komutanlığı",
       "adres": "Çayağzı, Fevzi Çakmak Cd., 08000 Artvin Merkez/Artvin",
       "ilce": "Artvin Merkez"
     },
@@ -9210,12 +9072,6 @@
       "isim": "Jandarma",
       "adres": "Çamlık, Kafkasör Yolu, 08000 Artvin Merkez/Artvin",
       "ilce": "Artvin Merkez"
-    },
-    {
-      "il": "Aydın",
-      "isim": "Aydın Efeler Teachers and ASO Directorate",
-      "adres": "Meşrutiyet, Atatürk Blv. No:21 D:21, 09100 Efeler/Aydın",
-      "ilce": "Efeler"
     },
     {
       "il": "Aydın",
@@ -9243,7 +9099,7 @@
     },
     {
       "il": "Aydın",
-      "isim": "DSİ MERKEZ MİSAFİRHANE",
+      "isim": "DSİ Merkez Misafirhanesi",
       "adres": "Cumhuriyet, 1984. Sk. No:24, 09020 Aydın Merkez/Aydın",
       "ilce": "Aydın Merkez"
     },
@@ -9273,13 +9129,13 @@
     },
     {
       "il": "Aydın",
-      "isim": "BayKus Konuk Evi Guesthouse",
+      "isim": "BayKuş Konuk Evi",
       "adres": "Karacahayıt, 3250 sokak, 09200 Söke/Aydın",
       "ilce": "Söke"
     },
     {
       "il": "Aydın",
-      "isim": "Ionia Guest House / İonia Konuk Evi ( Saman Ev / Saman Otel )",
+      "isim": "İonia Konuk Evi (Saman Ev / Saman Otel)",
       "adres": "Hıdırbeyli Mahallesi, Ilıca Caddesi 18, Hıdırbeyli, 09700 Germencik/Aydın",
       "ilce": "Germencik"
     },
@@ -9288,24 +9144,6 @@
       "isim": "Sabanci Ogretmenevi ve Aksam Sanat Okulu",
       "adres": "Yeni, Park Cd. No:46, 09970 Koçarlı/Aydın",
       "ilce": "Koçarlı"
-    },
-    {
-      "il": "Aydın",
-      "isim": "Kusadasi Ogretmenevi ve Aksam Sanat Okulu",
-      "adres": "Camikebir, Cephane Sk. No:12, 09400 Kuşadası/Aydın",
-      "ilce": "Kuşadası"
-    },
-    {
-      "il": "Aydın",
-      "isim": "Bozdoğan Öğretmenevi ve Akşam Sanat Okulu",
-      "adres": "Yeni, Yazıkent Cd., 09760 Bozdoğan/Aydın",
-      "ilce": "Bozdoğan"
-    },
-    {
-      "il": "Aydın",
-      "isim": "Güzelçamlı Jandarma Kampı",
-      "adres": "Güzelçamlı, Kamp Sokak No:1, 09100 Kuşadası/Aydın",
-      "ilce": "Kuşadası"
     },
     {
       "il": "Aydın",
