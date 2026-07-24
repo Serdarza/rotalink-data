@@ -11178,6 +11178,630 @@
       "isim": "Kumlu Ogretmenler Lokali",
       "adres": "Kışla Saray, İnönü Cd. No:2, 31070 Antakya/Hatay",
       "ilce": "Antakya"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır Jandarma Komutanlığı",
+      "adres": "Atatürk, Şehitler Cd., 76000 Iğdır Merkez/Iğdır",
+      "ilce": "Iğdır Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Police House",
+      "adres": "Söğütlü, Işın Cd. No:9, 76000 Iğdır Merkez/Iğdır",
+      "ilce": "Iğdır Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır Üniversitesi Uygulama Oteli",
+      "adres": "Emek, Evren Paşa Cd. No:79, 76000 Iğdır Merkez/Iğdır",
+      "ilce": "Iğdır Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır Belediyesi Sosyal Tesisleri",
+      "adres": "Söğütlü, Tünay Aydemir Cd., 76000 Iğdır Merkez/Iğdır",
+      "ilce": "Iğdır Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır Turizm Lisesi Uygulama Oteli",
+      "adres": "14 Kasım, İlham Aliyev Blv. NO374, 76000 Iğdır Merkez/Iğdır",
+      "ilce": "Iğdır Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Yeni Tuzluca Öğretmenevi Ve ASO",
+      "adres": "YENİ MAH. 231 SK Iğdır TR, Aytaş apartmanı arkası, Yeni, Hoca Ahmet YESEVİ ORTAOKULU NO:7, 76900 Tuzluca/Kars",
+      "ilce": "Tuzluca"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Isparta Öğretmenevi",
+      "adres": "İstiklal, 6 Mart Atatürk Cd No:21, 32300 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Askeri Yazlık Bahçe",
+      "adres": "Kepeci, 1219. Sk. No:4, 32300 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Isparta Polis Evi",
+      "adres": "Şevket Savlu Caddesi No:44/48D:No:68, Halıkent, 32040 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "DSİ Misafirhanesi ve Sosyal Tesisler",
+      "adres": "İstiklal, Hacı İbrahim Parlar Cd. No:113, 32300 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Ptt Baş Müdürlüğü Misafirhanesi",
+      "adres": "Bahçelievler, 3013. Sk. No:11, 32200 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Isubü Kampüs Konukevi",
+      "adres": "Isparta Uygulamalı Bilimler Üniversitesi, Çünür, 32260 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Süleyman Demirel Araştırma Uygulama Oteli",
+      "adres": "İstiklal, Hacı İbrahim Parlar Cd. No:115, 32300 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Eğirdir Sabancı Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Cami Mah. Kuş Sok. No:14 Hükümet Konağı Arkası, Camii, 32500 Eğirdir/Isparta",
+      "ilce": "Eğirdir"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Yalvac Ogretmenevi",
+      "adres": "Abacılar, 32420 Yalvaç/Isparta",
+      "ilce": "Yalvaç"
+    },
+    {
+      "il": "Isparta",
+      "isim": "commander of the gendarmerie",
+      "adres": "Davraz, Atatürk Blv., 32300 Isparta Merkez/Isparta",
+      "ilce": "Isparta Merkez"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Beyoglu Ogretmenevi",
+      "adres": "Evliya Çelebi, Meşrutiyet Cd. No:58, 34430 Beyoğlu/İstanbul",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Şişli Öğretmenevi",
+      "adres": "Teşvikiye, Hüsrev Gerede Cd. No:63/2, 34367 Şişli/İstanbul",
+      "ilce": "Şişli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Adile Sultan Kasrı Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Altunizade, Tophanelioğlu Cd. No:19, 34662 Üsküdar/İstanbul",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Cankurtaran Öğretmenevi ve ASO Müdürlüğü",
+      "adres": "Cankurtaran, Ahırkapı Cd No:7, 34122 Fatih/İstanbul",
+      "ilce": "Fatih"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "SABANCI ÖĞRETMENEVİ VE AKŞAM SANAT OKULU MÜDÜRLÜĞÜ",
+      "adres": "Göksu, Küçüksu Cd. No:10, 34815 Beykoz/İstanbul",
+      "ilce": "Beykoz"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Adile Sultan Kasrı Öğretmenevi",
+      "adres": "Altunizade, Tophanelioğlu Cd. No:19, 34662 Üsküdar/İstanbul",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Abidin Pak Teacher",
+      "adres": "B.evler Mh. Talatpaşa Cd. No:38/6 B.evler, Bahçelievler, Talatpaşa Cd 38/6, 34180 Bahçelievler/İstanbul",
+      "ilce": "Bahçelievler"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Bağcılar Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Yavuz Selim Mahallesi 1024 Sokak Numara, Yavuz Selim, D:2, 34203 Bağcılar/İstanbul",
+      "ilce": "Bağcılar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Şehit Fethi Sekin Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Yeşilova, Reyhan Cd. No:27, 34295 Küçükçekmece/İstanbul",
+      "ilce": "Küçükçekmece"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Zeytinburnu Ogretmenevi",
+      "adres": "Beştelsiz, Rauf Denktaş Cd. No:39, 34020 Zeytinburnu/İstanbul",
+      "ilce": "Zeytinburnu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Beylikdüzü Atatürk Teacherage",
+      "adres": "Cumhuriyet, Derviş Eroğlu Cd. No : 5, 34000 Beylikdüzü/İstanbul",
+      "ilce": "Beylikdüzü"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Kasımpaşa Orduevi",
+      "adres": "Bedrettin, Bahriye Cd. 2/1, 34440 Beyoğlu/İstanbul",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Balmumcu Jandarma Sosyal Tesisleri",
+      "adres": "Balmumcu, Şakir Kesebir Cd. No:1, 34349 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Cevizli Orduevi Balo Salonu",
+      "adres": "Orhantepe, Turgut Özal Blv., 34865 Kartal/İstanbul",
+      "ilce": "Kartal"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Beylerbeyi orduevi",
+      "adres": "Beylerbeyi, Abdullahağa Cd. 16G, 34676 Üsküdar/İstanbul",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Fenerbahçe Orduevi Deniz Restorant",
+      "adres": "Fenerbahçe, Iğrıp Sk. No:27, 34726 Kadıköy/İstanbul",
+      "ilce": "Kadıköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "ORTAKÖY POLİSEVİ SOSYAL TESİSİ‼️ KONAKLAMA YOKTUR ‼️",
+      "adres": "Ortaköy, Portakal Ykş. Cd. No:58, 34347 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Merter POLISEVI ( PEKOM)",
+      "adres": "Maltepe, 34010 Zeytinburnu/İstanbul",
+      "ilce": "Zeytinburnu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Ortaköy Polis Evi İletişim Bilgileri",
+      "adres": "Ortaköy, Muallim Naci Cd. No:59, 34347 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Baltalimanı Polisevi Şube Müdürlüğü Pendik Ek Tesisler Büro Amirliği",
+      "adres": "Sanayi, Orhanlı Cd., 34912 Pendik/İstanbul",
+      "ilce": "Pendik"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Devlet Su İşleri Misafirhanesi",
+      "adres": "Küçük Çamlıca, Libadiye Cd. Sosyal Tesisler No:54, 34696 Üsküdar/İstanbul",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Sosyal Güvenlik Kurumu Topkapı Misafirhanesi",
+      "adres": "Maltepe, Gümüşsuyu Cd. No:60, 34010 Zeytinburnu/İstanbul",
+      "ilce": "Zeytinburnu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Boğaziçi Üniversitesi Misafirhanesi",
+      "adres": "Bebek, Ayşe Sultan Korusu No:13, 34342 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "MKE MİSAFİRHANESİ",
+      "adres": "Ömer Avni, 34427 Beyoğlu/İstanbul",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İBB Cihangir Sosyal Tesisi",
+      "adres": "Sanatkarlar Caddesi, Kılıçalipaşa Mahallesi, Kamacı Ustası Sk. No: 1, 34433 Beyoğlu/İstanbul",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "KARAYOLLARI 1. Bölge Müdürlüğü Sosyal Tesisleri",
+      "adres": "Hamidiye, Kaymak Sokağı, 34408 Kağıthane/İstanbul",
+      "ilce": "Kağıthane"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İTÜ Sosyal Tesisleri",
+      "adres": "İTÜ Sosyal Tesisleri, Harbiye, İTÜ Maçka Kampüsü 4 A, 34367 Şişli/İstanbul",
+      "ilce": "Şişli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "TBSTB Misafirhanesi",
+      "adres": "19 Mayıs, 34379 Şişli/İstanbul",
+      "ilce": "Şişli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Koç Hastanesi Misafirhanesi",
+      "adres": "Topkapı, Davutpaşa Cd. No:4, 34010 Zeytinburnu/İstanbul",
+      "ilce": "Zeytinburnu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "YOL-İŞ Sendikası İstanbul Konukevi(Sadece Üyeler)",
+      "adres": "Molla Gürani, Gureba Hastanesi Cd No:8, 34093 Fatih/İstanbul",
+      "ilce": "Fatih"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Memorial Konukevi",
+      "adres": "Piyale Paşa Bulvarı Memorial Center A Blok Kat: 13, Kaptan Paşa, 34385 Şişli/İstanbul",
+      "ilce": "Şişli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Türkiye Diyanet Vakfı Sosyal Tesisi",
+      "adres": "Binbirdirek, Klodfarer Cd. No:12, 34122 Fatih/İstanbul",
+      "ilce": "Fatih"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Milli Savunma Üniversitesi Misafirhanesi",
+      "adres": "Konaklar, Org. İzzettin Aksalur Cd. 58-70, 34330 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "YTÜ Davutpaşa Misafirhanesi",
+      "adres": "Lojmanları Misafirhanesi, Çifte Havuzlar, YTÜ-Davutpaşa Kampüsü, 34220 Esenler/İstanbul",
+      "ilce": "Esenler"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Sgk Üsküdar Sosyal Tesisi ve Eğitim Merkezi",
+      "adres": "Sgk üsküdar sosyal tesisi ve eğitim merkezi, Sultantepe, Paşalimanı Cad. no 19, 34674 Üsküdar/İstanbul",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "DHO Misafirhane",
+      "adres": "Postane, 34940 Tuzla/İstanbul",
+      "ilce": "Tuzla"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Beşiktaş Konuk Evi Otel",
+      "adres": "Sinanpaşa, Şht. Asım Cd. No:45, 34330 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Karayolları Ortaköy Sosyal Tesisleri",
+      "adres": "No:, Ortaköy, Muallim Naci Cd. No:34, 34347 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Maslak Il Jandarma Misafirhane",
+      "adres": "jandarma, Maslak, Çevre ve Orman Bakanlığı İstanbul İl Md. Avrupa Yakası, 34398 Şişli/İstanbul",
+      "ilce": "Şişli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İBB Kasımpaşa Sosyal Tesisi",
+      "adres": "Bedrettin, Evliya Çelebi Cd. No:4, 34440 Beyoğlu/İstanbul",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Zeytinburnu Social Facilities",
+      "adres": "Kazlıçeşme, Beşkardeşler Sk. No:12, 34020 Zeytinburnu/İstanbul",
+      "ilce": "Zeytinburnu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Fenerbahce Spor Kulubu Konukevi",
+      "adres": "Fenerbahçe, 34726 Kadıköy/İstanbul",
+      "ilce": "Kadıköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Takav Sosyal Tesisler",
+      "adres": "Alemdar, Salkım Söğüt Sk. No:15, 34110 Fatih/İstanbul",
+      "ilce": "Fatih"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Birinci Apartman Misafirhane",
+      "adres": "Aksaray, Çakırağa Camii Sok. No:10, 34096 Fatih/İstanbul",
+      "ilce": "Fatih"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Şişli Meslek Yüksekokulu Konuk Evi",
+      "adres": "Ayazağa, 215. Sk. NO:4, 34418 Sarıyer/İstanbul",
+      "ilce": "Sarıyer"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İBB Konuk Evi",
+      "adres": "Uğur Mumcu, Serçe Sk. No:4, 34882 Kartal/İstanbul",
+      "ilce": "Kartal"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Koza Marmara Üniversitesi Konuk Evi Lokali",
+      "adres": "Eğitim, Sarayönü Cd. No:46, 34722 Kadıköy/İstanbul",
+      "ilce": "Kadıköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Rahat Hotel",
+      "adres": "Gökalp, 51. Sk. No:19, 34020 Zeytinburnu/İstanbul",
+      "ilce": "Zeytinburnu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Üniversitesi Baltalimanı Sosyal Tesisleri",
+      "adres": "Baltalimanı, Balta Limanı Hisar Cd. No:58, 34470 Sarıyer/İstanbul",
+      "ilce": "Sarıyer"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Altınbaşak Öğrenci Konuk Evi",
+      "adres": "Orhangazi Mahallesi, Mimar Sinan Cd., 34887 Sancaktepe/İstanbul",
+      "ilce": "Sancaktepe"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Türkiye Büyük Millet Meclisi Konuk Evi",
+      "adres": "Mecidiye, Palanga Cd. Türkiye Büyük Millet Meclisi Konuk Evi No:66, 34347 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Türk Telekom Konukevi",
+      "adres": "Ataköy 3-4-11. Kısım, Türk Telekom Konukevi, 34158 Bakırköy/İstanbul",
+      "ilce": "Bakırköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Mehmet İhsan Mermerci Uygulama Oteli",
+      "adres": "Merkezefendi, Mevlevihane Cd. No:26, 34015 Zeytinburnu/İstanbul",
+      "ilce": "Zeytinburnu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Uygulama Oteli",
+      "adres": "Silahtarağa, Silahtarağa Cd. No:87, 34050 Eyüpsultan/İstanbul",
+      "ilce": "Eyüpsultan"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul İl Jandarma Komutanlığı",
+      "adres": "Maslak, Büyükdere Cd., 34485 Sarıyer/İstanbul",
+      "ilce": "Sarıyer"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Sahil Kamp İstanbul",
+      "adres": "Sahilköy, Batu Sokak No:1, 34983 Şile/İstanbul",
+      "ilce": "Şile"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Istanbul Jandarma Komutanligi",
+      "adres": "Şair Kesebir Cad., Beşiktaş/Istanbul - Europe",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Cezaevi Jandarma Alay Komutanlığı",
+      "adres": "15 Temmuz, Eski Edirne Asf. No:419, 34235 Esenler/İstanbul",
+      "ilce": "Esenler"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Orhaniye Askeri Gazinosu",
+      "adres": "Yıldız, Palanga Cd., 34347 Beşiktaş/İstanbul",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Şemsipaşa Askeri Sosyal Tesisleri",
+      "adres": "Aziz Mahmut Hüdayi, 34672 Üsküdar/İstanbul",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Beykoz Askeri - Outdoor ve Avcılık Malzemeleri",
+      "adres": "Yalıköy, Çayır Cd. No:1, 34820, 34820 Beykoz/İstanbul",
+      "ilce": "Beykoz"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Başakşehir Askeri Gazinosu",
+      "adres": "Başakşehir Askeri Lojmanları, Askerlik Şubesi, Basketbol Alanı, Başakşehir, Askeri Kışlası Çocuk Parkı, 34480 Başakşehir/İstanbul",
+      "ilce": "Başakşehir"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Başakşehir Askeri Gazino",
+      "adres": "Başak, Ertuğrul Gazi Cd No:14, 34480 Başakşehir/İstanbul",
+      "ilce": "Başakşehir"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Konak Astsubay Orduevi Ek Bina",
+      "adres": "Yeşiltepe, Mithatpaşa Cd. No:43, 35260 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Alsancak astsubay orduevi otoparkı",
+      "adres": "Alsancak, 1480. Sk. No:5 D:1, 35220 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Polis Evi Düğün Salonu",
+      "adres": "Yeşiltepe, 35360 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Dsi Misafirhanesi",
+      "adres": "Kazımdirik, Sanayi Cd. No:39 D:34, 35100 Bornova/İzmir",
+      "ilce": "Bornova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Takav Tapu Ve Kadastro Vakfi Sosyal Tesisi",
+      "adres": "Bahçelievler, 1706. Sk. No:30, 35600 Karşıyaka/İzmir",
+      "ilce": "Karşıyaka"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Ziraat Bankası Misafirhanesi",
+      "adres": "Kültür, Talatpaşa Blv No:19, 35220 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Tcdd Misafirhanesi",
+      "adres": "Alsancak, Atatürk Cd. No: 412/ A, 35220 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "150. Yıl Ptt Misafirhanesi",
+      "adres": "Çankaya, Mustafa Kemal Sahil Blv. No:363, 35280 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Karayolları 2. Bölge Müdürlüğü Misafirhanesi",
+      "adres": "Kazımdirik, Sanayi Cd. No:36, 35100 Bornova/İzmir",
+      "ilce": "Bornova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "YOL-İŞ Sendikası İzmir Konukevi",
+      "adres": "Kahramanlar, Bozkurt Cd. No:34, 35230 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Deü Sosyal Tesisleri",
+      "adres": "Kültür, Cumhuriyet Blv 144-1, 35220 Konak/İzmir",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Büyükşehir Belediyesi Müyeser Turfan Geçici Erkek Konuk Evi",
+      "adres": "Zübeyde Hanım, 7449. Sk. no:16, 35570 Karşıyaka/İzmir",
+      "ilce": "Karşıyaka"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Maden İş Sendikası Misafirhanesi izmir",
+      "adres": "Erzene, Yüzbaşı Ibrahim Hakkı Sk. NO:11 D:1A, 35040 Bornova/İzmir",
+      "ilce": "Bornova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Karşıyaka Belediyesi Türkan Saylan Kız Öğrenci Konuk Evi",
+      "adres": "Zübeyde Hanım, 7448/8. Sk. no:24, 35570 Karşıyaka/İzmir",
+      "ilce": "Karşıyaka"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Kent Konuk Evi",
+      "adres": "Mavişehir, Caher Dudayev Blv No:42, 35590 Karşıyaka/İzmir",
+      "ilce": "Karşıyaka"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İZMİR ADLİYESİ SOSYAL TESİSLERİ",
+      "adres": "Adelet mah no 11/a adliye sarayı içi sosyol tesisler, Çınarlı, 35220 Bayraklı/İzmir",
+      "ilce": "Bayraklı"
+    },
+    {
+      "il": "İzmir",
+      "isim": "E.Ü. Kit-Vak Hasta Ve Hasta Yakınları Konukevi",
+      "adres": "Arkası 2 Nolu Yemekhane Karşısı, Kazımdirik, Ege Ünv. Ögrenci Köyü İç Yol, 35100 Bornova/İzmir",
+      "ilce": "Bornova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İl Özel İdaresi Misafirhanesi",
+      "adres": "Dokuz Eylül, 35425 Gaziemir/İzmir",
+      "ilce": "Gaziemir"
+    },
+    {
+      "il": "İzmir",
+      "isim": "IZMIR HOTEL APPLICATIONS",
+      "adres": "Mevlana, 1776. Sk. No:2 D:1A, 35050 Bornova/İzmir",
+      "ilce": "Bornova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Konuk evi",
+      "adres": "Kazımdirik, Ege Ünv. Ögrenci Köyü İç Yol No:9, 35100 Bornova/İzmir",
+      "ilce": "Bornova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Cesme Marina Guest House",
+      "adres": "Musalla, 1016. Sk. No:2/23, 35930 Çeşme/İzmir",
+      "ilce": "Çeşme"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Kitvak - Abdulrezzak Sancak Hasta ve Hasta Yakınları Konukevi",
+      "adres": "İnciraltı, Dokuz Eylül Ünv. Hst., 35330 Balçova/İzmir",
+      "ilce": "Balçova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Maden işçileri konuk evi",
+      "adres": "Erzene, Yüzbaşı Ibrahim Hakkı Sk. 11/A, 35000 Bornova/İzmir",
+      "ilce": "Bornova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "jandarma kampı",
+      "adres": "jandarma kampı, Fatih, 35687 Foça/İzmir",
+      "ilce": "Foça"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Narlıdere Military Casino",
+      "adres": "No:, Altıevler, Merve Sk. No:8, 35320 Narlıdere/İzmir",
+      "ilce": "Narlıdere"
     }
   ]
 }

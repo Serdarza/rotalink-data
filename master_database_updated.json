@@ -42063,6 +42063,942 @@
       "telefon": "0326 461 35 13",
       "latitude": 36.1980337,
       "longitude": 36.1667274
+    },
+    {
+      "isim": "Iğdır Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Iğdır",
+      "adres": "Atatürk, Şehitler Cd., 76000 Iğdır Merkez/Iğdır",
+      "telefon": "0476 227 64 48",
+      "latitude": 39.933606999999995,
+      "longitude": 44.048373999999995
+    },
+    {
+      "isim": "Police House",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Iğdır",
+      "adres": "Söğütlü, Işın Cd. No:9, 76000 Iğdır Merkez/Iğdır",
+      "telefon": "0476 227 26 24",
+      "latitude": 39.923925499999996,
+      "longitude": 44.049926299999996
+    },
+    {
+      "isim": "Iğdır Üniversitesi Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Iğdır",
+      "adres": "Emek, Evren Paşa Cd. No:79, 76000 Iğdır Merkez/Iğdır",
+      "telefon": "",
+      "latitude": 39.9218269,
+      "longitude": 44.036595
+    },
+    {
+      "isim": "Iğdır Belediyesi Sosyal Tesisleri",
+      "tip": "Belediye Misafirhanesi",
+      "il": "Iğdır",
+      "adres": "Söğütlü, Tünay Aydemir Cd., 76000 Iğdır Merkez/Iğdır",
+      "telefon": "",
+      "latitude": 39.92738,
+      "longitude": 44.063269
+    },
+    {
+      "isim": "Iğdır Turizm Lisesi Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Iğdır",
+      "adres": "14 Kasım, İlham Aliyev Blv. NO374, 76000 Iğdır Merkez/Iğdır",
+      "telefon": "0553 051 76 76",
+      "latitude": 39.9381123,
+      "longitude": 44.0918048
+    },
+    {
+      "isim": "Yeni Tuzluca Öğretmenevi Ve ASO",
+      "tip": "Öğretmenevi",
+      "il": "Iğdır",
+      "adres": "YENİ MAH. 231 SK Iğdır TR, Aytaş apartmanı arkası, Yeni, Hoca Ahmet YESEVİ ORTAOKULU NO:7, 76900 Tuzluca/Kars",
+      "telefon": "0546 433 35 20",
+      "latitude": 40.033968699999996,
+      "longitude": 43.6658452
+    },
+    {
+      "isim": "Isparta Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Isparta",
+      "adres": "İstiklal, 6 Mart Atatürk Cd No:21, 32300 Isparta Merkez/Isparta",
+      "telefon": "0501 733 32 99",
+      "latitude": 37.765838099999996,
+      "longitude": 30.5566585
+    },
+    {
+      "isim": "Askeri Yazlık Bahçe",
+      "tip": "Orduevi",
+      "il": "Isparta",
+      "adres": "Kepeci, 1219. Sk. No:4, 32300 Isparta Merkez/Isparta",
+      "telefon": "",
+      "latitude": 37.765988899999996,
+      "longitude": 30.558193700000004
+    },
+    {
+      "isim": "Isparta Polis Evi",
+      "tip": "Polisevi",
+      "il": "Isparta",
+      "adres": "Şevket Savlu Caddesi No:44/48D:No:68, Halıkent, 32040 Isparta Merkez/Isparta",
+      "telefon": "0246 242 96 55",
+      "latitude": 37.75191780000001,
+      "longitude": 30.5765101
+    },
+    {
+      "isim": "DSİ Misafirhanesi ve Sosyal Tesisler",
+      "tip": "DSİ Misafirhanesi",
+      "il": "Isparta",
+      "adres": "İstiklal, Hacı İbrahim Parlar Cd. No:113, 32300 Isparta Merkez/Isparta",
+      "telefon": "0246 232 64 00",
+      "latitude": 37.7723551,
+      "longitude": 30.558852299999998
+    },
+    {
+      "isim": "Ptt Baş Müdürlüğü Misafirhanesi",
+      "tip": "PTT Misafirhanesi",
+      "il": "Isparta",
+      "adres": "Bahçelievler, 3013. Sk. No:11, 32200 Isparta Merkez/Isparta",
+      "telefon": "",
+      "latitude": 37.779564,
+      "longitude": 30.5460503
+    },
+    {
+      "isim": "Isubü Kampüs Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "Isparta",
+      "adres": "Isparta Uygulamalı Bilimler Üniversitesi, Çünür, 32260 Isparta Merkez/Isparta",
+      "telefon": "0246 214 60 00",
+      "latitude": 37.8364884,
+      "longitude": 30.538059200000003
+    },
+    {
+      "isim": "Süleyman Demirel Araştırma Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Isparta",
+      "adres": "İstiklal, Hacı İbrahim Parlar Cd. No:115, 32300 Isparta Merkez/Isparta",
+      "telefon": "",
+      "latitude": 37.772238,
+      "longitude": 30.559299000000003
+    },
+    {
+      "isim": "Eğirdir Sabancı Öğretmenevi ve Akşam Sanat Okulu",
+      "tip": "Öğretmenevi",
+      "il": "Isparta",
+      "adres": "Cami Mah. Kuş Sok. No:14 Hükümet Konağı Arkası, Camii, 32500 Eğirdir/Isparta",
+      "telefon": "0246 311 25 25",
+      "latitude": 37.8753759,
+      "longitude": 30.851872200000003
+    },
+    {
+      "isim": "Yalvac Ogretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Isparta",
+      "adres": "Abacılar, 32420 Yalvaç/Isparta",
+      "telefon": "0246 441 28 22",
+      "latitude": 38.288943499999995,
+      "longitude": 31.175760900000004
+    },
+    {
+      "isim": "commander of the gendarmerie",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Isparta",
+      "adres": "Davraz, Atatürk Blv., 32300 Isparta Merkez/Isparta",
+      "telefon": "0246 224 11 25",
+      "latitude": 37.783605,
+      "longitude": 30.568724
+    },
+    {
+      "isim": "Beyoglu Ogretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Evliya Çelebi, Meşrutiyet Cd. No:58, 34430 Beyoğlu/İstanbul",
+      "telefon": "0212 252 43 43",
+      "latitude": 41.0300339,
+      "longitude": 28.973098900000004
+    },
+    {
+      "isim": "Şişli Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Teşvikiye, Hüsrev Gerede Cd. No:63/2, 34367 Şişli/İstanbul",
+      "telefon": "0212 296 80 61",
+      "latitude": 41.0467024,
+      "longitude": 28.996034
+    },
+    {
+      "isim": "Adile Sultan Kasrı Öğretmenevi ve Akşam Sanat Okulu",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Altunizade, Tophanelioğlu Cd. No:19, 34662 Üsküdar/İstanbul",
+      "telefon": "0216 325 64 44",
+      "latitude": 41.0136922,
+      "longitude": 29.041939199999998
+    },
+    {
+      "isim": "Cankurtaran Öğretmenevi ve ASO Müdürlüğü",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Cankurtaran, Ahırkapı Cd No:7, 34122 Fatih/İstanbul",
+      "telefon": "0212 517 68 93",
+      "latitude": 41.004116700000004,
+      "longitude": 28.982186899999995
+    },
+    {
+      "isim": "SABANCI ÖĞRETMENEVİ VE AKŞAM SANAT OKULU MÜDÜRLÜĞÜ",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Göksu, Küçüksu Cd. No:10, 34815 Beykoz/İstanbul",
+      "telefon": "0505 715 17 70",
+      "latitude": 41.0805708,
+      "longitude": 29.065767100000002
+    },
+    {
+      "isim": "Adile Sultan Kasrı Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Altunizade, Tophanelioğlu Cd. No:19, 34662 Üsküdar/İstanbul",
+      "telefon": "0553 406 43 42",
+      "latitude": 41.0128725,
+      "longitude": 29.040501799999998
+    },
+    {
+      "isim": "Abidin Pak Teacher",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "B.evler Mh. Talatpaşa Cd. No:38/6 B.evler, Bahçelievler, Talatpaşa Cd 38/6, 34180 Bahçelievler/İstanbul",
+      "telefon": "0212 502 24 11",
+      "latitude": 41.0051639,
+      "longitude": 28.8658163
+    },
+    {
+      "isim": "Bağcılar Öğretmenevi ve Akşam Sanat Okulu",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Yavuz Selim Mahallesi 1024 Sokak Numara, Yavuz Selim, D:2, 34203 Bağcılar/İstanbul",
+      "telefon": "0212 433 03 13",
+      "latitude": 41.0352435,
+      "longitude": 28.851636100000004
+    },
+    {
+      "isim": "Şehit Fethi Sekin Öğretmenevi ve Akşam Sanat Okulu",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Yeşilova, Reyhan Cd. No:27, 34295 Küçükçekmece/İstanbul",
+      "telefon": "0212 541 05 05",
+      "latitude": 40.992709,
+      "longitude": 28.789033600000003
+    },
+    {
+      "isim": "Zeytinburnu Ogretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "İstanbul",
+      "adres": "Beştelsiz, Rauf Denktaş Cd. No:39, 34020 Zeytinburnu/İstanbul",
+      "telefon": "0212 415 45 98",
+      "latitude": 41.0011161,
+      "longitude": 28.9039067
+    },
+    {
+      "isim": "Beylikdüzü Atatürk Teacherage",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Cumhuriyet, Derviş Eroğlu Cd. No : 5, 34000 Beylikdüzü/İstanbul",
+      "telefon": "0212 871 30 01",
+      "latitude": 41.009105999999996,
+      "longitude": 28.636740999999997
+    },
+    {
+      "isim": "Kasımpaşa Orduevi",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Bedrettin, Bahriye Cd. 2/1, 34440 Beyoğlu/İstanbul",
+      "telefon": "",
+      "latitude": 41.0313698,
+      "longitude": 28.9673756
+    },
+    {
+      "isim": "Balmumcu Jandarma Sosyal Tesisleri",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "İstanbul",
+      "adres": "Balmumcu, Şakir Kesebir Cd. No:1, 34349 Beşiktaş/İstanbul",
+      "telefon": "0212 213 44 00",
+      "latitude": 41.062077699999996,
+      "longitude": 29.013977299999997
+    },
+    {
+      "isim": "Cevizli Orduevi Balo Salonu",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Orhantepe, Turgut Özal Blv., 34865 Kartal/İstanbul",
+      "telefon": "0216 442 64 21",
+      "latitude": 40.9000434,
+      "longitude": 29.1595271
+    },
+    {
+      "isim": "Beylerbeyi orduevi",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Beylerbeyi, Abdullahağa Cd. 16G, 34676 Üsküdar/İstanbul",
+      "telefon": "",
+      "latitude": 41.0395772,
+      "longitude": 29.037108900000003
+    },
+    {
+      "isim": "Fenerbahçe Orduevi Deniz Restorant",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Fenerbahçe, Iğrıp Sk. No:27, 34726 Kadıköy/İstanbul",
+      "telefon": "0530 525 84 30",
+      "latitude": 40.9675568,
+      "longitude": 29.0442416
+    },
+    {
+      "isim": "ORTAKÖY POLİSEVİ SOSYAL TESİSİ‼️ KONAKLAMA YOKTUR ‼️",
+      "tip": "Polisevi",
+      "il": "İstanbul",
+      "adres": "Ortaköy, Portakal Ykş. Cd. No:58, 34347 Beşiktaş/İstanbul",
+      "telefon": "0505 318 34 76",
+      "latitude": 41.049568199999996,
+      "longitude": 29.0292702
+    },
+    {
+      "isim": "Merter POLISEVI ( PEKOM)",
+      "tip": "Polisevi",
+      "il": "İstanbul",
+      "adres": "Maltepe, 34010 Zeytinburnu/İstanbul",
+      "telefon": "0212 484 58 00",
+      "latitude": 41.0124503,
+      "longitude": 28.9020497
+    },
+    {
+      "isim": "Ortaköy Polis Evi İletişim Bilgileri",
+      "tip": "Polisevi",
+      "il": "İstanbul",
+      "adres": "Ortaköy, Muallim Naci Cd. No:59, 34347 Beşiktaş/İstanbul",
+      "telefon": "",
+      "latitude": 41.0495837,
+      "longitude": 29.029292
+    },
+    {
+      "isim": "Baltalimanı Polisevi Şube Müdürlüğü Pendik Ek Tesisler Büro Amirliği",
+      "tip": "Polisevi",
+      "il": "İstanbul",
+      "adres": "Sanayi, Orhanlı Cd., 34912 Pendik/İstanbul",
+      "telefon": "0552 182 35 80",
+      "latitude": 40.9108854,
+      "longitude": 29.3079267
+    },
+    {
+      "isim": "Devlet Su İşleri Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Küçük Çamlıca, Libadiye Cd. Sosyal Tesisler No:54, 34696 Üsküdar/İstanbul",
+      "telefon": "",
+      "latitude": 41.008458999999995,
+      "longitude": 29.071824799999998
+    },
+    {
+      "isim": "Sosyal Güvenlik Kurumu Topkapı Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Maltepe, Gümüşsuyu Cd. No:60, 34010 Zeytinburnu/İstanbul",
+      "telefon": "0212 565 15 51",
+      "latitude": 41.02986,
+      "longitude": 28.913761800000003
+    },
+    {
+      "isim": "Boğaziçi Üniversitesi Misafirhanesi",
+      "tip": "Üniversite Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Bebek, Ayşe Sultan Korusu No:13, 34342 Beşiktaş/İstanbul",
+      "telefon": "0212 359 54 00",
+      "latitude": 41.080095199999995,
+      "longitude": 29.050372999999997
+    },
+    {
+      "isim": "MKE MİSAFİRHANESİ",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Ömer Avni, 34427 Beyoğlu/İstanbul",
+      "telefon": "",
+      "latitude": 41.037076899999995,
+      "longitude": 28.9925434
+    },
+    {
+      "isim": "İBB Cihangir Sosyal Tesisi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Sanatkarlar Caddesi, Kılıçalipaşa Mahallesi, Kamacı Ustası Sk. No: 1, 34433 Beyoğlu/İstanbul",
+      "telefon": "",
+      "latitude": 41.028514099999995,
+      "longitude": 28.982420699999995
+    },
+    {
+      "isim": "KARAYOLLARI 1. Bölge Müdürlüğü Sosyal Tesisleri",
+      "tip": "Karayolları Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Hamidiye, Kaymak Sokağı, 34408 Kağıthane/İstanbul",
+      "telefon": "0212 312 50 00",
+      "latitude": 41.0952301,
+      "longitude": 28.967534800000003
+    },
+    {
+      "isim": "İTÜ Sosyal Tesisleri",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "İTÜ Sosyal Tesisleri, Harbiye, İTÜ Maçka Kampüsü 4 A, 34367 Şişli/İstanbul",
+      "telefon": "0212 241 41 07",
+      "latitude": 41.04577140000001,
+      "longitude": 28.9957019
+    },
+    {
+      "isim": "TBSTB Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "19 Mayıs, 34379 Şişli/İstanbul",
+      "telefon": "",
+      "latitude": 41.0536542,
+      "longitude": 28.982022899999997
+    },
+    {
+      "isim": "Koç Hastanesi Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Topkapı, Davutpaşa Cd. No:4, 34010 Zeytinburnu/İstanbul",
+      "telefon": "",
+      "latitude": 41.0259486,
+      "longitude": 28.9139624
+    },
+    {
+      "isim": "YOL-İŞ Sendikası İstanbul Konukevi(Sadece Üyeler)",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Molla Gürani, Gureba Hastanesi Cd No:8, 34093 Fatih/İstanbul",
+      "telefon": "0212 521 15 11",
+      "latitude": 41.016059999999996,
+      "longitude": 28.939355999999997
+    },
+    {
+      "isim": "Memorial Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Piyale Paşa Bulvarı Memorial Center A Blok Kat: 13, Kaptan Paşa, 34385 Şişli/İstanbul",
+      "telefon": "0212 320 66 00",
+      "latitude": 41.061372999999996,
+      "longitude": 28.97293
+    },
+    {
+      "isim": "Türkiye Diyanet Vakfı Sosyal Tesisi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Binbirdirek, Klodfarer Cd. No:12, 34122 Fatih/İstanbul",
+      "telefon": "",
+      "latitude": 41.007844,
+      "longitude": 28.973331
+    },
+    {
+      "isim": "Milli Savunma Üniversitesi Misafirhanesi",
+      "tip": "Üniversite Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Konaklar, Org. İzzettin Aksalur Cd. 58-70, 34330 Beşiktaş/İstanbul",
+      "telefon": "",
+      "latitude": 41.0950361,
+      "longitude": 29.015438099999994
+    },
+    {
+      "isim": "YTÜ Davutpaşa Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Lojmanları Misafirhanesi, Çifte Havuzlar, YTÜ-Davutpaşa Kampüsü, 34220 Esenler/İstanbul",
+      "telefon": "",
+      "latitude": 41.0227127,
+      "longitude": 28.8955557
+    },
+    {
+      "isim": "Sgk Üsküdar Sosyal Tesisi ve Eğitim Merkezi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Sgk üsküdar sosyal tesisi ve eğitim merkezi, Sultantepe, Paşalimanı Cad. no 19, 34674 Üsküdar/İstanbul",
+      "telefon": "0216 343 03 08",
+      "latitude": 41.0300559,
+      "longitude": 29.018123799999998
+    },
+    {
+      "isim": "DHO Misafirhane",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Postane, 34940 Tuzla/İstanbul",
+      "telefon": "",
+      "latitude": 40.813262699999996,
+      "longitude": 29.2666054
+    },
+    {
+      "isim": "Beşiktaş Konuk Evi Otel",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Sinanpaşa, Şht. Asım Cd. No:45, 34330 Beşiktaş/İstanbul",
+      "telefon": "0551 273 29 98",
+      "latitude": 41.0447615,
+      "longitude": 29.004477800000004
+    },
+    {
+      "isim": "Karayolları Ortaköy Sosyal Tesisleri",
+      "tip": "Karayolları Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "No:, Ortaköy, Muallim Naci Cd. No:34, 34347 Beşiktaş/İstanbul",
+      "telefon": "0212 261 59 06",
+      "latitude": 41.0496019,
+      "longitude": 29.0310828
+    },
+    {
+      "isim": "Maslak Il Jandarma Misafirhane",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "İstanbul",
+      "adres": "jandarma, Maslak, Çevre ve Orman Bakanlığı İstanbul İl Md. Avrupa Yakası, 34398 Şişli/İstanbul",
+      "telefon": "",
+      "latitude": 41.1201996,
+      "longitude": 29.0235801
+    },
+    {
+      "isim": "İBB Kasımpaşa Sosyal Tesisi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Bedrettin, Evliya Çelebi Cd. No:4, 34440 Beyoğlu/İstanbul",
+      "telefon": "",
+      "latitude": 41.0299811,
+      "longitude": 28.966695599999994
+    },
+    {
+      "isim": "Zeytinburnu Social Facilities",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Kazlıçeşme, Beşkardeşler Sk. No:12, 34020 Zeytinburnu/İstanbul",
+      "telefon": "0212 664 18 18",
+      "latitude": 40.985067,
+      "longitude": 28.906144599999998
+    },
+    {
+      "isim": "Fenerbahce Spor Kulubu Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Fenerbahçe, 34726 Kadıköy/İstanbul",
+      "telefon": "0216 542 92 00",
+      "latitude": 40.9688034,
+      "longitude": 29.0331172
+    },
+    {
+      "isim": "Takav Sosyal Tesisler",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Alemdar, Salkım Söğüt Sk. No:15, 34110 Fatih/İstanbul",
+      "telefon": "",
+      "latitude": 41.0094469,
+      "longitude": 28.9770616
+    },
+    {
+      "isim": "Birinci Apartman Misafirhane",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Aksaray, Çakırağa Camii Sok. No:10, 34096 Fatih/İstanbul",
+      "telefon": "0212 586 60 67",
+      "latitude": 41.008711,
+      "longitude": 28.949769000000003
+    },
+    {
+      "isim": "İstanbul Şişli Meslek Yüksekokulu Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Ayazağa, 215. Sk. NO:4, 34418 Sarıyer/İstanbul",
+      "telefon": "0530 397 53 32",
+      "latitude": 41.105443799999996,
+      "longitude": 28.983570299999997
+    },
+    {
+      "isim": "İBB Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Uğur Mumcu, Serçe Sk. No:4, 34882 Kartal/İstanbul",
+      "telefon": "",
+      "latitude": 40.932162399999996,
+      "longitude": 29.210525399999995
+    },
+    {
+      "isim": "Koza Marmara Üniversitesi Konuk Evi Lokali",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Eğitim, Sarayönü Cd. No:46, 34722 Kadıköy/İstanbul",
+      "telefon": "",
+      "latitude": 40.9861583,
+      "longitude": 29.049623600000004
+    },
+    {
+      "isim": "Rahat Hotel",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Gökalp, 51. Sk. No:19, 34020 Zeytinburnu/İstanbul",
+      "telefon": "0212 664 33 50",
+      "latitude": 40.9939106,
+      "longitude": 28.904693400000003
+    },
+    {
+      "isim": "İstanbul Üniversitesi Baltalimanı Sosyal Tesisleri",
+      "tip": "Üniversite Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Baltalimanı, Balta Limanı Hisar Cd. No:58, 34470 Sarıyer/İstanbul",
+      "telefon": "0212 277 99 16",
+      "latitude": 41.0972046,
+      "longitude": 29.0534425
+    },
+    {
+      "isim": "Altınbaşak Öğrenci Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Orhangazi Mahallesi, Mimar Sinan Cd., 34887 Sancaktepe/İstanbul",
+      "telefon": "0216 561 63 28",
+      "latitude": 40.9883898,
+      "longitude": 29.2517595
+    },
+    {
+      "isim": "Türkiye Büyük Millet Meclisi Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Mecidiye, Palanga Cd. Türkiye Büyük Millet Meclisi Konuk Evi No:66, 34347 Beşiktaş/İstanbul",
+      "telefon": "",
+      "latitude": 41.054093699999996,
+      "longitude": 29.014525799999994
+    },
+    {
+      "isim": "Türk Telekom Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "İstanbul",
+      "adres": "Ataköy 3-4-11. Kısım, Türk Telekom Konukevi, 34158 Bakırköy/İstanbul",
+      "telefon": "",
+      "latitude": 40.982134599999995,
+      "longitude": 28.861748600000002
+    },
+    {
+      "isim": "Mehmet İhsan Mermerci Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "İstanbul",
+      "adres": "Merkezefendi, Mevlevihane Cd. No:26, 34015 Zeytinburnu/İstanbul",
+      "telefon": "0212 871 82 59",
+      "latitude": 41.015529199999996,
+      "longitude": 28.9141206
+    },
+    {
+      "isim": "Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "İstanbul",
+      "adres": "Silahtarağa, Silahtarağa Cd. No:87, 34050 Eyüpsultan/İstanbul",
+      "telefon": "",
+      "latitude": 41.0590502,
+      "longitude": 28.943826800000004
+    },
+    {
+      "isim": "İstanbul İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "İstanbul",
+      "adres": "Maslak, Büyükdere Cd., 34485 Sarıyer/İstanbul",
+      "telefon": "",
+      "latitude": 41.1199185,
+      "longitude": 29.023928899999998
+    },
+    {
+      "isim": "Sahil Kamp İstanbul",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Sahilköy, Batu Sokak No:1, 34983 Şile/İstanbul",
+      "telefon": "0530 049 17 90",
+      "latitude": 41.210243399999996,
+      "longitude": 29.3986883
+    },
+    {
+      "isim": "Istanbul Jandarma Komutanligi",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "İstanbul",
+      "adres": "Şair Kesebir Cad., Beşiktaş/Istanbul - Europe",
+      "telefon": "0212 213 44 00",
+      "latitude": 41.0715034,
+      "longitude": 29.048604200000003
+    },
+    {
+      "isim": "İstanbul Cezaevi Jandarma Alay Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "İstanbul",
+      "adres": "15 Temmuz, Eski Edirne Asf. No:419, 34235 Esenler/İstanbul",
+      "telefon": "0212 538 16 95",
+      "latitude": 41.0781279,
+      "longitude": 28.8773415
+    },
+    {
+      "isim": "Orhaniye Askeri Gazinosu",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Yıldız, Palanga Cd., 34347 Beşiktaş/İstanbul",
+      "telefon": "",
+      "latitude": 41.0503175,
+      "longitude": 29.018815599999996
+    },
+    {
+      "isim": "Şemsipaşa Askeri Sosyal Tesisleri",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Aziz Mahmut Hüdayi, 34672 Üsküdar/İstanbul",
+      "telefon": "",
+      "latitude": 41.0246,
+      "longitude": 29.008340000000004
+    },
+    {
+      "isim": "Beykoz Askeri - Outdoor ve Avcılık Malzemeleri",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Yalıköy, Çayır Cd. No:1, 34820, 34820 Beykoz/İstanbul",
+      "telefon": "0551 033 04 34",
+      "latitude": 41.137790599999995,
+      "longitude": 29.0857565
+    },
+    {
+      "isim": "Başakşehir Askeri Gazinosu",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Başakşehir Askeri Lojmanları, Askerlik Şubesi, Basketbol Alanı, Başakşehir, Askeri Kışlası Çocuk Parkı, 34480 Başakşehir/İstanbul",
+      "telefon": "0212 426 66 77",
+      "latitude": 41.1139195,
+      "longitude": 28.786869799999998
+    },
+    {
+      "isim": "Başakşehir Askeri Gazino",
+      "tip": "Orduevi",
+      "il": "İstanbul",
+      "adres": "Başak, Ertuğrul Gazi Cd No:14, 34480 Başakşehir/İstanbul",
+      "telefon": "",
+      "latitude": 41.094265199999995,
+      "longitude": 28.8068462
+    },
+    {
+      "isim": "Konak Astsubay Orduevi Ek Bina",
+      "tip": "Orduevi",
+      "il": "İzmir",
+      "adres": "Yeşiltepe, Mithatpaşa Cd. No:43, 35260 Konak/İzmir",
+      "telefon": "",
+      "latitude": 38.414954099999996,
+      "longitude": 27.126367
+    },
+    {
+      "isim": "Alsancak astsubay orduevi otoparkı",
+      "tip": "Orduevi",
+      "il": "İzmir",
+      "adres": "Alsancak, 1480. Sk. No:5 D:1, 35220 Konak/İzmir",
+      "telefon": "",
+      "latitude": 38.438901099999995,
+      "longitude": 27.1429422
+    },
+    {
+      "isim": "Polis Evi Düğün Salonu",
+      "tip": "Polisevi",
+      "il": "İzmir",
+      "adres": "Yeşiltepe, 35360 Konak/İzmir",
+      "telefon": "",
+      "latitude": 38.412867999999996,
+      "longitude": 27.12165
+    },
+    {
+      "isim": "İzmir Dsi Misafirhanesi",
+      "tip": "DSİ Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Kazımdirik, Sanayi Cd. No:39 D:34, 35100 Bornova/İzmir",
+      "telefon": "",
+      "latitude": 38.4480222,
+      "longitude": 27.1972323
+    },
+    {
+      "isim": "Takav Tapu Ve Kadastro Vakfi Sosyal Tesisi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Bahçelievler, 1706. Sk. No:30, 35600 Karşıyaka/İzmir",
+      "telefon": "0232 367 26 25",
+      "latitude": 38.4644444,
+      "longitude": 27.1213889
+    },
+    {
+      "isim": "Ziraat Bankası Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Kültür, Talatpaşa Blv No:19, 35220 Konak/İzmir",
+      "telefon": "0232 464 78 15",
+      "latitude": 38.434120799999995,
+      "longitude": 27.1410111
+    },
+    {
+      "isim": "Tcdd Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Alsancak, Atatürk Cd. No: 412/ A, 35220 Konak/İzmir",
+      "telefon": "",
+      "latitude": 38.4397996,
+      "longitude": 27.147043399999998
+    },
+    {
+      "isim": "150. Yıl Ptt Misafirhanesi",
+      "tip": "PTT Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Çankaya, Mustafa Kemal Sahil Blv. No:363, 35280 Konak/İzmir",
+      "telefon": "0232 243 34 34",
+      "latitude": 38.4070207,
+      "longitude": 27.1031364
+    },
+    {
+      "isim": "Karayolları 2. Bölge Müdürlüğü Misafirhanesi",
+      "tip": "Karayolları Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Kazımdirik, Sanayi Cd. No:36, 35100 Bornova/İzmir",
+      "telefon": "",
+      "latitude": 38.4491741,
+      "longitude": 27.1945499
+    },
+    {
+      "isim": "YOL-İŞ Sendikası İzmir Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "Kahramanlar, Bozkurt Cd. No:34, 35230 Konak/İzmir",
+      "telefon": "0232 484 44 97",
+      "latitude": 38.42478800000001,
+      "longitude": 27.147541999999998
+    },
+    {
+      "isim": "Deü Sosyal Tesisleri",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Kültür, Cumhuriyet Blv 144-1, 35220 Konak/İzmir",
+      "telefon": "",
+      "latitude": 38.4309893,
+      "longitude": 27.137083999999998
+    },
+    {
+      "isim": "İzmir Büyükşehir Belediyesi Müyeser Turfan Geçici Erkek Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "Zübeyde Hanım, 7449. Sk. no:16, 35570 Karşıyaka/İzmir",
+      "telefon": "0232 293 63 18",
+      "latitude": 38.496683399999995,
+      "longitude": 27.1087556
+    },
+    {
+      "isim": "Maden İş Sendikası Misafirhanesi izmir",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Erzene, Yüzbaşı Ibrahim Hakkı Sk. NO:11 D:1A, 35040 Bornova/İzmir",
+      "telefon": "0232 374 55 45",
+      "latitude": 38.4694807,
+      "longitude": 27.224422399999998
+    },
+    {
+      "isim": "Karşıyaka Belediyesi Türkan Saylan Kız Öğrenci Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "Zübeyde Hanım, 7448/8. Sk. no:24, 35570 Karşıyaka/İzmir",
+      "telefon": "0232 361 11 82",
+      "latitude": 38.492118399999995,
+      "longitude": 27.107556
+    },
+    {
+      "isim": "Kent Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "Mavişehir, Caher Dudayev Blv No:42, 35590 Karşıyaka/İzmir",
+      "telefon": "",
+      "latitude": 38.474294,
+      "longitude": 27.076019
+    },
+    {
+      "isim": "İZMİR ADLİYESİ SOSYAL TESİSLERİ",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Adelet mah no 11/a adliye sarayı içi sosyol tesisler, Çınarlı, 35220 Bayraklı/İzmir",
+      "telefon": "0232 411 20 00",
+      "latitude": 38.448653799999995,
+      "longitude": 27.1754926
+    },
+    {
+      "isim": "E.Ü. Kit-Vak Hasta Ve Hasta Yakınları Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "Arkası 2 Nolu Yemekhane Karşısı, Kazımdirik, Ege Ünv. Ögrenci Köyü İç Yol, 35100 Bornova/İzmir",
+      "telefon": "0232 373 27 85",
+      "latitude": 38.4531286,
+      "longitude": 27.2130495
+    },
+    {
+      "isim": "İl Özel İdaresi Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Dokuz Eylül, 35425 Gaziemir/İzmir",
+      "telefon": "",
+      "latitude": 38.3214037,
+      "longitude": 27.1419668
+    },
+    {
+      "isim": "IZMIR HOTEL APPLICATIONS",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Mevlana, 1776. Sk. No:2 D:1A, 35050 Bornova/İzmir",
+      "telefon": "0232 339 83 73",
+      "latitude": 38.450164,
+      "longitude": 27.221360299999997
+    },
+    {
+      "isim": "Konuk evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "Kazımdirik, Ege Ünv. Ögrenci Köyü İç Yol No:9, 35100 Bornova/İzmir",
+      "telefon": "",
+      "latitude": 38.4531784,
+      "longitude": 27.212523899999997
+    },
+    {
+      "isim": "Cesme Marina Guest House",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Musalla, 1016. Sk. No:2/23, 35930 Çeşme/İzmir",
+      "telefon": "0533 748 93 49",
+      "latitude": 38.3204697,
+      "longitude": 26.300469099999997
+    },
+    {
+      "isim": "Kitvak - Abdulrezzak Sancak Hasta ve Hasta Yakınları Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "İnciraltı, Dokuz Eylül Ünv. Hst., 35330 Balçova/İzmir",
+      "telefon": "0232 412 87 00",
+      "latitude": 38.3939546,
+      "longitude": 27.0320233
+    },
+    {
+      "isim": "Maden işçileri konuk evi",
+      "tip": "Üniversite Konukevi",
+      "il": "İzmir",
+      "adres": "Erzene, Yüzbaşı Ibrahim Hakkı Sk. 11/A, 35000 Bornova/İzmir",
+      "telefon": "0232 374 55 45",
+      "latitude": 38.469079,
+      "longitude": 27.2253737
+    },
+    {
+      "isim": "jandarma kampı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "İzmir",
+      "adres": "jandarma kampı, Fatih, 35687 Foça/İzmir",
+      "telefon": "",
+      "latitude": 38.7395777,
+      "longitude": 26.784990200000003
+    },
+    {
+      "isim": "Narlıdere Military Casino",
+      "tip": "Kamu Misafirhanesi",
+      "il": "İzmir",
+      "adres": "No:, Altıevler, Merve Sk. No:8, 35320 Narlıdere/İzmir",
+      "telefon": "0232 238 39 59",
+      "latitude": 38.402198399999996,
+      "longitude": 26.9950554
     }
   ],
   "sosyal": [
