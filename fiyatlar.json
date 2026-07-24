@@ -1,15 +1,6 @@
 {
-  "not": "Yalnızca resmi kaynaklardan (il Emniyet Müdürlüğü / pol.tr) 2026 yılı yayımlanmış konaklama tarifeleri eklenmiştir. Kaynak bulunamayan tesisler bilerek yazılmamıştır. Aralıklar oda tiplerine göre min–max gecelik ücrettir (ek yatak satırları hariç). fiyat_kurum_personeli = teşkilat mensubu; fiyat_kamu_personeli = kamu personeli / konaklama ücreti; fiyat_sivil = onaylı misafir. Kesin ücret oda tipine göre değişir; rezervasyonda tesisle teyit edilmelidir.",
+  "not": "Yalnızca resmi kaynaklarda açıkça 2026 yılı belirtilmiş konaklama tarifeleri eklenmiştir. Kaynak bulunamayan veya yılı belirsiz/eski olan tesisler bilerek yazılmamıştır. Aralıklar oda tiplerine göre min–max gecelik ücrettir (ek yatak, kuaför, yemek satırları hariç). fiyat_kurum_personeli = teşkilat mensubu; fiyat_kamu_personeli = kamu personeli / konaklama ücreti; fiyat_sivil = onaylı misafir. Kesin ücret oda tipine göre değişir; rezervasyonda tesisle teyit edilmelidir.",
   "tesisler": [
-    {
-      "il": "Siirt",
-      "isim": "Siirt Polisevi",
-      "fiyat_sivil": "1.071 – 3.213 TL",
-      "fiyat_kamu_personeli": "765 – 2.295 TL",
-      "fiyat_kurum_personeli": "536 – 1.607 TL",
-      "kaynak": "https://www.siirt.pol.tr/siirt-polisevi-2026-yili-fiyat-listesi",
-      "gecerlilik": "19.01.2026 itibarıyla (konaklama vergisi dahil)"
-    },
     {
       "il": "Amasya",
       "isim": "Amasya Polisevi",
@@ -18,24 +9,6 @@
       "fiyat_kurum_personeli": "735 – 1.911 TL",
       "kaynak": "https://amasya.pol.tr/polisevi",
       "gecerlilik": "19.01.2026 itibarıyla (%2 konaklama vergisi dahil)"
-    },
-    {
-      "il": "Kars",
-      "isim": "Kars Polis Evi",
-      "fiyat_sivil": "2.999 – 3.898 TL",
-      "fiyat_kamu_personeli": "2.142 – 2.785 TL",
-      "fiyat_kurum_personeli": "1.499 – 1.949 TL",
-      "kaynak": "https://kars.pol.tr/polis-evi-sube-mudurlugu",
-      "gecerlilik": "2026 yılı ana hizmet binası oda ücretleri (%2 konaklama vergisi dahil)"
-    },
-    {
-      "il": "Sinop",
-      "isim": "Sinop Polisevi",
-      "fiyat_sivil": "1.260 – 5.145 TL",
-      "fiyat_kamu_personeli": "900 – 3.675 TL",
-      "fiyat_kurum_personeli": "630 – 2.573 TL",
-      "kaynak": "https://www.sinop.pol.tr/polisevi-sube-mudurlugu-fiyat-listesi",
-      "gecerlilik": "2026 yılı listesi; sayfada %2 konaklama vergisi HARİÇ belirtilmiştir (üzerine ayrıca vergi alınır)"
     },
     {
       "il": "Artvin",
@@ -47,22 +20,13 @@
       "gecerlilik": "2026 yılı oda ve yatak ücretleri"
     },
     {
-      "il": "Kastamonu",
-      "isim": "Kastamonu Polisevi",
-      "fiyat_sivil": "1.190 – 4.165 TL",
-      "fiyat_kamu_personeli": "850 – 2.975 TL",
-      "fiyat_kurum_personeli": "595 – 2.083 TL",
-      "kaynak": "https://www.kastamonu.pol.tr/polisevi-sube-mudurlugu",
-      "gecerlilik": "2026 yılı konaklama fiyat listesi (%2 konaklama vergisi dahil)"
-    },
-    {
-      "il": "Mardin",
-      "isim": "Mardin Polisevi",
-      "fiyat_sivil": "1.485 – 7.572 TL",
-      "fiyat_kamu_personeli": "1.061 – 5.409 TL",
-      "fiyat_kurum_personeli": "742 – 3.786 TL",
-      "kaynak": "https://www.mardin.pol.tr/polisevi-sube-mudurlugu",
-      "gecerlilik": "19.01.2026 itibarıyla uygulanan oda ve yatak ücretleri"
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Polisevi",
+      "fiyat_sivil": "1.498 – 6.713 TL",
+      "fiyat_kamu_personeli": "1.070 – 4.795 TL",
+      "fiyat_kurum_personeli": "749 – 3.357 TL",
+      "kaynak": "https://www.diyarbakir.pol.tr/diyarbakir-polisevi",
+      "gecerlilik": "2026 yılı Bağlar ana hizmet binası (%2 konaklama vergisi dahil)"
     },
     {
       "il": "Gaziantep",
@@ -81,6 +45,78 @@
       "fiyat_kurum_personeli": "742 – 3.785 TL",
       "kaynak": "https://karaman.pol.tr/polis-evi",
       "gecerlilik": "01.05.2026 itibarıyla (%1 konaklama vergisi dahil)"
+    },
+    {
+      "il": "Kars",
+      "isim": "Kars Polis Evi",
+      "fiyat_sivil": "2.999 – 3.898 TL",
+      "fiyat_kamu_personeli": "2.142 – 2.785 TL",
+      "fiyat_kurum_personeli": "1.499 – 1.949 TL",
+      "kaynak": "https://kars.pol.tr/polis-evi-sube-mudurlugu",
+      "gecerlilik": "2026 yılı ana hizmet binası oda ücretleri (%2 konaklama vergisi dahil)"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Polisevi",
+      "fiyat_sivil": "1.190 – 4.165 TL",
+      "fiyat_kamu_personeli": "850 – 2.975 TL",
+      "fiyat_kurum_personeli": "595 – 2.083 TL",
+      "kaynak": "https://www.kastamonu.pol.tr/polisevi-sube-mudurlugu",
+      "gecerlilik": "2026 yılı konaklama fiyat listesi (%2 konaklama vergisi dahil)"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Kırklareli Polisevi ve Yazlık Sosyal Tesisleri",
+      "fiyat_sivil": "1.260 – 3.780 TL",
+      "fiyat_kamu_personeli": "900 – 2.700 TL",
+      "fiyat_kurum_personeli": "630 – 1.890 TL",
+      "kaynak": "https://www.kirklareli.pol.tr/polis-evi",
+      "gecerlilik": "2026 konaklama fiyat listesi (%2 konaklama vergisi dahil)"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Polisevi",
+      "fiyat_sivil": "1.485 – 7.572 TL",
+      "fiyat_kamu_personeli": "1.061 – 5.409 TL",
+      "fiyat_kurum_personeli": "742 – 3.786 TL",
+      "kaynak": "https://www.mardin.pol.tr/polisevi-sube-mudurlugu",
+      "gecerlilik": "19.01.2026 itibarıyla"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Nevşehir Polisevi",
+      "fiyat_sivil": "1.400 – 4.300 TL",
+      "fiyat_kamu_personeli": "1.000 – 3.070 TL",
+      "fiyat_kurum_personeli": "700 – 2.150 TL",
+      "kaynak": "https://www.nevsehir.pol.tr/polis-evi",
+      "gecerlilik": "19.01.2026 itibarıyla (%2 konaklama vergisi dahil)"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Polisevi",
+      "fiyat_sivil": "1.071 – 3.213 TL",
+      "fiyat_kamu_personeli": "765 – 2.295 TL",
+      "fiyat_kurum_personeli": "536 – 1.607 TL",
+      "kaynak": "https://www.siirt.pol.tr/siirt-polisevi-2026-yili-fiyat-listesi",
+      "gecerlilik": "19.01.2026 itibarıyla (konaklama vergisi dahil)"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Polisevi",
+      "fiyat_sivil": "1.260 – 5.145 TL",
+      "fiyat_kamu_personeli": "900 – 3.675 TL",
+      "fiyat_kurum_personeli": "630 – 2.573 TL",
+      "kaynak": "https://www.sinop.pol.tr/polisevi-sube-mudurlugu-fiyat-listesi",
+      "gecerlilik": "2026 yılı listesi; sayfada %2 konaklama vergisi HARİÇ belirtilmiştir (üzerine ayrıca vergi alınır)"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Polisevi",
+      "fiyat_sivil": "1.470 – 5.145 TL",
+      "fiyat_kamu_personeli": "1.050 – 3.675 TL",
+      "fiyat_kurum_personeli": "735 – 2.573 TL",
+      "kaynak": "https://www.sanliurfa.pol.tr/sanliurfa-polisevi-sube-mudurlugu",
+      "gecerlilik": "19.01.2026 itibarıyla (%2 konaklama vergisi dahil)"
     }
   ]
 }
