@@ -10536,6 +10536,648 @@
       "isim": "Gendarmerie Military Officer's Club Casino Zonguldak",
       "adres": "Yayla, Liman Cd. No:12, 67030 Zonguldak Merkez/Zonguldak",
       "ilce": "Zonguldak Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne Orduevi",
+      "adres": "Sabuni, Talat Paşa Cd. No:145, 22100 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Polisevi",
+      "adres": "Babademirtaş, 22000 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "DSİ 11. Bölge Misafirhanesi ve Sosyal Tesisleri",
+      "adres": "İstasyon, 22100 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Trakya University Application Hotel",
+      "adres": "Koca Sinan, Trakya Ünv. Balkan Yerleşkesi, 22030 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "DSİ 11.Bölge Misafirhane Giriş Noktası",
+      "adres": "İstasyon, Fatih Sultan Mehmet Sk No:1, 22100 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Pera Konuk Evi",
+      "adres": "Karaağaç, Lozan Cd. No:21, 22100 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Armağan Dönertaş misafirhanesi TÜ",
+      "adres": "İskender, JJR8+GG, 22030 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Trakya Üniversitesi Ögrenci Sosyal Tesisleri",
+      "adres": "Karaağaç, Meriç Köprüsü, 22100 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Öğretmenevi Çay Bahçesi",
+      "adres": "Karaağaç Mh. Lozan Cd. 22050 Merkez Edirne, Karaağaç, 22100 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Devlet Su İşleri Misafirhanesi",
+      "adres": "Atatürk, Atatürk Blv No:1, 22030 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Ogretmenevi Lokali",
+      "adres": "Büyük Doğanca, Ali Çetinkol Sk. No:20, 22600 Meriç/Edirne",
+      "ilce": "Meriç"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Uzunköprü öğretmenevi ve Akşam Sanat Okulu HOŞ GELDİNİZ",
+      "adres": "Muradiye, 19 Mayıs Cd No:41, 22200 Uzunköprü/Edirne",
+      "ilce": "Uzunköprü"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne İl Jandarma",
+      "adres": "Atatürk, Jandarma Üstteğmen Ahmet Altın Cd. No:12, 22030 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Meriç Askeri Gazinosu",
+      "adres": "Karaağaç, 22050 Edirne Merkez/Edirne",
+      "ilce": "Edirne Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Teachers Elazig",
+      "adres": "Nail Bey, Hürriyet Cd. NO:3, 23000 Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Defterdarlığı Misafirhanesi",
+      "adres": "Elazığ Defterdarlığı Misafirhanesi, Çaydaçıra, Emsal Sk. No:6, 23100 Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ sağlık müdürlüğü misafirhane",
+      "adres": "Çaydaçıra, 23350 Elâzığ Merkez/Elazığ",
+      "ilce": "Elâzığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "DSi Misafirhanesi",
+      "adres": "Üniversite, DSİ 9. Bölge Md., 23200 Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ DSİ Misafirhanesi, 9. Bölge Müdürlüğü Sosyal Tesisleri",
+      "adres": "Yeşilyurt, Diyarbakır Bulvarı No:159/8, 23400 Akçakiraz/Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "TEİAŞ Misafirhanesi",
+      "adres": "Cumhuriyet, 23190 Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "İl Özel İdare Misafirhanesi",
+      "adres": "Üniversite, Emsal Sk., 23350 Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "ALİ ASLAN KONUK EVİ ELAZIĞ",
+      "adres": "İzzet Paşa, 9003. SOKAK NO:8/1, 23200 Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Belediyesi Sosyal Tesisleri",
+      "adres": "Hicret, 23050 Elâzığ Merkez/Elazığ",
+      "ilce": "Elâzığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Uygulama Oteli",
+      "adres": "Rüstem Paşa, Cahit Dalokay Blv. Turizm Meslek Lisesi Blok No:35/1, 23100 Elazığ Merkez/Elazığ",
+      "ilce": "Elazığ Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ il Jandarma",
+      "adres": "Sarayatik, 23100 Elâzığ Merkez/Elazığ",
+      "ilce": "Elâzığ Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan Merkez Öğretmenevi ve A.S.O",
+      "adres": "Fatih, Hacı Bektaş Veli Cd. No:2, 24100 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Cayirli Ogretmenevi ASO",
+      "adres": "Fatih, 717. Sk. No:2, 24100 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan Officer's House",
+      "adres": "Taksim, 13 Şubat Cd. No:112, 24050 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan Polis Evi",
+      "adres": "İnönü, Halit Paşa Cd., 24180 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "health guesthouses erzincan",
+      "adres": "Aile Sağlığı Merkezi, Mimar Sinan, 1167. Sk. No:2, 24000 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Dsi Misafirhanesi",
+      "adres": "İnönü, 11. Sk. No:14, 24180 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan Binali Yıldırım Üniversitesi Konukevi",
+      "adres": "Erzincan Binali Yıldırım Üniversitesi, Yalnızbağ, Yalnızbağ Yerleşkesi, 24002 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "misafirhane",
+      "adres": "İnönü, 30. Sk. No:26, 24180 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan belediyesi sosyal tesisler",
+      "adres": "Kurutilek, PFXH+P9, 24050 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan misafirhane",
+      "adres": "Fatih, PGW5+2RH, 24100 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan kamu misafirhaneleri",
+      "adres": "Fatih, PGW5+2RH, 24100 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan İl Jandarma Komutanlığı",
+      "adres": "Mengüceli, Halit Paşa Cd., 24170 Geçit/Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Demirkent Askeri Lojmanları ve Sosyal Tesisleri",
+      "adres": "Arslanlı, Milli Egemenlik Blv., 24050 Erzincan Merkez/Erzincan",
+      "ilce": "Erzincan Merkez"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Öğretmenevi",
+      "adres": "Lalapaşa, Çaykara Cd., 25100 Yakutiye/Erzurum",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Technical University Guest House",
+      "adres": "Ömer Nasuhi Bilmen Mah. Havaalanı Yolu Cad, Kız Öğrenci Yurdu, Abdurrahman Gazi, Karşısı Teknik Üniversitesi Kampüsü No:53, 25050 Yakutiye/Erzurum",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Teachers and Evening Art School Directorate",
+      "adres": "Lalapaşa, 25050 Gez Osb/Yakutiye/Erzurum",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Jandarma",
+      "adres": "Tuzcu Mh., Palandöken Yolu, 25080 Palandöken/Erzurum",
+      "ilce": "Palandöken"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum il sağlık müdürlüğü Hekimevi",
+      "adres": "Hüseyin Avni Ulaş, Atatürk Blv. No:198, 25070 Palandöken/Erzurum",
+      "ilce": "Palandöken"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Atatürk üniversitesi konukevi 3",
+      "adres": "Atalar, Mecidiye Sk. No:17, 25100 Yakutiye/Erzurum",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Ataturk University Vocational School",
+      "adres": "Atatürk Mh, Atatürk Üniversitesi Kampüsü, 25240 Yakutiye/Erzurum",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Maliye Bakanlığı Erzurum Defterdarlığı Konuk Evi",
+      "adres": "Gez Mh., 25050 Yakutiye/Erzurum",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Dedeman Uygulama Oteli",
+      "adres": "Yunusemre, 25430 Palandöken/Erzurum",
+      "ilce": "Palandöken"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Uzundere Öğretmenevi Ve Akşam Sanat Okulu",
+      "adres": "Merkez, Org. Siyami Taştan Cd. UZUNDERE ÖĞRETMENEVİ BLOK NO 4 İÇ KAPI NO 2, 25440 Uzundere/Erzurum",
+      "ilce": "Uzundere"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "TORTUM ÖĞRETMENEVİ VE ASO MÜDÜRLÜĞÜ",
+      "adres": "HALİTPAŞA MAH. İSTİKLAL CAD. NO: 58, Yavuz Sultan Selim, 25430 Tortum/Erzurum",
+      "ilce": "Tortum"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Pasinler Ogretmenevi Ve Aksam Sanat Okulu",
+      "adres": "Transit Cad., Erzurum Merkez, Erzurum, Muratpaşa, 25100 Yakutiye/Erzurum",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Il Jandarma Komutanligi",
+      "adres": "Şehit, Yunusemre, Org. Eşref Bitlis Blv. No:4, 25080 Palandöken/Erzurum",
+      "ilce": "Palandöken"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Palandöken askeri ordu kişlasi",
+      "adres": "Osman Bektaş, Atatürk Blv. No:147, 25080 Palandöken/Erzurum",
+      "ilce": "Palandöken"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Police House",
+      "adres": "Esentepe, Çevre Yolu No:358, 26210 Tepebaşı/Eskişehir",
+      "ilce": "Tepebaşı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Polis Evi",
+      "adres": "Esentepe, Polis Evi, 26210 Tepebaşı/Eskişehir",
+      "ilce": "Tepebaşı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Vergi Dairesi Başkanlığı Misafirhanesi",
+      "adres": "Gündoğdu, Kanalyanı Sk. No:5, 26100 Odunpazarı/Eskişehir",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Şeker Fabrikası Misafirhane Ve Lojmanları",
+      "adres": "Şeker, Şeker Fbr. Hst., 26120 Tepebaşı/Eskişehir",
+      "ilce": "Tepebaşı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Misafirhane",
+      "adres": "Kırmızıtoprak, 26010 Odunpazarı/Eskişehir",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Türkiye Diyanet Vakfı Eskişehir Sosyal Tesisi",
+      "adres": "Göztepe, Ertaylan Sk. No:12, 26060 Odunpazarı/Eskişehir",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Esogü Eğitim ve Uygulama Oteli",
+      "adres": "Meşelik Kampüsü, Büyükdere, Osmangazi Ünv., 26040 Odunpazarı/Eskişehir",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Gökçekaya HES Misafirhanesi",
+      "adres": "Sakarıkaracaören, 26850 Alpu/Eskişehir",
+      "ilce": "Alpu"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Odunpazarı İlçe Jandarma Komutanlığı",
+      "adres": "Çankaya, 26240 Odunpazarı/Eskişehir",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Askeri Gazino Mudurlugu",
+      "adres": "İstiklal, Reşadiye Cd. No:10, 26010 Odunpazarı/Eskişehir",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Şehitkamil Bahçesi Gaziantep Orduevi",
+      "adres": "Beyazlar, 27070 Şahinbey/Gaziantep",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Misafirhane",
+      "adres": "Alleben, Şair Baki Sk. No:27, 27010 Şahinbey/Gaziantep",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "DHMİ Gaziantep Hava Limanı Misafirhanesi",
+      "adres": "Sazgın, 27900 Oğuzeli/Gaziantep",
+      "ilce": "Oğuzeli"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "İkinci Bahar Konuk Evi",
+      "adres": "Kozluca, 27400 Şahinbey/Gaziantep",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Ezogelin Konuk Evi",
+      "adres": "millet bahcesi, Değirmiçem, İstasyon Cd. No:55, 27090, 27000 Şehitkamil/Gaziantep",
+      "ilce": "Şehitkamil"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Gaziantep Oğuzeli Öğretmenevi ve ASO",
+      "adres": "Fatih, Çiğdem Sk. No:12 Öğretmenevi, 27900 Oğuzeli/Gaziantep",
+      "ilce": "Oğuzeli"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Şahinbey Belediyesi Adil Özberk Sosyal Tesisi",
+      "adres": "Karataş, 103423. Sk., 27470 Şahinbey/Gaziantep",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Öğretmenevi",
+      "adres": "Karşıyaka, Hitit Blv., 27880 Karkamış/Gaziantep",
+      "ilce": "Karkamış"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Bozoklar Sosyal Tesisi",
+      "adres": "No:, Bozoklar, 95011 Sk. No:23, 27100 Şahinbey/Gaziantep",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "İl Jandarma K.lığı",
+      "adres": "Beyazlar, Ordu Cd. No:97, 27070 Şahinbey/Gaziantep",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Giresun",
+      "isim": "KEŞAP ÖĞRETMENEVİ VE ASO MÜDÜRLÜĞÜ",
+      "adres": "MAREŞAL, Bozkurt, Fevzi Çakmak Cd. NO 2, 28010 Keşap/Giresun",
+      "ilce": "Keşap"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Gresun Ogretmenevi ve Aksam Sanat Okulu",
+      "adres": "Kapu, Fevzi Paşa Cd. No:41, 28100 Giresun Merkez/Giresun",
+      "ilce": "Giresun Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun İl Jandarma Misafirhanesi",
+      "adres": "Kale, Kazancılar Sk. No:30, 28100 Giresun Merkez/Giresun",
+      "ilce": "Giresun Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun polisevi sosyal tesisleri",
+      "adres": "Teyyaredüzü, 28200 Giresun Merkez/Giresun",
+      "ilce": "Giresun Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Dsi Giresun Misafirhanesi",
+      "adres": "Çıtlakkale, 28200 Giresun Merkez/Giresun",
+      "ilce": "Giresun Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Uygulama Oteli",
+      "adres": "Erikliman, Kültür Sk., 28100 Giresun Merkez/Giresun",
+      "ilce": "Giresun Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Belediyesi Sosyal Tesisleri Kale",
+      "adres": "Kale, 28100 Giresun Merkez/Giresun",
+      "ilce": "Giresun Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Şebinkarahisar Orman İşletme Müdürlüğü Misafirhanesi",
+      "adres": "Bülbül, 28400 Şebinkarahisar/Giresun",
+      "ilce": "Şebinkarahisar"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Piraziz Ogretmenevi",
+      "adres": "Yeni, 28340 Piraziz/Giresun",
+      "ilce": "Piraziz"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Çamoluk Öğretmenevi ve Akşam Sanat Okulu (Hotel Çamoluk)",
+      "adres": "Şehit Üsteğmen Şerif, Kurtuluş, Aracı Caddesi, 28710 Çamoluk/Giresun",
+      "ilce": "Çamoluk"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Jandarma pilajı",
+      "adres": "Gaziler, 28200 Giresun Merkez/Giresun",
+      "ilce": "Giresun Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Gumushane Ogretmenevi",
+      "adres": "İnönü, İnönü Cd., 29000 Gümüşhane Merkez/Gümüşhane",
+      "ilce": "Gümüşhane Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Gümüşhane Jandarma Misafirhanesi",
+      "adres": "Karaer, Ziya Gökalp Cd. No:15, 29000 Gümüşhane Merkez/Gümüşhane",
+      "ilce": "Gümüşhane Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Gumushane Polis Evi",
+      "adres": "Karaer, Atatürk Cd. No:1, 29000 Gümüşhane Merkez/Gümüşhane",
+      "ilce": "Gümüşhane Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Gumushane Il Jandarma Komutanligi",
+      "adres": "Yeni mahalle kazım karabekir caddesi 1, Yeni, sokak no: 4, 29000 Gümüşhane Merkez/Gümüşhane",
+      "ilce": "Gümüşhane Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Gumushane University Directorate of Social Facilities",
+      "adres": "Üniversitesi Sağlık, Kültür ve Spor Daire Başkanlığı Sosyal Tesisler Müdürlüğü Bağlarbaşı Mah. Merkez/Gümüşhane, Bağlarbaşı, 29000 Gümüşhane Merkez/Gümüşhane",
+      "ilce": "Gümüşhane Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Gümüşhane İl Sağlık Müdürlüğü Misafirhanesi",
+      "adres": "Karaer, Lale Sk., 29000 Gümüşhane Merkez/Gümüşhane",
+      "ilce": "Gümüşhane Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Süleymaniye Uygulama Oteli Gümüşhane",
+      "adres": "Süleymaniye, Mevkii Küme Evleri, 29000 Gümüşhane Merkez/Gümüşhane",
+      "ilce": "Gümüşhane Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "HAKKARİ YENİ ÖĞRETMENEVİ",
+      "adres": "Dağgöl, Pagan Cd. No:1, 30000 Hakkâri Merkez/Hakkari",
+      "ilce": "Hakkâri Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Polis Evi",
+      "adres": "Bulak, Fidan Hanım Cd., 30000 Hakkâri Merkez/Hakkari",
+      "ilce": "Hakkâri Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Polisevi Kafeterya",
+      "adres": "Halife Derviş, Fidan Hanım Cd., 30000 Hakkâri Merkez/Hakkari",
+      "ilce": "Hakkâri Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "HAKKARİ İL ÖZEL İDARE MİSAFİRHANESİ",
+      "adres": "Sümbül, Recep Tayyip ERDOĞAN Bulvarı 117 Sk No:6, 30000 Hakkâri Merkez/Hakkari",
+      "ilce": "Hakkâri Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Yüksekova Polis Evi",
+      "adres": "İpek, 30300 Yüksekova/Hakkari",
+      "ilce": "Yüksekova"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Semdinli Ogretmenevi",
+      "adres": "Moda, Moda Cd. No:26, 30800 Şemdinli/Hakkari",
+      "ilce": "Şemdinli"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Arsuz Öğretmenevi",
+      "adres": "Gökmeydan, 31245 Arsuz/Hatay",
+      "ilce": "Arsuz"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Iskenderun Guest House for Teachers and Evening Art School",
+      "adres": "Modernevler, 290/1. Sokak No:4, 31200 İskenderun/Hatay",
+      "ilce": "İskenderun"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Dortyol Ogretmenevi ASO",
+      "adres": "Numune Evler, Abdi İpekçi Cd. No:5, 31600 Dörtyol/Hatay",
+      "ilce": "Dörtyol"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Yayladağ Öğretmenevi",
+      "adres": "Kurtuluş, Atatürk 13 Cad No:4-6, 31550 Yayladağı/Hatay",
+      "ilce": "Yayladağı"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Altinozu Ogretmenevi ASO",
+      "adres": "Sarılar, Hükümet Cd. No:31, 31750 Altınözü/Hatay",
+      "ilce": "Altınözü"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Polis Evi",
+      "adres": "Odabaşı, Atatürk Cd, 31001 Antakya/Hatay",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Liman Misafirhanesi",
+      "adres": "Çay, Beş Temmuz Cd., 31300 İskenderun/Hatay",
+      "ilce": "İskenderun"
+    },
+    {
+      "il": "Hatay",
+      "isim": "antakya KONUK EVİ OTEL",
+      "adres": "ZÜLÜHLÜ HAN MAH.SELİM SEYFETTİN BULVARI, AKYURT ABLOK, Serinyol, AKYURT ABLOK, 31000 Antakya/Hatay",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Büyük Şehir Belediyesi Habibi Neccar Sosyal Tesisi",
+      "adres": "Kardeşler, İzmir Cd. No:122, 31060 Antakya/Hatay",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Ulucinar Uygulama Oteli",
+      "adres": "Gözcüler, 99. Sk. No:1, 31245 Arsuz/Hatay",
+      "ilce": "Arsuz"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Kumlu Ogretmenler Lokali",
+      "adres": "Kışla Saray, İnönü Cd. No:2, 31070 Antakya/Hatay",
+      "ilce": "Antakya"
     }
   ]
 }
