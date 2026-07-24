@@ -11802,6 +11802,540 @@
       "isim": "Narlıdere Military Casino",
       "adres": "No:, Altıevler, Merve Sk. No:8, 35320 Narlıdere/İzmir",
       "ilce": "Narlıdere"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaras Ogretmenevi",
+      "adres": "İsmet Paşa, Zübeyde Hanım Blv. No:22, 46100 Dulkadiroğlu/Kahramanmaraş",
+      "ilce": "Dulkadiroğlu"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Dsi 20.Bölge Müdürlüğü Misafirhanesi",
+      "adres": "Erkenez, Recep Tayyip Erdoğan Blv. No:114, 46080 Merkez/Dulkadiroğlu/Kahramanmaraş",
+      "ilce": "Dulkadiroğlu"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaraş İl Sağlık Müdürlüğü Misafirhanesi ve yanı ise Halk Sağlığı Hizmetleri Başkanlığı",
+      "adres": "Selçuklu, 58001. Sk. No:19, 46050 Kahramanmaraş Merkez/Kahramanmaraş",
+      "ilce": "Kahramanmaraş Merkez"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "K.MARAŞ İLİM YAYMA CEMİYETİ ERKEK KONUKEVİ",
+      "adres": "İsmet Paşa, Gazeteci Ali Çelik Sk. No:25, 46100 Kahramanmaraş Merkez/Kahramanmaraş",
+      "ilce": "Kahramanmaraş Merkez"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaras Sutcu Imam Universitesi Meslek Yuksek Okulu",
+      "adres": "Sütçü İmam Ünv. Karacasu Kampüsü, Karacasu Kırım, 46000 Kahramanmaraş Merkez/Kahramanmaraş",
+      "ilce": "Kahramanmaraş Merkez"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaraş İl Jandarma Komutanlığı",
+      "adres": "Üngüt, Prof. Dr. Necmettin Erbakan Blv, 46050 Onikişubat/Kahramanmaraş",
+      "ilce": "Onikişubat"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Karabük Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Yeşil, Taşkent Cd. No:32, 78200 Karabük Merkez/Karabük",
+      "ilce": "Karabük Merkez"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Karabük Provincial Gendarmerie Command",
+      "adres": "Kılavuzlar, Kastamonu Yolu, 78100 Karabük Merkez/Karabük",
+      "ilce": "Karabük Merkez"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Karabük Üniversitesi Sosyal Tesisleri",
+      "adres": "Babasultan, 78600 Safranbolu/Karabük",
+      "ilce": "Safranbolu"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Safranbolu Kml Uygulama Oteli",
+      "adres": "Bağlarbaşı, Hacı Bey Sk., 78600 Safranbolu/Karabük",
+      "ilce": "Safranbolu"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Karaman Merkez Öğretmenevi ve A.S.O Müdürlüğü",
+      "adres": "Fenari, Kazım Karabekir Paşa Cd. No:29, 70100 Karaman Merkez/Karaman",
+      "ilce": "Karaman Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Karaman Jandarma Sosyal Tesis Müdürlüğü",
+      "adres": "Ziya Gökalp, Ahmet Yesevi Cd., 70500 Karaman Merkez/Karaman",
+      "ilce": "Karaman Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Karaman İl Jandarma Komutanlığı",
+      "adres": "Çeltek, Kurtderesi Köyü Yolu, 70000 Kurtderesi/Karaman Merkez/Karaman",
+      "ilce": "Karaman Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Police House",
+      "adres": "Cumhuriyet, 70100 Karaman Merkez/Karaman",
+      "ilce": "Karaman Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Jandarma Lojmanları",
+      "adres": "Ziya Gökalp, Ahmet Yesevi Cd. No:2, 70200 Karaman Merkez/Karaman",
+      "ilce": "Karaman Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Ermenek Konukevi",
+      "adres": "Seyran, Fincantepesi mevkii No:1/1, 70400 Ermenek/Karaman",
+      "ilce": "Ermenek"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Hatuniye Uygulama Oteli",
+      "adres": "Elmaşehir, 70200 Karaman Merkez/Karaman",
+      "ilce": "Karaman Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "İlim Yayma Cemiyeti Necip Fazıl Kısakürek Yüksek Öğretim Erkek Öğrenci Konukevi",
+      "adres": "Külhan, 2. İstasyon Cd. No:21, 70100 Karaman Merkez/Karaman",
+      "ilce": "Karaman Merkez"
+    },
+    {
+      "il": "Kars",
+      "isim": "Kars Hekimevi",
+      "adres": "Örnek, A. Gaffar Okkan Blv. No:113 A BLOK, 36000 Kars Merkez/Kars",
+      "ilce": "Kars Merkez"
+    },
+    {
+      "il": "Kars",
+      "isim": "Kars Kafkas University Inn",
+      "adres": "Paşaçayırı, 36000 Cumhuriyet/Kars Merkez/Kars",
+      "ilce": "Kars Merkez"
+    },
+    {
+      "il": "Kars",
+      "isim": "Kars Şeker Fabrikası Misafirhane",
+      "adres": "Yenişehir, Kars Şeker Fbr., 36000 Kars Merkez/Kars",
+      "ilce": "Kars Merkez"
+    },
+    {
+      "il": "Kars",
+      "isim": "MAVI LADIN KONUKEVI",
+      "adres": "Yusufpaşa, Banka Sk. No:8, 36000 Kars Merkez/Kars",
+      "ilce": "Kars Merkez"
+    },
+    {
+      "il": "Kars",
+      "isim": "kars beylerbeyi sarayı (konukevi)",
+      "adres": "Kaleiçi, 36000 Kars Merkez/Kars",
+      "ilce": "Kars Merkez"
+    },
+    {
+      "il": "Kars",
+      "isim": "Merkez İlçe Jandarma Komutanlığı",
+      "adres": "Yeni, Haydar Aliyev Cd. No:141, 36000 Kars Merkez/Kars",
+      "ilce": "Kars Merkez"
+    },
+    {
+      "il": "Kars",
+      "isim": "Jandarma",
+      "adres": "Fevziçakmak, Gündüz Sk., 36000 Kars Merkez/Kars",
+      "ilce": "Kars Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Jandarma Sosyal Tesisleri",
+      "adres": "Cebrail, 37200 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Sosyal Tesisler",
+      "adres": "Kuzeykent, 37150 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu İl Jandarma Komutanlığı",
+      "adres": "İsmail Bey Mahallesi İnebolu Caddesi No :1 Kastamonu/Merkez, İnönü, 37100 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Ilgaz Askeri Misafirhanesi",
+      "adres": "37210 Bostan/Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu University Inn Mevlüt Beyribey",
+      "adres": "Kuzeykent Kampüsü, Kuzeykent, Kastamonu Ünv., 37100 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Merkez İlçe Jandarma Komutanlığı",
+      "adres": "Kuzeykent, Miralay Halitbey Cd. No:20, 37150 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Police House",
+      "adres": "Saraçlar, 37100 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "5. Gendarmerie Training Alai",
+      "adres": "Kuzeykent, 37210 Gölköy/Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Karayolları Bölge Misafirhanesi",
+      "adres": "İnönü, Alaz Sk. No:3, 37150 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Dsi yeni misafirhanesi",
+      "adres": "İnönü, Alparslan Türkeş Blv., 37150 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "İl Özel İdaresi Sosyal Tesisleri",
+      "adres": "Candaroğulları, İl Özel İdare İç Yolu, 37150 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Üniversitesi Parlayan Yıldız Uygulama Konukevi",
+      "adres": "Kuzeykent, Orgeneral Atilla Ateş Paşa Cd. No: 15/A, 37150 Kastamonu Merkez/Kastamonu",
+      "ilce": "Kastamonu Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Arac Ogretmenevi ve ASO Müdürlüğü",
+      "adres": "Çay, kemal çapraz sok no-12, 37800 Araç/Kastamonu",
+      "ilce": "Araç"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "çatalzeytin öğretmenevi",
+      "adres": "Merkez, Yeni Sanayi Sitesi Cd. 18/A, 37942 Çatalzeytin/Kastamonu",
+      "ilce": "Çatalzeytin"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Inebolu Ogretmenevi ASO",
+      "adres": "Camikebir, Zafer Yolu Cd. no: 16, 37500 İnebolu/Kastamonu",
+      "ilce": "İnebolu"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Doğanyurt Öğretmenevi",
+      "adres": "MERKEZ MAH. KEMAL SARUL CAD. NO 22, Merkez, İÇ KAPI NO 2, 37552 Doğanyurt/Kastamonu",
+      "ilce": "Doğanyurt"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Pinarbasi Ogretmenevi",
+      "adres": "Fatih, Atatürk Cd. No:10, 37770 Pınarbaşı/Kastamonu",
+      "ilce": "Pınarbaşı"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Polis Evi",
+      "adres": "Erenköy, Erciyes Cad., 38050 Melikgazi/Kayseri",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Misafirhanesi",
+      "adres": "Barbaros, Depo Cd., 38100 Kocasinan/Kayseri",
+      "ilce": "Kocasinan"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Dsi Misafirhanesi Kayseri",
+      "adres": "Sanayi, 38010 Kocasinan/Kayseri",
+      "ilce": "Kocasinan"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Tarım Orman Genel Müdürlüğü misafirhanesi (yeni)",
+      "adres": "Erciyesevler, Bozantı Cd. No:204, 38020 Kocasinan/Kayseri",
+      "ilce": "Kocasinan"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Karayolları 6.Bölge Müdürlüğü Sosyal Tesisleri",
+      "adres": "Alsancak, 6201. Sk No:4, 38110, 38110 Kocasinan/Kayseri",
+      "ilce": "Kocasinan"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Misafirhane Teiaş",
+      "adres": "Şeker, Osman Kavuncu Blv., 38030 Melikgazi/Kayseri",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "MEMURLAR KONUKEVİ",
+      "adres": "Gülük Mahallesi Osman Kavuncu Caddesi, Gülük, Bozatlı Sk. No:4, 38070 Melikgazi/Kayseri",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Caseria Butik Konuk Evi",
+      "adres": "Sahabiye, Mete Cd. No:6, 38010 Kocasinan/Kayseri",
+      "ilce": "Kocasinan"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Erciyes Üniv. Talas Konuk Evi ve restourant cafe",
+      "adres": "Yukarı, Atatürk Blv. No:291, 38280 Talas/Kayseri",
+      "ilce": "Talas"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Vatan KonukEvi",
+      "adres": "Tacettin Veli, 38050 Melikgazi/Kayseri",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "University of Erciyes",
+      "adres": "Köşk Mahallesi Erciyes Üniversitesi Ana Kampüs Fuat Sezgin Caddesi, Köşk, 38140 Melikgazi/Kayseri",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri il jandarma komutanlığı",
+      "adres": "Yenidoğan, Hoca Ahmet Yesevi Cd., 38280 Talas/Kayseri",
+      "ilce": "Talas"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Köşk Kışlası, Küme Evleri Askeri Lojman",
+      "adres": "Köşk, 38030 Melikgazi/Kayseri",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Sahil Orduevi",
+      "adres": "20 Temmuz Kordonboyu Caddesi 38, Girne 99300",
+      "ilce": "Girne"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Ortaköy Askeri gazino",
+      "adres": "EURO CENTER, Ali Rıza Efendi Cd 8, Ortaköy 99010",
+      "ilce": "Ortaköy"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Değirmenlik Orduevi",
+      "adres": "6FRG+G9, Kythrea 99050",
+      "ilce": "Kythrea"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Kktc Yenişehir Misafirhanesi",
+      "adres": "Şehit Ecvet Yusuf Caddesi, Lefkoşa 99010",
+      "ilce": "Lefkoşa"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "METU NCC Guest House",
+      "adres": "ODTÜ Kuzey Kampüsü Misafirhane, Güzelyurt KKTC, 62WJ+P7C, Kalkanlı 99750",
+      "ilce": "Kalkanlı"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Türkiye Emekli Subaylar Dern. Fahri Çeliker Misafirhanesi",
+      "adres": "Cemal Gürsel Cd 54, Girne 99300",
+      "ilce": "Girne"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Haydarpaşa Ticaret Lisesi Turizm Uygulama Oteli",
+      "adres": "Trachonas 99010",
+      "ilce": "Trachonas"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Güzelyurt Askeri Gazino Müdürlüğü",
+      "adres": "Şehit Yavuz Sokak Güzelyurt/KKTC (49'uncu P.A. Askeri Katin Karşısı Güzelyurt, KKTC 99700",
+      "ilce": "KKTC"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Gülseren Askeri Gazino",
+      "adres": "4WQJ+FQ5, Famagusta 99450",
+      "ilce": "Gazimağusa"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Yedidalga askeri gazino",
+      "adres": "4QXX+RX5, Ecevit Cd, Gemikonağı 99810",
+      "ilce": "Gemikonağı"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Cyprus Turkish Armed Forces Military Market",
+      "adres": "59R4+HW5, Nicosia 99010",
+      "ilce": "Nicosia"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Yeşilyurt Askeri Kantin",
+      "adres": "asker kantin, Yeşilyurt 99790",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Kilis",
+      "isim": "KİLİS ÖĞRETMENEVİ VE ASO MÜDÜRLÜĞÜ",
+      "adres": "EKREM ÇETİN MAH PROF.DR. ALİ GÖRPE CAD. NO: 4, İÇ KAPI, Ekrem Çetin, NO: 101, 79000 Kilis Merkez/Kilis",
+      "ilce": "Kilis Merkez"
+    },
+    {
+      "il": "Kilis",
+      "isim": "commander of the gendarmerie",
+      "adres": "Gaziler, Mercidabık Cd., 79000 Kilis Merkez/Kilis",
+      "ilce": "Kilis Merkez"
+    },
+    {
+      "il": "Kilis",
+      "isim": "İl Jandarma Komutanlığı",
+      "adres": "Ekrem Çetin, Istiklal Cd, 79000 Kilis Merkez/Kilis",
+      "ilce": "Kilis Merkez"
+    },
+    {
+      "il": "Kilis",
+      "isim": "Kara Kuvvetleri Misafirhanesi",
+      "adres": "Yaşar Aktürk, Vatan Cd. No:4, 79000 Kilis Merkez/Kilis",
+      "ilce": "Kilis Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Kırıkkale Merkez Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "adres": "Fabrikalar, 6. Sk. No:1, 71100 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Keskin Ogretmenevi",
+      "adres": "Osmangazi, Yozgat Cad. No:2, 71400 Keskin/Kırıkkale",
+      "ilce": "Keskin"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Sancak Tepe Askeri Gazinosu",
+      "adres": "Fabrikalar, 71100 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Jandarma sosyal tesis",
+      "adres": "Yenimahalle, 71100 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Kirikkale Il Jandarma Komutanligi",
+      "adres": "Bağlarbaşı, Başkent Bulvarı No:4 Merkez, 71000 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Mke Misafirhanesi",
+      "adres": "Fabrikalar, 10. Sk. No:7, 71100 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Dsi Misafirhanesi",
+      "adres": "Bayraktepe, 71450 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Kırıkkale İl Mer. Jandarma Komutanlığı",
+      "adres": "Yenimahalle, Cemal Gürsel Cd., 71100 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "Kırıkkale Belediyesi Sosyal Tesisleri",
+      "adres": "Yaylacık, Kırıkkale Belediyesi Sosyal Tesisleri, 71100 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırıkkale",
+      "isim": "mke sosyal tesisleri",
+      "adres": "Fabrikalar, 10. Sk. No:10, 71100 Kırıkkale Merkez/Kırıkkale",
+      "ilce": "Kırıkkale Merkez"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Kırklareli Öğretmenevi",
+      "adres": "Demirtaş, Mehmet Akif Cd. No:1, 39000 Kırklareli Merkez/Kırklareli",
+      "ilce": "Kırklareli Merkez"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Polisevi",
+      "adres": "Karacaibrahim, Fevzi Çakmak Blv. No:7, 39000 Kırklareli Merkez/Kırklareli",
+      "ilce": "Kırklareli Merkez"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Kırklareli DSİ Misafirhane",
+      "adres": "İstasyon Mah. Edirne Caddesi No:17/EDevlet, Su İşleri, Karakaş, 39100 Kırklareli Merkez/Kırklareli",
+      "ilce": "Kırklareli Merkez"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Lara Guest House",
+      "adres": "Güven, gül sokak No:13, 39400 Kıyıköy/Vize/Kırıkkale",
+      "ilce": "Vize"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Ata Konuk Evi",
+      "adres": "Güven, 39400 Kıyıköy/Vize/Kırklareli",
+      "ilce": "Vize"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Givenchy Clothing Free Shipping Outlet",
+      "adres": "Bademlik, 299. Sk. No: 26, 39000 Kırklareli Merkez/Kırklareli",
+      "ilce": "Kırklareli Merkez"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Jandarma sosyal tesisleri",
+      "adres": "Karacaibrahim, 39000 Kırklareli Merkez/Kırklareli",
+      "ilce": "Kırklareli Merkez"
+    },
+    {
+      "il": "Kırklareli",
+      "isim": "Askeri Gazino",
+      "adres": "No:, Karacaibrahim, Fevzi Çakmak Blv. No:1, 39000 Kırklareli Merkez/Kırklareli",
+      "ilce": "Kırklareli Merkez"
     }
   ]
 }

@@ -42999,6 +42999,807 @@
       "telefon": "0232 238 39 59",
       "latitude": 38.402198399999996,
       "longitude": 26.9950554
+    },
+    {
+      "isim": "Kahramanmaras Ogretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Kahramanmaraş",
+      "adres": "İsmet Paşa, Zübeyde Hanım Blv. No:22, 46100 Dulkadiroğlu/Kahramanmaraş",
+      "telefon": "0344 225 55 80",
+      "latitude": 37.5759434,
+      "longitude": 36.9292933
+    },
+    {
+      "isim": "Dsi 20.Bölge Müdürlüğü Misafirhanesi",
+      "tip": "DSİ Misafirhanesi",
+      "il": "Kahramanmaraş",
+      "adres": "Erkenez, Recep Tayyip Erdoğan Blv. No:114, 46080 Merkez/Dulkadiroğlu/Kahramanmaraş",
+      "telefon": "0344 236 00 80",
+      "latitude": 37.538960599999996,
+      "longitude": 36.9797659
+    },
+    {
+      "isim": "Kahramanmaraş İl Sağlık Müdürlüğü Misafirhanesi ve yanı ise Halk Sağlığı Hizmetleri Başkanlığı",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kahramanmaraş",
+      "adres": "Selçuklu, 58001. Sk. No:19, 46050 Kahramanmaraş Merkez/Kahramanmaraş",
+      "telefon": "",
+      "latitude": 37.5915618,
+      "longitude": 36.894939799999996
+    },
+    {
+      "isim": "K.MARAŞ İLİM YAYMA CEMİYETİ ERKEK KONUKEVİ",
+      "tip": "Üniversite Konukevi",
+      "il": "Kahramanmaraş",
+      "adres": "İsmet Paşa, Gazeteci Ali Çelik Sk. No:25, 46100 Kahramanmaraş Merkez/Kahramanmaraş",
+      "telefon": "",
+      "latitude": 37.5782272,
+      "longitude": 36.9318364
+    },
+    {
+      "isim": "Kahramanmaras Sutcu Imam Universitesi Meslek Yuksek Okulu",
+      "tip": "Üniversite Misafirhanesi",
+      "il": "Kahramanmaraş",
+      "adres": "Sütçü İmam Ünv. Karacasu Kampüsü, Karacasu Kırım, 46000 Kahramanmaraş Merkez/Kahramanmaraş",
+      "telefon": "0344 300 24 00",
+      "latitude": 37.519177,
+      "longitude": 36.9978329
+    },
+    {
+      "isim": "Kahramanmaraş İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kahramanmaraş",
+      "adres": "Üngüt, Prof. Dr. Necmettin Erbakan Blv, 46050 Onikişubat/Kahramanmaraş",
+      "telefon": "0344 211 08 90",
+      "latitude": 37.6005539,
+      "longitude": 36.83244760000001
+    },
+    {
+      "isim": "Karabük Öğretmenevi ve Akşam Sanat Okulu",
+      "tip": "Öğretmenevi",
+      "il": "Karabük",
+      "adres": "Yeşil, Taşkent Cd. No:32, 78200 Karabük Merkez/Karabük",
+      "telefon": "0506 107 17 78",
+      "latitude": 41.2031351,
+      "longitude": 32.6271197
+    },
+    {
+      "isim": "Karabük Provincial Gendarmerie Command",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Karabük",
+      "adres": "Kılavuzlar, Kastamonu Yolu, 78100 Karabük Merkez/Karabük",
+      "telefon": "0370 433 75 47",
+      "latitude": 41.215934,
+      "longitude": 32.659569999999995
+    },
+    {
+      "isim": "Karabük Üniversitesi Sosyal Tesisleri",
+      "tip": "Üniversite Misafirhanesi",
+      "il": "Karabük",
+      "adres": "Babasultan, 78600 Safranbolu/Karabük",
+      "telefon": "",
+      "latitude": 41.2448605,
+      "longitude": 32.6956585
+    },
+    {
+      "isim": "Safranbolu Kml Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Karabük",
+      "adres": "Bağlarbaşı, Hacı Bey Sk., 78600 Safranbolu/Karabük",
+      "telefon": "",
+      "latitude": 41.2638459,
+      "longitude": 32.669849299999996
+    },
+    {
+      "isim": "Karaman Merkez Öğretmenevi ve A.S.O Müdürlüğü",
+      "tip": "Öğretmenevi",
+      "il": "Karaman",
+      "adres": "Fenari, Kazım Karabekir Paşa Cd. No:29, 70100 Karaman Merkez/Karaman",
+      "telefon": "0541 780 24 11",
+      "latitude": 37.1863177,
+      "longitude": 33.219304799999996
+    },
+    {
+      "isim": "Karaman Jandarma Sosyal Tesis Müdürlüğü",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Karaman",
+      "adres": "Ziya Gökalp, Ahmet Yesevi Cd., 70500 Karaman Merkez/Karaman",
+      "telefon": "0338 212 11 44",
+      "latitude": 37.1731106,
+      "longitude": 33.2237741
+    },
+    {
+      "isim": "Karaman İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Karaman",
+      "adres": "Çeltek, Kurtderesi Köyü Yolu, 70000 Kurtderesi/Karaman Merkez/Karaman",
+      "telefon": "0338 212 95 00",
+      "latitude": 37.168622899999995,
+      "longitude": 33.193827
+    },
+    {
+      "isim": "Police House",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Karaman",
+      "adres": "Cumhuriyet, 70100 Karaman Merkez/Karaman",
+      "telefon": "0338 212 47 26",
+      "latitude": 37.188781,
+      "longitude": 33.229005799999996
+    },
+    {
+      "isim": "Jandarma Lojmanları",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Karaman",
+      "adres": "Ziya Gökalp, Ahmet Yesevi Cd. No:2, 70200 Karaman Merkez/Karaman",
+      "telefon": "",
+      "latitude": 37.172967799999995,
+      "longitude": 33.2236353
+    },
+    {
+      "isim": "Ermenek Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "Karaman",
+      "adres": "Seyran, Fincantepesi mevkii No:1/1, 70400 Ermenek/Karaman",
+      "telefon": "0536 718 63 93",
+      "latitude": 36.6339495,
+      "longitude": 32.906777700000006
+    },
+    {
+      "isim": "Hatuniye Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Karaman",
+      "adres": "Elmaşehir, 70200 Karaman Merkez/Karaman",
+      "telefon": "0338 217 02 17",
+      "latitude": 37.1511717,
+      "longitude": 33.2409928
+    },
+    {
+      "isim": "İlim Yayma Cemiyeti Necip Fazıl Kısakürek Yüksek Öğretim Erkek Öğrenci Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "Karaman",
+      "adres": "Külhan, 2. İstasyon Cd. No:21, 70100 Karaman Merkez/Karaman",
+      "telefon": "0545 771 08 51",
+      "latitude": 37.1854668,
+      "longitude": 33.2146715
+    },
+    {
+      "isim": "Kars Hekimevi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kars",
+      "adres": "Örnek, A. Gaffar Okkan Blv. No:113 A BLOK, 36000 Kars Merkez/Kars",
+      "telefon": "",
+      "latitude": 40.5865173,
+      "longitude": 43.090804999999996
+    },
+    {
+      "isim": "Kars Kafkas University Inn",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kars",
+      "adres": "Paşaçayırı, 36000 Cumhuriyet/Kars Merkez/Kars",
+      "telefon": "",
+      "latitude": 40.578208599999996,
+      "longitude": 43.0416528
+    },
+    {
+      "isim": "Kars Şeker Fabrikası Misafirhane",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kars",
+      "adres": "Yenişehir, Kars Şeker Fbr., 36000 Kars Merkez/Kars",
+      "telefon": "",
+      "latitude": 40.5757573,
+      "longitude": 43.099661399999995
+    },
+    {
+      "isim": "MAVI LADIN KONUKEVI",
+      "tip": "Üniversite Konukevi",
+      "il": "Kars",
+      "adres": "Yusufpaşa, Banka Sk. No:8, 36000 Kars Merkez/Kars",
+      "telefon": "0532 616 24 62",
+      "latitude": 40.606563,
+      "longitude": 43.092486099999995
+    },
+    {
+      "isim": "kars beylerbeyi sarayı (konukevi)",
+      "tip": "Üniversite Konukevi",
+      "il": "Kars",
+      "adres": "Kaleiçi, 36000 Kars Merkez/Kars",
+      "telefon": "",
+      "latitude": 40.612099099999995,
+      "longitude": 43.0920642
+    },
+    {
+      "isim": "Merkez İlçe Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kars",
+      "adres": "Yeni, Haydar Aliyev Cd. No:141, 36000 Kars Merkez/Kars",
+      "telefon": "0474 223 22 63",
+      "latitude": 40.5992721,
+      "longitude": 43.100534100000004
+    },
+    {
+      "isim": "Jandarma",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kars",
+      "adres": "Fevziçakmak, Gündüz Sk., 36000 Kars Merkez/Kars",
+      "telefon": "",
+      "latitude": 40.604053,
+      "longitude": 43.078095
+    },
+    {
+      "isim": "Jandarma Sosyal Tesisleri",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kastamonu",
+      "adres": "Cebrail, 37200 Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.376289799999995,
+      "longitude": 33.778929999999995
+    },
+    {
+      "isim": "Sosyal Tesisler",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kastamonu",
+      "adres": "Kuzeykent, 37150 Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.4237446,
+      "longitude": 33.7698949
+    },
+    {
+      "isim": "Kastamonu İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kastamonu",
+      "adres": "İsmail Bey Mahallesi İnebolu Caddesi No :1 Kastamonu/Merkez, İnönü, 37100 Kastamonu Merkez/Kastamonu",
+      "telefon": "0366 214 10 63",
+      "latitude": 41.3884188,
+      "longitude": 33.7775215
+    },
+    {
+      "isim": "Ilgaz Askeri Misafirhanesi",
+      "tip": "Orduevi",
+      "il": "Kastamonu",
+      "adres": "37210 Bostan/Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.0762007,
+      "longitude": 33.7304795
+    },
+    {
+      "isim": "Kastamonu University Inn Mevlüt Beyribey",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kastamonu",
+      "adres": "Kuzeykent Kampüsü, Kuzeykent, Kastamonu Ünv., 37100 Kastamonu Merkez/Kastamonu",
+      "telefon": "0366 280 32 00",
+      "latitude": 41.424259,
+      "longitude": 33.7692152
+    },
+    {
+      "isim": "Kastamonu Merkez İlçe Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kastamonu",
+      "adres": "Kuzeykent, Miralay Halitbey Cd. No:20, 37150 Kastamonu Merkez/Kastamonu",
+      "telefon": "0366 214 10 63",
+      "latitude": 41.4166427,
+      "longitude": 33.7813674
+    },
+    {
+      "isim": "Police House",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kastamonu",
+      "adres": "Saraçlar, 37100 Kastamonu Merkez/Kastamonu",
+      "telefon": "0505 318 37 03",
+      "latitude": 41.36,
+      "longitude": 33.7563889
+    },
+    {
+      "isim": "5. Gendarmerie Training Alai",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kastamonu",
+      "adres": "Kuzeykent, 37210 Gölköy/Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.4482199,
+      "longitude": 33.7624163
+    },
+    {
+      "isim": "Karayolları Bölge Misafirhanesi",
+      "tip": "Karayolları Misafirhanesi",
+      "il": "Kastamonu",
+      "adres": "İnönü, Alaz Sk. No:3, 37150 Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.4116796,
+      "longitude": 33.7919672
+    },
+    {
+      "isim": "Dsi yeni misafirhanesi",
+      "tip": "DSİ Misafirhanesi",
+      "il": "Kastamonu",
+      "adres": "İnönü, Alparslan Türkeş Blv., 37150 Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.404407299999995,
+      "longitude": 33.785033999999996
+    },
+    {
+      "isim": "İl Özel İdaresi Sosyal Tesisleri",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kastamonu",
+      "adres": "Candaroğulları, İl Özel İdare İç Yolu, 37150 Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.399007,
+      "longitude": 33.779283899999996
+    },
+    {
+      "isim": "Kastamonu Üniversitesi Parlayan Yıldız Uygulama Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "Kastamonu",
+      "adres": "Kuzeykent, Orgeneral Atilla Ateş Paşa Cd. No: 15/A, 37150 Kastamonu Merkez/Kastamonu",
+      "telefon": "",
+      "latitude": 41.4317645,
+      "longitude": 33.767458999999995
+    },
+    {
+      "isim": "Kastamonu Arac Ogretmenevi ve ASO Müdürlüğü",
+      "tip": "Öğretmenevi",
+      "il": "Kastamonu",
+      "adres": "Çay, kemal çapraz sok no-12, 37800 Araç/Kastamonu",
+      "telefon": "0505 238 09 01",
+      "latitude": 41.237703599999996,
+      "longitude": 33.3197712
+    },
+    {
+      "isim": "çatalzeytin öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Kastamonu",
+      "adres": "Merkez, Yeni Sanayi Sitesi Cd. 18/A, 37942 Çatalzeytin/Kastamonu",
+      "telefon": "0366 516 19 89",
+      "latitude": 41.950855,
+      "longitude": 34.226659
+    },
+    {
+      "isim": "Inebolu Ogretmenevi ASO",
+      "tip": "Öğretmenevi",
+      "il": "Kastamonu",
+      "adres": "Camikebir, Zafer Yolu Cd. no: 16, 37500 İnebolu/Kastamonu",
+      "telefon": "0366 811 32 60",
+      "latitude": 41.979548,
+      "longitude": 33.7620265
+    },
+    {
+      "isim": "Doğanyurt Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Kastamonu",
+      "adres": "MERKEZ MAH. KEMAL SARUL CAD. NO 22, Merkez, İÇ KAPI NO 2, 37552 Doğanyurt/Kastamonu",
+      "telefon": "",
+      "latitude": 42.0064212,
+      "longitude": 33.4623528
+    },
+    {
+      "isim": "Pinarbasi Ogretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Kastamonu",
+      "adres": "Fatih, Atatürk Cd. No:10, 37770 Pınarbaşı/Kastamonu",
+      "telefon": "0366 771 29 55",
+      "latitude": 41.6029213,
+      "longitude": 33.112812399999996
+    },
+    {
+      "isim": "Kayseri Polis Evi",
+      "tip": "Polisevi",
+      "il": "Kayseri",
+      "adres": "Erenköy, Erciyes Cad., 38050 Melikgazi/Kayseri",
+      "telefon": "0352 341 34 15",
+      "latitude": 38.6706018,
+      "longitude": 35.5038407
+    },
+    {
+      "isim": "Kayseri Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kayseri",
+      "adres": "Barbaros, Depo Cd., 38100 Kocasinan/Kayseri",
+      "telefon": "",
+      "latitude": 38.7304387,
+      "longitude": 35.4786856
+    },
+    {
+      "isim": "Dsi Misafirhanesi Kayseri",
+      "tip": "DSİ Misafirhanesi",
+      "il": "Kayseri",
+      "adres": "Sanayi, 38010 Kocasinan/Kayseri",
+      "telefon": "0352 336 28 50",
+      "latitude": 38.7315209,
+      "longitude": 35.4503293
+    },
+    {
+      "isim": "Tarım Orman Genel Müdürlüğü misafirhanesi (yeni)",
+      "tip": "Orman Misafirhanesi",
+      "il": "Kayseri",
+      "adres": "Erciyesevler, Bozantı Cd. No:204, 38020 Kocasinan/Kayseri",
+      "telefon": "",
+      "latitude": 38.740142899999995,
+      "longitude": 35.518054
+    },
+    {
+      "isim": "Karayolları 6.Bölge Müdürlüğü Sosyal Tesisleri",
+      "tip": "Karayolları Misafirhanesi",
+      "il": "Kayseri",
+      "adres": "Alsancak, 6201. Sk No:4, 38110, 38110 Kocasinan/Kayseri",
+      "telefon": "0352 240 45 45",
+      "latitude": 38.738851,
+      "longitude": 35.5063309
+    },
+    {
+      "isim": "Misafirhane Teiaş",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kayseri",
+      "adres": "Şeker, Osman Kavuncu Blv., 38030 Melikgazi/Kayseri",
+      "telefon": "",
+      "latitude": 38.738351,
+      "longitude": 35.4274037
+    },
+    {
+      "isim": "MEMURLAR KONUKEVİ",
+      "tip": "Üniversite Konukevi",
+      "il": "Kayseri",
+      "adres": "Gülük Mahallesi Osman Kavuncu Caddesi, Gülük, Bozatlı Sk. No:4, 38070 Melikgazi/Kayseri",
+      "telefon": "0352 330 46 10",
+      "latitude": 38.7203529,
+      "longitude": 35.4806613
+    },
+    {
+      "isim": "Caseria Butik Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "Kayseri",
+      "adres": "Sahabiye, Mete Cd. No:6, 38010 Kocasinan/Kayseri",
+      "telefon": "0352 222 24 00",
+      "latitude": 38.7238143,
+      "longitude": 35.4872526
+    },
+    {
+      "isim": "Erciyes Üniv. Talas Konuk Evi ve restourant cafe",
+      "tip": "Üniversite Konukevi",
+      "il": "Kayseri",
+      "adres": "Yukarı, Atatürk Blv. No:291, 38280 Talas/Kayseri",
+      "telefon": "",
+      "latitude": 38.684329999999996,
+      "longitude": 35.5668022
+    },
+    {
+      "isim": "Vatan KonukEvi",
+      "tip": "Üniversite Konukevi",
+      "il": "Kayseri",
+      "adres": "Tacettin Veli, 38050 Melikgazi/Kayseri",
+      "telefon": "",
+      "latitude": 38.716783899999996,
+      "longitude": 35.485085999999995
+    },
+    {
+      "isim": "University of Erciyes",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kayseri",
+      "adres": "Köşk Mahallesi Erciyes Üniversitesi Ana Kampüs Fuat Sezgin Caddesi, Köşk, 38140 Melikgazi/Kayseri",
+      "telefon": "0533 578 22 38",
+      "latitude": 38.699801099999995,
+      "longitude": 35.5354278
+    },
+    {
+      "isim": "Kayseri il jandarma komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kayseri",
+      "adres": "Yenidoğan, Hoca Ahmet Yesevi Cd., 38280 Talas/Kayseri",
+      "telefon": "",
+      "latitude": 38.6958419,
+      "longitude": 35.5555762
+    },
+    {
+      "isim": "Köşk Kışlası, Küme Evleri Askeri Lojman",
+      "tip": "Orduevi",
+      "il": "Kayseri",
+      "adres": "Köşk, 38030 Melikgazi/Kayseri",
+      "telefon": "",
+      "latitude": 38.7095796,
+      "longitude": 35.5071252
+    },
+    {
+      "isim": "Sahil Orduevi",
+      "tip": "Orduevi",
+      "il": "Kıbrıs",
+      "adres": "20 Temmuz Kordonboyu Caddesi 38, Girne 99300",
+      "telefon": "",
+      "latitude": 35.3414101,
+      "longitude": 33.3169148
+    },
+    {
+      "isim": "Ortaköy Askeri gazino",
+      "tip": "Orduevi",
+      "il": "Kıbrıs",
+      "adres": "EURO CENTER, Ali Rıza Efendi Cd 8, Ortaköy 99010",
+      "telefon": "0392 228 76 94",
+      "latitude": 35.197858,
+      "longitude": 33.3432209
+    },
+    {
+      "isim": "Değirmenlik Orduevi",
+      "tip": "Orduevi",
+      "il": "Kıbrıs",
+      "adres": "6FRG+G9, Kythrea 99050",
+      "telefon": "",
+      "latitude": 35.2412639,
+      "longitude": 33.4758916
+    },
+    {
+      "isim": "Kktc Yenişehir Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kıbrıs",
+      "adres": "Şehit Ecvet Yusuf Caddesi, Lefkoşa 99010",
+      "telefon": "",
+      "latitude": 35.192032,
+      "longitude": 33.357501000000006
+    },
+    {
+      "isim": "METU NCC Guest House",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kıbrıs",
+      "adres": "ODTÜ Kuzey Kampüsü Misafirhane, Güzelyurt KKTC, 62WJ+P7C, Kalkanlı 99750",
+      "telefon": "0392 661 22 01",
+      "latitude": 35.2468017,
+      "longitude": 33.0306339
+    },
+    {
+      "isim": "Türkiye Emekli Subaylar Dern. Fahri Çeliker Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kıbrıs",
+      "adres": "Cemal Gürsel Cd 54, Girne 99300",
+      "telefon": "",
+      "latitude": 35.338102,
+      "longitude": 33.322432
+    },
+    {
+      "isim": "Haydarpaşa Ticaret Lisesi Turizm Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Kıbrıs",
+      "adres": "Trachonas 99010",
+      "telefon": "",
+      "latitude": 35.1936825,
+      "longitude": 33.353072
+    },
+    {
+      "isim": "Güzelyurt Askeri Gazino Müdürlüğü",
+      "tip": "Orduevi",
+      "il": "Kıbrıs",
+      "adres": "Şehit Yavuz Sokak Güzelyurt/KKTC (49'uncu P.A. Askeri Katin Karşısı Güzelyurt, KKTC 99700",
+      "telefon": "",
+      "latitude": 35.2024259,
+      "longitude": 32.995077099999996
+    },
+    {
+      "isim": "Gülseren Askeri Gazino",
+      "tip": "Orduevi",
+      "il": "Kıbrıs",
+      "adres": "4WQJ+FQ5, Famagusta 99450",
+      "telefon": "",
+      "latitude": 35.1386283,
+      "longitude": 33.931992699999995
+    },
+    {
+      "isim": "Yedidalga askeri gazino",
+      "tip": "Orduevi",
+      "il": "Kıbrıs",
+      "adres": "4QXX+RX5, Ecevit Cd, Gemikonağı 99810",
+      "telefon": "",
+      "latitude": 35.1495003,
+      "longitude": 32.7999767
+    },
+    {
+      "isim": "Cyprus Turkish Armed Forces Military Market",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kıbrıs",
+      "adres": "59R4+HW5, Nicosia 99010",
+      "telefon": "",
+      "latitude": 35.1913779,
+      "longitude": 33.3573689
+    },
+    {
+      "isim": "Yeşilyurt Askeri Kantin",
+      "tip": "Orduevi",
+      "il": "Kıbrıs",
+      "adres": "asker kantin, Yeşilyurt 99790",
+      "telefon": "",
+      "latitude": 35.1550006,
+      "longitude": 32.8824945
+    },
+    {
+      "isim": "KİLİS ÖĞRETMENEVİ VE ASO MÜDÜRLÜĞÜ",
+      "tip": "Öğretmenevi",
+      "il": "Kilis",
+      "adres": "EKREM ÇETİN MAH PROF.DR. ALİ GÖRPE CAD. NO: 4, İÇ KAPI, Ekrem Çetin, NO: 101, 79000 Kilis Merkez/Kilis",
+      "telefon": "0507 607 57 00",
+      "latitude": 36.7245513,
+      "longitude": 37.1034067
+    },
+    {
+      "isim": "commander of the gendarmerie",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kilis",
+      "adres": "Gaziler, Mercidabık Cd., 79000 Kilis Merkez/Kilis",
+      "telefon": "0348 813 24 24",
+      "latitude": 36.713085,
+      "longitude": 37.122265
+    },
+    {
+      "isim": "İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kilis",
+      "adres": "Ekrem Çetin, Istiklal Cd, 79000 Kilis Merkez/Kilis",
+      "telefon": "",
+      "latitude": 36.7291336,
+      "longitude": 37.096862699999996
+    },
+    {
+      "isim": "Kara Kuvvetleri Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kilis",
+      "adres": "Yaşar Aktürk, Vatan Cd. No:4, 79000 Kilis Merkez/Kilis",
+      "telefon": "",
+      "latitude": 36.7135703,
+      "longitude": 37.1275502
+    },
+    {
+      "isim": "Kırıkkale Merkez Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "tip": "Öğretmenevi",
+      "il": "Kırıkkale",
+      "adres": "Fabrikalar, 6. Sk. No:1, 71100 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "0318 224 54 04",
+      "latitude": 39.8399035,
+      "longitude": 33.5027624
+    },
+    {
+      "isim": "Keskin Ogretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Kırıkkale",
+      "adres": "Osmangazi, Yozgat Cad. No:2, 71400 Keskin/Kırıkkale",
+      "telefon": "0318 515 40 49",
+      "latitude": 39.852722,
+      "longitude": 33.552395
+    },
+    {
+      "isim": "Sancak Tepe Askeri Gazinosu",
+      "tip": "Orduevi",
+      "il": "Kırıkkale",
+      "adres": "Fabrikalar, 71100 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "0318 224 94 55",
+      "latitude": 39.8369998,
+      "longitude": 33.499697
+    },
+    {
+      "isim": "Jandarma sosyal tesis",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kırıkkale",
+      "adres": "Yenimahalle, 71100 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "",
+      "latitude": 39.833202899999996,
+      "longitude": 33.492511799999996
+    },
+    {
+      "isim": "Kirikkale Il Jandarma Komutanligi",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kırıkkale",
+      "adres": "Bağlarbaşı, Başkent Bulvarı No:4 Merkez, 71000 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "0318 233 49 98",
+      "latitude": 39.859142899999995,
+      "longitude": 33.4833068
+    },
+    {
+      "isim": "Mke Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kırıkkale",
+      "adres": "Fabrikalar, 10. Sk. No:7, 71100 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "",
+      "latitude": 39.837606,
+      "longitude": 33.501416
+    },
+    {
+      "isim": "Dsi Misafirhanesi",
+      "tip": "DSİ Misafirhanesi",
+      "il": "Kırıkkale",
+      "adres": "Bayraktepe, 71450 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "",
+      "latitude": 39.8590011,
+      "longitude": 33.4805905
+    },
+    {
+      "isim": "Kırıkkale İl Mer. Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kırıkkale",
+      "adres": "Yenimahalle, Cemal Gürsel Cd., 71100 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "0318 233 49 98",
+      "latitude": 39.826716000000005,
+      "longitude": 33.48725700000001
+    },
+    {
+      "isim": "Kırıkkale Belediyesi Sosyal Tesisleri",
+      "tip": "Belediye Misafirhanesi",
+      "il": "Kırıkkale",
+      "adres": "Yaylacık, Kırıkkale Belediyesi Sosyal Tesisleri, 71100 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "0536 908 48 02",
+      "latitude": 39.84215950000001,
+      "longitude": 33.49795760000001
+    },
+    {
+      "isim": "mke sosyal tesisleri",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kırıkkale",
+      "adres": "Fabrikalar, 10. Sk. No:10, 71100 Kırıkkale Merkez/Kırıkkale",
+      "telefon": "",
+      "latitude": 39.837829,
+      "longitude": 33.501717299999996
+    },
+    {
+      "isim": "Kırklareli Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Kırklareli",
+      "adres": "Demirtaş, Mehmet Akif Cd. No:1, 39000 Kırklareli Merkez/Kırklareli",
+      "telefon": "",
+      "latitude": 41.736748299999995,
+      "longitude": 27.220613999999998
+    },
+    {
+      "isim": "Polisevi",
+      "tip": "Polisevi",
+      "il": "Kırklareli",
+      "adres": "Karacaibrahim, Fevzi Çakmak Blv. No:7, 39000 Kırklareli Merkez/Kırklareli",
+      "telefon": "0288 214 29 54",
+      "latitude": 41.73345700000001,
+      "longitude": 27.223591
+    },
+    {
+      "isim": "Kırklareli DSİ Misafirhane",
+      "tip": "DSİ Misafirhanesi",
+      "il": "Kırklareli",
+      "adres": "İstasyon Mah. Edirne Caddesi No:17/EDevlet, Su İşleri, Karakaş, 39100 Kırklareli Merkez/Kırklareli",
+      "telefon": "0288 214 15 73",
+      "latitude": 41.721277699999995,
+      "longitude": 27.2114509
+    },
+    {
+      "isim": "Lara Guest House",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kırklareli",
+      "adres": "Güven, gül sokak No:13, 39400 Kıyıköy/Vize/Kırıkkale",
+      "telefon": "0288 388 66 60",
+      "latitude": 41.6326593,
+      "longitude": 28.083334599999997
+    },
+    {
+      "isim": "Ata Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "Kırklareli",
+      "adres": "Güven, 39400 Kıyıköy/Vize/Kırklareli",
+      "telefon": "0288 388 68 21",
+      "latitude": 41.6330153,
+      "longitude": 28.0836424
+    },
+    {
+      "isim": "Givenchy Clothing Free Shipping Outlet",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Kırklareli",
+      "adres": "Bademlik, 299. Sk. No: 26, 39000 Kırklareli Merkez/Kırklareli",
+      "telefon": "0535 920 49 96",
+      "latitude": 41.7400654,
+      "longitude": 27.20743
+    },
+    {
+      "isim": "Jandarma sosyal tesisleri",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Kırklareli",
+      "adres": "Karacaibrahim, 39000 Kırklareli Merkez/Kırklareli",
+      "telefon": "",
+      "latitude": 41.7330671,
+      "longitude": 27.2243853
+    },
+    {
+      "isim": "Askeri Gazino",
+      "tip": "Orduevi",
+      "il": "Kırklareli",
+      "adres": "No:, Karacaibrahim, Fevzi Çakmak Blv. No:1, 39000 Kırklareli Merkez/Kırklareli",
+      "telefon": "",
+      "latitude": 41.733264999999996,
+      "longitude": 27.224424199999998
     }
   ],
   "sosyal": [
