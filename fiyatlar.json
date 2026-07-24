@@ -29,6 +29,15 @@
       "gecerlilik": "2026 yılı güncel konaklama fiyatları (tek/çift kişilik; kahvaltı dahil)"
     },
     {
+      "il": "Denizli",
+      "isim": "Denizli Merkez Öğretmenevi",
+      "fiyat_sivil": "2.100 – 6.800 TL",
+      "fiyat_kamu_personeli": "2.100 – 5.000 TL",
+      "fiyat_kurum_personeli": "1.800 – 4.400 TL",
+      "kaynak": "https://www.denizliogretmenevi.com.tr/fiyat-listesi/",
+      "gecerlilik": "15.05.2026–26.06.2026 ve 27.06.2026–14.01.2027 dönemleri (ek yatak hariç)"
+    },
+    {
       "il": "Diyarbakır",
       "isim": "Diyarbakır Polisevi",
       "fiyat_sivil": "1.498 – 6.713 TL",
@@ -152,7 +161,16 @@
       "fiyat_kamu_personeli": "1.300 – 3.000 TL",
       "fiyat_kurum_personeli": "1.000 – 2.400 TL",
       "kaynak": "https://corumogretmenevi.com.tr/fiyatlistesi.php",
-      "gecerlilik": "02 Şubat 2026 – 30 Haziran 2026 (kahvaltı dahil)"
+      "gecerlilik": "02 Şubat 2026 – 30 Haziran 2026"
+    },
+    {
+      "il": "Çorum",
+      "isim": "İskilip Öğretmenevi",
+      "fiyat_sivil": "1.100 – 2.900 TL",
+      "fiyat_kamu_personeli": "950 – 2.400 TL",
+      "fiyat_kurum_personeli": "650 – 1.900 TL",
+      "kaynak": "https://www.iskilipogretmenevi.com.tr/fiyatlistesi.php",
+      "gecerlilik": "01.01.2026 itibarıyla (kahvaltı dahil)"
     },
     {
       "il": "İstanbul",
