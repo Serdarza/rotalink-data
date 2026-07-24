@@ -1,5 +1,5 @@
 {
-  "not": "Yalnızca resmi kaynaklarda açıkça 2026 yılı belirtilmiş konaklama tarifeleri eklenmiştir. Kaynak bulunamayan tesisler bilerek yazılmamıştır. Aralıklar oda tiplerine göre min–max gecelik ücrettir. Öğretmenevinde fiyat_kurum_personeli = MEB/öğretmen; fiyat_kamu_personeli = kamu; fiyat_sivil = sivil/diğer. Polisevinde fiyat_kurum_personeli = teşkilat mensubu. Rezervasyonda tesisle teyit edilmelidir.",
+  "not": "Yalnızca resmi kaynaklarda açıkça 2026 yılı belirtilmiş konaklama tarifeleri eklenmiştir. Kaynak bulunamayan tesisler bilerek yazılmamıştır. Aralıklar oda tiplerine göre min–max gecelik ücrettir. Öğretmenevinde fiyat_kurum_personeli = MEB/öğretmen; fiyat_kamu_personeli = kamu; fiyat_sivil = sivil/diğer. Polisevinde fiyat_kurum_personeli = teşkilat mensubu. Misafirhanelerde kurum/kamu kolonları kaynağa göre eşlenir. Rezervasyonda tesisle teyit edilmelidir.",
   "tesisler": [
     {
       "il": "Amasya",
@@ -9,6 +9,33 @@
       "fiyat_kurum_personeli": "735 – 1.911 TL",
       "kaynak": "https://amasya.pol.tr/polisevi",
       "gecerlilik": "19.01.2026 itibarıyla (%2 konaklama vergisi dahil)"
+    },
+    {
+      "il": "Ankara",
+      "isim": "ODTU Misafirhanesi",
+      "fiyat_sivil": "2.100 – 7.350 TL",
+      "fiyat_kamu_personeli": "1.400 – 4.900 TL",
+      "fiyat_kurum_personeli": "1.400 – 4.900 TL",
+      "kaynak": "https://stm.metu.edu.tr/tr/odtu-misafirhanesi-fiyat-tarifesi",
+      "gecerlilik": "15.01.2026 itibarıyla (%1 konaklama vergisi 01.05.2026’dan itibaren dahil)"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Alanya Meteoroloji Müdürlüğü ve Uluslararası Eğitim Tesisleri",
+      "fiyat_sivil": "1.800 – 2.160 TL",
+      "fiyat_kamu_personeli": "1.200 – 1.440 TL",
+      "fiyat_kurum_personeli": "1.200 – 1.440 TL",
+      "kaynak": "https://antalya.mgm.gov.tr/misafirhane.aspx",
+      "gecerlilik": "2026 yılı Meteoroloji 4. Bölge tarifesi"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Finike Meteoroloji Misafirhanesi",
+      "fiyat_sivil": "1.350 – 1.500 TL",
+      "fiyat_kamu_personeli": "900 – 1.000 TL",
+      "fiyat_kurum_personeli": "900 – 1.000 TL",
+      "kaynak": "https://antalya.mgm.gov.tr/misafirhane.aspx",
+      "gecerlilik": "2026 yılı Meteoroloji 4. Bölge tarifesi"
     },
     {
       "il": "Artvin",
@@ -101,6 +128,15 @@
       "gecerlilik": "2026 yılı konaklama fiyat listesi (%2 konaklama vergisi dahil)"
     },
     {
+      "il": "Kayseri",
+      "isim": "Kayseri Meteoroloji Misafirhanesi",
+      "fiyat_sivil": "1.161,50 – 1.919 TL",
+      "fiyat_kamu_personeli": "757,50 – 1.262,50 TL",
+      "fiyat_kurum_personeli": "757,50 – 1.262,50 TL",
+      "kaynak": "https://kayseri.mgm.gov.tr/misafirhane.aspx",
+      "gecerlilik": "2026 yılı Meteoroloji 7. Bölge tarifesi"
+    },
+    {
       "il": "Kırklareli",
       "isim": "Kırklareli Polisevi ve Yazlık Sosyal Tesisleri",
       "fiyat_sivil": "1.260 – 3.780 TL",
@@ -180,6 +216,15 @@
       "fiyat_kurum_personeli": "1.200 – 3.000 TL",
       "kaynak": "https://bagcilarogretmeneviaso.meb.k12.tr/icerikler/1temmuz2026itibariylakonaklamaucretleri_13904929.html",
       "gecerlilik": "1 Temmuz 2026 itibarıyla (kahvaltı ve KDV dahil)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Metoroloji Bölge Müdürlüğü Misafirhanesi",
+      "fiyat_sivil": "1.050 – 1.250 TL",
+      "fiyat_kamu_personeli": "695 – 820 TL",
+      "fiyat_kurum_personeli": "695 – 820 TL",
+      "kaynak": "https://izmir.mgm.gov.tr/misafirhane.aspx",
+      "gecerlilik": "2026 yılı Meteoroloji 2. Bölge tarifesi"
     },
     {
       "il": "Şanlıurfa",
