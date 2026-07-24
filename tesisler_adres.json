@@ -12336,6 +12336,792 @@
       "isim": "Askeri Gazino",
       "adres": "No:, Karacaibrahim, Fevzi Çakmak Blv. No:1, 39000 Kırklareli Merkez/Kırklareli",
       "ilce": "Kırklareli Merkez"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Kirsehir Ogretmenevi",
+      "adres": "Ahievran, Prof. Dr. Mehmet Ali Altın Blv. 730. Sok D:3, 40100 Kırşehir Merkez/Kırşehir",
+      "ilce": "Kırşehir Merkez"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Kirsehir Provincial Gendarmerie Command",
+      "adres": "Medrese, Kayseri Kırşehir Yolu, 40200 Kırşehir Merkez/Kırşehir",
+      "ilce": "Kırşehir Merkez"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Kırşehir İl Jandarma Sosyal Tesisleri Müdürlüğü",
+      "adres": "Ahievran, 40100 Kırşehir Merkez/Kırşehir",
+      "ilce": "Kırşehir Merkez"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Kırşehir Polis Evi",
+      "adres": "Ahievran, Mehmet Ali Yapıcı Blv. No:1, 40100 Kırşehir Merkez/Kırşehir",
+      "ilce": "Kırşehir Merkez"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Kırşehir Uygulama Oteli",
+      "adres": "Kuşdilli, Terme Cd. No:1, 40100 Kırşehir Merkez/Kırşehir",
+      "ilce": "Kırşehir Merkez"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "GSB AHİ EVRAN GENÇLİK KAMPI",
+      "adres": "Hirfanlı Barajı, 40302 Hirfanlı/Kaman/Kırşehir",
+      "ilce": "Kaman"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Jandarma Komtanlığı Hatıra Ormanı",
+      "adres": "Kervansaray, 2302. Sk. No:7, 40200 Özbağ/Kırşehir Merkez/Kırşehir",
+      "ilce": "Kırşehir Merkez"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "İzmit Öğretmenevi",
+      "adres": "Kozluk, Orduevi Sk. No:26, 41200 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Körfez Öğretmenevi Ve Akşam Sanat Okulu",
+      "adres": "Atalar, Sahil Cd. No:42/A, 41780 Körfez/Kocaeli",
+      "ilce": "Körfez"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Golcuk Ogretmenevi ve Aksam Sanat Okulu Mudurlugu",
+      "adres": "Nu., Donanma, 9. Sk. No:4, 41650 Gölcük/Kocaeli",
+      "ilce": "Gölcük"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Orduevi Sokak",
+      "adres": "Kozluk, Orduevi Sk., 41200 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Polis Sosyal Tesisleri",
+      "adres": "Leyla Atakan Caddesi, Karabaş, Belde Sk. No:3, 41040 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Üniversitesi Konuk Evi",
+      "adres": "Körfez, 41040 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "OGM Kavakçılık Sosyal Tesis ve Misafirhanesi",
+      "adres": "Ovacık, Hasat Sk. No:4, 41140 Başiskele/Kocaeli",
+      "ilce": "Başiskele"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kuruçeşme Lojman Ve Misafirhanesi",
+      "adres": "Kuruçeşme Fatih, Kuruçeşme Lojman Ve Misafirhanesi, 41100 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "İzmit Orman İşletme Müdürlüğü Sosyal Tesisleri",
+      "adres": "Ovacık Mahallesi, Unnamed Road, Ovacık, 41140 Başiskele/Kocaeli",
+      "ilce": "Başiskele"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Anıtpark Inn",
+      "adres": "Körfez, Atatürk Blv., 41040 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kuruçeşme Sosyal Tesisi",
+      "adres": "Kuruçeşme Fatih, Barış Cd. No:41, 41100 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Ozel Kumlu Yuksek Ogrenim Kiz Ogrenci Yurdu",
+      "adres": "Mehmet Ali Paşa Mah, Bağdat Cd. No:220, 41050 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Jandarma",
+      "adres": "Alikahya Cumhuriyet, Gizemnur Cd., 41310 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "İzmit ilçe Jandarma",
+      "adres": "Alikahya Cumhuriyet, Yuvam İzmit Akarca Evleri B2 No:8, 41310 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Otoyol Jandarma Komutanlığı",
+      "adres": "Anadolu Otoyolu Kandıra Bağlantısı, Yahyakaptan, 41050 İzmit/Kocaeli",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Başiskele İlçe Jandarma Komutanlığı",
+      "adres": "Fatih, Hoca Ahmet caddesi no.136, 41190 Başiskele/Kocaeli",
+      "ilce": "Başiskele"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Gölcük Astsubay Orduevi",
+      "adres": "Merkez, PRCG+JH, 41950 Gölcük/Kocaeli",
+      "ilce": "Gölcük"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Öğretmenevi",
+      "adres": "Şemsitebrizi, Mazhar Babalık Sk. No:3, 42030 Karatay/Konya",
+      "ilce": "Karatay"
+    },
+    {
+      "il": "Konya",
+      "isim": "Meram Öğretmenevi",
+      "adres": "Öğretmenevleri, Konevi, Kemha Sk. no:13, 42040 Meram/Konya",
+      "ilce": "Meram"
+    },
+    {
+      "il": "Konya",
+      "isim": "Polisevi",
+      "adres": "Horozluhan, Polisevi, 42120 Selçuklu/Konya",
+      "ilce": "Selçuklu"
+    },
+    {
+      "il": "Konya",
+      "isim": "Dünya Mevlâna Vakfı Derviş Misafirhanesi",
+      "adres": "Aziziye, Şht. Nazım Bey Cd. No:10, 42030 Karatay/Konya",
+      "ilce": "Karatay"
+    },
+    {
+      "il": "Konya",
+      "isim": "Karayollari Misafirhanesi",
+      "adres": "Horozluhan, Konya - Ankara Karayolu No:42100, 42100 Selçuklu/Konya",
+      "ilce": "Selçuklu"
+    },
+    {
+      "il": "Konya",
+      "isim": "TCDD Misafirhanesi",
+      "adres": "Konevi, 42040 Meram/Konya",
+      "ilce": "Meram"
+    },
+    {
+      "il": "Konya",
+      "isim": "Teiaş Sosyal Tesisi",
+      "adres": "Havzan, Yeni Elektrik Santral Cd. Teiaş 9 İletim Tesis Ve İşletme Grup Müdürlüğü, 42090 Meram/Konya",
+      "ilce": "Meram"
+    },
+    {
+      "il": "Konya",
+      "isim": "Devlet Su Isleri Misafirhanesi",
+      "adres": "İzzetbey, Cahit Aküzüm Cd. No:4, 42500 Çumra/Konya",
+      "ilce": "Çumra"
+    },
+    {
+      "il": "Konya",
+      "isim": "Devlet Su İşleri Kos Şube Müdürlüğü Misafirhanesi",
+      "adres": "Unnamed Road, Baraj, 42500 Çumra/Konya",
+      "ilce": "Çumra"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya İl Jandarma Komutanlığı",
+      "adres": "Ulubatlıhasan, Sıraç Gülşen Sk. No:1, 42050 Karatay/Konya",
+      "ilce": "Karatay"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Jandarma Komutanlığı",
+      "adres": "Ulubatlıhasan, Fetih Cd. No:1, 42050 Karatay/Konya",
+      "ilce": "Karatay"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Military Cemetery",
+      "adres": "Medrese, Ankara Cd. No:51, 42060 Selçuklu/Konya",
+      "ilce": "Selçuklu"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Devlet Su Isleri Misafirhanesi",
+      "adres": "Ali Paşa Mah., Fevzi Çakmak Cd. No:18, 43020 Merkez/Kütahya Merkez/Kütahya",
+      "ilce": "Kütahya Merkez"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Tek İdari Ve Sosyal Tesisleri",
+      "adres": "Akkent, 43030 Kütahya Merkez/Kütahya",
+      "ilce": "Kütahya Merkez"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Kütahya Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü Misafirhanesi",
+      "adres": "Gaybiefendi, Atatürk Blv. No:93/1, 43020 Kütahya Merkez/Kütahya",
+      "ilce": "Kütahya Merkez"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Dsi Misafirhanesi",
+      "adres": "Alipaşa, 43020 Kütahya Merkez/Kütahya",
+      "ilce": "Kütahya Merkez"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "TMO İdari ve Sosyal Tesis",
+      "adres": "Vefa, Alayunt Sk. No:6, 43020 Kütahya Merkez/Kütahya",
+      "ilce": "Kütahya Merkez"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Jandarma Komutanlığı",
+      "adres": "Saray, Fuatpaşa Cd, 43100 Kütahya Merkez/Kütahya",
+      "ilce": "Kütahya Merkez"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Malatya Polis Evi",
+      "adres": "Orduzu, 992Q+79, 44170 Battalgazi/Malatya",
+      "ilce": "Battalgazi"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Polis Evi",
+      "adres": "İnönü, Polis Evi, 44070 Yeşilyurt/Malatya",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Misafirhane Sokak",
+      "adres": "İnönü, Misafirhane Sk., 44070 Yeşilyurt/Malatya",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Devlet Su İşleri Misafirhanesi",
+      "adres": "Topsöğüt, Malatya Cd., 44310 Yeşilyurt/Malatya",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Sosyal Tesis",
+      "adres": "İnönü, Cihangir Sk. No:15, 44070 Yeşilyurt/Malatya",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Konuk Evi",
+      "adres": "Alacakapı, Çukurpınar Sk., 44210 Battalgazi/Malatya",
+      "ilce": "Battalgazi"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Kuluncak Belediyesi Sosyal Tesisleri",
+      "adres": "59, İstiklal, Atatürk Blv., 44760 Kuluncak/Malatya",
+      "ilce": "Kuluncak"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Arapgir Şehit Hüsnü Bilgiç Öğretmenevi ve ASO",
+      "adres": "Mehmet Akif, Ömer Baba Cd. No:9, 44800 Arapgir/Malatya",
+      "ilce": "Arapgir"
+    },
+    {
+      "il": "Malatya",
+      "isim": "ÖĞRETMENLER KİTABEVİ",
+      "adres": "Özalper Mahallesi Turgut Özal Bulvarı no:271 eğitim araştırma hastanesi, üst geçit yanı, Özalper, Çevre Yolu, 44090 Yeşilyurt/Malatya",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Jandarma Asayiş Komando Bölük Komutanlığı",
+      "adres": "Yakınca, 44920 Malatya Merkez/Malatya",
+      "ilce": "Malatya Merkez"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Manisa orduevi yeni",
+      "adres": "2. Anafartalar, 1502. Sk. No:11, 45020 Şehzadeler/Manisa",
+      "ilce": "Şehzadeler"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Orduevi En Guncel",
+      "adres": "2. Anafartalar, Tümen Cd. No:23, 45020 Manisa Merkez/Manisa",
+      "ilce": "Manisa Merkez"
+    },
+    {
+      "il": "Manisa",
+      "isim": "İdari Ve Sosyal Tesisler",
+      "adres": "Keçiliköy OSB, Cumhuriyet Blv. No:6, 45030 Manisa Merkez/Manisa",
+      "ilce": "Manisa Merkez"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Demirci Sabancı Öğretmenevi ve A.S.O. Müdürlüğü",
+      "adres": "Pazar Mah.İbrahim Ethem Akıncı Cad. No:41, Pazar, Hüseyin Ağa Cami Sk. No:18, 45900 Demirci/Manisa",
+      "ilce": "Demirci"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Soma Ogretmenevi",
+      "adres": "Turgutalp, Atatürk Cd. No:75, 45540 Soma/Manisa",
+      "ilce": "Soma"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Salihli Teacher Aso",
+      "adres": "Aksoy, Menderes Cd. No:70, 45330 Salihli/Manisa",
+      "ilce": "Salihli"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Manisa İl Jandarma Komutanlığı",
+      "adres": "Dilşikar, 45010 Şehzadeler/Manisa",
+      "ilce": "Şehzadeler"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Artuklu Öğretmenevi ve ASO ONLİNE REZERVASYON İÇİN https://artuklu.mebogretmenevi.com/booking/",
+      "adres": "13 Mart, 13 Mart Cd. 11. Sok D:7, 47200 Artuklu/Mardin",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Öğretmenevi",
+      "adres": "Latifiye, 1. Cadde No:417, 47100 Artuklu/Mardin",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Kızıltepe Askeri Gazino",
+      "adres": "Tepebaşı, 5HRP+MWR, 47000 Kızıltepe/Mardin",
+      "ilce": "Kızıltepe"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Emniyet Müdürlüğü Polisevi",
+      "adres": "kavşağı Artuklu/, Yenişehir, Kızıltepe Blv., 47200 Mardin Merkez/Mardin",
+      "ilce": "Mardin Merkez"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Artuklu Üniversitesi Uygulama Oteli ve Sosyal Tesisi",
+      "adres": "Medrese, Diyarbakır Yolu, 47100 Artuklu/Mardin",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin İl Sağlık Müdürlüğü Misafirhanesi",
+      "adres": "Yalım, Emniyet Cd., 47200 Artuklu/Mardin",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "karayolları misafirhanesi",
+      "adres": "Nur, Diyarbakır Mardin Yolu, 47100 Artuklu/Mardin",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Midyat guest house",
+      "adres": "Akçakaya, Cumhuriyet Cd. No:31, 47510 Midyat/Mardin",
+      "ilce": "Midyat"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Erkar Konuk Evi",
+      "adres": "Eryağma Market Yanı, Eminettin, Yeni Yol Cd., 47100 Artuklu/Mardin",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Prof. Dr. Aydin Ayaydin Ogretmenevi",
+      "adres": "Kale Mahallesi Prof. Dr. Aydın Ayaydın Cad. No: 40, Kale, 47800 Derik/Mardin",
+      "ilce": "Derik"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin İl Jandarma Komutanlığı",
+      "adres": "Mardin İl Jandarma Komutanlığı, Diyarbakırkapı Mah. Yeni Yol Caddesi Nu.9/7, Diyarbakır Kapı, 47100 Artuklu/Mardin",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Erdemli Öğretmenevi ve Aso",
+      "adres": "A, Merkez, Erdemoğlu Blv. No:143, 33730 Erdemli/Mersin",
+      "ilce": "Erdemli"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Ogretmenevi",
+      "adres": "Dumlupınar, 1524. Sk. No:16, 33130 Yenişehir/Mersin",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin orduevi",
+      "adres": "Hamidiye, 33010 Akdeniz/Mersin",
+      "ilce": "Akdeniz"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Polisevi Şehit Sedat Gezer Polisevi",
+      "adres": "Deniz, Ziya Gökalp Cd. No:37, 33200 Mezitli/Mersin",
+      "ilce": "Mezitli"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Polisevi Şehit Altuğ Verdi Sosyal Tesisleri",
+      "adres": "Akkent, Adnan Menderes Blv. No:555, 33160 Yenişehir/Mersin",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Polisevi Pompei Cafe",
+      "adres": "Menderes, 33200 Mezitli/Mersin",
+      "ilce": "Mezitli"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Taşucu Polisevi",
+      "adres": "Taşucu, 10. Sk. No:1, 33900 Silifke/Mersin",
+      "ilce": "Silifke"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Polis evi",
+      "adres": "Kargıpınarı, 33875 Erdemli/Mersin",
+      "ilce": "Erdemli"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Karayolları 5. Bölge Misafirhanesi",
+      "adres": "İhsaniye, Gazi Mustafa Kemal Blv. No:133, 33070 Akdeniz/Mersin",
+      "ilce": "Akdeniz"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Yenişehir Belediyesi Misafirhanesi",
+      "adres": "50. Yıl, 27175. Sk. No:1, 33160 Yenişehir/Mersin",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Karayolları 5. Bölge Müdürlüğü Misafirhanesi",
+      "adres": "Turgut Türkalp, 79001. Sk. No:27, 33090 Toroslar/Mersin",
+      "ilce": "Toroslar"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Otelcilik Ve Turizm Ml Uygulama Oteli",
+      "adres": "Dumlupınar, Gazi Mustafa Kemal Blv. 459 V, 33130 Yenişehir/Mersin",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Kafe Öğretmenevi",
+      "adres": "Dumlupınar, Adnan Menderes Blv., 33130 Yenişehir/Mersin",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Jandarma özel eğitim kampı",
+      "adres": "Akdeniz, Gazi Mustafa Kemal Blv. No:825, 33340 Mezitli/Mersin",
+      "ilce": "Mezitli"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Menteşe Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Emirbeyazıt, Cumhuriyet Cd. No:2 D:B, 48000 Menteşe/Muğla",
+      "ilce": "Menteşe"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Il Gendarmerie Command",
+      "adres": "Orhaniye, Birlik Sk., 48000 Muğla Merkez/Muğla",
+      "ilce": "Muğla Merkez"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Polis Evi",
+      "adres": "Muslihittin, Cevizli Sk. No:6, 48100 Menteşe/Muğla",
+      "ilce": "Menteşe"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Dsi Misafirhanesi",
+      "adres": "Orhaniye, Şht. Asteğmen Yıldıray Çeltiklioğlu Cd. No:1, 48000 Menteşe/Muğla",
+      "ilce": "Menteşe"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Orman Müdürlüğü Misafirhanesi",
+      "adres": "Muslihittin, Mehmet Polatoğlu Sk. 28-10, 48000 Muğla Merkez/Muğla",
+      "ilce": "Muğla Merkez"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Tarım İl Müdürlüğü Misafirhanesi",
+      "adres": "Muslihittin, 48000 Menteşe/Muğla",
+      "ilce": "Menteşe"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Uygulama Oteli",
+      "adres": "Emirbeyazıt, Özer Türk Cd. No:1, 48000 Menteşe/Muğla",
+      "ilce": "Menteşe"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Jandarma Karakolu",
+      "adres": "Hisarönü, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Çubucak Forest Camp",
+      "adres": "Jandarma Karakolu Yanı, Datça Yolu 23. km, 48100 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Akyaka Jandarma Karakol Komutanligi",
+      "adres": "Akyaka, Atatürk Cd. No:21, 48650 Ula/Muğla",
+      "ilce": "Ula"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Menteşe İlçe Jandarma Komutanlığı",
+      "adres": "Orhaniye, 48000 Menteşe/Muğla",
+      "ilce": "Menteşe"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Jandarma Sosyal Tesisi",
+      "adres": "Hisarönü, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Camp Command",
+      "adres": "Karadere, 48363 Fethiye/Muğla",
+      "ilce": "Fethiye"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Ula Ilce Jandarma Komutanligi",
+      "adres": "Köprübaşı, Şehit Öğretmen Sezgin Keçeci Cad No:37, 48640 Ula/Muğla",
+      "ilce": "Ula"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Dalyan Jandarma Karakol Komutanligi",
+      "adres": "Dalyan, 48600 Ortaca/Muğla",
+      "ilce": "Ortaca"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Turuncu Camping Karavan & Çadır Kamp Alanı Marmaris",
+      "adres": "Turgut, 48000 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Datça Jandarma Komutanlığı",
+      "adres": "İskele, Çevre Yolu, 48900 Datça/Muğla",
+      "ilce": "Datça"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Yerkesik Jandarma Karakol Komutanligi",
+      "adres": "Yerkesik, 48100 Muğla Merkez/Muğla",
+      "ilce": "Muğla Merkez"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris Kerimoğlu Kamp Alanları , Marmaris Kamp Yerleri, Kamp, Karavan, Marmaris karavan, Marmaris Çadır Kampı, piknik",
+      "adres": "Değirmenyanı DURANTEPE SOKAK KÜME EVLERİ NO:36, Hisarönü, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Goktepe Jandarma Karakol Komutanligi",
+      "adres": "Göktepe, 48000 Muğla Merkez/Muğla",
+      "ilce": "Muğla Merkez"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Campsite ekincik",
+      "adres": "Ekincik, 48800 Köyceğiz/Muğla",
+      "ilce": "Köyceğiz"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Yiyem İçem Gezem Kamp Alanı",
+      "adres": "27XV+7C, Ula/Muğla",
+      "ilce": "Ula"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris İlçe Jandarma Komutanlığı",
+      "adres": "Hatipirimi, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Oren Jandarma Karakol Komutanligi",
+      "adres": "Ören, Toplu Konut Cd. NO:10/P, 48220 Milas/Muğla",
+      "ilce": "Milas"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Duru Camping",
+      "adres": "Hisarönü Mah. Limanbaşı Mevkii 99, Hisarönü, D:1, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Tulumbalı ücretsiz kamp alanı",
+      "adres": "Hisarönü, R326+J5, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Turgut Jandarma Karakol Komutanligi",
+      "adres": "Bayır, 48040 Turgut/Yatağan/Muğla",
+      "ilce": "Yatağan"
+    },
+    {
+      "il": "Muğla",
+      "isim": "bambu kamp",
+      "adres": "Ekincik, 48800 Köyceğiz/Muğla",
+      "ilce": "Köyceğiz"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Bodrum yolu üzeri kamp",
+      "adres": "Kuyucak, 48640 Ula/Muğla",
+      "ilce": "Ula"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Cetibeli Jandarma Karakol Komutanligi",
+      "adres": "Çetibeli, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "MTA Marmaris Kampı (Atıl Durumda)",
+      "adres": "Hisarönü, 48700 Marmaris/Muğla",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Yatağan İlçe Jandarma Komutanlığı",
+      "adres": "Yeni, İnönü Blv., 48516 Yatağan/Muğla",
+      "ilce": "Yatağan"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Aktur Camping",
+      "adres": "Emecik, 48900 Datça/Muğla",
+      "ilce": "Datça"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Yaka Jandarma Karakol Komutanligi",
+      "adres": "İskele, Kazım Yılmaz Cd. No:1, 48900 Datça/Muğla",
+      "ilce": "Datça"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Milas Ilce Jandarma Komutanligi",
+      "adres": "Hacıabti, Eski Aydın Cd. 4/A, 48200 Milas/Muğla",
+      "ilce": "Milas"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Karaova Jandarma Karakol Komutanligi",
+      "adres": "Gündoğan, Kızıl Burun Evleri No:5, 48965 Bodrum/Muğla",
+      "ilce": "Bodrum"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Akyaka Forest Camp",
+      "adres": "Akyaka, 48650 Ula/Muğla",
+      "ilce": "Ula"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Kartal Askeri Gazino Amirliği",
+      "adres": "Firuzpaşa - Gazipaşa, Hanlar Sk. No:1, 48200 Milas/Muğla",
+      "ilce": "Milas"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Jandarma Çarşı Lokali",
+      "adres": "Müştakbey, Postane Sk. No:2, 48000 Muğla Merkez/Muğla",
+      "ilce": "Muğla Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Öğretmenevi",
+      "adres": "Hürriyet, Sırrı Aşar Cd., 49100 Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Öğretmenevi Akşam Sanat Okulu Müdürlüğü",
+      "adres": "Hürriyet, Atatürk Cd., 49120 Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Polis Evi",
+      "adres": "Minare, Atatürk Blv. No:17, 49300 Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Polisevi",
+      "adres": "Hürriyet, 49120 Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Nusret Sarman Lisesi Uygulama Oteli",
+      "adres": "Yeni, 49200 Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Öğretmenevi Konferans Salonu",
+      "adres": "Zafer, İstasyon Cd. No 205, 49200 Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Jandarma",
+      "adres": "Mercimekkale Bucağı Yolu, 49090 Mercimekkale/Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Başbakanlık Muş İli Sosyal Tesisleri",
+      "adres": "Minare, Yeni Cezaevi Cd., 49100 Muş Merkez/Muş",
+      "ilce": "Muş Merkez"
     }
   ]
 }
