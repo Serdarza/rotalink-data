@@ -13122,6 +13122,744 @@
       "isim": "Başbakanlık Muş İli Sosyal Tesisleri",
       "adres": "Minare, Yeni Cezaevi Cd., 49100 Muş Merkez/Muş",
       "ilce": "Muş Merkez"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Nevşehir Öğretmenevi ve A.S.O. Müdürlüğü",
+      "adres": "2000 Evler, 77. Sokak No: 1, 50300 Nevşehir Merkez/Nevşehir",
+      "ilce": "Nevşehir Merkez"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Uset Hotel (Nevşehir Hacı Bektaş Veli Üniversitesi Uygulama Oteli)",
+      "adres": "Fatih, Gazi Cemal Uyanık Sk. No:3, 50400 Ürgüp/Nevşehir",
+      "ilce": "Ürgüp"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Adanos Konuk Evi",
+      "adres": "Alaaddin, 311. Sk. No:32, 50500 Avanos/Nevşehir",
+      "ilce": "Avanos"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Kapadokya Uygulama Oteli",
+      "adres": "350 Evler, Ali Dirikoç Blv. No:13, 50300 Nevşehir Merkez/Nevşehir",
+      "ilce": "Nevşehir Merkez"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Elif akgün konuk evi",
+      "adres": "Zir, Evrim Sk. No:11, 50800 Hacıbektaş/Nevşehir",
+      "ilce": "Hacıbektaş"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Nevşehir İl Jandarma Komutanlığı",
+      "adres": "Güzelyurt, 50000 Nevşehir Merkez/Nevşehir",
+      "ilce": "Nevşehir Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Niğde Öğretmenevi ve A.S.O. Müdürlüğü",
+      "adres": "İnönü, Feridun Zeren Cd. No:4, 51200 Niğde Merkez/Niğde",
+      "ilce": "Niğde Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Jandarma Sosyal Tesisleri",
+      "adres": "Yukarı Kayabaşı, Feridun Zeren Cd., 51200 Niğde Merkez/Niğde",
+      "ilce": "Niğde Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Ömer Halis Iron University Inn",
+      "adres": "Yukarı Kayabaşı, 51200 Niğde Merkez/Niğde",
+      "ilce": "Niğde Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Prestij Bay Konukevi",
+      "adres": "Yukarı Kayabaşı, Öğretmen Okulu 2. Sk., 51200 Niğde Merkez/Niğde",
+      "ilce": "Niğde Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Niğde Barosu Sosyal Tesisleri",
+      "adres": "Fertek, Ali Rıza Tuncer Cd. No:21, 51700 Niğde Merkez/Niğde",
+      "ilce": "Niğde Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Teachers Park",
+      "adres": "Yukarı Kayabaşı, 51000 Niğde Merkez/Niğde",
+      "ilce": "Niğde Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Ulukışla Öğretmenevi Ve Akşan Sanat Okulu",
+      "adres": "Alpağut, 51900 Ulukışla/Niğde",
+      "ilce": "Ulukışla"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Çamardı Öğretmenevi Ve Akşam Sanat Okulu",
+      "adres": "Bereketli, 51660 Çamardı/Niğde",
+      "ilce": "Çamardı"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu Polisevi",
+      "adres": "Akyazı, Atatürk Blv. No:275, 52200 Altınordu/Ordu",
+      "ilce": "Altınordu"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Devlet Su İşleri Misafirhanesi",
+      "adres": "Efirli, DSİ 75. Şube Müdürlüğü, 52750 Perşembe/Ordu",
+      "ilce": "Perşembe"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu Orman Fidanlık Müdürlüğü Misafirhanesi",
+      "adres": "Eskipazar, 52000 Altınordu/Ordu",
+      "ilce": "Altınordu"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Perşembe Sakin Şehir Uygulama Oteli",
+      "adres": "Düz, Eğitim Caddesi No:53 D, 52750 Perşembe/Ordu",
+      "ilce": "Perşembe"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Efirli Jandarma asayiş noktası&kamp alanı",
+      "adres": "Efirli, 52750 Perşembe/Ordu",
+      "ilce": "Perşembe"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Jandarma Sosyal Tesisi",
+      "adres": "Düz, Süleyman Felek Cd. No:26, 52100 Ordu Merkez/Ordu",
+      "ilce": "Ordu Merkez"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu İl Jandarma",
+      "adres": "Akyazı, Şht. Tarkan Biber Cd., 52200 Altınordu/Ordu",
+      "ilce": "Altınordu"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Öğretmenevi ve ASO Müdürlüğü",
+      "adres": "Esenevler, 15520. Sk. No:12, 80010 Osmaniye Merkez/Osmaniye",
+      "ilce": "Osmaniye Merkez"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Polisevi",
+      "adres": "Akyar, 80000 Osmaniye Merkez/Osmaniye",
+      "ilce": "Osmaniye Merkez"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Okü sosyal tesisler",
+      "adres": "Fakıuşağı, 80010 Osmaniye Merkez/Osmaniye",
+      "ilce": "Osmaniye Merkez"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Korkut ata sosyal tesisleri",
+      "adres": "Fakıuşağı, Osmaniye Korkut Ata Ünv., 80010 Osmaniye Merkez/Osmaniye",
+      "ilce": "Osmaniye Merkez"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "KADİRLİ UYGULAMA OTELİ",
+      "adres": "Şehit vedat koçadallı mah. Akşemseddin cad. No :93 A/B/C, Şehit Vedat Kocadallı, 80750 Kadirli/Osmaniye",
+      "ilce": "Kadirli"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Kadirli Ogretmenevi ASO",
+      "adres": "Savrun, Rauf Denktaş Cd., 80760 Kadirli/Osmaniye",
+      "ilce": "Kadirli"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Uygulama Oteli",
+      "adres": "Merkez Mevkii, Merkez Sokak No:303, 80080 Çardak/Osmaniye Merkez/Osmaniye",
+      "ilce": "Osmaniye Merkez"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Province Gendarmerie Command",
+      "adres": "Selimiye, 80020 Osmaniye Merkez/Osmaniye",
+      "ilce": "Osmaniye Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Teacher Center and Evening School of Arts",
+      "adres": "Engindere Mah, Menders Bulvarı No:175 D:1, 53020 Merkez/Rize Merkez/Rize",
+      "ilce": "Rize Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "pazar askeri gazino müdürlüğü",
+      "adres": "Pazar, Karadeniz cad, 53300 Pazar/Rize",
+      "ilce": "Pazar"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Polisevi",
+      "adres": "Alipaşa, Meydanlar Sok No:4, 53100 Rize Merkez/Rize",
+      "ilce": "Rize Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Il Jandarma Komutanligi",
+      "adres": "Camiönü, Menderes Blv. Yanyolu No:60, 53100 Rize Merkez/Rize",
+      "ilce": "Rize Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Güneysu Teacher",
+      "adres": "Merkez, Sağlık Sk. No: 5, 53350 Güneysu/Rize",
+      "ilce": "Güneysu"
+    },
+    {
+      "il": "Rize",
+      "isim": "Çayeli Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Eskipazar, 9 Mart Cd 23a D:23a, 53200 Çayeli/Rize",
+      "ilce": "Çayeli"
+    },
+    {
+      "il": "Rize",
+      "isim": "P.T.T RİZE DAĞITIM TOPLAMA MÜD.MİSAFİRHANESİ",
+      "adres": "Mermerdelen, Cumhuriyet Cd., 53020 Rize Merkez/Rize",
+      "ilce": "Rize Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Belediyesi Sosyal Tesisleri",
+      "adres": "Piriçelebi, Menderes Blv. No:182, 53020 Rize Merkez/Rize",
+      "ilce": "Rize Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Pokut Doğa Konukevi",
+      "adres": "Merkez, 53700 Ortanköy/Çamlıhemşin/Rize",
+      "ilce": "Çamlıhemşin"
+    },
+    {
+      "il": "Rize",
+      "isim": "Fındıklı Ptt Misafirhanesi",
+      "adres": "Merkez, Hatice Halim Şahinler Sk. No:11/A, 53700 Fındıklı/Rize",
+      "ilce": "Fındıklı"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize İl Emniyet Müdürlüğü Polis Sosyal Tesisleri",
+      "adres": "Camiönü, 53020 Rize Merkez/Rize",
+      "ilce": "Rize Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "ÖĞRETMENEVLERİ of YAMANTÜRK",
+      "adres": "Merkez, Osman Kurtuluş Cd. NO:13, 53750 Çamlıhemşin/Rize",
+      "ilce": "Çamlıhemşin"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Ekrem Orhon Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "Hayrat, Yazıcı Sk. No:30, 53020 Rize Merkez/Rize",
+      "ilce": "Rize Merkez"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Büyükşehir Öğretmenevi",
+      "adres": "Mithatpaşa, Kudüs Cd. No:45, 54100 Adapazarı/Sakarya",
+      "ilce": "Adapazarı"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Büyükşehir Öğretmenevi ve ASO Müdürlüğü Erenler Şubesi",
+      "adres": "Yeni, 91. Sk., 54200 Erenler/Sakarya",
+      "ilce": "Erenler"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Öğretmenevi",
+      "adres": "Yeni, 2090 Sk 8/2, 54200 Erenler/Sakarya",
+      "ilce": "Erenler"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Mithatpaşa, Kudüs Cd. No:45, 54100 Adapazarı/Sakarya",
+      "ilce": "Adapazarı"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Ferizli Ogretmenevi",
+      "adres": "Semerciler, 54100 Adapazarı/Sakarya",
+      "ilce": "Adapazarı"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Police House",
+      "adres": "Maltepe, Önderevler Sokak 80/D, 54100 Adapazarı/Sakarya",
+      "ilce": "Adapazarı"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Orman Bölge Müdürlüğü Misafirhanesi",
+      "adres": "Şirinevler, Adnan Menderes Cd. No:197, 54100 Adapazarı/Sakarya",
+      "ilce": "Adapazarı"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Saü Misafirhanesi",
+      "adres": "Esentepe, 54050 Serdivan/Sakarya",
+      "ilce": "Serdivan"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Tuvasas Misafirhane",
+      "adres": "Bahçelievler, Serdivan Cd. No:79, 54100 Serdivan/Sakarya",
+      "ilce": "Serdivan"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Villa Sapanca Butik Konukevi-Sarı Ev",
+      "adres": "Rüstempasa, Seymen Sk. No:3, 54600 Sapanca/Sakarya",
+      "ilce": "Sapanca"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Nova Konukevi",
+      "adres": "Kemalpaşa, Nişancı Sk. No. 17, 54050 Serdivan/Sakarya",
+      "ilce": "Serdivan"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Kocaali Öğretmenler Sitesi",
+      "adres": "Alandere, 54800 Kocaali/Sakarya",
+      "ilce": "Kocaali"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Karasu Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "Aziziye, 555. Sokak No 28, 54500 Karasu/Sakarya",
+      "ilce": "Karasu"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "SÖĞÜTLÜ ÖĞRETMENEVİ VE AKŞAM SANAT OKULU",
+      "adres": "Cami Cedit, VFR7+XRX, 54160 Söğütlü/Sakarya",
+      "ilce": "Söğütlü"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Geyve Öğretmenevi Ve Akşam Sanat Okulu",
+      "adres": "Camikebir, Uzun Çarşı Sk. NO:34, 54700 Geyve/Sakarya",
+      "ilce": "Geyve"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "JANDARMA PİKNİK ALANI",
+      "adres": "Uzunkum, Sakarya Cd., 54600 Sapanca/Sakarya",
+      "ilce": "Sapanca"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Polis Evi",
+      "adres": "Zafer, Samsun Polis Evi, 55060 İlkadım/Samsun",
+      "ilce": "İlkadım"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Tck Sosyal Tesisleri",
+      "adres": "Denizevleri, Adnan Menderes Blv. No:39, 55200 Atakum/Samsun",
+      "ilce": "Atakum"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Ptt Eğitim misafirhanesi Atakum",
+      "adres": "Mimarsinan, 133. Sk. No:4, 55200 Atakum/Samsun",
+      "ilce": "Atakum"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Devlet Su Isleri Misafirhanesi",
+      "adres": "Esenevler, Atatürk Bl. No:205, 55200 Atakum/Samsun",
+      "ilce": "Atakum"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Merkez DSİ Misafirhanesi",
+      "adres": "Bahçelievler, DSİ 7. Bölge Md. İç Yolu No:144, 55070 İlkadım/Samsun",
+      "ilce": "İlkadım"
+    },
+    {
+      "il": "Samsun",
+      "isim": "OMU Guesthouse",
+      "adres": "Körfez, 55280 Atakum/Samsun",
+      "ilce": "Atakum"
+    },
+    {
+      "il": "Samsun",
+      "isim": "İLKADIM BELEDİYESİ KONUK EVİ",
+      "adres": "Tepecik, 1542 sokak no:7/1, 55090 İlkadım/Samsun",
+      "ilce": "İlkadım"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Anakent Sosyal Tesisleri",
+      "adres": "Yenimahalle, 55080 Canik/Samsun",
+      "ilce": "Canik"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Sosyal Tesisler",
+      "adres": "Esenevler, DSİ 71. Şube Md. No:171, 55200 Atakum/Samsun",
+      "ilce": "Atakum"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun İm Jandarma Komutanlığı",
+      "adres": "Yenimahalle, Atatürk Bl. No:19/21, 55270 Atakum/Samsun",
+      "ilce": "Atakum"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Cezaevi Jandarma Bölük Komutanlığı",
+      "adres": "Çatkaya, 55000 İlkadım/Samsun",
+      "ilce": "İlkadım"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Atakum Ilce Jandarma Komutanligi",
+      "adres": "Gazi, Şht. Mesut Birinci Cd. No:28, 55080 Canik/Samsun",
+      "ilce": "Canik"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Karavan Kamp",
+      "adres": "Belediye Evleri Mahallesi Doğupark sahil yolu, Bandırma Gemi, Belediye Evleri, müze yanı, 55080 Canik/Samsun",
+      "ilce": "Canik"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Jandarma Sosyal Tesisleri",
+      "adres": "Karşıyaka, 4004. Sk. No:3 D:B, 63320 Karaköprü/Şanlıurfa",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Askeri Lojman",
+      "adres": "Selahaddin Eyyubi, 63300 Haliliye/Şanlıurfa",
+      "ilce": "Haliliye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa DSİ Misafirhane",
+      "adres": "Hamidiye, DSİ Tesisleri 15. Bölge Md. 1 B, 63300 Şanlıurfa Merkez/Şanlıurfa",
+      "ilce": "Şanlıurfa Merkez"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Orman Bölge Müdürlüğü Misafirhanesi",
+      "adres": "Akbayır, Akbayır Kümeevleri No:64c, 63320 Karaköprü/Şanlıurfa",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Karayolları Misafirhanesi",
+      "adres": "Kızlar, Bozova yolu sokak, 63000 Karaköprü/Şanlıurfa",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Tarım Bakanlığı Esentepe Misafirhanesi",
+      "adres": "Esentepe, 63330 Karaköprü/Şanlıurfa",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Urfa Konuk Evi Ve Urfa Sıra Gecesi",
+      "adres": "Kadıoğlu, Burak Sk. No:17, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Sultanbey Konuk Evi",
+      "adres": "Camikebir, 1351. Sk. No:3, 63320 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Urfa konuk evi",
+      "adres": "Bıçakçı, 63000 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Zümrüt konuk evi",
+      "adres": "Beykapısı mahallesi, 933. Sk. No:36 D:1, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Urfasaray Konuk Evi",
+      "adres": "Camikebir, 1344. Sk. 6/1, 63200 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Sıra Gecesi Konuk Evi",
+      "adres": "1192. Sk. 12 A, Pınarbaşı, 63210 Şanlıurfa Merkez, Pınarbaşı, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Gülizar Konuk Evi Sıra Geceleri",
+      "adres": "Camikebir, Divanyolu Cd. No:20, 63300 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Yildiz Palace Guest House",
+      "adres": "Bey Kapısı, Beykapusu, 994. Sk. No:18/1, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Tarihi Han Konuk Evi",
+      "adres": "Bıçakçı, 1251. Sk. No:2, 63210 Şanlıurfa Merkez/Şanlıurfa",
+      "ilce": "Şanlıurfa Merkez"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Balıklıgöl Konuk Evi",
+      "adres": "Yakubiye, Fuzuli Cd. No:6, 63100 Şanlıurfa Merkez/Şanlıurfa",
+      "ilce": "Şanlıurfa Merkez"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Urfa Sıra Gecesi - Öz Harran Konukevi",
+      "adres": "Hakimdede, 956. Sk. No:1, 63210 Şanlıurfa Merkez/Şanlıurfa",
+      "ilce": "Şanlıurfa Merkez"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "paşa sarayı konuk evi",
+      "adres": "Kurtuluş, 1001. Sk. No:16, 63250 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Göbeklitepe Konukevi sirageceleri",
+      "adres": "Yusupaşa Mahallesi Sarayönü Caddesi, Yusufpaşa, 889. Sk. No:4 D:1Eyyüpye, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Urfam Konukevi Sıra Gecesi Saz Ekibi Konaklama Otel Ahmet Sertaç ÖZBEK",
+      "adres": "Karameydanı Camii Karşısı Beykapısı Mh, Beykapusu, 933. Sk. No:6, 63210 Şanlıurfa Merkez/Şanlıurfa",
+      "ilce": "Şanlıurfa Merkez"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Sıra Gecesi - Sahra Konuk Evi",
+      "adres": "Kurtuluş, Güllüoğlu Sk. No:9, 63200 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Harran Konukevi",
+      "adres": "Hakimdede, 63210 Haliliye/Şanlıurfa",
+      "ilce": "Haliliye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Aslan Guest House",
+      "adres": "Aslan Konukevi, Camikebir, 1351. Sk. No:10, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Alimoğlu Konuk Evi",
+      "adres": "Camikebir, Topçu Sk. No:10, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "BUZHANE RESTAURANT VE KONUK EVİ",
+      "adres": "Bıçakçı, 1249. Sk. 21 C D:21 C, 63210 Şanlıurfa Merkez/Şanlıurfa",
+      "ilce": "Şanlıurfa Merkez"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Cevahir Konuk Evi",
+      "adres": "Yeni, Cevahir Konukevi Yeni,63210, 63210 Eyyübiye/Şanlıurfa",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa/Karaköprü Onikiler Öğretmenevi ve Aso Müdürlüğü",
+      "adres": "Akpıyar Mh. 4068 Sk, Cergibozanlar Market Karşısı, Akpıyar, Şehit Mustafa Direkli Camii Arkası Blok No:1, 63320 Karaköprü/Şanlıurfa",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Öğretmenler Lojmanı",
+      "adres": "Hamidiye, 63300 Haliliye/Şanlıurfa",
+      "ilce": "Haliliye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Viranşehir Öğretmenevi",
+      "adres": "Kışla, 63700 Viranşehir/Şanlıurfa",
+      "ilce": "Viranşehir"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Suruc Ogretmenevi ve Aksam Sanat Okulu",
+      "adres": "Yenişehir, Atatürk Bulv. Koyuncular Cad., 63800 Suruç/Şanlıurfa",
+      "ilce": "Suruç"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa İl Jandarma Komutanlığı",
+      "adres": "Karşıyaka, 4004. Sk. No:3 D:B, 63320 Karaköprü/Şanlıurfa",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Ogretmenevi Otel",
+      "adres": "Yeni, 56000 Siirt Merkez/Siirt",
+      "ilce": "Siirt Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Polisevi Şube Müdürlüğü",
+      "adres": "Bahçelievler, Hayrettin Şişman Cd. No:2, 56000 Siirt Merkez/Siirt",
+      "ilce": "Siirt Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Il Jandarma Komutanligi",
+      "adres": "Bahçelievler, 1402. Sk. No:32, 56100 Siirt Merkez/Siirt",
+      "ilce": "Siirt Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Askeri Hastanesi",
+      "adres": "Bahçelievler, Kurtalan Yolu Cd. No:20, 56100 Siirt Merkez/Siirt",
+      "ilce": "Siirt Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "İL SAĞLIK MÜDÜRLÜĞÜ MİSAFİRHANESİ",
+      "adres": "Barış, Şeyh Ebül Vefa Cd., 56100 Siirt Merkez/Siirt",
+      "ilce": "Siirt Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Üniversitesi Sosyal Tesisleri",
+      "adres": "56220 Pınarca/Siirt Merkez/Siirt",
+      "ilce": "Siirt Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "İl Özel İdaresi Misafirhanesi",
+      "adres": "Kooperatif, 56000 Siirt Merkez/Siirt",
+      "ilce": "Siirt Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "SİNOP ÖĞRETMENEVİ",
+      "adres": "Kefevi, Okullar Cd. No:12, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Tarihi Ogretmenevi (Tas Bina)",
+      "adres": "Kefevi, Okullar Cd. No:12, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Jandarma sosyal tesis müdürlüğü",
+      "adres": "Gelincik, Fatih Cd. No:19, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Dsi Sinop Sosyal Tesisleri",
+      "adres": "Sarıgüzel Mahallesi, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop İl Jandarma Ek Hizmet Binası",
+      "adres": "Meydankapı, Atatürk Cd., 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Merkez İlçe Jandarma Komutanlığı",
+      "adres": "Gelincik, Fatih Cd. No:9, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Jandarma Nizam Karakolu",
+      "adres": "Ada, Okullar Cd., 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Orman İşl. Sosyal Tesisleri",
+      "adres": "Gelincik, Plaj Yolu, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Ayancik Ogretmenevi ve Aksam Sanat Okulu",
+      "adres": "Yalı, Hakan Ünsal Cd. No:5, 57400 Ayancık/Sinop",
+      "ilce": "Ayancık"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Boyabat Ogretmenevi ASO",
+      "adres": "Korucuk, Bey Tarla Sok., 57002 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop GDF Campground",
+      "adres": "Gelincik, Plaj Yolu No:1, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Marti Camping",
+      "adres": "Aklıman, Sinop-Akliman Yolu, 57000 Dibekli/Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Orman Kampı",
+      "adres": "Gelincik, Plaj Yolu 1-1, 57000 Sinop Merkez/Sinop",
+      "ilce": "Sinop Merkez"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Erfelek İlçe Jandarma Komutanlığı",
+      "adres": "Kınık, Yeşilkent Cd. No:2, 57800 Erfelek/Sinop",
+      "ilce": "Erfelek"
     }
   ]
 }
