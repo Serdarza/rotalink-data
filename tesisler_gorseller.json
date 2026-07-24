@@ -1,5 +1,5 @@
 {
-  "not": "Google Places -> Bunny CDN (kismi). Ana DB degismez.",
+  "not": "Görseller Google Places (en fazla 3) → Bunny CDN. Uygulama Bunny URL kullanır.",
   "items": [
     {
       "il": "Adana",
@@ -414,7 +414,8 @@
       "isim": "Halkbank Misafirhanesi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-halkbank-misafirhanesi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-halkbank-misafirhanesi-2.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-halkbank-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-halkbank-misafirhanesi-3.jpg"
       ]
     },
     {
@@ -485,7 +486,8 @@
       "isim": "MSB Sivil Memur Misafirhanesi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-msb-sivil-memur-misafirhanesi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-msb-sivil-memur-misafirhanesi-2.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-msb-sivil-memur-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/ankara/ankara-msb-sivil-memur-misafirhanesi-3.jpg"
       ]
     },
     {
@@ -1033,7 +1035,8 @@
       "isim": "Aydın Sabancı Koçarlı Öğretmenevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-sabancı-koçarlı-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-sabancı-koçarlı-öğretmenevi-2.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-sabancı-koçarlı-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-aydın-sabancı-koçarlı-öğretmenevi-3.jpg"
       ]
     },
     {
@@ -1067,7 +1070,8 @@
       "il": "Aydın",
       "isim": "Söke Öğretmenevi",
       "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-söke-öğretmenevi-1.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-söke-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/aydın/aydın-söke-öğretmenevi-2.jpg"
       ]
     },
     {
@@ -1282,14 +1286,16 @@
       "isim": "Alemdağ 15. Füze Üssü Vardiya Yatakhane",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-alemdağ-15-füze-üssü-vardiya-yatakhane-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-alemdağ-15-füze-üssü-vardiya-yatakhane-2.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-alemdağ-15-füze-üssü-vardiya-yatakhane-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-alemdağ-15-füze-üssü-vardiya-yatakhane-3.jpg"
       ]
     },
     {
       "il": "İstanbul",
       "isim": "Şile Hava Uçaksavar Er Eğitim Merkezi Kışla Gazino Müdürlüğü",
       "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-şile-hava-uçaksavar-er-eğitim-merkezi-kışla-gazino-müdürlüğü-1.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-şile-hava-uçaksavar-er-eğitim-merkezi-kışla-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-şile-hava-uçaksavar-er-eğitim-merkezi-kışla-gazino-müdürlüğü-2.jpg"
       ]
     },
     {
@@ -1324,7 +1330,8 @@
       "isim": "Ataşehir Belediyesi Bahriye Üçok Konukevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-ataşehir-belediyesi-bahriye-üçok-konukevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-ataşehir-belediyesi-bahriye-üçok-konukevi-2.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-ataşehir-belediyesi-bahriye-üçok-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-ataşehir-belediyesi-bahriye-üçok-konukevi-3.jpg"
       ]
     },
     {
@@ -1745,7 +1752,8 @@
       "il": "İstanbul",
       "isim": "PTT Misafirhanesi - Üsküdar",
       "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-ptt-misafirhanesi-üsküdar-1.jpg"
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-ptt-misafirhanesi-üsküdar-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-stanbul/i-stanbul-ptt-misafirhanesi-üsküdar-2.jpg"
       ]
     },
     {
@@ -2151,6 +2159,696 @@
         "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-tcdd-misafirhanesi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-tcdd-misafirhanesi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-tcdd-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Adalet Sarayı Sosyal Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-adalet-sarayı-sosyal-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-adalet-sarayı-sosyal-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-adalet-sarayı-sosyal-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir İl Tarım ve Orman Müdürlüğü Misafirhanesi Bornova",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-i-l-tarım-ve-orman-müdürlüğü-misafirhanesi-bornova-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-i-l-tarım-ve-orman-müdürlüğü-misafirhanesi-bornova-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-i-l-tarım-ve-orman-müdürlüğü-misafirhanesi-bornova-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Hazine ve Maliye Bakanlığı İzmir Konuk Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-hazine-ve-maliye-bakanlığı-i-zmir-konuk-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-hazine-ve-maliye-bakanlığı-i-zmir-konuk-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-hazine-ve-maliye-bakanlığı-i-zmir-konuk-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Metoroloji Bölge Müdürlüğü Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-metoroloji-bölge-müdürlüğü-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-metoroloji-bölge-müdürlüğü-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-metoroloji-bölge-müdürlüğü-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Karşıyaka Belediyesi Kent Konuk Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-karşıyaka-belediyesi-kent-konuk-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-karşıyaka-belediyesi-kent-konuk-evi-2.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Vilayetler Evi Atakent",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-vilayetler-evi-atakent-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-vilayetler-evi-atakent-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-vilayetler-evi-atakent-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Orman Genel Müdürlüğü Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-orman-genel-müdürlüğü-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-orman-genel-müdürlüğü-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-orman-genel-müdürlüğü-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir PTT 150. Yıl Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-ptt-150-yıl-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-ptt-150-yıl-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-ptt-150-yıl-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir TAKAV Sosyal Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-takav-sosyal-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-takav-sosyal-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-takav-sosyal-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Yol-iş Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-yol-iş-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-yol-iş-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-yol-iş-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Ziraat Bankası Konak Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-ziraat-bankası-konak-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-ziraat-bankası-konak-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-ziraat-bankası-konak-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Konak Hasan Sağlam Merkez Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-konak-hasan-sağlam-merkez-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-konak-hasan-sağlam-merkez-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-konak-hasan-sağlam-merkez-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Bayındır Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-bayındır-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-bayındır-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-bayındır-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "SGK Alsancak Eğitim ve Dinlenme Tesisi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-sgk-alsancak-eğitim-ve-dinlenme-tesisi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-sgk-alsancak-eğitim-ve-dinlenme-tesisi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-sgk-alsancak-eğitim-ve-dinlenme-tesisi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Dikili Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-dikili-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-dikili-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-dikili-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Foça Yenifoça Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-foça-yenifoça-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-foça-yenifoça-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-foça-yenifoça-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Karaburun Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-karaburun-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-karaburun-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-karaburun-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Karşıyaka Öğretmenler Lokali",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-karşıyaka-öğretmenler-lokali-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-karşıyaka-öğretmenler-lokali-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-karşıyaka-öğretmenler-lokali-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Kınık Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-kınık-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-kınık-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-kınık-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Kiraz Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-kiraz-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-kiraz-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-kiraz-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Ödemiş Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-ödemiş-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-ödemiş-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-ödemiş-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Selçuk Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-selçuk-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-selçuk-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-selçuk-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Tire Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-tire-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-tire-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-tire-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İlksan İzmir Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-lksan-i-zmir-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-lksan-i-zmir-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-lksan-i-zmir-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Ege Üniversitesi Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-ege-üniversitesi-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-ege-üniversitesi-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-ege-üniversitesi-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Tınaztepe Üniversitesi Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-tınaztepe-üniversitesi-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-tınaztepe-üniversitesi-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-tınaztepe-üniversitesi-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Araştırma Görevlileri Konuk Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-araştırma-görevlileri-konuk-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-araştırma-görevlileri-konuk-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-araştırma-görevlileri-konuk-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Polis Evi Düğün Salonu",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-polis-evi-düğün-salonu-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-polis-evi-düğün-salonu-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-i-zmir-polis-evi-düğün-salonu-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Bornova İzmir Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-bornova-i-zmir-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-bornova-i-zmir-uygulama-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-bornova-i-zmir-uygulama-oteli-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Konak Alsancak Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-konak-alsancak-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-konak-alsancak-uygulama-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-konak-alsancak-uygulama-oteli-3.jpg"
+      ]
+    },
+    {
+      "il": "İzmir",
+      "isim": "Alsancak Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-alsancak-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-alsancak-uygulama-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/i-zmir/i-zmir-alsancak-uygulama-oteli-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Askeri Gazino Orduevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-askeri-gazino-orduevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-askeri-gazino-orduevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-askeri-gazino-orduevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Anamur Hava Özel Eğitim Merkezi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-hava-özel-eğitim-merkezi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-hava-özel-eğitim-merkezi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-hava-özel-eğitim-merkezi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Suphi Öner Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-suphi-öner-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-suphi-öner-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-suphi-öner-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Anamur Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Aydıncık Öğretmenevi ve ASO Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-aydıncık-öğretmenevi-ve-aso-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-aydıncık-öğretmenevi-ve-aso-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-aydıncık-öğretmenevi-ve-aso-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Bozyazı Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-bozyazı-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-bozyazı-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-bozyazı-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Gülnar Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-gülnar-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-gülnar-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-gülnar-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mut Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mut-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mut-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mut-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Silifke Öğretmenevi ve ASO Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-öğretmenevi-ve-aso-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-öğretmenevi-ve-aso-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-öğretmenevi-ve-aso-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Silifke Lütfi Elvan Öğretmenevi ve ASO Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-lütfi-elvan-öğretmenevi-ve-aso-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-lütfi-elvan-öğretmenevi-ve-aso-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-lütfi-elvan-öğretmenevi-ve-aso-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Erdemli Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-erdemli-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-erdemli-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-erdemli-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Tarsus Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-tarsus-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-tarsus-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-tarsus-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin 67.Şube DSİ-Devlet Su İşleri Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-67-şube-dsi-devlet-su-i-şleri-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-67-şube-dsi-devlet-su-i-şleri-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-67-şube-dsi-devlet-su-i-şleri-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Silifke 62.Şube DSİ-Devlet Su İşleri Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-62-şube-dsi-devlet-su-i-şleri-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-62-şube-dsi-devlet-su-i-şleri-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-silifke-62-şube-dsi-devlet-su-i-şleri-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Anamur DSİ Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-dsi-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-dsi-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-anamur-dsi-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Karayolları Merkez Bölge Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-karayolları-merkez-bölge-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-karayolları-merkez-bölge-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-karayolları-merkez-bölge-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Karayolları Narlıkuyu Dinlenme Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-karayolları-narlıkuyu-dinlenme-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-karayolları-narlıkuyu-dinlenme-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-karayolları-narlıkuyu-dinlenme-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Defterdarlığı Maliye Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-defterdarlığı-maliye-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-defterdarlığı-maliye-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-defterdarlığı-maliye-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Türkiye Yol İş Sendikası Eğitim Ve Dinlenme Tesisleri",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-türkiye-yol-i-ş-sendikası-eğitim-ve-dinlenme-tesisleri-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-türkiye-yol-i-ş-sendikası-eğitim-ve-dinlenme-tesisleri-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-türkiye-yol-i-ş-sendikası-eğitim-ve-dinlenme-tesisleri-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Polisevi Mezitli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-polisevi-mezitli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-polisevi-mezitli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-polisevi-mezitli-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin İlce Emniyet Müdürlüğü Polis evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-i-lce-emniyet-müdürlüğü-polis-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-i-lce-emniyet-müdürlüğü-polis-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-i-lce-emniyet-müdürlüğü-polis-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Tarsus Otelcilik ve Turizm Meslek Lisesi Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-tarsus-otelcilik-ve-turizm-meslek-lisesi-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-tarsus-otelcilik-ve-turizm-meslek-lisesi-uygulama-oteli-2.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Üniversitesi Konukevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-üniversitesi-konukevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-üniversitesi-konukevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-üniversitesi-konukevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Yenişehir Belediyesi Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-yenişehir-belediyesi-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-yenişehir-belediyesi-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-yenişehir-belediyesi-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Yenişehir Devlet Su İşleri Misaifrhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-yenişehir-devlet-su-i-şleri-misaifrhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-yenişehir-devlet-su-i-şleri-misaifrhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/mersin/mersin-mersin-yenişehir-devlet-su-i-şleri-misaifrhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Bodrum Özel Eğitim Merkezi Komutanlığı",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-bodrum-özel-eğitim-merkezi-komutanlığı-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-bodrum-özel-eğitim-merkezi-komutanlığı-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-bodrum-özel-eğitim-merkezi-komutanlığı-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris Aksaz Deniz Askeri Gazino Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-aksaz-deniz-askeri-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-aksaz-deniz-askeri-gazino-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-aksaz-deniz-askeri-gazino-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Milas Milas Hava Radar Kışla Gazino Müdürlüğü",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-milas-milas-hava-radar-kışla-gazino-müdürlüğü-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-milas-milas-hava-radar-kışla-gazino-müdürlüğü-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-milas-milas-hava-radar-kışla-gazino-müdürlüğü-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris Hisarönü Jandarma Yerleştirme Eğitim Merkezi Komutanlığı",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-hisarönü-jandarma-yerleştirme-eğitim-merkezi-komutanlığı-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-hisarönü-jandarma-yerleştirme-eğitim-merkezi-komutanlığı-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-hisarönü-jandarma-yerleştirme-eğitim-merkezi-komutanlığı-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Aksaz Özel Askeri Eğitim Merkezi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-aksaz-özel-askeri-eğitim-merkezi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-aksaz-özel-askeri-eğitim-merkezi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-aksaz-özel-askeri-eğitim-merkezi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Fethiye Polisevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-fethiye-polisevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-fethiye-polisevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-fethiye-polisevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris Polisevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-polisevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-polisevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-polisevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Jandarma Misafirhanesi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-jandarma-misafirhanesi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-jandarma-misafirhanesi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-jandarma-misafirhanesi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Merkez Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-merkez-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-merkez-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-merkez-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Bodrum Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-bodrum-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-bodrum-öğretmenevi-2.png",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-bodrum-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Fethiye Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-fethiye-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-fethiye-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-fethiye-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Köyceğiz Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-köyceğiz-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-köyceğiz-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-köyceğiz-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Milas Öğretmenevi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-milas-öğretmenevi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-milas-öğretmenevi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-milas-öğretmenevi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla DSİ Misafirhanesi Yıldıray",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-dsi-misafirhanesi-yıldıray-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-dsi-misafirhanesi-yıldıray-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-dsi-misafirhanesi-yıldıray-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "DSİ 21. Bölge Eğitim Tesisleri Fethiye",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-dsi-21-bölge-eğitim-tesisleri-fethiye-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-dsi-21-bölge-eğitim-tesisleri-fethiye-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-dsi-21-bölge-eğitim-tesisleri-fethiye-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Karayolları Misafirhanesi Fethiye",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-karayolları-misafirhanesi-fethiye-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-karayolları-misafirhanesi-fethiye-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-karayolları-misafirhanesi-fethiye-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler Konuk Evi",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-sıtkı-koçman-üniversitesi-sosyal-tesisler-konuk-evi-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-sıtkı-koçman-üniversitesi-sosyal-tesisler-konuk-evi-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-sıtkı-koçman-üniversitesi-sosyal-tesisler-konuk-evi-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Dalaman Ceza İnfaz Kurumu Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-dalaman-ceza-i-nfaz-kurumu-oteli-1.png",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-dalaman-ceza-i-nfaz-kurumu-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-dalaman-ceza-i-nfaz-kurumu-oteli-3.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Tarım İl Müdürlüğü Misafirhanesi Menteşe",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-tarım-i-l-müdürlüğü-misafirhanesi-menteşe-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-muğla-tarım-i-l-müdürlüğü-misafirhanesi-menteşe-2.jpg"
+      ]
+    },
+    {
+      "il": "Muğla",
+      "isim": "Marmaris Uygulama Oteli",
+      "image_urls": [
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-uygulama-oteli-1.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-uygulama-oteli-2.jpg",
+        "https://rotalink-media.b-cdn.net/konaklama/muğla/muğla-marmaris-uygulama-oteli-3.jpg"
       ]
     }
   ]
