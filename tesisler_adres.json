@@ -10173,12 +10173,6 @@
     },
     {
       "il": "Düzce",
-      "isim": "Karayolları Sosyal Tesisleri",
-      "adres": "Ayazlı, 81650 Akçakoca/Düzce",
-      "ilce": "Akçakoca"
-    },
-    {
-      "il": "Düzce",
       "isim": "Suurlu Ogretmenler Dernegi",
       "adres": "Cedidiye, Bolu Cd. No:4, 81020 Düzce",
       "ilce": "Düzce"
@@ -10757,12 +10751,6 @@
       "il": "Iğdır",
       "isim": "Iğdır Jandarma Komutanlığı",
       "adres": "Atatürk, Şehitler Cd., 76000 Iğdır Merkez/Iğdır",
-      "ilce": "Iğdır Merkez"
-    },
-    {
-      "il": "Iğdır",
-      "isim": "Polisevi",
-      "adres": "Söğütlü, Işın Cd. No:9, 76000 Iğdır Merkez/Iğdır",
       "ilce": "Iğdır Merkez"
     },
     {
@@ -11367,12 +11355,6 @@
     },
     {
       "il": "Karaman",
-      "isim": "Polisevi",
-      "adres": "Cumhuriyet, 70100 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
-    },
-    {
-      "il": "Karaman",
       "isim": "Jandarma Lojmanları",
       "adres": "Ziya Gökalp, Ahmet Yesevi Cd. No:2, 70200 Karaman Merkez/Karaman",
       "ilce": "Karaman Merkez"
@@ -11471,12 +11453,6 @@
       "il": "Kastamonu",
       "isim": "Kastamonu Merkez İlçe Jandarma Komutanlığı",
       "adres": "Kuzeykent, Miralay Halitbey Cd. No:20, 37150 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
-    },
-    {
-      "il": "Kastamonu",
-      "isim": "Polisevi",
-      "adres": "Saraçlar, 37100 Kastamonu Merkez/Kastamonu",
       "ilce": "Kastamonu Merkez"
     },
     {

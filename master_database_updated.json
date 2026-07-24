@@ -39473,15 +39473,6 @@
       "longitude": 41.020252
     },
     {
-      "isim": "Bingöl Polisevi",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Bingöl",
-      "adres": "İnönü, Kültür Cd. No:46, 12000 Bingöl",
-      "telefon": "0426 213 19 20",
-      "latitude": 38.885712,
-      "longitude": 40.501897899999996
-    },
-    {
       "isim": "Bingol Il Jandarma Komutanligi",
       "tip": "Jandarma Sosyal Tesisi",
       "il": "Bingöl",
@@ -40310,15 +40301,6 @@
       "longitude": 40.1971768
     },
     {
-      "isim": "Diyarbakır Polisevi",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Diyarbakır",
-      "adres": "Selahattin Eyyubi, 331. Sk., 21080 Bağlar/Diyarbakır",
-      "telefon": "0412 237 41 60",
-      "latitude": 37.9326353,
-      "longitude": 40.202856800000006
-    },
-    {
       "isim": "Sur Polisevi",
       "tip": "Polisevi",
       "il": "Diyarbakır",
@@ -40515,15 +40497,6 @@
       "telefon": "",
       "latitude": 40.906306699999995,
       "longitude": 31.1789972
-    },
-    {
-      "isim": "Karayolları Sosyal Tesisleri",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Düzce",
-      "adres": "Ayazlı, 81650 Akçakoca/Düzce",
-      "telefon": "",
-      "latitude": 41.094859199999995,
-      "longitude": 31.1927578
     },
     {
       "isim": "Suurlu Ogretmenler Dernegi",
@@ -40938,15 +40911,6 @@
       "telefon": "",
       "latitude": 39.87733910000001,
       "longitude": 41.259957899999996
-    },
-    {
-      "isim": "Eskişehir Polisevi",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Eskişehir",
-      "adres": "Esentepe, Çevre Yolu No:358, 26210 Tepebaşı/Eskişehir",
-      "telefon": "0222 322 36 36",
-      "latitude": 39.79733960000001,
-      "longitude": 30.518194200000003
     },
     {
       "isim": "Polis Evi",
@@ -41397,15 +41361,6 @@
       "telefon": "0476 227 64 48",
       "latitude": 39.933606999999995,
       "longitude": 44.048373999999995
-    },
-    {
-      "isim": "Polisevi",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Iğdır",
-      "adres": "Söğütlü, Işın Cd. No:9, 76000 Iğdır Merkez/Iğdır",
-      "telefon": "0476 227 26 24",
-      "latitude": 39.923925499999996,
-      "longitude": 44.049926299999996
     },
     {
       "isim": "Iğdır Belediyesi Sosyal Tesisleri",
@@ -42308,15 +42263,6 @@
       "longitude": 33.193827
     },
     {
-      "isim": "Polisevi",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Karaman",
-      "adres": "Cumhuriyet, 70100 Karaman Merkez/Karaman",
-      "telefon": "0338 212 47 26",
-      "latitude": 37.188781,
-      "longitude": 33.229005799999996
-    },
-    {
       "isim": "Jandarma Lojmanları",
       "tip": "Jandarma Sosyal Tesisi",
       "il": "Karaman",
@@ -42468,15 +42414,6 @@
       "telefon": "0366 214 10 63",
       "latitude": 41.4166427,
       "longitude": 33.7813674
-    },
-    {
-      "isim": "Polisevi",
-      "tip": "Kamu Misafirhanesi",
-      "il": "Kastamonu",
-      "adres": "Saraçlar, 37100 Kastamonu Merkez/Kastamonu",
-      "telefon": "0505 318 37 03",
-      "latitude": 41.36,
-      "longitude": 33.7563889
     },
     {
       "isim": "5. Gendarmerie Training Alai",
