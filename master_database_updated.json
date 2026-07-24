@@ -46086,6 +46086,483 @@
       "telefon": "0368 511 35 90",
       "latitude": 41.88210240000001,
       "longitude": 34.9147362
+    },
+    {
+      "isim": "Askeri Gazino",
+      "tip": "Orduevi",
+      "il": "Şırnak",
+      "adres": "Gümrük Lojmanları, Karşıyaka, karşısı, 73400 Silopi/Şırnak",
+      "telefon": "",
+      "latitude": 37.24514,
+      "longitude": 42.474795
+    },
+    {
+      "isim": "Şırnak İl Jandarma",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Şırnak",
+      "adres": "Gündoğdu, İstiklal Sk. No:19, 73000 Şırnak Merkez/Şırnak",
+      "telefon": "",
+      "latitude": 37.5103487,
+      "longitude": 42.4670487
+    },
+    {
+      "isim": "Şırnak üniversitesi konuk evi",
+      "tip": "Üniversite Konukevi",
+      "il": "Şırnak",
+      "adres": "Yeni, 73000 Şırnak Merkez/Şırnak",
+      "telefon": "",
+      "latitude": 37.5026811,
+      "longitude": 42.426713799999995
+    },
+    {
+      "isim": "Orduevi Misafirhanesi",
+      "tip": "Orduevi",
+      "il": "Sivas",
+      "adres": "Akdeğirmen, 18-1. Sk. No:4, 58040 Sivas Merkez/Sivas",
+      "telefon": "",
+      "latitude": 39.755061999999995,
+      "longitude": 37.018277
+    },
+    {
+      "isim": "Divriği Belediyesi Misafirhanesi",
+      "tip": "Belediye Misafirhanesi",
+      "il": "Sivas",
+      "adres": "Kalealtı, 58300 Divriği/Sivas",
+      "telefon": "",
+      "latitude": 39.380043400000005,
+      "longitude": 38.121046199999995
+    },
+    {
+      "isim": "Gurun Ogretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Sivas",
+      "adres": "GÜRÜN ÖĞRETMENEVİ, TOHMAÇAYI CAD. PANSIYON, Kurultay, NO 20 İÇ KAPI NO 21, 58800 Gürün/Sivas",
+      "telefon": "0346 715 19 06",
+      "latitude": 38.7197426,
+      "longitude": 37.274508399999995
+    },
+    {
+      "isim": "Kangal Yeni Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Sivas",
+      "adres": "Karşıyaka, Deligazili caddesi, 58900 Kangal/Sivas",
+      "telefon": "0346 457 13 29",
+      "latitude": 39.2242824,
+      "longitude": 37.3881279
+    },
+    {
+      "isim": "Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Sivas",
+      "adres": "Yenişehir, 58000 İmaret/Sivas Merkez/Sivas",
+      "telefon": "",
+      "latitude": 39.699093999999995,
+      "longitude": 37.010115
+    },
+    {
+      "isim": "Öğretmenler Lokali",
+      "tip": "Öğretmenevi",
+      "il": "Sivas",
+      "adres": "Gökmedrese, Yahya Bey Cd., 58070 Sivas Merkez/Sivas",
+      "telefon": "",
+      "latitude": 39.7458421,
+      "longitude": 37.0207549
+    },
+    {
+      "isim": "Sivas İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Sivas",
+      "adres": "Mehmet Akif Ersoy, 49-Şht. Hacı Avcı Sk., 58060 Sivas Merkez/Sivas",
+      "telefon": "",
+      "latitude": 39.741451,
+      "longitude": 37.033578
+    },
+    {
+      "isim": "Tekirdağ Belediyesi Sosyal Tesisleri Cafe",
+      "tip": "Belediye Misafirhanesi",
+      "il": "Tekirdağ",
+      "adres": "Cumhuriyet, Atatürk Blv. No:35, 59100 Tekirdağ Merkez/Tekirdağ",
+      "telefon": "",
+      "latitude": 40.9755902,
+      "longitude": 27.517218099999997
+    },
+    {
+      "isim": "Kumbag Ogretmenevi ASO",
+      "tip": "Öğretmenevi",
+      "il": "Tekirdağ",
+      "adres": "Kumbağ, 59060 Tekirdağ Merkez/Tekirdağ",
+      "telefon": "0282 283 50 97",
+      "latitude": 40.8884809,
+      "longitude": 27.4600422
+    },
+    {
+      "isim": "İl jandarma",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Tekirdağ",
+      "adres": "Hürriyet, Fatih Sultan Mehmet Blv. No:127, 59020 Tekirdağ Merkez/Tekirdağ",
+      "telefon": "",
+      "latitude": 40.9823279,
+      "longitude": 27.5538937
+    },
+    {
+      "isim": "Kumbağ Askeri Sosyal Tesis",
+      "tip": "Orduevi",
+      "il": "Tekirdağ",
+      "adres": "Kumsal Kamp Alanı, Kumbağ, Vatan Cd., 59060 Süleymanpaşa/Tekirdağ",
+      "telefon": "",
+      "latitude": 40.886926599999995,
+      "longitude": 27.461136999999997
+    },
+    {
+      "isim": "Tekirdağ Askeri Gazino",
+      "tip": "Orduevi",
+      "il": "Tekirdağ",
+      "adres": "Ertuğrul, 59100 Süleymanpaşa/Tekirdağ",
+      "telefon": "",
+      "latitude": 40.975706599999995,
+      "longitude": 27.5139385
+    },
+    {
+      "isim": "Tokat askeri gazino/orduevi",
+      "tip": "Orduevi",
+      "il": "Tokat",
+      "adres": "Alipaşa, 213. Sk. No:3, 60030, 60030 Tokat Merkez/Tokat",
+      "telefon": "",
+      "latitude": 40.3131225,
+      "longitude": 36.552233199999996
+    },
+    {
+      "isim": "Polis Evi",
+      "tip": "Polisevi",
+      "il": "Tokat",
+      "adres": "Doğancıbağları, Polis Evi, 60100 Tokat Merkez/Tokat",
+      "telefon": "",
+      "latitude": 40.3341918,
+      "longitude": 36.5834263
+    },
+    {
+      "isim": "Tokat İl Jandarma Alay Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Tokat",
+      "adres": "Kümbet, Naci Özen Cd., 60200 Tokat Merkez/Tokat",
+      "telefon": "0356 228 74 02",
+      "latitude": 40.330167599999996,
+      "longitude": 36.5591006
+    },
+    {
+      "isim": "Tokat Merkez Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Tokat",
+      "adres": "Küçükbey Bağı, Gaziosmanpaşa Blv., 60100 Tokat Merkez/Tokat",
+      "telefon": "0356 214 17 00",
+      "latitude": 40.300601,
+      "longitude": 36.553098
+    },
+    {
+      "isim": "Polis Evi Yazlık Tesisi",
+      "tip": "Polisevi",
+      "il": "Trabzon",
+      "adres": "Akyazı, 61000 Trabzon Merkez/Trabzon",
+      "telefon": "",
+      "latitude": 41.001908,
+      "longitude": 39.6360832
+    },
+    {
+      "isim": "KTÜ Sosyal Tesisler",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Trabzon",
+      "adres": "Üniversite, Merkez, Ahmet Suat Özyazıcı Cd. No:23, 61080 Ortahisar/Trabzon",
+      "telefon": "",
+      "latitude": 41.00116990000001,
+      "longitude": 39.7762132
+    },
+    {
+      "isim": "MTA (TRABZON) DOĞU KARADENİZ BÖLGE MÜDÜRLÜĞÜ MİSAFİRHANESİ",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Trabzon",
+      "adres": "Pelitli, Rize Cd. NO:124, 61000 Ortahisar/Trabzon",
+      "telefon": "0462 334 54 09",
+      "latitude": 40.990911499999996,
+      "longitude": 39.797948399999996
+    },
+    {
+      "isim": "KTÜ Öğrenci Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "Trabzon",
+      "adres": "Üniversite, 61080 Ortahisar/Trabzon",
+      "telefon": "0462 377 35 78",
+      "latitude": 40.9970055,
+      "longitude": 39.7679
+    },
+    {
+      "isim": "İnci-Hamitcan Aksoy Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Trabzon",
+      "adres": "Orta, Sahil Cd. No:102, 61600 Sürmene/Trabzon",
+      "telefon": "0533 229 31 61",
+      "latitude": 40.912353599999996,
+      "longitude": 40.118736999999996
+    },
+    {
+      "isim": "Tunceli Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Tunceli",
+      "adres": "Atatürk, Cem Emir Cd. No:11, 62000 Tunceli Merkez/Tunceli",
+      "telefon": "0428 212 33 65",
+      "latitude": 39.069448799999996,
+      "longitude": 39.5331998
+    },
+    {
+      "isim": "Munzur Üniversitesi Konukevi",
+      "tip": "Üniversite Konukevi",
+      "il": "Tunceli",
+      "adres": "Aktuluk, 2GW9+86, 62000 Tunceli Merkez/Tunceli",
+      "telefon": "",
+      "latitude": 39.0458484,
+      "longitude": 39.5180342
+    },
+    {
+      "isim": "Sutluce Jandarma Karakol Komutanligi",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Tunceli",
+      "adres": "Merkez, Sütlüce, Tunceli Merkez, Tunceli, Moğultay, 62000 Tunceli Merkez/Tunceli",
+      "telefon": "0428 213 84 88",
+      "latitude": 39.1058251,
+      "longitude": 39.5455166
+    },
+    {
+      "isim": "Uşak Askeri Gazinosu",
+      "tip": "Orduevi",
+      "il": "Uşak",
+      "adres": "Elmalıdere, Nuri Şeker Cd., 64400 Uşak Merkez/Uşak",
+      "telefon": "",
+      "latitude": 38.67992280000001,
+      "longitude": 29.4104702
+    },
+    {
+      "isim": "Usak Il Jandarma Komutanligi",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Uşak",
+      "adres": "Cumhuriyet, 1. Şube Sk No:1, 64200 Uşak Merkez/Uşak",
+      "telefon": "0276 216 36 77",
+      "latitude": 38.6631521,
+      "longitude": 29.401770400000004
+    },
+    {
+      "isim": "Uşak Polis Evi",
+      "tip": "Polisevi",
+      "il": "Uşak",
+      "adres": "İslice, Nuri Şeker Cd. No:50, 64400 Uşak Merkez/Uşak",
+      "telefon": "",
+      "latitude": 38.6796706,
+      "longitude": 29.409318199999998
+    },
+    {
+      "isim": "Şehit ve Gazi Aileleri Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Van",
+      "adres": "askerlik şübesi yanı, Şerefiye, Ordu Cd., 65100 İpekyolu/Van",
+      "telefon": "0553 699 78 65",
+      "latitude": 38.499289399999995,
+      "longitude": 43.401208
+    },
+    {
+      "isim": "DHMİ VAN MİSAFİRHANESİ",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Van",
+      "adres": "Eminpaşa, 65300 Edremit/Van",
+      "telefon": "",
+      "latitude": 38.4664466,
+      "longitude": 43.3366633
+    },
+    {
+      "isim": "Van İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Van",
+      "adres": "Vali Mithat Bey, Hilal 2. Sk. No:96, 65130 Van Merkez/Van",
+      "telefon": "0432 214 24 50",
+      "latitude": 38.504416600000006,
+      "longitude": 43.4089941
+    },
+    {
+      "isim": "Van İl Jandarma Komutanlığı Edremit Sosyal Tesis Müdürlüğü",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Van",
+      "adres": "Eski Cami, Sahil Caddesi No: 104 D:1, 65170, 65170 Edremit/Van",
+      "telefon": "0432 312 27 70",
+      "latitude": 38.4158646,
+      "longitude": 43.2317016
+    },
+    {
+      "isim": "Jandarma",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Van",
+      "adres": "Tabanlı, 65090 Van Merkez/Van",
+      "telefon": "",
+      "latitude": 38.757807,
+      "longitude": 43.363648
+    },
+    {
+      "isim": "100. Yıl Üniversitesi Jandarma",
+      "tip": "Üniversite Misafirhanesi",
+      "il": "Van",
+      "adres": "Bardakçı, Yüzüncü Yıl Ünv., 65090 Van Merkez/Van",
+      "telefon": "",
+      "latitude": 38.570779,
+      "longitude": 43.282105
+    },
+    {
+      "isim": "Askeri Lojmanlar",
+      "tip": "Orduevi",
+      "il": "Van",
+      "adres": "Eminpaşa, 65300 Edremit/Van",
+      "telefon": "",
+      "latitude": 38.4714635,
+      "longitude": 43.345803
+    },
+    {
+      "isim": "Orduevi musafirhane",
+      "tip": "Orduevi",
+      "il": "Van",
+      "adres": "Latifiye, Süleyman Erdinç Cd. No:62, 65400, 65400 Erciş/Van",
+      "telefon": "",
+      "latitude": 39.0288932,
+      "longitude": 43.353238
+    },
+    {
+      "isim": "Askeriye Lojmanları",
+      "tip": "Orduevi",
+      "il": "Van",
+      "adres": "Seyit Fehim Arvasi, 65100 İpekyolu/Van",
+      "telefon": "",
+      "latitude": 38.492060099999996,
+      "longitude": 43.404326399999995
+    },
+    {
+      "isim": "Yalova İl Merkez Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Yalova",
+      "adres": "Süleyman Bey, Cengiz Koçal Cad., 77100 Yalova Merkez/Yalova",
+      "telefon": "",
+      "latitude": 40.658626,
+      "longitude": 29.2728984
+    },
+    {
+      "isim": "Yalova İl Jandarma Komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Yalova",
+      "adres": "Paşakent, Bursa Yolu 5.Km, 77200 Yalova Merkez/Yalova",
+      "telefon": "0226 825 39 08",
+      "latitude": 40.627773,
+      "longitude": 29.267926
+    },
+    {
+      "isim": "Termal Ilce Jandarma Komutanligi",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Yalova",
+      "adres": "Kirli Orman Mevki, Killi Orman, Akköy Köyü Yolu No:74, 77400 Akköy/Termal/Yalova",
+      "telefon": "0226 678 12 42",
+      "latitude": 40.626733,
+      "longitude": 29.179109999999998
+    },
+    {
+      "isim": "Yalova merkez jandarma komutanlığı",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Yalova",
+      "adres": "Adnan Menderes, 77200 Yalova Merkez/Yalova",
+      "telefon": "",
+      "latitude": 40.651275299999995,
+      "longitude": 29.261756499999997
+    },
+    {
+      "isim": "Sosyal Tesis",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Yozgat",
+      "adres": "Bilal Şahin, 66100 Yozgat Merkez/Yozgat",
+      "telefon": "0537 271 79 20",
+      "latitude": 39.8335337,
+      "longitude": 34.8231957
+    },
+    {
+      "isim": "Jandarma Sosyal Tesisi",
+      "tip": "Jandarma Sosyal Tesisi",
+      "il": "Yozgat",
+      "adres": "Medrese, 66100 Yozgat Merkez/Yozgat",
+      "telefon": "",
+      "latitude": 39.821464899999995,
+      "longitude": 34.8098387
+    },
+    {
+      "isim": "Kutbüzzaman Gazi Binbaşı Esseyyid Osman Nuri Ölmez Toprak Bağdadı Efendi Hazretleri Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Yozgat",
+      "adres": "Şeyh Osman, 66100 Yozgat Merkez/Yozgat",
+      "telefon": "",
+      "latitude": 39.809832,
+      "longitude": 34.793105
+    },
+    {
+      "isim": "Şefaatli Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Yozgat",
+      "adres": "Yeni, 66800 Şefaatli/Yozgat",
+      "telefon": "",
+      "latitude": 39.5003083,
+      "longitude": 34.7584766
+    },
+    {
+      "isim": "Zonguldak Orduevi",
+      "tip": "Orduevi",
+      "il": "Zonguldak",
+      "adres": "Yayla, Liman Cd. No:6, 67030 Zonguldak Merkez/Zonguldak",
+      "telefon": "",
+      "latitude": 41.457322,
+      "longitude": 31.788083000000004
+    },
+    {
+      "isim": "Ttk A Tipi Misafirhanesi",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Zonguldak",
+      "adres": "Yayla, Fener Cd. Ekipsen Evleri No:59, 67030 Zonguldak Merkez/Zonguldak",
+      "telefon": "",
+      "latitude": 41.464314,
+      "longitude": 31.7921534
+    },
+    {
+      "isim": "Zonguldak İl Tarım ve Orman Müdürlüğü Misafirhanesi",
+      "tip": "Orman Misafirhanesi",
+      "il": "Zonguldak",
+      "adres": "On Temmuz, 67100 Zonguldak Merkez/Zonguldak",
+      "telefon": "",
+      "latitude": 41.441031599999995,
+      "longitude": 31.784225499999998
+    },
+    {
+      "isim": "Kilimli Belediyesi Konuk Evi",
+      "tip": "Üniversite Konukevi",
+      "il": "Zonguldak",
+      "adres": "Belediye Sitesi, Karahisar Küme Evler Sk., 67500 Çatalağzı/Kilimli/Zonguldak",
+      "telefon": "",
+      "latitude": 41.494803,
+      "longitude": 31.854478999999998
+    },
+    {
+      "isim": "Teachers Markets",
+      "tip": "Kamu Misafirhanesi",
+      "il": "Zonguldak",
+      "adres": "Mithatpaşa, Hayri Bey Sk. No:5, 67020 Zonguldak Merkez/Zonguldak",
+      "telefon": "",
+      "latitude": 41.45215280000001,
+      "longitude": 31.7910115
+    },
+    {
+      "isim": "Kozlu Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Zonguldak",
+      "adres": "Merkez, 67510 Kozlu/Zonguldak",
+      "telefon": "",
+      "latitude": 41.434584,
+      "longitude": 31.744925999999996
     }
   ],
   "sosyal": [

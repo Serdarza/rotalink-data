@@ -13860,6 +13860,324 @@
       "isim": "Erfelek İlçe Jandarma Komutanlığı",
       "adres": "Kınık, Yeşilkent Cd. No:2, 57800 Erfelek/Sinop",
       "ilce": "Erfelek"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Askeri Gazino",
+      "adres": "Gümrük Lojmanları, Karşıyaka, karşısı, 73400 Silopi/Şırnak",
+      "ilce": "Silopi"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak İl Jandarma",
+      "adres": "Gündoğdu, İstiklal Sk. No:19, 73000 Şırnak Merkez/Şırnak",
+      "ilce": "Şırnak Merkez"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak üniversitesi konuk evi",
+      "adres": "Yeni, 73000 Şırnak Merkez/Şırnak",
+      "ilce": "Şırnak Merkez"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Orduevi Misafirhanesi",
+      "adres": "Akdeğirmen, 18-1. Sk. No:4, 58040 Sivas Merkez/Sivas",
+      "ilce": "Sivas Merkez"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Divriği Belediyesi Misafirhanesi",
+      "adres": "Kalealtı, 58300 Divriği/Sivas",
+      "ilce": "Divriği"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Gurun Ogretmenevi",
+      "adres": "GÜRÜN ÖĞRETMENEVİ, TOHMAÇAYI CAD. PANSIYON, Kurultay, NO 20 İÇ KAPI NO 21, 58800 Gürün/Sivas",
+      "ilce": "Gürün"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Kangal Yeni Öğretmenevi",
+      "adres": "Karşıyaka, Deligazili caddesi, 58900 Kangal/Sivas",
+      "ilce": "Kangal"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Uygulama Oteli",
+      "adres": "Yenişehir, 58000 İmaret/Sivas Merkez/Sivas",
+      "ilce": "Sivas Merkez"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Öğretmenler Lokali",
+      "adres": "Gökmedrese, Yahya Bey Cd., 58070 Sivas Merkez/Sivas",
+      "ilce": "Sivas Merkez"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas İl Jandarma Komutanlığı",
+      "adres": "Mehmet Akif Ersoy, 49-Şht. Hacı Avcı Sk., 58060 Sivas Merkez/Sivas",
+      "ilce": "Sivas Merkez"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Belediyesi Sosyal Tesisleri Cafe",
+      "adres": "Cumhuriyet, Atatürk Blv. No:35, 59100 Tekirdağ Merkez/Tekirdağ",
+      "ilce": "Tekirdağ Merkez"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Kumbag Ogretmenevi ASO",
+      "adres": "Kumbağ, 59060 Tekirdağ Merkez/Tekirdağ",
+      "ilce": "Tekirdağ Merkez"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "İl jandarma",
+      "adres": "Hürriyet, Fatih Sultan Mehmet Blv. No:127, 59020 Tekirdağ Merkez/Tekirdağ",
+      "ilce": "Tekirdağ Merkez"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Kumbağ Askeri Sosyal Tesis",
+      "adres": "Kumsal Kamp Alanı, Kumbağ, Vatan Cd., 59060 Süleymanpaşa/Tekirdağ",
+      "ilce": "Süleymanpaşa"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Askeri Gazino",
+      "adres": "Ertuğrul, 59100 Süleymanpaşa/Tekirdağ",
+      "ilce": "Süleymanpaşa"
+    },
+    {
+      "il": "Tokat",
+      "isim": "Tokat askeri gazino/orduevi",
+      "adres": "Alipaşa, 213. Sk. No:3, 60030, 60030 Tokat Merkez/Tokat",
+      "ilce": "Tokat Merkez"
+    },
+    {
+      "il": "Tokat",
+      "isim": "Polis Evi",
+      "adres": "Doğancıbağları, Polis Evi, 60100 Tokat Merkez/Tokat",
+      "ilce": "Tokat Merkez"
+    },
+    {
+      "il": "Tokat",
+      "isim": "Tokat İl Jandarma Alay Komutanlığı",
+      "adres": "Kümbet, Naci Özen Cd., 60200 Tokat Merkez/Tokat",
+      "ilce": "Tokat Merkez"
+    },
+    {
+      "il": "Tokat",
+      "isim": "Tokat Merkez Jandarma Komutanlığı",
+      "adres": "Küçükbey Bağı, Gaziosmanpaşa Blv., 60100 Tokat Merkez/Tokat",
+      "ilce": "Tokat Merkez"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Polis Evi Yazlık Tesisi",
+      "adres": "Akyazı, 61000 Trabzon Merkez/Trabzon",
+      "ilce": "Trabzon Merkez"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "KTÜ Sosyal Tesisler",
+      "adres": "Üniversite, Merkez, Ahmet Suat Özyazıcı Cd. No:23, 61080 Ortahisar/Trabzon",
+      "ilce": "Ortahisar"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "MTA (TRABZON) DOĞU KARADENİZ BÖLGE MÜDÜRLÜĞÜ MİSAFİRHANESİ",
+      "adres": "Pelitli, Rize Cd. NO:124, 61000 Ortahisar/Trabzon",
+      "ilce": "Ortahisar"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "KTÜ Öğrenci Konukevi",
+      "adres": "Üniversite, 61080 Ortahisar/Trabzon",
+      "ilce": "Ortahisar"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "İnci-Hamitcan Aksoy Öğretmenevi",
+      "adres": "Orta, Sahil Cd. No:102, 61600 Sürmene/Trabzon",
+      "ilce": "Sürmene"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli Öğretmenevi",
+      "adres": "Atatürk, Cem Emir Cd. No:11, 62000 Tunceli Merkez/Tunceli",
+      "ilce": "Tunceli Merkez"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Munzur Üniversitesi Konukevi",
+      "adres": "Aktuluk, 2GW9+86, 62000 Tunceli Merkez/Tunceli",
+      "ilce": "Tunceli Merkez"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Sutluce Jandarma Karakol Komutanligi",
+      "adres": "Merkez, Sütlüce, Tunceli Merkez, Tunceli, Moğultay, 62000 Tunceli Merkez/Tunceli",
+      "ilce": "Tunceli Merkez"
+    },
+    {
+      "il": "Uşak",
+      "isim": "Uşak Askeri Gazinosu",
+      "adres": "Elmalıdere, Nuri Şeker Cd., 64400 Uşak Merkez/Uşak",
+      "ilce": "Uşak Merkez"
+    },
+    {
+      "il": "Uşak",
+      "isim": "Usak Il Jandarma Komutanligi",
+      "adres": "Cumhuriyet, 1. Şube Sk No:1, 64200 Uşak Merkez/Uşak",
+      "ilce": "Uşak Merkez"
+    },
+    {
+      "il": "Uşak",
+      "isim": "Uşak Polis Evi",
+      "adres": "İslice, Nuri Şeker Cd. No:50, 64400 Uşak Merkez/Uşak",
+      "ilce": "Uşak Merkez"
+    },
+    {
+      "il": "Van",
+      "isim": "Şehit ve Gazi Aileleri Misafirhanesi",
+      "adres": "askerlik şübesi yanı, Şerefiye, Ordu Cd., 65100 İpekyolu/Van",
+      "ilce": "İpekyolu"
+    },
+    {
+      "il": "Van",
+      "isim": "DHMİ VAN MİSAFİRHANESİ",
+      "adres": "Eminpaşa, 65300 Edremit/Van",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Van",
+      "isim": "Van İl Jandarma Komutanlığı",
+      "adres": "Vali Mithat Bey, Hilal 2. Sk. No:96, 65130 Van Merkez/Van",
+      "ilce": "Van Merkez"
+    },
+    {
+      "il": "Van",
+      "isim": "Van İl Jandarma Komutanlığı Edremit Sosyal Tesis Müdürlüğü",
+      "adres": "Eski Cami, Sahil Caddesi No: 104 D:1, 65170, 65170 Edremit/Van",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Van",
+      "isim": "Jandarma",
+      "adres": "Tabanlı, 65090 Van Merkez/Van",
+      "ilce": "Van Merkez"
+    },
+    {
+      "il": "Van",
+      "isim": "100. Yıl Üniversitesi Jandarma",
+      "adres": "Bardakçı, Yüzüncü Yıl Ünv., 65090 Van Merkez/Van",
+      "ilce": "Van Merkez"
+    },
+    {
+      "il": "Van",
+      "isim": "Askeri Lojmanlar",
+      "adres": "Eminpaşa, 65300 Edremit/Van",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Van",
+      "isim": "Orduevi musafirhane",
+      "adres": "Latifiye, Süleyman Erdinç Cd. No:62, 65400, 65400 Erciş/Van",
+      "ilce": "Erciş"
+    },
+    {
+      "il": "Van",
+      "isim": "Askeriye Lojmanları",
+      "adres": "Seyit Fehim Arvasi, 65100 İpekyolu/Van",
+      "ilce": "İpekyolu"
+    },
+    {
+      "il": "Yalova",
+      "isim": "Yalova İl Merkez Jandarma Komutanlığı",
+      "adres": "Süleyman Bey, Cengiz Koçal Cad., 77100 Yalova Merkez/Yalova",
+      "ilce": "Yalova Merkez"
+    },
+    {
+      "il": "Yalova",
+      "isim": "Yalova İl Jandarma Komutanlığı",
+      "adres": "Paşakent, Bursa Yolu 5.Km, 77200 Yalova Merkez/Yalova",
+      "ilce": "Yalova Merkez"
+    },
+    {
+      "il": "Yalova",
+      "isim": "Termal Ilce Jandarma Komutanligi",
+      "adres": "Kirli Orman Mevki, Killi Orman, Akköy Köyü Yolu No:74, 77400 Akköy/Termal/Yalova",
+      "ilce": "Termal"
+    },
+    {
+      "il": "Yalova",
+      "isim": "Yalova merkez jandarma komutanlığı",
+      "adres": "Adnan Menderes, 77200 Yalova Merkez/Yalova",
+      "ilce": "Yalova Merkez"
+    },
+    {
+      "il": "Yozgat",
+      "isim": "Sosyal Tesis",
+      "adres": "Bilal Şahin, 66100 Yozgat Merkez/Yozgat",
+      "ilce": "Yozgat Merkez"
+    },
+    {
+      "il": "Yozgat",
+      "isim": "Jandarma Sosyal Tesisi",
+      "adres": "Medrese, 66100 Yozgat Merkez/Yozgat",
+      "ilce": "Yozgat Merkez"
+    },
+    {
+      "il": "Yozgat",
+      "isim": "Kutbüzzaman Gazi Binbaşı Esseyyid Osman Nuri Ölmez Toprak Bağdadı Efendi Hazretleri Misafirhanesi",
+      "adres": "Şeyh Osman, 66100 Yozgat Merkez/Yozgat",
+      "ilce": "Yozgat Merkez"
+    },
+    {
+      "il": "Yozgat",
+      "isim": "Şefaatli Öğretmenevi",
+      "adres": "Yeni, 66800 Şefaatli/Yozgat",
+      "ilce": "Şefaatli"
+    },
+    {
+      "il": "Zonguldak",
+      "isim": "Zonguldak Orduevi",
+      "adres": "Yayla, Liman Cd. No:6, 67030 Zonguldak Merkez/Zonguldak",
+      "ilce": "Zonguldak Merkez"
+    },
+    {
+      "il": "Zonguldak",
+      "isim": "Ttk A Tipi Misafirhanesi",
+      "adres": "Yayla, Fener Cd. Ekipsen Evleri No:59, 67030 Zonguldak Merkez/Zonguldak",
+      "ilce": "Zonguldak Merkez"
+    },
+    {
+      "il": "Zonguldak",
+      "isim": "Zonguldak İl Tarım ve Orman Müdürlüğü Misafirhanesi",
+      "adres": "On Temmuz, 67100 Zonguldak Merkez/Zonguldak",
+      "ilce": "Zonguldak Merkez"
+    },
+    {
+      "il": "Zonguldak",
+      "isim": "Kilimli Belediyesi Konuk Evi",
+      "adres": "Belediye Sitesi, Karahisar Küme Evler Sk., 67500 Çatalağzı/Kilimli/Zonguldak",
+      "ilce": "Kilimli"
+    },
+    {
+      "il": "Zonguldak",
+      "isim": "Teachers Markets",
+      "adres": "Mithatpaşa, Hayri Bey Sk. No:5, 67020 Zonguldak Merkez/Zonguldak",
+      "ilce": "Zonguldak Merkez"
+    },
+    {
+      "il": "Zonguldak",
+      "isim": "Kozlu Öğretmenevi",
+      "adres": "Merkez, 67510 Kozlu/Zonguldak",
+      "ilce": "Kozlu"
     }
   ]
 }
