@@ -35,10 +35,37 @@
     "fiyat_sivil": "3.000 – 7.000 TL",
     "fiyat_kamu_personeli": "2.250 – 6.000 TL",
     "fiyat_kurum_personeli": "1.850 – 5.000 TL"
+  }, 
+  {
+    "il": "Antalya",
+    "isim": "Antalya Kışla Gazinosu",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
   },
   {
     "il": "Antalya",
-    "ilce": "Kepez",
+    "isim": "Karpuzkaldıran Özel Eğitim Merkezi Komutanlığı",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Side Eğitim Ve Dinlenme Merkezi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya Polisevi",
+    "fiyat_sivil": "1.484 – 2.969 TL",
+    "fiyat_kamu_personeli": "1.060 – 2.121 TL",
+    "fiyat_kurum_personeli": "742 – 1.484 TL"
+  },
+  {
+    "il": "Antalya",
     "isim": "Antalya Öğretmenevi",
     "fiyat_sivil": "4.150 – 9.200 TL",
     "fiyat_kamu_personeli": "2.900 – 6.600 TL",
@@ -46,7 +73,6 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Konyaaltı",
     "isim": "Konyaaltı Mehmet Zeki Balcı Öğretmenevi",
     "fiyat_sivil": "5.400 – 7.200 TL",
     "fiyat_kamu_personeli": "2.900 – 5.600 TL",
@@ -54,15 +80,13 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Alanya",
     "isim": "Alanya Öğretmenevi ve Akşam Sanat Okulu",
     "fiyat_sivil": "5.200 – 10.200 TL",
     "fiyat_kamu_personeli": "2.800 – 7.950 TL",
-    "fiyat_kurum_personeli": "2.800 – 7.950 TL"
+    "fiyat_kurum_personeli": "2.800 – 5.700 TL"
   },
   {
     "il": "Antalya",
-    "ilce": "Akseki",
     "isim": "Akseki Öğretmenevi",
     "fiyat_sivil": "600 – 1.500 TL",
     "fiyat_kamu_personeli": "400 – 1.000 TL",
@@ -70,7 +94,6 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Elmalı",
     "isim": "Elmalı Öğretmenevi",
     "fiyat_sivil": "600 – 1.800 TL",
     "fiyat_kamu_personeli": "400 – 1.200 TL",
@@ -78,7 +101,6 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Gazipaşa",
     "isim": "Gazipaşa Öğretmenevi ve Akşam Sanat Okulu",
     "fiyat_sivil": "700 – 2.000 TL",
     "fiyat_kamu_personeli": "500 – 1.400 TL",
@@ -86,7 +108,6 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Demre",
     "isim": "Demre Öğretmenevi ve Akşam Sanat Okulu",
     "fiyat_sivil": "700 – 2.000 TL",
     "fiyat_kamu_personeli": "500 – 1.400 TL",
@@ -94,7 +115,6 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Serik",
     "isim": "Serik Öğretmenevi",
     "fiyat_sivil": "800 – 2.200 TL",
     "fiyat_kamu_personeli": "500 – 1.500 TL",
@@ -102,7 +122,6 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Korkuteli",
     "isim": "Korkuteli Öğretmenevi ve Akşam Sanat Okulu",
     "fiyat_sivil": "600 – 1.800 TL",
     "fiyat_kamu_personeli": "400 – 1.200 TL",
@@ -110,11 +129,143 @@
   },
   {
     "il": "Antalya",
-    "ilce": "Kumluca",
     "isim": "Kumluca Öğretmenevi ve Akşam Sanat Okulu",
     "fiyat_sivil": "700 – 2.000 TL",
     "fiyat_kamu_personeli": "500 – 1.400 TL",
     "fiyat_kurum_personeli": "400 – 1.100 TL"
+  },
+  {
+    "il": "Antalya",
+    "isim": "Akdeniz Üniversitesi Sosyal Tesisler",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Akdeniz Üniversitesi Avrupa Akdeniz Gençlik Eğitim Ve Dinlenme Tesisi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Alanya Meteoroloji Müdürlüğü ve Uluslararası Eğitim Tesisleri",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya Büyükşehir Belediyesi Hasta ve Hasta Yakınları Sosyal Tesisi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya TEİAŞ Misafirhane",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "ATGV Antalya Eğitim ve Sosyal Tesisi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya Devlet Su İşleri Misafirhanesi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Hacı Mehmet Gebizli Eğitim Merkezi ve Sosyal Tesisi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "DSİ Alara Eğitim Ve Dinlenme Tesisleri",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Finike Karayolları Misafirhanesi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Finike Meteoroloji Misafirhanesi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Gazipaşa Belediyesi Tatil ve Dinlenme Tesisleri Misafirhanesi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya Gıda Tarım ve Hayvancılık İl Müdürlüğü Misafirhanesi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya Karayolları 13. Bölge Müdürlüğü Eğitim ve Dinlenme Tesisi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Kepez Belediyesi Hasta Konuk Evi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya MEB Uygulama Oteli",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya Orman Bölge Müdürlüğü Misafirhanesi",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "Antalya Sayıştay Başkanlığı Eğitim ve Dinlenme Tesisleri",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
+  },
+  {
+    "il": "Antalya",
+    "isim": "TRT Lara Kampı",
+    "fiyat_sivil": null,
+    "fiyat_kamu_personeli": null,
+    "fiyat_kurum_personeli": null
   },
  {
     "il": "Muğla",
