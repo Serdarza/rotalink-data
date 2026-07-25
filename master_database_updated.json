@@ -34505,6 +34505,15 @@
       "longitude": 34.44181592513042
     },
     {
+  "isim": "DSİ 6. Bölge Kapızlı Eğitim Ve Dinlenme Tesisi",
+  "tip": "Eğitim ve Dinlenme Tesisi",
+  "il": "Mersin",
+  "adres": "Atakent Mahallesi, Bakanlıklar Caddesi No:1, Silifke / Mersin",
+  "telefon": "0324 722 27 37",
+  "latitude":36.39878344724558, 
+  "longitude": 34.073813629008676
+},
+    {
       "isim": "Mersin İlce Emniyet Müdürlüğü Polis evi",
       "tip": "Polisevi",
       "il": "Mersin",
