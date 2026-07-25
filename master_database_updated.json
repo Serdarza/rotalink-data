@@ -30845,6 +30845,15 @@
       "longitude": 29.06112516363391
     },
     {
+  "isim": "Bağcılar Öğretmenevi ve Akşam Sanat Okulu",
+  "tip": "Öğretmenevi ve Akşam Sanat Okulu",
+  "il": "İstanbul",
+  "adres": "Yavuz Selim Mahallesi, 1024. Sokak No:2, Bağcılar, İstanbul",
+  "telefon": "0 212 433 0313",
+  "latitude": 41.03540182042502, 
+  "longitude": 28.85147547724599
+},
+    {
       "isim": "Sarıyer Maslak Astsubay Orduevi",
       "tip": "Orduevi",
       "il": "İstanbul",
