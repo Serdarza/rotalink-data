@@ -1,6 +1,3 @@
-**✅ Birleştirilmiş ve Temizlenmiş Tam JSON**
-
-```json
 {
   "not": "Fiyatlar gecelik oda ücreti aralığıdır; tesise ve oda tipine göre değişebilir. Kaynak ve geçerlilik bilgileri kaldırılmıştır. Rezervasyonda tesisle teyit edilmelidir.",
   "tesisler": [
@@ -405,4 +402,3 @@
     }
   ]
 }
-```
