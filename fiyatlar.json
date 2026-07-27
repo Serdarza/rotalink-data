@@ -441,15 +441,6 @@
       "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
     },
     {
-      "il": "Şanlıurfa",
-      "isim": "Şanlıurfa Polisevi",
-      "fiyat_sivil": "1.470 – 5.145 TL",
-      "fiyat_kamu_personeli": "1.050 – 3.675 TL",
-      "fiyat_kurum_personeli": "735 – 2.573 TL",
-      "kaynak": "https://www.sanliurfa.pol.tr/sanliurfa-polisevi-sube-mudurlugu",
-      "gecerlilik": "19.01.2026 itibarıyla (%2 konaklama vergisi dahil)"
-    },
-    {
       "il": "Samsun",
       "isim": "Samsun Öğretmenevi",
       "fiyat_sivil": "3.800 TL",
@@ -474,6 +465,15 @@
       "fiyat_kurum_personeli": "630 – 2.573 TL",
       "kaynak": "https://www.sinop.pol.tr/polisevi-sube-mudurlugu-fiyat-listesi",
       "gecerlilik": "2026 yılı listesi; sayfada %2 konaklama vergisi HARİÇ belirtilmiştir (üzerine ayrıca vergi alınır)"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Polisevi",
+      "fiyat_sivil": "1.470 – 5.145 TL",
+      "fiyat_kamu_personeli": "1.050 – 3.675 TL",
+      "fiyat_kurum_personeli": "735 – 2.573 TL",
+      "kaynak": "https://www.sanliurfa.pol.tr/sanliurfa-polisevi-sube-mudurlugu",
+      "gecerlilik": "19.01.2026 itibarıyla (%2 konaklama vergisi dahil)"
     },
     {
       "il": "Trabzon",
