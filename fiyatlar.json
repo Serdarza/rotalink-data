@@ -129,7 +129,7 @@
     },
     {
       "il": "Giresun",
-      "isim": "Giresun Öğretmenevi",
+      "isim": "Giresun Öğretmen Evi",
       "fiyat_sivil": "2.400 TL",
       "fiyat_kamu_personeli": "2.000 TL",
       "fiyat_kurum_personeli": "1.900 TL",
@@ -162,10 +162,18 @@
     },
     {
       "il": "İzmir",
-      "isim": "İlksan Konukevi",
+      "isim": "İlksan İzmir Konukevi",
       "fiyat_sivil": null,
       "fiyat_kamu_personeli": null,
       "fiyat_kurum_personeli": "1.300 TL",
+      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Karayolları Sosyal Tesisleri",
+      "fiyat_sivil": "1.800 TL",
+      "fiyat_kamu_personeli": "1.050 TL",
+      "fiyat_kurum_personeli": "1.350 TL",
       "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
     },
     {
@@ -179,10 +187,34 @@
     },
     {
       "il": "İzmir",
-      "isim": "İzmir Polisevi",
+      "isim": "İzmir Polis Evi Düğün Salonu",
       "fiyat_sivil": "1.500 TL",
       "fiyat_kamu_personeli": "1.071 TL",
       "fiyat_kurum_personeli": "755 TL",
+      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir PTT 150. Yıl Misafirhanesi",
+      "fiyat_sivil": "1.350 TL",
+      "fiyat_kamu_personeli": "600 TL",
+      "fiyat_kurum_personeli": "1.250 TL",
+      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir TAKAV Sosyal Tesisleri",
+      "fiyat_sivil": "2.100 TL",
+      "fiyat_kamu_personeli": "1.350 TL",
+      "fiyat_kurum_personeli": "1.450 TL",
+      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir TCDD Misafirhanesi",
+      "fiyat_sivil": "1.800 TL",
+      "fiyat_kamu_personeli": "1.050 TL",
+      "fiyat_kurum_personeli": "975 TL",
       "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
     },
     {
@@ -191,46 +223,6 @@
       "fiyat_sivil": "4.200 TL",
       "fiyat_kamu_personeli": "3.200 TL",
       "fiyat_kurum_personeli": "2.600 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
-    },
-    {
-      "il": "İzmir",
-      "isim": "Karayolları Misafirhanesi",
-      "fiyat_sivil": "1.800 TL",
-      "fiyat_kamu_personeli": "1.050 TL",
-      "fiyat_kurum_personeli": "1.350 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
-    },
-    {
-      "il": "İzmir",
-      "isim": "Meteoroloji Misafirhanesi",
-      "fiyat_sivil": "1.050 TL",
-      "fiyat_kamu_personeli": "695 TL",
-      "fiyat_kurum_personeli": "1.150 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
-    },
-    {
-      "il": "İzmir",
-      "isim": "PTT 150. Yıl Misafirhanesi",
-      "fiyat_sivil": "1.350 TL",
-      "fiyat_kamu_personeli": "600 TL",
-      "fiyat_kurum_personeli": "1.250 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
-    },
-    {
-      "il": "İzmir",
-      "isim": "TAK Misafirhanesi",
-      "fiyat_sivil": "2.100 TL",
-      "fiyat_kamu_personeli": "1.350 TL",
-      "fiyat_kurum_personeli": "1.450 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
-    },
-    {
-      "il": "İzmir",
-      "isim": "TCDD Misafirhanesi",
-      "fiyat_sivil": "1.800 TL",
-      "fiyat_kamu_personeli": "1.050 TL",
-      "fiyat_kurum_personeli": "975 TL",
       "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
     },
     {
@@ -426,7 +418,7 @@
     },
     {
       "il": "Ordu",
-      "isim": "Ordu Öğretmenevi",
+      "isim": "Ordu Merkez Öğretmenevi ve Akşam Sanat Okulu",
       "fiyat_sivil": "3.800 TL",
       "fiyat_kamu_personeli": "3.400 TL",
       "fiyat_kurum_personeli": "2.800 TL",
