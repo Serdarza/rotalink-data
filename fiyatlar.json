@@ -137,7 +137,7 @@
     },
     {
       "il": "İstanbul",
-      "isim": "Bağcılar Öğretmenevi ASO",
+      "isim": "Bağcılar Öğretmenevi ve Akşam Sanat Okulu",
       "fiyat_sivil": "1.800 – 4.500 TL",
       "fiyat_kamu_personeli": "1.500 – 3.900 TL",
       "fiyat_kurum_personeli": "1.200 – 3.000 TL",
@@ -146,7 +146,7 @@
     },
     {
       "il": "İzmir",
-      "isim": "Alaçatı Öğretmenevi",
+      "isim": "Alaçatı Öğretmenevi ve Akşam Sanat Okulu",
       "fiyat_sivil": "3.850 TL",
       "fiyat_kamu_personeli": "3.050 TL",
       "fiyat_kurum_personeli": "2.250 TL",
@@ -175,15 +175,6 @@
       "fiyat_kamu_personeli": "1.050 TL",
       "fiyat_kurum_personeli": "1.350 TL",
       "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
-    },
-    {
-      "il": "İzmir",
-      "isim": "İzmir Metoroloji Bölge Müdürlüğü Misafirhanesi",
-      "fiyat_sivil": "1.050 – 1.250 TL",
-      "fiyat_kamu_personeli": "695 – 820 TL",
-      "fiyat_kurum_personeli": "695 – 820 TL",
-      "kaynak": "https://izmir.mgm.gov.tr/misafirhane.aspx",
-      "gecerlilik": "2026 yılı Meteoroloji 2. Bölge tarifesi"
     },
     {
       "il": "İzmir",
@@ -224,6 +215,15 @@
       "fiyat_kamu_personeli": "3.200 TL",
       "fiyat_kurum_personeli": "2.600 TL",
       "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Meteoroloji 2. Bölge Müdürlüğü Misafirhanesi",
+      "fiyat_sivil": "1.050 – 1.250 TL",
+      "fiyat_kamu_personeli": "695 – 820 TL",
+      "fiyat_kurum_personeli": "695 – 820 TL",
+      "kaynak": "https://izmir.mgm.gov.tr/misafirhane.aspx",
+      "gecerlilik": "2026 yılı Meteoroloji 2. Bölge tarifesi"
     },
     {
       "il": "Karaman",
@@ -418,7 +418,7 @@
     },
     {
       "il": "Ordu",
-      "isim": "Ordu Merkez Öğretmenevi ve Akşam Sanat Okulu",
+      "isim": "Ordu Öğretmenevi ve Akşam Sanat Okulu",
       "fiyat_sivil": "3.800 TL",
       "fiyat_kamu_personeli": "3.400 TL",
       "fiyat_kurum_personeli": "2.800 TL",
@@ -426,7 +426,7 @@
     },
     {
       "il": "Rize",
-      "isim": "Rize Öğretmenevi",
+      "isim": "Rize Öğretmenevi ve Akşam Sanat Okulu",
       "fiyat_sivil": "4.500 TL",
       "fiyat_kamu_personeli": "3.600 TL",
       "fiyat_kurum_personeli": "2.700 TL",
