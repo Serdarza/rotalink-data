@@ -150,7 +150,23 @@
       "fiyat_sivil": "3.850 TL",
       "fiyat_kamu_personeli": "3.050 TL",
       "fiyat_kurum_personeli": "2.250 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "DHMİ Havacılık Akademisi İzmir Eğitim Tesisi",
+      "fiyat_sivil": "1.176 TL",
+      "fiyat_kamu_personeli": "784 TL",
+      "fiyat_kurum_personeli": "784 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İzmir",
+      "isim": "DHMİ İzmir Adnan Menderes Havalimanı Misafirhanesi",
+      "fiyat_sivil": "1.176 TL",
+      "fiyat_kamu_personeli": "784 TL",
+      "fiyat_kurum_personeli": "784 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
     },
     {
       "il": "İzmir",
@@ -158,7 +174,7 @@
       "fiyat_sivil": "1.400 TL",
       "fiyat_kamu_personeli": "1.200 TL",
       "fiyat_kurum_personeli": "900 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
     },
     {
       "il": "İzmir",
@@ -170,11 +186,20 @@
     },
     {
       "il": "İzmir",
+      "isim": "İzmir İl Tarım ve Orman Müdürlüğü Misafirhanesi Bornova",
+      "fiyat_sivil": "1.200 – 1.900 TL",
+      "fiyat_kamu_personeli": "900 – 1.200 TL",
+      "fiyat_kurum_personeli": "900 – 1.200 TL",
+      "kaynak": "https://izmir.tarimorman.gov.tr/Link/22/Misafirhanemiz",
+      "gecerlilik": "01.03.2026 itibarıyla (paylaşımlı kişi başı – tek kişilik; %2 konaklama vergisi hariç)"
+    },
+    {
+      "il": "İzmir",
       "isim": "İzmir Karayolları Sosyal Tesisleri",
       "fiyat_sivil": "1.800 TL",
       "fiyat_kamu_personeli": "1.050 TL",
       "fiyat_kurum_personeli": "1.350 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
     },
     {
       "il": "İzmir",
@@ -190,7 +215,7 @@
       "fiyat_sivil": "1.350 TL",
       "fiyat_kamu_personeli": "600 TL",
       "fiyat_kurum_personeli": "1.250 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
     },
     {
       "il": "İzmir",
@@ -206,7 +231,7 @@
       "fiyat_sivil": "1.800 TL",
       "fiyat_kamu_personeli": "1.050 TL",
       "fiyat_kurum_personeli": "975 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
     },
     {
       "il": "İzmir",
@@ -214,7 +239,7 @@
       "fiyat_sivil": "4.200 TL",
       "fiyat_kamu_personeli": "3.200 TL",
       "fiyat_kurum_personeli": "2.600 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)"
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife kaynaklı; rezervasyonda teyit edilmeli)"
     },
     {
       "il": "İzmir",
@@ -223,7 +248,7 @@
       "fiyat_kamu_personeli": "695 – 820 TL",
       "fiyat_kurum_personeli": "695 – 820 TL",
       "kaynak": "https://izmir.mgm.gov.tr/misafirhane.aspx",
-      "gecerlilik": "2026 yılı Meteoroloji 2. Bölge tarifesi"
+      "gecerlilik": "2026 yılı Meteoroloji 2. Bölge tarifesi (paylaşımlı – paylaşımsız)"
     },
     {
       "il": "Karaman",

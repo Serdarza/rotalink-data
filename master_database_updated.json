@@ -31730,7 +31730,7 @@
       "isim": "Alaçatı Öğretmenevi ve Akşam Sanat Okulu",
       "tip": "Öğretmenevi",
       "il": "İzmir",
-      "adres": "Alaçatı Mahallesi, 16021. Sokak No:2, Çeşme, İzmir",
+      "adres": "Alaçatı Mahallesi, 16021. Sokak No:2, Çeşme / İzmir",
       "telefon": "(0232) 723 21 01",
       "latitude": 38.2825,
       "longitude": 26.3745
@@ -31817,6 +31817,24 @@
       "longitude": 26.725601182968802
     },
     {
+      "isim": "DHMİ Havacılık Akademisi İzmir Eğitim Tesisi",
+      "tip": "DHMİ Eğitim Tesisi",
+      "il": "İzmir",
+      "adres": "Adnan Menderes Havalimanı yerleşkesi, Gaziemir / İzmir",
+      "telefon": "(0232) 274 26 26",
+      "latitude": 38.294,
+      "longitude": 27.155
+    },
+    {
+      "isim": "DHMİ İzmir Adnan Menderes Havalimanı Misafirhanesi",
+      "tip": "DHMİ Misafirhanesi",
+      "il": "İzmir",
+      "adres": "Adnan Menderes Havalimanı, Sarnıç Mevkii, 35410 Gaziemir / İzmir",
+      "telefon": "(0232) 274 26 26",
+      "latitude": 38.2924,
+      "longitude": 27.157
+    },
+    {
       "isim": "Dikili Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "İzmir",
@@ -31836,12 +31854,12 @@
     },
     {
       "isim": "Ege Üniversitesi Konukevi",
-      "tip": "Öğretmenevi",
+      "tip": "Üniversite Konukevi",
       "il": "İzmir",
-      "adres": "Cumhuriyet Meydanı. Cumhuriyet Caddesi. No:1. Tire – İZMİR",
-      "telefon": "02323112133",
-      "latitude": 38.467120733041426,
-      "longitude": 27.22799655668362
+      "adres": "Erzene Mahallesi, Ege Üniversitesi Lojmanları No:2, 35040 Bornova / İzmir",
+      "telefon": "(0232) 311 21 33 / (0232) 388 14 47",
+      "latitude": 38.464981079102,
+      "longitude": 27.235050201416
     },
     {
       "isim": "Foça Jandarma Sosyal Tesisi",
@@ -31955,8 +31973,8 @@
       "isim": "İzmir İl Tarım ve Orman Müdürlüğü Misafirhanesi Bornova",
       "tip": "Tarım Müdürlüğü Misafirhanesi",
       "il": "İzmir",
-      "adres": "Üniversite Caddesi No:47 Bornova / İZMİR",
-      "telefon": "02324351002",
+      "adres": "Kazımdirik Mahallesi, Üniversite Caddesi No:47, Bornova / İzmir",
+      "telefon": "(0232) 462 10 11 / (0232) 486 89 79",
       "latitude": 38.44997079690832,
       "longitude": 27.197145153972365
     },
@@ -31964,8 +31982,8 @@
       "isim": "İzmir Karayolları Sosyal Tesisleri",
       "tip": "Karayolları Sosyal Tesisi",
       "il": "İzmir",
-      "adres": "Karayolları 2. Bölge Müdürlüğü Sosyal Tesisleri Bornova/İzmir",
-      "telefon": "0232 435 84 00",
+      "adres": "Karayolları 2. Bölge Müdürlüğü Sosyal Tesisleri, Bornova / İzmir",
+      "telefon": "(0232) 435 84 00",
       "latitude": 38.449325314789604,
       "longitude": 27.194657184142873
     },
@@ -32018,8 +32036,8 @@
       "isim": "İzmir PTT 150. Yıl Misafirhanesi",
       "tip": "PTT Misafirhanesi",
       "il": "İzmir",
-      "adres": "Mithatpaşa Mahallesi, Mithatpaşa Cd. No:694, 35280 Konak/İzmir",
-      "telefon": "0232 243 34 34",
+      "adres": "Mithatpaşa Mahallesi, Mithatpaşa Cd. No:694, 35280 Konak / İzmir",
+      "telefon": "(0232) 243 34 34",
       "latitude": 38.40722244679456,
       "longitude": 27.10308275159946
     },
@@ -32045,8 +32063,8 @@
       "isim": "İzmir TCDD Misafirhanesi",
       "tip": "TCDD Misafirhanesi",
       "il": "İzmir",
-      "adres": "Alsancak Mahallesi, Atatürk Cd. 412 A, 35220 Konak/İzmir",
-      "telefon": "0232 464 78 41",
+      "adres": "Alsancak Mahallesi, Atatürk Cd. 412 A, 35220 Konak / İzmir",
+      "telefon": "(0232) 464 78 41",
       "latitude": 38.43995083443756,
       "longitude": 27.14706485345389
     },
@@ -32099,8 +32117,8 @@
       "isim": "Karaburun Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "İzmir",
-      "adres": "Merkez Mahallesi. Şehit Polis Yusuf Çelik Caddesi. No:25. Karaburun – İZMİR",
-      "telefon": "0232 731 27 52",
+      "adres": "Merkez Mahallesi, Şehit Polis Yusuf Çelik Caddesi No:25, Karaburun / İzmir",
+      "telefon": "(0232) 731 27 52",
       "latitude": 38.637998059521905,
       "longitude": 26.511554833709013
     },
@@ -32180,7 +32198,7 @@
       "isim": "Meteoroloji 2. Bölge Müdürlüğü Misafirhanesi",
       "tip": "Misafirhane",
       "il": "İzmir",
-      "adres": "Güzelyalı Mahallesi, 24. Sokak No:51, Konak, İzmir",
+      "adres": "Güzelyalı Mahallesi, 24. Sokak No:51, 35290 Konak / İzmir",
       "telefon": "(0232) 285 39 65",
       "latitude": 38.3959,
       "longitude": 27.0808
