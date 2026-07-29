@@ -30809,6 +30809,15 @@
       "longitude": 31.407039120871172
     },
     {
+      "isim": "Adalet Bakanlığı Ord. Prof. Dr. Sulhi Dönmezer İstanbul Eğitim Merkezi Misafirhanesi",
+      "tip": "Adalet Bakanlığı Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Bahçelievler Mahallesi, Çocuk Sitesi İçi No:157, 34188 Bahçelievler / İstanbul",
+      "telefon": "(0212) 442 22 80",
+      "latitude": 40.9972,
+      "longitude": 28.8595
+    },
+    {
       "isim": "Adile Mermerci Uygulama Oteli",
       "tip": "Öğretmenevi",
       "il": "İstanbul",
@@ -30881,13 +30890,13 @@
       "longitude": 28.8542
     },
     {
-      "isim": "Bahçelievler Öğretmenevi ASO",
+      "isim": "Bahçelievler Abidin Pak Öğretmenevi ve Akşam Sanat Okulu",
       "tip": "Öğretmenevi",
       "il": "İstanbul",
-      "adres": "Talat Paşa Cd. No:38/6. Bahçelievler -İSTANBUL",
-      "telefon": "0212 502 24 11",
+      "adres": "Bahçelievler Mahallesi, Talatpaşa Caddesi No:38/6, Bahçelievler / İstanbul",
+      "telefon": "(0212) 502 24 11",
       "latitude": 41.00531770506645,
-      "longitude": 28.865741194083572
+      "longitude": 28.8598
     },
     {
       "isim": "Bakırköy Başöğretmen Lokali ve Öğretmenevi",
@@ -31043,6 +31052,24 @@
       "longitude": 28.822585500040915
     },
     {
+      "isim": "DHMİ Florya Atatürk Havalimanı Misafirhanesi",
+      "tip": "DHMİ Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Yeşilköy / Florya, Bakırköy / İstanbul (Atatürk Havalimanı yerleşkesi)",
+      "telefon": "(0212) 463 77 77",
+      "latitude": 40.9762,
+      "longitude": 28.8145
+    },
+    {
+      "isim": "Diyanet Evi Sultanahmet",
+      "tip": "Diyanet Evi",
+      "il": "İstanbul",
+      "adres": "Binbirdirek Mahallesi, Klodfarer Caddesi No:8, Fatih / İstanbul",
+      "telefon": "(0212) 843 61 84",
+      "latitude": 41.0055,
+      "longitude": 28.9745
+    },
+    {
       "isim": "Diyanet Evi Üsküdar",
       "tip": "Öğretmenevi",
       "il": "İstanbul",
@@ -31052,6 +31079,15 @@
       "longitude": 29.036780381990653
     },
     {
+      "isim": "DSİ 14. Bölge Misafirhanesi",
+      "tip": "DSİ Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Libadiye Caddesi No:54, 100. Yıl Durağı, Küçükçamlıca, Üsküdar / İstanbul",
+      "telefon": "(0216) 325 63 20",
+      "latitude": 41.0162,
+      "longitude": 29.0575
+    },
+    {
       "isim": "Dz.K.K.lığı Heybeliada Şafak Sosyal Tesisleri",
       "tip": "Orduevi",
       "il": "İstanbul",
@@ -31059,6 +31095,15 @@
       "telefon": "0 216 351 00 72",
       "latitude": 40.8734049369207,
       "longitude": 29.099399291735633
+    },
+    {
+      "isim": "Et ve Süt Kurumu İstanbul Misafirhanesi",
+      "tip": "Et ve Süt Kurumu Misafirhanesi",
+      "il": "İstanbul",
+      "adres": "Kavaklı Mahallesi, Kosova Caddesi No:17, Beylikdüzü / İstanbul",
+      "telefon": "(0212) 690 51 71 / (0212) 690 55 52",
+      "latitude": 41.002,
+      "longitude": 28.6405
     },
     {
       "isim": "Eti Maden İstanbul Misafirhanesi",
@@ -31091,10 +31136,10 @@
       "isim": "Fatih Eminönü Cankurtaran Öğretmenevi (ASO)",
       "tip": "Öğretmenevi",
       "il": "İstanbul",
-      "adres": "Kennedy Cd.Ahırkapı Sk. No:9 Eminönü, Fatih – İSTANBUL",
-      "telefon": "02125176893",
+      "adres": "Cankurtaran Mahallesi, Ahırkapı Caddesi No:7-9, Fatih / İstanbul",
+      "telefon": "(0212) 517 68 93 / (0212) 517 24 11",
       "latitude": 41.004310990651476,
-      "longitude": 28.982079607575287
+      "longitude": 28.9815
     },
     {
       "isim": "Fatih Sarayburnu Askeri Gazino",
@@ -31134,12 +31179,12 @@
     },
     {
       "isim": "İlksan Taksim Konukevi",
-      "tip": "Öğretmenevi",
+      "tip": "Konukevi",
       "il": "İstanbul",
-      "adres": "Aşağı Dudullu Mh. Cami cd. No:32. Ümraniye-İSTANBUL",
-      "telefon": "02122927200",
+      "adres": "Taksim / İstanbul",
+      "telefon": "(0212) 292 72 00",
       "latitude": 41.04849442522549,
-      "longitude": 28.98821539442017
+      "longitude": 28.9855
     },
     {
       "isim": "İstanbul Adalet Teşkilatını Güçlendirme Vakfı Tarabya Sosyal Tesisleri",
@@ -31154,10 +31199,10 @@
       "isim": "İstanbul Beyoğlu Öğretmen Evi",
       "tip": "Öğretmenevi",
       "il": "İstanbul",
-      "adres": "Meşrutiyet Cad. No: 232 Amerikan Konsolosluğu yanı Tepebaşı, Beyoğlu- İSTANBUL",
-      "telefon": "0212 252 43 43",
+      "adres": "Meşrutiyet Caddesi No:232, Tepebaşı, Beyoğlu / İstanbul",
+      "telefon": "(0212) 252 43 43",
       "latitude": 41.03547248346917,
-      "longitude": 28.97000899525493
+      "longitude": 28.9748
     },
     {
       "isim": "İstanbul Çatalca Öğretmenevi ASO",
@@ -31208,10 +31253,10 @@
       "isim": "İstanbul Karayolları 1. Bölge Müdürlüğü Sosyal Tesisleri",
       "tip": "Karayolları Sosyal Tesisi",
       "il": "İstanbul",
-      "adres": "E5 Karayolları kenarı Küçükyalı- İSTANBUL",
-      "telefon": "02123125000",
+      "adres": "E5 kenarı, Küçükyalı / İstanbul",
+      "telefon": "(0212) 312 50 00",
       "latitude": 41.100145866655865,
-      "longitude": 28.964444895254935
+      "longitude": 29.0455
     },
     {
       "isim": "İstanbul Makina Kimya Endüstrisi Sosyal Tesisleri",
@@ -31361,10 +31406,19 @@
       "isim": "Merter Polisevi (PEKOM)",
       "tip": "Polisevi",
       "il": "İstanbul",
-      "adres": "Aşağı Dudullu Mh. Cami cd. No:32. Ümraniye-İSTANBUL",
-      "telefon": "02124845800",
+      "adres": "Merter, Güngören / İstanbul",
+      "telefon": "(0212) 484 58 00",
       "latitude": 41.02384795461551,
-      "longitude": 28.903422991097845
+      "longitude": 28.8905
+    },
+    {
+      "isim": "Meteoroloji 1. Bölge Müdürlüğü Misafirhanesi",
+      "tip": "Misafirhane",
+      "il": "İstanbul",
+      "adres": "Orhantepe Mahallesi, 30 Ağustos Caddesi No:2, Cevizli, Kartal / İstanbul",
+      "telefon": "(0216) 457 34 00 / (0216) 457 34 03",
+      "latitude": 40.9055,
+      "longitude": 29.1755
     },
     {
       "isim": "MSB Beşiktaş Milli Savunma Üniversitesi Kışla Gazinosu",
@@ -31413,12 +31467,12 @@
     },
     {
       "isim": "PTT Misafirhanesi - Üsküdar",
-      "tip": "Öğretmenevi",
+      "tip": "PTT Misafirhanesi",
       "il": "İstanbul",
-      "adres": "Aşağı Dudullu Mh. Cami cd. No:32. Ümraniye-İSTANBUL",
-      "telefon": "0 216 330 55 20",
+      "adres": "Üsküdar / İstanbul",
+      "telefon": "(0216) 330 55 20",
       "latitude": 41.02603977912949,
-      "longitude": 29.016091741268625
+      "longitude": 29.0155
     },
     {
       "isim": "Sahil Güvenlik Marmara ve Boğazlar Bölge Komutanlığı Kışla Gazinosu Müdürlüğü",
@@ -31712,10 +31766,10 @@
       "isim": "Zeytinburnu Öğretmenevi ASO",
       "tip": "Öğretmenevi",
       "il": "İstanbul",
-      "adres": "Beştelsis Mh. Rauf Denktaş Cd. No:39. Zeytinburnu-İSTANBUL",
-      "telefon": "0212 415 45 97",
+      "adres": "Beştelsiz Mahallesi, Rauf Denktaş Caddesi No:39, Zeytinburnu / İstanbul",
+      "telefon": "(0212) 415 45 97",
       "latitude": 41.00126181751603,
-      "longitude": 28.90406762847659
+      "longitude": 28.9055
     },
     {
       "isim": "Ziraat Bankası Balmumcu Misafirhanesi",

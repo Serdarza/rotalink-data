@@ -137,12 +137,125 @@
     },
     {
       "il": "İstanbul",
+      "isim": "Adalet Bakanlığı Ord. Prof. Dr. Sulhi Dönmezer İstanbul Eğitim Merkezi Misafirhanesi",
+      "fiyat_sivil": "600 – 900 TL",
+      "fiyat_kamu_personeli": "400 – 600 TL",
+      "fiyat_kurum_personeli": "400 – 600 TL",
+      "gecerlilik": "2026 yılı (tek / 2 kişilik kişi başı; yemek ayrı)"
+    },
+    {
+      "il": "İstanbul",
       "isim": "Bağcılar Öğretmenevi ve Akşam Sanat Okulu",
       "fiyat_sivil": "1.800 – 4.500 TL",
       "fiyat_kamu_personeli": "1.500 – 3.900 TL",
       "fiyat_kurum_personeli": "1.200 – 3.000 TL",
       "kaynak": "https://bagcilarogretmeneviaso.meb.k12.tr/icerikler/1temmuz2026itibariylakonaklamaucretleri_13904929.html",
       "gecerlilik": "1 Temmuz 2026 itibarıyla (kahvaltı ve KDV dahil)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Bahçelievler Abidin Pak Öğretmenevi ve Akşam Sanat Okulu",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "1.300 TL",
+      "fiyat_kurum_personeli": "1.300 TL",
+      "gecerlilik": "2026 yılı yaklaşık (kahvaltı dahil); rezervasyonda teyit edilmeli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "DHMİ Florya Atatürk Havalimanı Misafirhanesi",
+      "fiyat_sivil": "1.176 – 1.568 TL",
+      "fiyat_kamu_personeli": "784 – 1.568 TL",
+      "fiyat_kurum_personeli": "784 – 1.568 TL",
+      "gecerlilik": "2026 yılı (kişi başı yatak – suit)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Diyanet Evi Sultanahmet",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "1.800 TL",
+      "fiyat_kurum_personeli": "1.800 TL",
+      "gecerlilik": "2026 yılı yaklaşık; rezervasyonda teyit edilmeli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "DSİ 14. Bölge Misafirhanesi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "800 – 1.200 TL",
+      "fiyat_kurum_personeli": "800 – 1.200 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Et ve Süt Kurumu İstanbul Misafirhanesi",
+      "fiyat_sivil": "900 – 1.275 TL",
+      "fiyat_kamu_personeli": "600 – 850 TL",
+      "fiyat_kurum_personeli": "600 – 850 TL",
+      "gecerlilik": "2026 yılı (1–3 kişilik oda; kahvaltı ayrı)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Fatih Eminönü Cankurtaran Öğretmenevi (ASO)",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "1.100 – 1.500 TL",
+      "fiyat_kurum_personeli": "1.100 – 1.500 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İlksan Taksim Konukevi",
+      "fiyat_sivil": "1.500 – 2.650 TL",
+      "fiyat_kamu_personeli": "750 – 1.600 TL",
+      "fiyat_kurum_personeli": "750 – 1.600 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Beyoğlu Öğretmen Evi",
+      "fiyat_sivil": "1.500 – 2.650 TL",
+      "fiyat_kamu_personeli": "750 – 1.600 TL",
+      "fiyat_kurum_personeli": "750 – 1.600 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Karayolları 1. Bölge Müdürlüğü Sosyal Tesisleri",
+      "fiyat_sivil": "180 – 1.350 TL",
+      "fiyat_kamu_personeli": "120 – 850 TL",
+      "fiyat_kurum_personeli": "120 – 850 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Merter Polisevi (PEKOM)",
+      "fiyat_sivil": "1.317 – 2.200 TL",
+      "fiyat_kamu_personeli": "848 – 1.550 TL",
+      "fiyat_kurum_personeli": "848 – 1.550 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Meteoroloji 1. Bölge Müdürlüğü Misafirhanesi",
+      "fiyat_sivil": "1.425 – 2.100 TL",
+      "fiyat_kamu_personeli": "950 – 1.400 TL",
+      "fiyat_kurum_personeli": "950 – 1.400 TL",
+      "kaynak": "https://istanbul.mgm.gov.tr/misafirhane.aspx",
+      "gecerlilik": "2026 yılı (paylaşımlı – paylaşımsız – VIP)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "PTT Misafirhanesi - Üsküdar",
+      "fiyat_sivil": "180 TL ve üzeri",
+      "fiyat_kamu_personeli": "120 TL ve üzeri",
+      "fiyat_kurum_personeli": "120 TL ve üzeri",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Zeytinburnu Öğretmenevi ASO",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "1.100 – 1.400 TL",
+      "fiyat_kurum_personeli": "1.100 – 1.400 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
     },
     {
       "il": "İzmir",
