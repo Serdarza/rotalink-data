@@ -418,6 +418,86 @@
       "gecerlilik": "19.01.2026 itibarıyla"
     },
     {
+      "il": "Mersin",
+      "isim": "Anamur Öğretmenevi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "2.000 – 4.500 TL",
+      "fiyat_kurum_personeli": "2.000 – 4.500 TL",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "DHMİ Çukurova Uluslararası Havalimanı Misafirhanesi",
+      "fiyat_sivil": "1.176 – 1.568 TL",
+      "fiyat_kamu_personeli": "784 – 1.568 TL",
+      "fiyat_kurum_personeli": "784 – 1.568 TL",
+      "gecerlilik": "2026 yılı DHMİ tarifesi (kişi başı yatak – suit)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Erdemli Öğretmenevi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "600 TL ve üzeri",
+      "fiyat_kurum_personeli": "600 TL ve üzeri",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin 67.Şube DSİ-Devlet Su İşleri Misafirhanesi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "120 – 850 TL",
+      "fiyat_kurum_personeli": "120 – 850 TL",
+      "gecerlilik": "2026 yılı (sivil DSİ tarifesine göre daha yüksek olabilir)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Hizmet İçi Eğitim Enstitüsü",
+      "fiyat_sivil": "600 TL",
+      "fiyat_kamu_personeli": "600 TL",
+      "fiyat_kurum_personeli": "600 TL",
+      "gecerlilik": "2026 yılı yaklaşık; rezervasyonda teyit edilmeli"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Karayolları Merkez Bölge Misafirhanesi",
+      "fiyat_sivil": "700 – 1.050 TL",
+      "fiyat_kamu_personeli": "700 – 1.050 TL",
+      "fiyat_kurum_personeli": "700 – 1.050 TL",
+      "gecerlilik": "2026 yılı (paylaşımlı kişi başı – paylaşımsız)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Suphi Öner Öğretmenevi",
+      "fiyat_sivil": "2.500 – 7.000 TL",
+      "fiyat_kamu_personeli": "2.000 – 6.000 TL",
+      "fiyat_kurum_personeli": "2.000 – 6.000 TL",
+      "gecerlilik": "2026 yılı (kahvaltı dahil; oda tipine göre min–max)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Silifke 62.Şube DSİ-Devlet Su İşleri Misafirhanesi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "120 – 850 TL",
+      "fiyat_kurum_personeli": "120 – 850 TL",
+      "gecerlilik": "2026 yılı (sivil DSİ tarifesine göre daha yüksek olabilir)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Silifke Öğretmenevi ve ASO Müdürlüğü",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "300 TL ve üzeri",
+      "fiyat_kurum_personeli": "300 TL ve üzeri",
+      "gecerlilik": "2026 yılı (kullanıcı / resmi tarife; rezervasyonda teyit edilmeli)"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Tarsus Öğretmenevi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "750 – 1.600 TL",
+      "fiyat_kurum_personeli": "750 – 1.600 TL",
+      "gecerlilik": "2026 yılı (sivil oda tipine göre daha yüksek olabilir)"
+    },
+    {
       "il": "Muğla",
       "isim": "Bodrum Öğretmenevi",
       "fiyat_sivil": "2.560 – 5.000 TL",

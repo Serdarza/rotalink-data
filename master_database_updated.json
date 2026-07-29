@@ -34628,8 +34628,8 @@
       "isim": "Anamur Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Mersin",
-      "adres": "Yalıevleri Mahallesi. Müze Yanı. No:9. Anamur – MERSİN",
-      "telefon": "0324 814 50 10",
+      "adres": "Yalı Evleri Mahallesi, Adnan Menderes Caddesi Blok No:9, Anamur / Mersin",
+      "telefon": "(0324) 814 50 10",
       "latitude": 36.06936862126468,
       "longitude": 32.86449309650198
     },
@@ -34652,6 +34652,15 @@
       "longitude": 32.96227522533981
     },
     {
+      "isim": "DHMİ Çukurova Uluslararası Havalimanı Misafirhanesi",
+      "tip": "DHMİ Misafirhanesi",
+      "il": "Mersin",
+      "adres": "Karsavran Mahallesi, Karsavran Sokak No:65/A, Tarsus / Mersin",
+      "telefon": "(0324) 503 00 10",
+      "latitude": 36.882,
+      "longitude": 35.067
+    },
+    {
       "isim": "DSİ 6. Bölge Kapızlı Eğitim Ve Dinlenme Tesisi",
       "tip": "Eğitim ve Dinlenme Tesisi",
       "il": "Mersin",
@@ -34664,8 +34673,8 @@
       "isim": "Erdemli Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Mersin",
-      "adres": "Erdemoğlu Bulvarı. Öğretmenevi Evi Sokak. Erdemli – MERSİN (İçel)",
-      "telefon": "0324 515 25 37",
+      "adres": "Merkez Mahallesi, Saim Göküş Parkı yanı, Erdemli / Mersin",
+      "telefon": "(0324) 516 24 11 / (0324) 515 25 37",
       "latitude": 36.60364661726761,
       "longitude": 34.314014996526375
     },
@@ -34682,8 +34691,8 @@
       "isim": "Mersin 67.Şube DSİ-Devlet Su İşleri Misafirhanesi",
       "tip": "DSİ Misafirhanesi",
       "il": "Mersin",
-      "adres": "Eğri Çam Mahallesi. G.M.K. Bulvarı. 572 Sokak. Yenişehir-MERSİN",
-      "telefon": "0324 341 15 00",
+      "adres": "Eğriçam Mahallesi, G.M.K. Bulvarı 572. Sokak, Yenişehir / Mersin",
+      "telefon": "(0324) 341 15 00",
       "latitude": 36.77062966805363,
       "longitude": 34.561430011878926
     },
@@ -34706,6 +34715,15 @@
       "longitude": 34.119623467682835
     },
     {
+      "isim": "Mersin Hizmet İçi Eğitim Enstitüsü",
+      "tip": "Eğitim Enstitüsü Misafirhanesi",
+      "il": "Mersin",
+      "adres": "Dumlupınar Mahallesi, Gazi Mustafa Kemal Bulvarı No:459E, Yenişehir / Mersin",
+      "telefon": "(0324) 331 03 60 / (0555) 059 75 87",
+      "latitude": 36.7855,
+      "longitude": 34.5755
+    },
+    {
       "isim": "Mersin İlce Emniyet Müdürlüğü Polis evi",
       "tip": "Polisevi",
       "il": "Mersin",
@@ -34718,8 +34736,8 @@
       "isim": "Mersin Karayolları Merkez Bölge Misafirhanesi",
       "tip": "Karayolları Misafirhanesi",
       "il": "Mersin",
-      "adres": "Karayolları 5. Bölge Müdürlüğü. Gazi Mustafa Kemal Bulvarı. Devlet Hastahanesi Karşısı. Toroslar  – MERSİN",
-      "telefon": "0324 322 98 04",
+      "adres": "Gazi Mustafa Kemal Bulvarı (Devlet Hastanesi karşısı), Toroslar / Mersin — Karayolları 5. Bölge",
+      "telefon": "(0324) 322 98 04 / (0324) 322 98 06",
       "latitude": 36.81036948288838,
       "longitude": 34.618763083352846
     },
@@ -34745,8 +34763,8 @@
       "isim": "Mersin Suphi Öner Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Mersin",
-      "adres": "Adnan Menderes Bulvarı Dumlupınar Mahallesi No:124 YENİŞEHİR/MERSİN",
-      "telefon": "0324 328 81 11",
+      "adres": "Dumlupınar Mahallesi, Adnan Menderes Bulvarı No:124, Yenişehir / Mersin",
+      "telefon": "(0324) 328 81 11 / (0554) 959 57 06",
       "latitude": 36.77700416816808,
       "longitude": 34.58129692166305
     },
@@ -34781,8 +34799,8 @@
       "isim": "Silifke 62.Şube DSİ-Devlet Su İşleri Misafirhanesi",
       "tip": "DSİ Misafirhanesi",
       "il": "Mersin",
-      "adres": "Yenimahalle Burç Sok. No:6 Silifke-MERSİN",
-      "telefon": "0324 713 08 93",
+      "adres": "Yenimahalle, Burç Sokak No:6, Silifke / Mersin",
+      "telefon": "(0324) 713 08 93 / (0324) 713 08 94",
       "latitude": 36.35830999392174,
       "longitude": 33.93080842349768
     },
@@ -34799,8 +34817,8 @@
       "isim": "Silifke Öğretmenevi ve ASO Müdürlüğü",
       "tip": "Öğretmenevi",
       "il": "Mersin",
-      "adres": "Saray Mahallesi. İnönü Caddesi. No: 46. Silifke – MERSİN (İçel)",
-      "telefon": "0324 714 70 16",
+      "adres": "Saray Mahallesi, İnönü Caddesi, Silifke / Mersin",
+      "telefon": "(0324) 714 70 16",
       "latitude": 36.37996251413985,
       "longitude": 33.928054690553296
     },
@@ -34817,8 +34835,8 @@
       "isim": "Tarsus Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Mersin",
-      "adres": "Reşadiye Mahallesi. Adana Caddesi. No:35. Tarsus – Mersin  (İçel)",
-      "telefon": "0324 613 26 10",
+      "adres": "Reşadiye Mahallesi, Adana Caddesi No:35, Tarsus / Mersin",
+      "telefon": "(0324) 613 26 10",
       "latitude": 36.91950596472955,
       "longitude": 34.900087069558296
     },
