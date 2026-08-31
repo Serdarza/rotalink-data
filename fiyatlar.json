@@ -11,6 +11,83 @@
       "gecerlilik": "2026 yılı DHMİ resmi tarifesi (kişi başı yatak 560/840 TL – suit 1.568 TL)"
     },
     {
+  "il": "Balıkesir",
+  "isim": "Ayvalık Maliye Defterdarlık Misafirhanesi",
+  "fiyat_sivil": "1.500 TL",
+  "fiyat_kamu_personeli": "-",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "Çanakkale",
+  "isim": "Çanakkale Gençlik Hizmetleri ve Spor Müdürlüğü Güzelyalı Gençlik Kampı",
+  "fiyat_sivil": "1.000 TL",
+  "fiyat_kamu_personeli": "-",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "Çanakkale",
+  "isim": "Çanakkale Merkez Öğretmenevi",
+  "fiyat_sivil": "1.500 – 2.000 TL",
+  "fiyat_kamu_personeli": "-",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "İstanbul",
+  "isim": "Türk Telekom Misafirhanesi",
+  "fiyat_sivil": "1.000 TL",
+  "fiyat_kamu_personeli": "-",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "İstanbul",
+  "isim": "Ataköy Konuk Evi Telekom",
+  "fiyat_sivil": "500 TL",
+  "fiyat_kamu_personeli": "-",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "Samsun",
+  "isim": "Samsun Ondokuzmayıs Üniversitesi Konukevi-Misafirhanesi",
+  "fiyat_sivil": "-",
+  "fiyat_kamu_personeli": "750 TL",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "Trabzon",
+  "isim": "Akçaabat Anadolu Otelcilik ve Turizm Meslek Lisesi Uygulama Oteli",
+  "fiyat_sivil": "-",
+  "fiyat_kamu_personeli": "1.500 TL",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "Kilis",
+  "isim": "Kilis Merkez Öğretmenevi",
+  "fiyat_sivil": "2.000 TL",
+  "fiyat_kamu_personeli": "1.400 TL",
+  "fiyat_kurum_personeli": "1.200 TL"
+},
+    {
+  "il": "Konya",
+  "isim": "Konya TCDD Misafirhanesi",
+  "fiyat_sivil": "-",
+  "fiyat_kamu_personeli": "1.500 TL (2 kişi: 1.300 TL)",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "Muğla",
+  "isim": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler",
+  "fiyat_sivil": "1.000 - 1.500 TL",
+  "fiyat_kamu_personeli": "-",
+  "fiyat_kurum_personeli": "-"
+},
+    {
+  "il": "Gaziantep",
+  "isim": "Nizip Öğretmenevi",
+  "fiyat_sivil": "-",
+  "fiyat_kamu_personeli": "1.200 TL (2 kişi öğretmen)",
+  "fiyat_kurum_personeli": "-"
+},
+    {
       "il": "Ağrı",
       "isim": "Ağrı Ahmed-i Hani Havalimanı Misafirhanesi",
       "fiyat_sivil": "840 – 1.568 TL",
