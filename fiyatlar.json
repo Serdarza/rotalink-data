@@ -11,6 +11,15 @@
       "gecerlilik": "2026 yılı DHMİ resmi tarifesi (kişi başı yatak 560/840 TL – suit 1.568 TL)"
     },
     {
+  "il": "İzmir",
+  "isim": "Alsancak Uygulama Oteli",
+  "fiyat_sivil": "3.200 TL",
+  "fiyat_kamu_personeli": "3.200 TL",
+  "fiyat_kurum_personeli": "3.200 TL",
+  "kaynak": "Bildirilen fiyat bilgisi",
+  "gecerlilik": "Bildirilen tarife (sivil misafir, kamu personeli ve kurum personeli kişi başı 3.200 TL)"
+},
+    {
   "il": "Balıkesir",
   "isim": "Ayvalık Maliye Defterdarlık Misafirhanesi",
   "fiyat_sivil": "1.500 TL",
