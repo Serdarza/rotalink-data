@@ -10,6 +10,60 @@
       "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
       "gecerlilik": "2026 yılı DHMİ resmi tarifesi (kişi başı yatak 560/840 TL – suit 1.568 TL)"
     },
+  {
+    "il": "Adana",
+    "isim": "Aladağ Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "1.400 – 2.100 TL",
+    "fiyat_kamu_personeli": "1.050 – 1.575 TL",
+    "fiyat_kurum_personeli": "700 – 1.050 TL",
+    "kaynak": "Aladağ Öğretmenevi ve ASO Müdürlüğü 2026 Yılı Resmi Fiyat Tarifesi",
+    "gecerlilik": "01.02.2026 tarihinden itibaren geçerli tarife (Standart paylaşımlı yatak 700/1.050/1.400 TL – Suit oda tek kişi 1.050/1.575/2.100 TL)"
+  },
+  {
+    "il": "Adana",
+    "isim": "Ceyhan Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "1.500 – 2.250 TL",
+    "fiyat_kamu_personeli": "1.100 – 1.650 TL",
+    "fiyat_kurum_personeli": "750 – 1.100 TL",
+    "kaynak": "https://ceyhanogretmenevi.meb.k12.tr/",
+    "gecerlilik": "Ceyhan Öğretmenevi resmi tarifesi (Paylaşımlı yatak 750/1.100/1.500 TL – Tek kişilik oda kapatma 1.100/1.650/2.250 TL)"
+  },
+  {
+    "il": "Adana",
+    "isim": "Feke Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "600 – 1.000 TL",
+    "fiyat_kamu_personeli": "450 – 750 TL",
+    "fiyat_kurum_personeli": "300 – 500 TL",
+    "kaynak": "https://fekeogretmenevi.meb.k12.tr/",
+    "gecerlilik": "15/06/2026 tarihinden itibaren geçerli resmi tarife (Standart yatak 300/450/600 TL – Suit oda 500/750/1.000 TL)"
+  },
+  {
+    "il": "Adana",
+    "isim": "İmamoğlu Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "900 – 1.300 TL",
+    "fiyat_kamu_personeli": "675 – 975 TL",
+    "fiyat_kurum_personeli": "450 – 650 TL",
+    "kaynak": "https://imamogluogretmenevi.meb.k12.tr/",
+    "gecerlilik": "İmamoğlu Öğretmenevi ve ASO güncel konaklama tarifesi (Paylaşımlı yatak 450/675/900 TL – Süit oda kişi başı 650/975/1.300 TL)"
+  },
+  {
+    "il": "Adana",
+    "isim": "Kozan Öğretmenevi ve Akşam Sanat Okulu",
+    "fiyat_sivil": "1.100 – 1.800 TL",
+    "fiyat_kamu_personeli": "800 – 1.300 TL",
+    "fiyat_kurum_personeli": "550 – 900 TL",
+    "kaynak": "T.C. Kozan Kaymakamlığı Öğretmenevi ve ASO Müdürlüğü Fiyat Tespit Komisyonu Tutanağı",
+    "gecerlilik": "01.01.2026 tarihinden itibaren geçerli resmi tarife (Paylaşımlı yatak 550/800/1.100 TL – Duble yataklı oda 900/1.300/1.800 TL)"
+  },
+  {
+    "il": "Adana",
+    "isim": "Adana Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü (Seyhan)",
+    "fiyat_sivil": "2.000 – 5.600 TL",
+    "fiyat_kamu_personeli": "1.500 – 4.000 TL",
+    "fiyat_kurum_personeli": "1.200 – 2.800 TL",
+    "kaynak": "T.C. Seyhan Kaymakamlığı Adana Öğretmenevi ve ASO Müdürlüğü Fiyat Tespit Komisyonu Kararı",
+    "gecerlilik": "01.08.2026 tarihinden itibaren geçerli resmi tarife (Kişi başı 1.200/1.500/2.000 TL – Duble oda 2.800/4.000/5.600 TL)"
+  },
     {
   "il": "İzmir",
   "isim": "Alsancak Uygulama Oteli",
