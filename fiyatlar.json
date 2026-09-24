@@ -12,7 +12,7 @@
     },
   {
     "il": "Adana",
-    "isim": "Aladağ Öğretmenevi ve Akşam Sanat Okulu",
+    "isim": "Adana Aladağ Öğretmenevi",
     "fiyat_sivil": "1.400 – 2.100 TL",
     "fiyat_kamu_personeli": "1.050 – 1.575 TL",
     "fiyat_kurum_personeli": "700 – 1.050 TL",
@@ -21,7 +21,7 @@
   },
   {
     "il": "Adana",
-    "isim": "Ceyhan Öğretmenevi ve Akşam Sanat Okulu",
+    "isim": "Adana Ceyhan Öğretmenevi",
     "fiyat_sivil": "1.500 – 2.250 TL",
     "fiyat_kamu_personeli": "1.100 – 1.650 TL",
     "fiyat_kurum_personeli": "750 – 1.100 TL",
@@ -30,7 +30,7 @@
   },
   {
     "il": "Adana",
-    "isim": "Feke Öğretmenevi ve Akşam Sanat Okulu",
+    "isim": "Adana Feke Öğretmenevi",
     "fiyat_sivil": "600 – 1.000 TL",
     "fiyat_kamu_personeli": "450 – 750 TL",
     "fiyat_kurum_personeli": "300 – 500 TL",
@@ -48,7 +48,7 @@
   },
   {
     "il": "Adana",
-    "isim": "Kozan Öğretmenevi ve Akşam Sanat Okulu",
+    "isim": "Adana Kozan Öğretmenevi",
     "fiyat_sivil": "1.100 – 1.800 TL",
     "fiyat_kamu_personeli": "800 – 1.300 TL",
     "fiyat_kurum_personeli": "550 – 900 TL",
@@ -57,7 +57,7 @@
   },
   {
     "il": "Adana",
-    "isim": "Adana Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü (Seyhan)",
+    "isim": "Adana Seyhan Öğretmenevi",
     "fiyat_sivil": "2.000 – 5.600 TL",
     "fiyat_kamu_personeli": "1.500 – 4.000 TL",
     "fiyat_kurum_personeli": "1.200 – 2.800 TL",
