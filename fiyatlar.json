@@ -331,6 +331,116 @@
       "gecerlilik": "2026 yılı (Avni Akyol Öğretmenevi resmi listesi)"
     },
     {
+      "il": "Düzce",
+      "isim": "Akçakoca Öğretmen Evi",
+      "fiyat_sivil": "3.000 – 7.000 TL",
+      "fiyat_kamu_personeli": "2.250 – 6.000 TL",
+      "fiyat_kurum_personeli": "1.850 – 5.000 TL",
+      "kaynak": "https://akcakocaogretmenevi.com.tr/odalar.php",
+      "gecerlilik": "2026 yılı fiyat tarifesi (kahvaltı ve KDV dahil)",
+      "tarife": {
+        "baslik": "2026 Konaklama Tarifesi",
+        "donem": "2026",
+        "guncelleme": "2026-09-27",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "ogretmen",
+            "ad": "Öğretmen / Bakanlık Personeli"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek Kişi Konaklama",
+                "kisi": 1,
+                "fiyatlar": {
+                  "ogretmen": 1850,
+                  "kamu": 2250,
+                  "sivil": 3000
+                }
+              },
+              {
+                "ad": "İki Kişilik Oda (İki Tek Yataklı)",
+                "kisi": 2,
+                "fiyatlar": {
+                  "ogretmen": 3000,
+                  "kamu": 3750,
+                  "sivil": 4500
+                }
+              },
+              {
+                "ad": "Üç Kişilik Oda (Üç Tek Yataklı)",
+                "kisi": 3,
+                "fiyatlar": {
+                  "ogretmen": 4000,
+                  "kamu": 4750,
+                  "sivil": 5500
+                }
+              },
+              {
+                "ad": "Dört Kişilik Oda (Dört Tek Yataklı)",
+                "kisi": 4,
+                "fiyatlar": {
+                  "ogretmen": 5000,
+                  "kamu": 6000,
+                  "sivil": 7000
+                }
+              },
+              {
+                "ad": "Double Yatak Oda – Tek Kişi Konaklama",
+                "kisi": 1,
+                "fiyatlar": {
+                  "ogretmen": 2000,
+                  "kamu": 3000,
+                  "sivil": 4000
+                }
+              },
+              {
+                "ad": "Double Yatak Oda – İki Kişi Başı Konaklama (Çoklu)",
+                "kisi": 2,
+                "fiyatlar": {
+                  "ogretmen": 3750,
+                  "kamu": 4500,
+                  "sivil": 6000
+                }
+              }
+            ]
+          }
+        ],
+        "kurallar": [
+          "Tek kişi konaklamada +%50 fiyat farkı oluşmaktadır.",
+          "Engelli kişilere maliyet altına satış yapılamaz uygulamasından dolayı öğretmen fiyatı uygulanacaktır.",
+          "Oda ücretleri girişte tahsil edilir.",
+          "Konaklama belgesinde adı yazılı kişi harici konaklama yapılamaz."
+        ],
+        "giris_saati": "14:00",
+        "cikis_saati": "11:00",
+        "dahil": [
+          "Kahvaltı (450,00 TL kahvaltı bedeli ücrete dahildir)",
+          "KDV"
+        ],
+        "indirimler": [
+          "0-6 yaş: Ücretsiz",
+          "7-12 yaş: %50 indirimli",
+          "Çocuk ve diğer indirimler 2773 sayılı yönergede belirtildiği şekilde uygulanır."
+        ],
+        "notlar": [
+          "Bayramlarda fiyat değişikliği gösterir; bilgi ve rezervasyon için tesisle iletişime geçiniz.",
+          "Piyasa ve ekonomik koşullar göz önüne alınarak fiyatlar güncellenebilir."
+        ]
+      }
+    },
+    {
       "il": "Elazığ",
       "isim": "Elazığ Havalimanı Misafirhanesi",
       "fiyat_sivil": "840 – 1.568 TL",
