@@ -1,0 +1,8 @@
+{
+ "canli": false,
+ "azami_dakika": 300,
+ "host_bekleme_sn": 1.5,
+ "zaman_asimi_sn": 40,
+ "yeniden_deneme": 3,
+ "paralel": 8
+}

@@ -1,0 +1,389 @@
+{
+ "aciklama": "Kamu konaklama tesisi işleten kurumların resmî kök siteleri. monitor.py her kurumun ana sayfasında ve bir alt seviyede misafirhane/konukevi/sosyal tesis/fiyat bağlantılarını arar; kayıtta olmayan aday sayfalar raporlanır (otomatik eklenmez). Yeni kurum eklemek için listeye satır eklemek yeterli.",
+ "ozel_kaynaklar": {
+  "meb_ogretmenevi_listesi": "https://dhgm.meb.gov.tr/edestek/ogretmenevi/ogretmenevi_liste.aspx",
+  "emniyet_il_sablonu": "https://www.{il}.pol.tr/",
+  "dhmi_misafirhane_tarifesi": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
+  "tcdd_misafirhane_tarifesi": "https://static.tcdd.gov.tr/webfiles/userfiles/files/duyuru/2026/msfrhneucret.pdf"
+ },
+ "kurumlar": [
+  {
+   "ad": "Millî Eğitim Bakanlığı",
+   "url": "https://www.meb.gov.tr/"
+  },
+  {
+   "ad": "MEB Destek Hizmetleri Genel Müdürlüğü",
+   "url": "https://dhgm.meb.gov.tr/"
+  },
+  {
+   "ad": "MEB Hayat Boyu Öğrenme GM (hizmetiçi eğitim)",
+   "url": "https://hbogm.meb.gov.tr/"
+  },
+  {
+   "ad": "Emniyet Genel Müdürlüğü",
+   "url": "https://www.egm.gov.tr/"
+  },
+  {
+   "ad": "Millî Savunma Bakanlığı",
+   "url": "https://www.msb.gov.tr/"
+  },
+  {
+   "ad": "Kara Kuvvetleri Komutanlığı",
+   "url": "https://www.kkk.tsk.tr/"
+  },
+  {
+   "ad": "Deniz Kuvvetleri Komutanlığı",
+   "url": "https://www.dzkk.tsk.tr/"
+  },
+  {
+   "ad": "Hava Kuvvetleri Komutanlığı",
+   "url": "https://www.hvkk.tsk.tr/"
+  },
+  {
+   "ad": "Jandarma Genel Komutanlığı",
+   "url": "https://www.jandarma.gov.tr/"
+  },
+  {
+   "ad": "Sahil Güvenlik Komutanlığı",
+   "url": "https://www.sg.gov.tr/"
+  },
+  {
+   "ad": "Devlet Su İşleri",
+   "url": "https://www.dsi.gov.tr/"
+  },
+  {
+   "ad": "Karayolları Genel Müdürlüğü",
+   "url": "https://www.kgm.gov.tr/"
+  },
+  {
+   "ad": "PTT",
+   "url": "https://www.ptt.gov.tr/"
+  },
+  {
+   "ad": "Tarım ve Orman Bakanlığı",
+   "url": "https://www.tarimorman.gov.tr/"
+  },
+  {
+   "ad": "Orman Genel Müdürlüğü",
+   "url": "https://www.ogm.gov.tr/"
+  },
+  {
+   "ad": "Meteoroloji Genel Müdürlüğü",
+   "url": "https://www.mgm.gov.tr/"
+  },
+  {
+   "ad": "Hazine ve Maliye Bakanlığı",
+   "url": "https://www.hmb.gov.tr/"
+  },
+  {
+   "ad": "HMB Personel Genel Müdürlüğü (PERGEN)",
+   "url": "https://personel.hmb.gov.tr/"
+  },
+  {
+   "ad": "Gelir İdaresi Başkanlığı",
+   "url": "https://www.gib.gov.tr/"
+  },
+  {
+   "ad": "Sağlık Bakanlığı",
+   "url": "https://www.saglik.gov.tr/"
+  },
+  {
+   "ad": "Aile ve Sosyal Hizmetler Bakanlığı",
+   "url": "https://www.aile.gov.tr/"
+  },
+  {
+   "ad": "Adalet Bakanlığı",
+   "url": "https://www.adalet.gov.tr/"
+  },
+  {
+   "ad": "Ceza ve Tevkifevleri GM",
+   "url": "https://cte.adalet.gov.tr/"
+  },
+  {
+   "ad": "İçişleri Bakanlığı",
+   "url": "https://www.icisleri.gov.tr/"
+  },
+  {
+   "ad": "Dışişleri Bakanlığı",
+   "url": "https://www.mfa.gov.tr/"
+  },
+  {
+   "ad": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+   "url": "https://www.csgb.gov.tr/"
+  },
+  {
+   "ad": "Sanayi ve Teknoloji Bakanlığı",
+   "url": "https://www.sanayi.gov.tr/"
+  },
+  {
+   "ad": "Ulaştırma ve Altyapı Bakanlığı",
+   "url": "https://www.uab.gov.tr/"
+  },
+  {
+   "ad": "TCDD",
+   "url": "https://www.tcdd.gov.tr/"
+  },
+  {
+   "ad": "TCDD Taşımacılık",
+   "url": "https://www.tcddtasimacilik.gov.tr/"
+  },
+  {
+   "ad": "DHMİ",
+   "url": "https://www.dhmi.gov.tr/"
+  },
+  {
+   "ad": "Kıyı Emniyeti",
+   "url": "https://www.kiyiemniyeti.gov.tr/"
+  },
+  {
+   "ad": "BTK",
+   "url": "https://www.btk.gov.tr/"
+  },
+  {
+   "ad": "Enerji ve Tabii Kaynaklar Bakanlığı",
+   "url": "https://enerji.gov.tr/"
+  },
+  {
+   "ad": "EÜAŞ",
+   "url": "https://www.euas.gov.tr/"
+  },
+  {
+   "ad": "TEİAŞ",
+   "url": "https://www.teias.gov.tr/"
+  },
+  {
+   "ad": "BOTAŞ",
+   "url": "https://www.botas.gov.tr/"
+  },
+  {
+   "ad": "MTA",
+   "url": "https://www.mta.gov.tr/"
+  },
+  {
+   "ad": "MAPEG",
+   "url": "https://www.mapeg.gov.tr/"
+  },
+  {
+   "ad": "TPAO",
+   "url": "https://www.tpao.gov.tr/"
+  },
+  {
+   "ad": "TENMAK",
+   "url": "https://www.tenmak.gov.tr/"
+  },
+  {
+   "ad": "Eti Maden",
+   "url": "https://www.etimaden.gov.tr/"
+  },
+  {
+   "ad": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+   "url": "https://www.csb.gov.tr/"
+  },
+  {
+   "ad": "TOKİ",
+   "url": "https://www.toki.gov.tr/"
+  },
+  {
+   "ad": "İller Bankası",
+   "url": "https://www.ilbank.gov.tr/"
+  },
+  {
+   "ad": "Tapu ve Kadastro GM",
+   "url": "https://www.tkgm.gov.tr/"
+  },
+  {
+   "ad": "TÜBİTAK",
+   "url": "https://www.tubitak.gov.tr/"
+  },
+  {
+   "ad": "TSE",
+   "url": "https://www.tse.org.tr/"
+  },
+  {
+   "ad": "KOSGEB",
+   "url": "https://www.kosgeb.gov.tr/"
+  },
+  {
+   "ad": "Türk Patent ve Marka Kurumu",
+   "url": "https://www.turkpatent.gov.tr/"
+  },
+  {
+   "ad": "TÜBA",
+   "url": "https://www.tuba.gov.tr/"
+  },
+  {
+   "ad": "TÜİK",
+   "url": "https://www.tuik.gov.tr/"
+  },
+  {
+   "ad": "Et ve Süt Kurumu",
+   "url": "https://www.esk.gov.tr/"
+  },
+  {
+   "ad": "TİGEM",
+   "url": "https://www.tigem.gov.tr/"
+  },
+  {
+   "ad": "SGK",
+   "url": "https://www.sgk.gov.tr/"
+  },
+  {
+   "ad": "İŞKUR",
+   "url": "https://www.iskur.gov.tr/"
+  },
+  {
+   "ad": "Gençlik ve Spor Bakanlığı",
+   "url": "https://gsb.gov.tr/"
+  },
+  {
+   "ad": "Kültür ve Turizm Bakanlığı",
+   "url": "https://www.ktb.gov.tr/"
+  },
+  {
+   "ad": "Diyanet İşleri Başkanlığı",
+   "url": "https://www.diyanet.gov.tr/"
+  },
+  {
+   "ad": "YÖK",
+   "url": "https://www.yok.gov.tr/"
+  },
+  {
+   "ad": "ÖSYM",
+   "url": "https://www.osym.gov.tr/"
+  },
+  {
+   "ad": "Ziraat Bankası",
+   "url": "https://www.ziraatbank.com.tr/"
+  },
+  {
+   "ad": "Halkbank",
+   "url": "https://www.halkbank.com.tr/"
+  },
+  {
+   "ad": "VakıfBank",
+   "url": "https://www.vakifbank.com.tr/"
+  },
+  {
+   "ad": "BDDK",
+   "url": "https://www.bddk.org.tr/"
+  },
+  {
+   "ad": "SPK",
+   "url": "https://spk.gov.tr/"
+  },
+  {
+   "ad": "TCMB",
+   "url": "https://www.tcmb.gov.tr/"
+  },
+  {
+   "ad": "TRT",
+   "url": "https://www.trt.net.tr/"
+  },
+  {
+   "ad": "TBMM",
+   "url": "https://www.tbmm.gov.tr/"
+  },
+  {
+   "ad": "Sayıştay",
+   "url": "https://www.sayistay.gov.tr/"
+  },
+  {
+   "ad": "Danıştay",
+   "url": "https://www.danistay.gov.tr/"
+  },
+  {
+   "ad": "Yargıtay",
+   "url": "https://www.yargitay.gov.tr/"
+  },
+  {
+   "ad": "Anayasa Mahkemesi",
+   "url": "https://www.anayasa.gov.tr/"
+  },
+  {
+   "ad": "AFAD",
+   "url": "https://www.afad.gov.tr/"
+  }
+ ],
+ "emniyet_siteleri": [
+  "www.adana.pol.tr",
+  "www.adiyaman.pol.tr",
+  "www.afyonkarahisar.pol.tr",
+  "www.agri.pol.tr",
+  "www.aksaray.pol.tr",
+  "www.amasya.pol.tr",
+  "www.ankara.pol.tr",
+  "www.antalya.pol.tr",
+  "www.ardahan.pol.tr",
+  "www.artvin.pol.tr",
+  "www.aydin.pol.tr",
+  "www.balikesir.pol.tr",
+  "www.bartin.pol.tr",
+  "www.batman.pol.tr",
+  "www.bayburt.pol.tr",
+  "www.bilecik.pol.tr",
+  "www.bingol.pol.tr",
+  "www.bitlis.pol.tr",
+  "www.bolu.pol.tr",
+  "www.burdur.pol.tr",
+  "www.bursa.pol.tr",
+  "www.canakkale.pol.tr",
+  "www.cankiri.pol.tr",
+  "www.corum.pol.tr",
+  "www.denizli.pol.tr",
+  "www.diyarbakir.pol.tr",
+  "www.duzce.pol.tr",
+  "www.edirne.pol.tr",
+  "www.elazig.pol.tr",
+  "www.erzincan.pol.tr",
+  "www.erzurum.pol.tr",
+  "www.eskisehir.pol.tr",
+  "www.gaziantep.pol.tr",
+  "www.giresun.pol.tr",
+  "www.gumushane.pol.tr",
+  "www.hakkari.pol.tr",
+  "www.hatay.pol.tr",
+  "www.igdir.pol.tr",
+  "www.isparta.pol.tr",
+  "www.istanbul.pol.tr",
+  "www.izmir.pol.tr",
+  "www.kahramanmaras.pol.tr",
+  "www.karabuk.pol.tr",
+  "www.karaman.pol.tr",
+  "www.kars.pol.tr",
+  "www.kastamonu.pol.tr",
+  "www.kayseri.pol.tr",
+  "www.kilis.pol.tr",
+  "www.kirikkale.pol.tr",
+  "www.kirklareli.pol.tr",
+  "www.kirsehir.pol.tr",
+  "www.kocaeli.pol.tr",
+  "www.konya.pol.tr",
+  "www.kutahya.pol.tr",
+  "www.malatya.pol.tr",
+  "www.manisa.pol.tr",
+  "www.mardin.pol.tr",
+  "www.mersin.pol.tr",
+  "www.mugla.pol.tr",
+  "www.mus.pol.tr",
+  "www.nevsehir.pol.tr",
+  "www.nigde.pol.tr",
+  "www.ordu.pol.tr",
+  "www.osmaniye.pol.tr",
+  "www.rize.pol.tr",
+  "www.sakarya.pol.tr",
+  "www.samsun.pol.tr",
+  "www.sanliurfa.pol.tr",
+  "www.siirt.pol.tr",
+  "www.sinop.pol.tr",
+  "www.sirnak.pol.tr",
+  "www.sivas.pol.tr",
+  "www.tekirdag.pol.tr",
+  "www.tokat.pol.tr",
+  "www.trabzon.pol.tr",
+  "www.tunceli.pol.tr",
+  "www.usak.pol.tr",
+  "www.van.pol.tr",
+  "www.yozgat.pol.tr",
+  "www.zonguldak.pol.tr"
+ ]
+}
