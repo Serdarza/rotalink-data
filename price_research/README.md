@@ -15,8 +15,12 @@ resmî kaynaklarla karşılaştırır. Cursor'un veya bir bilgisayarın açık o
 - Canlı modda yalnızca `degisti` / `suresi_doldu` olan `resmi_kaynak` tarifeler `teyit_gerekli`
   olarak işaretlenir ve kullanıcıya not eklenir. Tarife tekrar doğrulanırsa işaret geri alınır.
   Yeni fiyatlar rapordaki resmî kaynaktan onaylanarak elle girilir.
-- Yeni tesisler (MEB öğretmenevi listesi, emniyet ve kurum siteleri) `DISCOVERED` olarak raporlanır,
-  otomatik eklenmez.
+- Yeni tesisler (MEB öğretmenevi listesi, emniyet ve kurum siteleri) `DISCOVERED` olarak raporlanır.
+  MEB resmî öğretmenevi listesinde olup uygulamada olmayan öğretmenevleri, konumları OpenStreetMap'te
+  kesin eşleşirse (ad, il, ilçe uyumlu; 300 m içinde kayıtlı başka tesis yok) canlı modda
+  `master_database_updated.json`'a **fiyatsız** eklenir (ad, il, adres, telefon, konum).
+  Tek çalışmada `otomatik_ekleme_sinir` değerinden fazla keşif çıkarsa hiçbiri eklenmez, raporlanır.
+  `config.json` → `"otomatik_ekleme": false` ile kapatılabilir.
 - HTML, PDF (tablolar dahil), Word (.docx), Excel (.xlsx/.xls, gizli sayfalar dahil) okunur.
   Görseller ve taranmış PDF'ler için OCR (RapidOCR) kullanılır.
 - Koşullu GET (ETag / Last-Modified), alan adı başına bekleme, 429/5xx için üstel geri çekilme.

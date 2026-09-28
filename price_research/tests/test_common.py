@@ -73,6 +73,23 @@ def test_new_errors_ignores_legacy():
     assert before and new_errors(before, after) == []
 
 
+def test_meb_rows_and_phone():
+    import monitor
+    html = ('<span id="ctl00_ContentPlaceHolder1_lbl_il">İL SEÇ</span>'
+            '<span id="x_GridView1_ctl02_lbl_il" style="">Adana</span>'
+            '<span id="x_GridView1_ctl02_lbl_ilce" style="">Aladağ</span>'
+            '<span id="x_GridView1_ctl02_lbl_kurum" style="">Aladağ Öğretmenevi</span>'
+            '<span id="x_GridView1_ctl02_lbl_telefon">0322 591 20 05</span>').encode("utf-8")
+    assert monitor.parse_meb_rows(html) == [("Adana", "Aladağ", "Aladağ Öğretmenevi", "0322 591 20 05")]
+    assert monitor.format_phone("0322 591 20 05") == "(0322) 591 20 05"
+
+
+def test_meters():
+    import monitor
+    assert monitor._meters({"latitude": 39.0, "longitude": 32.0}, {"latitude": 39.001, "longitude": 32.0}) < 150
+    assert monitor._meters({"latitude": 0, "longitude": 0}, {"latitude": 39.0, "longitude": 32.0}) == float("inf")
+
+
 def test_repo_files_are_valid_json():
     root = PR.parent
     for p in (root / "fiyatlar.json", PR / "sources.json", PR / "kurumlar.json", PR / "config.json"):

@@ -51,7 +51,7 @@ def load(p: Path):
 
 def atomic_write_json(path: Path, data, validate_fn=None) -> None:
     tmp = path.with_suffix(path.suffix + ".tmp")
-    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2 if path.name == "fiyatlar.json" else 1) + "\n",
+    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=1 if path.name == "sources.json" else 2) + "\n",
                    encoding="utf-8")
     json.loads(tmp.read_text(encoding="utf-8"))
     if validate_fn:
@@ -217,36 +217,152 @@ def discover_kurumlar(fetcher: Fetcher, kurumlar: list[dict], known: set[str], y
     return out
 
 
+IL_ALIAS = {"k maras": "Kahramanmaraş", "kmaras": "Kahramanmaraş", "afyon": "Afyonkarahisar",
+            "icel": "Mersin", "antep": "Gaziantep", "urfa": "Şanlıurfa"}
+
+
+def parse_meb_rows(content: bytes) -> list[tuple[str, str, str, str]]:
+    import html as htmlmod
+    try:
+        raw = content.decode("utf-8")
+    except UnicodeDecodeError:
+        raw = content.decode("cp1254", "replace")
+    cells: dict[str, dict] = {}
+    for ctl, f, v in re.findall(r'GridView1_(ctl\d+)_lbl_(il|ilce|kurum|telefon)"[^>]*>([^<]*)<', raw):
+        cells.setdefault(ctl, {})[f] = re.sub(r"\s+", " ", htmlmod.unescape(v)).strip()
+    return [(c["il"], c.get("ilce", ""), c["kurum"], c.get("telefon", "")) for c in cells.values()
+            if c.get("il") and c.get("kurum")]
+
+
 def discover_meb(fetcher: Fetcher, url: str, master: list[dict]) -> dict:
     fr = fetcher.get(url)
     if not fr.ok or not fr.content:
         return {"durum": "erisilemedi", "hata": fr.error or fr.status, "yeni": []}
-    import html as htmlmod
-    raw = fr.content.decode("utf-8", "replace")
-    rows = re.findall(r"lbl_il[^>]*>([^<]*)</span>.*?lbl_ilce[^>]*>([^<]*)</span>.*?"
-                      r"lbl_kurum[^>]*>([^<]*)</span>.*?lbl_telefon[^>]*>([^<]*)</span>", raw, re.S)
+    rows = parse_meb_rows(fr.content)
     by_il: dict[str, list[dict]] = {}
     for t in master:
         by_il.setdefault(norm(t.get("il")), []).append(t)
-    generic = {"ogretmenevi", "ogretmen", "evi", "ve", "aso", "aksam", "sanat", "okulu", "mudurlugu", "sehit"}
+    generic = {"ogretmenevi", "ogretmen", "evi", "ve", "aso", "a", "s", "o", "aksam", "sanat", "okulu", "mudurlugu",
+               "sehit", "merkez", "buyuksehir"}
     yeni = []
     for il, ilce, kurum, tel in rows:
-        il, ilce, kurum, tel = (htmlmod.unescape(x).strip() for x in (il, ilce, kurum, tel))
+        il = IL_ALIAS.get(norm(il), il)
         cands = by_il.get(norm(il), [])
-        toks = set(norm(kurum).split()) - generic
+        il_toks = set(norm(il).split())
+        toks = set(norm(kurum).split()) - generic - il_toks
+        merkez = norm(ilce) in ("merkez", "buyuksehir", "") or norm(ilce) == norm(il)
         d = digits(tel)
         hit = False
         for t in cands:
             if d and d == digits(str(t.get("telefon") or "")):
                 hit = True
                 break
-            mt = set(norm(t.get("isim")).split())
-            if ("retmen" in norm(t.get("isim")) or "aso" in mt) and (toks & mt or norm(ilce) in norm(t.get("isim"))):
+            ni = norm(t.get("isim"))
+            mt = set(ni.split())
+            if not ("retmen" in ni or "aso" in mt or {"a", "s", "o"} <= mt):
+                continue
+            rest = mt - generic - il_toks
+            merkez_hit = (merkez or not toks) and not toks and ("merkez" in mt or not rest)
+            if (toks & mt) or (not merkez and norm(ilce) in ni) or merkez_hit:
                 hit = True
                 break
         if not hit:
             yeni.append({"il": il, "ilce": ilce, "kurum": kurum, "telefon": tel, "durum": "DISCOVERED"})
     return {"durum": "tarandi", "liste_satiri": len(rows), "yeni": yeni}
+
+
+def format_phone(tel: str) -> str:
+    d = re.sub(r"\D", "", tel or "")
+    if len(d) == 10:
+        d = "0" + d
+    if len(d) == 11 and d.startswith("0"):
+        return f"({d[:4]}) {d[4:7]} {d[7:9]} {d[9:]}"
+    return (tel or "").strip()
+
+
+def geocode_ogretmenevi(fetcher: Fetcher, kurum: str, ilce: str, il: str) -> dict | None:
+    """OpenStreetMap'te adı 'öğretmen' içeren ve aynı il/ilçede olan kaydı arar; kesin eşleşme yoksa None."""
+    from urllib.parse import urlencode
+    generic = {"ogretmenevi", "ogretmen", "evi", "ve", "aso", "aksam", "sanat", "okulu", "sehit", "merkez", "buyuksehir"}
+    need = set(norm(kurum).split()) - generic
+    if not need:
+        need = set(norm(il).split())
+    queries = [f"{kurum}, {ilce}, {il}", f"{ilce} Öğretmenevi, {il}", f"{ilce} Öğretmenevi"]
+    for q in queries:
+        url = "https://nominatim.openstreetmap.org/search?" + urlencode(
+            {"q": q, "format": "jsonv2", "limit": 5, "countrycodes": "tr", "addressdetails": 1})
+        fr = fetcher.get(url)
+        if not fr.ok or not fr.content:
+            continue
+        try:
+            hits = json.loads(fr.content.decode("utf-8"))
+        except ValueError:
+            continue
+        for h in hits:
+            disp = norm(h.get("display_name"))
+            name = norm(h.get("name") or "")
+            if "ogretmen" not in name or norm(il) not in disp or not (need & set(name.split())):
+                continue
+            if norm(ilce) and norm(ilce) != "merkez" and norm(ilce) not in disp:
+                continue
+            try:
+                lat, lon = float(h["lat"]), float(h["lon"])
+            except (KeyError, ValueError):
+                continue
+            if not (35.5 <= lat <= 42.5 and 25.5 <= lon <= 45.0):
+                continue
+            return {"latitude": lat, "longitude": lon, "adres": h.get("display_name", "").removesuffix(", Türkiye")}
+    return None
+
+
+def _meters(t: dict, geo: dict) -> float:
+    import math
+    try:
+        la, lo = float(t.get("latitude") or 0), float(t.get("longitude") or 0)
+    except (TypeError, ValueError):
+        return float("inf")
+    if not la or not lo:
+        return float("inf")
+    dy = (la - geo["latitude"]) * 111320
+    dx = (lo - geo["longitude"]) * 111320 * math.cos(math.radians(la))
+    return math.hypot(dx, dy)
+
+
+def auto_add_facilities(fetcher: Fetcher, yeni: list[dict], master_doc: dict, reg: dict, limit: int,
+                        today_s: str) -> tuple[list[dict], list[dict]]:
+    """DISCOVERED öğretmenevlerini resmî MEB listesindeki bilgilerle ve doğrulanmış konumla master'a ekler.
+    Fiyat eklenmez. Konumu kesin bulunamayan veya sayı sınırını aşan keşifler yalnızca raporlanır."""
+    added, skipped = [], []
+    if len(yeni) > limit:
+        return [], [{**y, "neden": f"tek çalışmada {len(yeni)} yeni kayıt (sınır {limit}); eşleştirme hatası "
+                                   f"olabilir, otomatik eklenmedi"} for y in yeni]
+    tesisler = master_doc["tesisler"]
+    names = {(t["il"], norm(t["isim"])) for t in tesisler}
+    for y in yeni:
+        ilce = y["ilce"] if norm(y["ilce"]) != "merkez" else ""
+        isim = " ".join(x for x in (y["il"], ilce, "Öğretmenevi") if x)
+        if (y["il"], norm(isim)) in names:
+            skipped.append({**y, "neden": f"aynı adla kayıt var: {isim}"})
+            continue
+        geo = geocode_ogretmenevi(fetcher, y["kurum"], y["ilce"], y["il"])
+        if not geo:
+            skipped.append({**y, "neden": "konum OpenStreetMap'te kesin bulunamadı"})
+            continue
+        near = next((t for t in tesisler if _meters(t, geo) < 300), None)
+        if near:
+            skipped.append({**y, "neden": f"300 m içinde kayıtlı tesis var: {near['il']} / {near['isim']}"})
+            continue
+        rec = {"isim": isim, "tip": "Öğretmenevi", "il": y["il"], "adres": geo["adres"],
+               "telefon": format_phone(y["telefon"]), "latitude": geo["latitude"], "longitude": geo["longitude"]}
+        tesisler.append(rec)
+        names.add((y["il"], norm(isim)))
+        reg["tesisler"].append({"il": y["il"], "isim": isim, "kurum": "MEB Öğretmenevi", "telefon": rec["telefon"],
+                                "durum": "C", "aktif": False, "kontrol_yontemi": "pasif", "kaynaklar": [],
+                                "ocr_eksik": [], "neden": f"{today_s} MEB öğretmenevi listesinden otomatik eklendi; "
+                                "resmî fiyat kaynağı henüz yok.", "son_kontrol": None,
+                                "son_basarili_kontrol": None, "son_sonuc": None, "otomatik_eklendi": today_s})
+        added.append({**rec, "kaynak": "MEB öğretmenevi listesi + OpenStreetMap konumu"})
+    return added, skipped
 
 
 def discover_polis(fetcher: Fetcher, hosts: list[str], known: set[str], deadline: float) -> list[dict]:
@@ -292,7 +408,9 @@ def main() -> int:
     fiyat = load(fiyat_path)
     mkeys = master_keys(ROOT)
     before_errs = validate_data(fiyat, mkeys)
-    master = load(ROOT / "master_database_updated.json")["tesisler"]
+    master_path = ROOT / "master_database_updated.json"
+    master_doc = load(master_path)
+    master = list(master_doc["tesisler"])
     idx = {(e["il"], e["isim"]): i for i, e in enumerate(fiyat["tesisler"])}
     url_state: dict = reg.setdefault("url_durumu", {})
     common.RESMI_EK = set(reg.get("onayli_alan_adlari") or [])
@@ -398,12 +516,32 @@ def main() -> int:
         kesif["meb"] = discover_meb(fetcher, kur["ozel_kaynaklar"]["meb_ogretmenevi_listesi"], master)
         kesif["polis"] = discover_polis(fetcher, kur.get("emniyet_siteleri") or [], known, deadline)
         kesif["kurumlar"] = discover_kurumlar(fetcher, kur["kurumlar"], known, today.year, deadline)
+        if cfg.get("otomatik_ekleme", True) and kesif["meb"].get("yeni"):
+            added, skipped = auto_add_facilities(fetcher, kesif["meb"]["yeni"], master_doc, reg,
+                                                 int(cfg.get("otomatik_ekleme_sinir", 15)), today_s)
+            kesif["eklenen"], kesif["eklenmeyen"] = added, skipped
 
     # Yazma (canlı)
     wrote = False
+    fiyat_changed = bool(changes)
+    if live and kesif.get("eklenen"):
+        dup0 = len(master) - len({(t.get("il"), t.get("isim")) for t in master})
+
+        def master_ok(d):
+            ks = [(t.get("il"), t.get("isim")) for t in d.get("tesisler", [])]
+            errs = [] if len(ks) - len(set(ks)) <= dup0 else ["master: tekrar eden tesis"]
+            if len(d.get("tesisler", [])) < len(master):
+                errs.append("master: tesis sayısı azaldı")
+            return errs
+        atomic_write_json(master_path, master_doc, master_ok)
+        mkeys = master_keys(ROOT)
+        for x in kesif["eklenen"]:
+            changes.append({"tesis": f"{x['il']} / {x['isim']}", "islem": "yeni tesis eklendi (fiyatsız)",
+                            "eski_fiyat": None, "yeni_fiyat": None, "resmi_kaynak": x["kaynak"],
+                            "kontrol_tarihi": today_s})
     if live:
         cand = {**fiyat, "tesisler": new_list}
-        if changes:
+        if fiyat_changed:
             atomic_write_json(fiyat_path, cand, lambda d: new_errors(before_errs, validate_data(d, mkeys)))
             wrote = True
         atomic_write_json(PR / "sources.json", reg)
@@ -449,6 +587,8 @@ def build_report(results, url_res, changes, kesif, live, wrote, today, legacy_er
         "Kaynağı okunamayan tesis (işlenemedi)": c["islenemedi"],
         "Yeni kaynak adayı bulunan tesis": aday_kaynak,
         "Yeni keşfedilen tesis (DISCOVERED)": len(yeni_tesis),
+        ("Otomatik eklenen yeni tesis" if live else "Otomatik eklenecek yeni tesis (DRY RUN — eklenmedi)"):
+            len(kesif.get("eklenen") or []),
         "İşlenemeyen PDF": kinds.get("pdf", 0), "İşlenemeyen Excel": kinds.get("excel", 0),
         "İşlenemeyen Word": kinds.get("word", 0), "OCR uygulanan dosya": ocr,
         ("fiyatlar.json'da işaret değişikliği" if live else
@@ -481,8 +621,13 @@ def build_report(results, url_res, changes, kesif, live, wrote, today, legacy_er
                                                         for r in results if r["sonuc"] == "dogrulandi" and r["yeni_kaynak_adaylari"]])
     sec("Kaynağı erişilemeyen (source_check_failed — veri korunur)",
         [f"- {r['il']} / {r['isim']} — {r['erisilemeyen'][:2]}" for r in results if r["sonuc"] == "source_check_failed"])
-    sec("Yeni keşfedilen tesisler (DISCOVERED — otomatik eklenmez)",
+    sec("Yeni keşfedilen tesisler (DISCOVERED)",
         [f"- {x['il']} / {x['ilce']} — {x['kurum']} — {x['telefon']}" for x in yeni_tesis])
+    sec("Otomatik eklenen/eklenecek tesisler (fiyatsız)",
+        [f"- {x['il']} / {x['isim']} — {x['telefon']} — {x['adres']} ({x['latitude']:.5f}, {x['longitude']:.5f})"
+         for x in kesif.get("eklenen") or []])
+    sec("Eklenmeyen keşifler (yalnızca rapor)",
+        [f"- {x['il']} / {x['ilce']} — {x['kurum']} — {x['neden']}" for x in kesif.get("eklenmeyen") or []])
     kur = kesif.get("kurumlar") or []
     sec("Kurum sitelerinde aday konaklama/fiyat sayfaları",
         [f"- {k['kurum']}: {k.get('aday_sayfalar')}" for k in kur if k.get("aday_sayfalar")] +

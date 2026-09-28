@@ -63,7 +63,7 @@ jobs:
         run: |
           git config user.name "rotalink-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add fiyatlar.json price_research/sources.json price_research/reports/
+          git add fiyatlar.json master_database_updated.json price_research/sources.json price_research/reports/
           if git diff --cached --quiet; then
             echo "Değişiklik yok, commit atılmadı."
             exit 0
