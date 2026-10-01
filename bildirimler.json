@@ -2,23 +2,75 @@
   "aciklama": "Haftalık duyuru bildirimleri. Her mesaj için tarih (YYYY-AA-GG, tercihen Perşembe), baslik (en fazla 50 karakter) ve metin (en fazla 150 karakter) yazın. Saat verilmezse 21:00 kullanılır; 10:00-21:00 dışına çıkmaz. ekran isteğe bağlıdır: kampanyalar, tatiller veya pro. Bir mesajı silmeden durdurmak için \"aktif\": false ekleyin. Aynı haftada yalnızca ilk mesaj gönderilir. Telefonlar dosyayı açılışta indirip zamanlar; iOS için 4-8 hafta ilerisini girmeniz önerilir.",
   "saat": "21:00",
   "mesajlar": [
-    {
-      "tarih": "2026-10-08",
-      "baslik": "Hafta sonu planın hazır mı?",
-      "metin": "Yakınındaki öğretmenevi, orduevi ve misafirhaneleri haritada gör, güncel fiyatları karşılaştır.",
-      "ekran": ""
-    },
-    {
-      "tarih": "2026-10-15",
-      "baslik": "Yeni kamu kampanyaları",
-      "metin": "Kamu çalışanlarına özel güncel indirim ve kampanyalara göz at.",
-      "ekran": "kampanyalar"
-    },
-    {
-      "tarih": "2026-11-05",
-      "baslik": "Kısa bir kaçamağa ne dersin?",
-      "metin": "Sonbaharda uygun fiyatlı kamu tesislerini keşfet, telefon ve fiyat bilgisine tek dokunuşla ulaş.",
-      "ekran": ""
-    }
+  {
+    "tarih": "2026-10-08",
+    "saat": "20:30",
+    "baslik": "Hafta sonu planın hazır mı?",
+    "metin": "Konaklama planından önce RotaLink'teki kamu tesislerine ve güncel fiyatlara göz at.",
+    "ekran": "tesisler"
+  },
+  {
+    "tarih": "2026-10-15",
+    "saat": "20:30",
+    "baslik": "Uygun konaklama arıyorsan bak!",
+    "metin": "Kamu misafirhaneleri ve sosyal tesislerde güncel fiyatları RotaLink'ten keşfet.",
+    "ekran": "tesisler"
+  },
+  {
+    "tarih": "2026-10-22",
+    "saat": "20:30",
+    "baslik": "Yeni bir rota mı planlıyorsun?",
+    "metin": "Gideceğin şehirdeki kamu tesislerini RotaLink'ten bul, fiyatları kontrol et.",
+    "ekran": "tesisler"
+  },
+  {
+    "tarih": "2026-10-29",
+    "saat": "20:30",
+    "baslik": "Tatil planını yapmadan önce bak!",
+    "metin": "Kamu tesislerinde konaklama seçeneklerini ve güncel fiyatları RotaLink'te keşfet.",
+    "ekran": "tatiller"
+  },
+  {
+    "tarih": "2026-11-05",
+    "saat": "20:30",
+    "baslik": "Bu hafta nereye gidiyorsun?",
+    "metin": "Rotanı belirlemeden önce RotaLink'teki kamu tesislerine göz at.",
+    "ekran": "tesisler"
+  },
+  {
+    "tarih": "2026-11-12",
+    "saat": "20:30",
+    "baslik": "Konaklama arıyorsan tam zamanı!",
+    "metin": "Şehrindeki kamu misafirhanelerini ve sosyal tesisleri RotaLink'ten keşfet.",
+    "ekran": "tesisler"
+  },
+  {
+    "tarih": "2026-11-19",
+    "saat": "20:30",
+    "baslik": "Fiyatlara baktın mı?",
+    "metin": "Seyahat planından önce kamu tesislerindeki güncel konaklama fiyatlarını kontrol et.",
+    "ekran": "fiyatlar"
+  },
+  {
+    "tarih": "2026-11-26",
+    "saat": "20:30",
+    "baslik": "RotaLink'te yeni keşif zamanı!",
+    "metin": "Gideceğin şehirde nerede kalabileceğini keşfetmek için RotaLink'i aç.",
+    "ekran": "tesisler"
+  },
+  {
+    "tarih": "2026-12-03",
+    "saat": "20:30",
+    "baslik": "Yıl sonu planın hazır mı?",
+    "metin": "Seyahat öncesi kamu tesislerini, konaklama seçeneklerini ve fiyatları kontrol et.",
+    "ekran": "tatiller"
+  },
+  {
+    "tarih": "2026-12-10",
+    "saat": "20:30",
+    "baslik": "Bu Perşembe rotanı keşfet!",
+    "metin": "Türkiye genelindeki kamu misafirhaneleri ve sosyal tesislere RotaLink'ten göz at.",
+    "ekran": "tesisler"
+  }
   ]
 }
