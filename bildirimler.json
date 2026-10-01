@@ -1,0 +1,24 @@
+{
+  "aciklama": "Haftalık duyuru bildirimleri. Her mesaj için tarih (YYYY-AA-GG, tercihen Perşembe), baslik (en fazla 50 karakter) ve metin (en fazla 150 karakter) yazın. Saat verilmezse 21:00 kullanılır; 10:00-21:00 dışına çıkmaz. ekran isteğe bağlıdır: kampanyalar, tatiller veya pro. Bir mesajı silmeden durdurmak için \"aktif\": false ekleyin. Aynı haftada yalnızca ilk mesaj gönderilir. Telefonlar dosyayı açılışta indirip zamanlar; iOS için 4-8 hafta ilerisini girmeniz önerilir.",
+  "saat": "21:00",
+  "mesajlar": [
+    {
+      "tarih": "2026-10-08",
+      "baslik": "Hafta sonu planın hazır mı?",
+      "metin": "Yakınındaki öğretmenevi, orduevi ve misafirhaneleri haritada gör, güncel fiyatları karşılaştır.",
+      "ekran": ""
+    },
+    {
+      "tarih": "2026-10-15",
+      "baslik": "Yeni kamu kampanyaları",
+      "metin": "Kamu çalışanlarına özel güncel indirim ve kampanyalara göz at.",
+      "ekran": "kampanyalar"
+    },
+    {
+      "tarih": "2026-11-05",
+      "baslik": "Kısa bir kaçamağa ne dersin?",
+      "metin": "Sonbaharda uygun fiyatlı kamu tesislerini keşfet, telefon ve fiyat bilgisine tek dokunuşla ulaş.",
+      "ekran": ""
+    }
+  ]
+}
