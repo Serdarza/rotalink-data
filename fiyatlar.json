@@ -42136,6 +42136,62 @@
     },
     {
       "il": "Şanlıurfa",
+      "isim": "Türkiye Diyanet Vakfı Şanlıurfa Konukevi",
+      "fiyat_sivil": "600 – 2.000 TL",
+      "fiyat_kamu_personeli": "540 – 1.800 TL",
+      "fiyat_kurum_personeli": "510 – 1.700 TL",
+      "kaynak": "Bildirilen fiyat bilgisi",
+      "gecerlilik": "Bildirilen tarife (01.10.2026): standart odada yatak başı 600/540/510 TL, suit oda 2.000/1.800/1.700 TL (sivil / kamu / kurum personeli)",
+      "tarife": {
+        "baslik": "TDV Şanlıurfa Sosyal Tesisi Konaklama Ücretleri",
+        "birim": "gecelik",
+        "guncelleme": "2026-10-01",
+        "dogrulama": "kullanici_bildirimi",
+        "kategoriler": [
+          {
+            "id": "sivil",
+            "ad": "Sivil Misafir"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu Personeli"
+          },
+          {
+            "id": "kurum",
+            "ad": "Kurum Personeli"
+          }
+        ],
+        "satirlar": [
+          {
+            "ad": "Standart Oda",
+            "birim": "yatak başı / gece",
+            "aciklama": "3 kişilik odalar (44 oda); ücret yatak başına alınır.",
+            "fiyatlar": {
+              "sivil": 600,
+              "kamu": 540,
+              "kurum": 510
+            }
+          },
+          {
+            "ad": "Suit Aile Odası",
+            "aciklama": "4 adet suit aile odası.",
+            "fiyatlar": {
+              "sivil": 2000,
+              "kamu": 1800,
+              "kurum": 1700
+            }
+          }
+        ],
+        "notlar": [
+          "Tesiste mescit (150 kişilik), yemekhane (150 kişilik), çamaşırhane, ütü odası, 100 araçlık otopark, 300 kişilik konferans salonu ve spor alanları bulunur.",
+          "Rezervasyon ve bilgi: 0 (414) 341 03 97 · Faks: 0 (414) 341 02 90.",
+          "Tesis bilgileri: https://www.tdvyurt.com.tr/sosyal-tesisler/turkiye-diyanet-vakfi-sanliurfa-sosyal-tesisi/",
+          "Fiyatlar kullanıcı bildirimine dayanır; rezervasyon öncesi tesisle teyit ediniz."
+        ]
+      }
+    },
+    {
+      "il": "Şanlıurfa",
       "isim": "Şanlıurfa Karaköprü Onikilier Öğretmenevi",
       "fiyat_sivil": "2.200 – 11.000 TL",
       "fiyat_kamu_personeli": "1.300 – 6.500 TL",
