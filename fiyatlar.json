@@ -4590,15 +4590,140 @@
     {
       "il": "İstanbul",
       "isim": "Diyanet Evi Sultanahmet",
-      "fiyat_sivil": null,
-      "fiyat_kamu_personeli": "1.800 TL",
-      "fiyat_kurum_personeli": "1.800 TL",
-      "gecerlilik": "2026 yılı yaklaşık; rezervasyonda teyit edilmeli",
+      "fiyat_sivil": "2.250 – 5.625 TL",
+      "fiyat_kamu_personeli": "1.500 – 3.750 TL",
+      "fiyat_kurum_personeli": "1.500 – 3.750 TL",
+      "kaynak": "https://diyanetevi.diyanet.gov.tr/Istanbul/Fatih",
+      "gecerlilik": "15.01.2026 tarihinden itibaren geçerli; Kaynak: resmî tarife “Sultanahmet Diyanet Evi Konaklama Fiyatları”",
       "tarife": {
-        "dogrulama": "teyit_gerekli",
-        "guncelleme": "2026-09-27",
+        "baslik": "Sultanahmet Diyanet Evi Konaklama Fiyatları",
+        "donem": "15.01.2026'dan itibaren",
+        "birim": "gecelik",
+        "guncelleme": "2026-10-01",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu Personeli"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer (%50 artırımlı)"
+          }
+        ],
+        "satirlar": [
+          {
+            "ad": "Tek Kişilik Oda",
+            "aciklama": "7 adet tek kişilik oda.",
+            "fiyatlar": {
+              "kamu": 1500,
+              "diger": 2250
+            }
+          },
+          {
+            "ad": "İki Kişilik Oda",
+            "birim": "oda",
+            "aciklama": "10 adet çift kişilik oda; tek kişi konaklama yapılmaz.",
+            "fiyatlar": {
+              "kamu": 2500,
+              "diger": 3750
+            }
+          },
+          {
+            "ad": "Üç Kişilik Oda (Aile)",
+            "birim": "oda",
+            "aciklama": "4 adet üç kişilik oda; tek kişi konaklama yapılmaz.",
+            "fiyatlar": {
+              "kamu": 3750,
+              "diger": 5625
+            }
+          }
+        ],
+        "kurallar": [
+          "Konaklama hizmetlerinden Kamu personeli dışında yararlananlara tarifenin %50 artırımlı miktarı uygulanır.",
+          "Ödemeler havale/EFT veya kredi kartıyla yapılabilmekte olup nakit kabul edilmemektedir."
+        ],
+        "giris_saati": "14:00",
+        "cikis_saati": "11:00",
+        "ek_ucretler": [
+          "Ek yatak ücreti: 750,00 TL",
+          "Konaklama harici kahvaltı ücreti: 400,00 TL"
+        ],
         "notlar": [
-          "Bu fiyat 27.09.2026 kontrolünde resmî kaynakta güncel olarak doğrulanamadı; rezervasyon öncesi tesisle teyit ediniz."
+          "21 oda, 39 yatak kapasitesi.",
+          "İletişim: 0 (212) 843 61 84 · sultanahmet.diyanetevi@diyanet.gov.tr"
+        ]
+      }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Diyanet Evi Üsküdar",
+      "fiyat_sivil": "1.875 – 4.275 TL",
+      "fiyat_kamu_personeli": "1.250 – 2.850 TL",
+      "fiyat_kurum_personeli": "1.250 – 2.850 TL",
+      "kaynak": "https://diyanetevi.diyanet.gov.tr/Istanbul/Uskudar",
+      "gecerlilik": "15.01.2026 tarihinden itibaren geçerli; Kaynak: resmî tarife “Üsküdar Diyanet Evi Konaklama Fiyatları”",
+      "tarife": {
+        "baslik": "Üsküdar Diyanet Evi Konaklama Fiyatları",
+        "donem": "15.01.2026'dan itibaren",
+        "birim": "gecelik",
+        "guncelleme": "2026-10-01",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu Personeli"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer (%50 artırımlı)"
+          }
+        ],
+        "satirlar": [
+          {
+            "ad": "Tek Kişilik Oda",
+            "aciklama": "29 adet tek kişilik oda.",
+            "fiyatlar": {
+              "kamu": 1250,
+              "diger": 1875
+            }
+          },
+          {
+            "ad": "İki Kişilik Oda",
+            "birim": "oda",
+            "aciklama": "9 adet çift kişilik oda; tek kişi konaklama yapılmaz.",
+            "fiyatlar": {
+              "kamu": 1900,
+              "diger": 2850
+            }
+          },
+          {
+            "ad": "Yarı Süit Üç Kişilik Oda (Aile)",
+            "birim": "oda",
+            "aciklama": "8 adet üç kişilik oda; tek kişi konaklama yapılmaz.",
+            "fiyatlar": {
+              "kamu": 2850,
+              "diger": 4275
+            }
+          }
+        ],
+        "kurallar": [
+          "Konaklama hizmetlerinden Kamu personeli dışında yararlananlara tarifenin %50 artırımlı miktarı uygulanır.",
+          "Ödemeler havale/EFT veya kredi kartıyla yapılabilmekte olup nakit kabul edilmemektedir."
+        ],
+        "giris_saati": "14:00",
+        "cikis_saati": "11:00",
+        "indirimler": [
+          "Refakatçi indirimi %20: Uzun süreli tedavi gerektiren hastalıklarda rahatsızlığını raporla belgeleyen DİB personeli ve yakınları ile refakatçisine (Kamu Sosyal Tesislerine İlişkin Tebliğ taban fiyatının altına inmemek kaydıyla).",
+          "Toplu organizasyon indirimi %20: DİB ve TDV etkinlikleri ile kamu kurumlarınca düzenlenen eğitim amaçlı konferans, panel, çalıştay gibi çok katılımlı organizasyonlarda."
+        ],
+        "ek_ucretler": [
+          "Ek yatak ücreti: 650,00 TL",
+          "Konaklama harici kahvaltı ücreti: 300,00 TL"
+        ],
+        "notlar": [
+          "46 oda, 72 yatak kapasitesi.",
+          "İletişim: 0 (216) 492 80 82 · 0 (553) 950 81 13 · uskudar.diyanetevi@diyanet.gov.tr"
         ]
       }
     },
@@ -29139,7 +29264,9 @@
     {
       "il": "Ankara",
       "isim": "Ankara Diyanet Evi",
+      "fiyat_sivil": "1.425 – 4.500 TL",
       "fiyat_kamu_personeli": "750 – 3.000 TL",
+      "fiyat_kurum_personeli": "750 – 3.000 TL",
       "kaynak": "https://diyanetevi.diyanet.gov.tr/static/files/Ankara/3/genel/0bWNi7kuz4t8chIIOHpueanm4cScyy.pdf",
       "gecerlilik": "15.01.2026 tarihinden itibaren geçerli; Kaynak: resmî PDF “Ankara Diyanet Evi Konaklama Fiyatları” (Fiyat tarifesi 15.01.2026 tarihinden itibaren geçerli (dosya 14.01.2026)); son kontrol 27.09.2026",
       "tarife": {
@@ -29150,7 +29277,11 @@
         "kategoriler": [
           {
             "id": "kamu",
-            "ad": "Kamu"
+            "ad": "Kamu Personeli"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer (%50 artırımlı)"
           }
         ],
         "tablolar": [
@@ -29160,41 +29291,47 @@
               {
                 "ad": "Tek Kişilik Oda",
                 "fiyatlar": {
-                  "kamu": 1500
+                  "kamu": 1500,
+                  "diger": 2250
                 }
               },
               {
                 "ad": "İki Kişilik Oda – Tek Kişi",
                 "birim": "kişi başı",
                 "fiyatlar": {
-                  "kamu": 950
+                  "kamu": 950,
+                  "diger": 1425
                 }
               },
               {
                 "ad": "İki Kişilik Oda – Oda Bazında",
                 "birim": "oda",
                 "fiyatlar": {
-                  "kamu": 1900
+                  "kamu": 1900,
+                  "diger": 2850
                 }
               },
               {
                 "ad": "Üç Kişilik Oda – Tek Kişi",
                 "birim": "kişi başı",
                 "fiyatlar": {
-                  "kamu": 950
+                  "kamu": 950,
+                  "diger": 1425
                 }
               },
               {
                 "ad": "Üç Kişilik Oda – Oda Bazında",
                 "birim": "oda",
                 "fiyatlar": {
-                  "kamu": 2850
+                  "kamu": 2850,
+                  "diger": 4275
                 }
               },
               {
                 "ad": "Süit",
                 "fiyatlar": {
-                  "kamu": 3000
+                  "kamu": 3000,
+                  "diger": 4500
                 }
               }
             ]
@@ -29226,22 +29363,26 @@
           }
         ],
         "kurallar": [
-          "Konaklama hizmetlerinden Kamu personeli dışında yararlanacak olanlara tarifenin %50 artırımlı miktarı uygulanır.",
+          "Konaklama hizmetlerinden Kamu personeli dışında yararlananlara tarifenin %50 artırımlı miktarı uygulanır.",
           "Ödemeler havale/EFT veya kredi kartıyla yapılabilmekte olup nakit kabul edilmemektedir."
         ],
         "giris_saati": "14:00",
         "cikis_saati": "11:00",
         "indirimler": [
-          "Refakatçi veya toplu organizasyon indirimi: %20"
+          "Refakatçi indirimi %20: Uzun süreli tedavi gerektiren hastalıklarda rahatsızlığını raporla belgeleyen DİB personeli ve yakınları ile refakatçisine (Kamu Sosyal Tesislerine İlişkin Tebliğ taban fiyatının altına inmemek kaydıyla).",
+          "Toplu organizasyon indirimi %20: DİB ve TDV etkinlikleri ile kamu kurumlarınca düzenlenen eğitim amaçlı konferans, panel, çalıştay gibi çok katılımlı organizasyonlarda."
         ],
         "ek_ucretler": [
           "Ek yatak ücreti: 650,00 TL",
           "Konaklama harici kahvaltı ücreti: 300,00 TL"
         ],
         "notlar": [
-          "Fiyat tarifesi 15.01.2026 tarihinden itibaren geçerlidir."
+          "Fiyat tarifesi 15.01.2026 tarihinden itibaren geçerlidir.",
+          "F Blok için %50 artırımlı tarife resmî tabloda ayrıca gösterilmemiştir; kamu fiyatının %50 fazlası uygulanır.",
+          "56 oda (48 çift kişilik, 4 üç kişilik, 4 süit), 108 yatak kapasitesi.",
+          "İletişim: 0 (312) 419 51 62"
         ],
-        "guncelleme": "2026-09-27"
+        "guncelleme": "2026-10-01"
       }
     },
     {
