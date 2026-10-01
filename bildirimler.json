@@ -1,5 +1,5 @@
 {
-  "aciklama": "Haftalık duyuru bildirimleri. Her mesaj için tarih (YYYY-AA-GG, tercihen Perşembe), baslik (en fazla 50 karakter) ve metin (en fazla 150 karakter) yazın. Saat verilmezse 21:00 kullanılır; 10:00-21:00 dışına çıkmaz. ekran isteğe bağlıdır: kampanyalar, tatiller veya pro. Bir mesajı silmeden durdurmak için \"aktif\": false ekleyin. Aynı haftada yalnızca ilk mesaj gönderilir. Telefonlar dosyayı açılışta indirip zamanlar; iOS için 4-8 hafta ilerisini girmeniz önerilir.",
+  "aciklama": "Haftalık duyuru bildirimleri. Her mesaj için tarih (YYYY-AA-GG, tercihen Perşembe), baslik (en fazla 50 karakter) ve metin (en fazla 150 karakter) yazın. Saat verilmezse 21:00 kullanılır; 10:00-21:00 dışına çıkmaz. ekran isteğe bağlıdır: tesisler (veya boş) uygulamayı tesis haritasında açar; kampanyalar, tatiller, pro ilgili ekranı açar. Bir mesajı silmeden durdurmak için \"aktif\": false ekleyin. Aynı haftada yalnızca ilk mesaj gönderilir. Telefonlar dosyayı açılışta indirip zamanlar; iOS için 4-8 hafta ilerisini girmeniz önerilir.",
   "saat": "21:00",
   "mesajlar": [
   {

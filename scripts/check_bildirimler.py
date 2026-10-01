@@ -7,7 +7,8 @@ import sys
 from pathlib import Path
 
 PATH = Path(__file__).resolve().parent.parent / "bildirimler.json"
-EKRANLAR = {"", "kampanyalar", "tatiller", "pro"}
+# tesisler / fiyatlar / harita: uygulama ana ekranda (tesis haritası) açılır.
+EKRANLAR = {"", "tesisler", "fiyatlar", "harita", "kampanyalar", "tatiller", "pro"}
 MAX_BASLIK = 50
 MAX_METIN = 150
 SAAT_RE = re.compile(r"^(\d{1,2})[:.](\d{2})$")
@@ -57,7 +58,7 @@ def main():
             hatalar.append(f"{etiket}: saat geçersiz: {m['saat']!r}")
         ekran = m.get("ekran", "")
         if not isinstance(ekran, str) or ekran.strip().lower() not in EKRANLAR:
-            hatalar.append(f"{etiket}: ekran {ekran!r} geçersiz; kampanyalar, tatiller, pro veya boş")
+            hatalar.append(f"{etiket}: ekran {ekran!r} geçersiz; tesisler, kampanyalar, tatiller, pro veya boş")
         if "aktif" in m and not isinstance(m["aktif"], bool):
             hatalar.append(f"{etiket}: aktif true/false olmalı")
         if gun is not None and m.get("aktif", True) is not False:
