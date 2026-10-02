@@ -41,7 +41,7 @@
       "il": "Adana",
       "isim": "Adana Saimbeyli Öğretmenevi Ve Akşam Sanat Okulu",
       "adres": "İslam, Sıtkı Topçu Cd. No:15, 01660 Feke/Adana",
-      "ilce": "Feke"
+      "ilce": "Saimbeyli"
     },
     {
       "il": "Adana",
@@ -89,7 +89,7 @@
       "il": "Adana",
       "isim": "DSİ Yeni Baraj Misafirhanesi",
       "adres": "Beyazevler, Adnan Menderes Blv., 01150 Çukurova/Adana",
-      "ilce": "Çukurova"
+      "ilce": ""
     },
     {
       "il": "Adana",
@@ -101,7 +101,7 @@
       "il": "Adana",
       "isim": "Adana Adliyesi Göltepe Eğitim ve Sosyal Tesisi",
       "adres": "5, Güzelyalı, 81110. Sk., 01170 Çukurova/Adana",
-      "ilce": "Çukurova"
+      "ilce": "Sarıçam"
     },
     {
       "il": "Adana",
@@ -149,13 +149,13 @@
       "il": "Adana",
       "isim": "Adana Nezihe Yalvaç Uygulama Oteli",
       "adres": "Karslılar, Süleyman Demirel Blv. No:32, 01170 Çukurova/Adana",
-      "ilce": "Çukurova"
+      "ilce": ""
     },
     {
       "il": "Adana",
       "isim": "Adana Seyhan İlçe Tarım ve Orman Müdürlüğü Misafirhanesi",
       "adres": "Türkocağı, Manisalı Alibey Cd. No:1 D:2, 01010 Seyhan/Adana",
-      "ilce": "Seyhan"
+      "ilce": "Yüreğir"
     },
     {
       "il": "Adana",
@@ -167,13 +167,13 @@
       "il": "Adıyaman",
       "isim": "Adıyaman İl Jandarma Sosyal Tesisi",
       "adres": "Varlık, 02240 Adıyaman Merkez/Adıyaman",
-      "ilce": "Adıyaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Adıyaman",
       "isim": "Adıyaman Öğretmenevi",
       "adres": "Eskisaray, 701. Sk. No:2, 02100 Adıyaman Merkez/Adıyaman",
-      "ilce": "Adıyaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Adıyaman",
@@ -191,7 +191,7 @@
       "il": "Adıyaman",
       "isim": "Kahta Öğretmenevi",
       "adres": "Yavuz Selim, Yunus Emre Cd. No:28, 02400 Kâhta/Adıyaman",
-      "ilce": "Kâhta"
+      "ilce": "Kahta"
     },
     {
       "il": "Adıyaman",
@@ -203,19 +203,19 @@
       "il": "Adıyaman",
       "isim": "Adıyaman Polisevi",
       "adres": "Siteler, Atatürk Blv. Yanyolu No:425 D:425, 02000 Adıyaman Merkez/Adıyaman",
-      "ilce": "Adıyaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Afyonkarahisar",
       "isim": "Afyonkarahisar Kara Kuvvetleri Komutanlığı Askeri Gazino Müdürlüğü",
       "adres": "Dumlupınar, Ordu Blv. No:26, 03200 Afyonkarahisar Merkez/Afyonkarahisar",
-      "ilce": "Afyonkarahisar Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Afyonkarahisar",
       "isim": "Afyon TCDD Misafirhanesi",
       "adres": "Ali Çetinkaya, 03200 Afyonkarahisar Merkez/Afyonkarahisar",
-      "ilce": "Afyonkarahisar Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Afyonkarahisar",
@@ -233,7 +233,7 @@
       "il": "Afyonkarahisar",
       "isim": "Emirdağ Öğretmen Evi ve Akşam Sanat Okulu",
       "adres": "Cumhuriyet, Cevat Ahmet Paşa Cd. No:14, 03200 Afyonkarahisar Merkez/Afyonkarahisar",
-      "ilce": "Afyonkarahisar Merkez"
+      "ilce": "Emirdağ"
     },
     {
       "il": "Afyonkarahisar",
@@ -245,7 +245,7 @@
       "il": "Afyonkarahisar",
       "isim": "Afyon Öğretmenevi",
       "adres": "Cumhuriyet, Cevat Ahmet Paşa Cd. No:14, 03200 Afyonkarahisar Merkez/Afyonkarahisar",
-      "ilce": "Afyonkarahisar Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Afyonkarahisar",
@@ -269,13 +269,13 @@
       "il": "Afyonkarahisar",
       "isim": "Afyon Dsi Misafirhanesi",
       "adres": "İstiklal, Adnan Menderes Blv. 40-1, 03080 Afyonkarahisar Merkez/Afyonkarahisar",
-      "ilce": "Afyonkarahisar Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Afyonkarahisar",
       "isim": "Afyon Kocatepe Üniversitesi Konuk Evi",
       "adres": "Battalgazi, 5/20 ANS KAMPÜSÜ, 03204 Afyonkarahisar Merkez/Afyonkarahisar",
-      "ilce": "Afyonkarahisar Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Afyonkarahisar",
@@ -287,37 +287,37 @@
       "il": "Ağrı",
       "isim": "Ağrı Askeri Gazino Müdürlüğü",
       "adres": "Leylek Pınar, İbrahim Erat Cd. No:22, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ağrı",
       "isim": "Eleşkirt Askeri Gazino Müdürlüğü",
       "adres": "Leylek Pınar, İbrahim Erat Cd. No:22, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Eleşkirt"
     },
     {
       "il": "Ağrı",
       "isim": "Doğubayazıt Askeri Gazino Müdürlüğü",
       "adres": "Leylek Pınar, İbrahim Erat Cd. No:22, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Doğubayazıt"
     },
     {
       "il": "Ağrı",
       "isim": "Patnos Jandarma Kışlası Gazino Müdürlüğü",
       "adres": "Leylek Pınar, İbrahim Erat Cd. No:22, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Patnos"
     },
     {
       "il": "Ağrı",
       "isim": "Ağrı Polisevi",
       "adres": "Fırat, 04100 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ağrı",
       "isim": "Ağrı Öğretmenevi",
       "adres": "Fırat, 934. Sk. No:2 D:1, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": ""
     },
     {
       "il": "Ağrı",
@@ -347,7 +347,7 @@
       "il": "Ağrı",
       "isim": "Taşlıçay Öğretmenevi",
       "adres": "Fevzi Çakmak, Fevzi Çakmak Cd. NO:24 / A, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Taşlıçay"
     },
     {
       "il": "Ağrı",
@@ -359,37 +359,37 @@
       "il": "Ağrı",
       "isim": "Ağrı Dsi 85. Şube Misafirhanesi",
       "adres": "No:, Fırat, Çevre Yolu No:168, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Aksaray",
       "isim": "Aksaray Öğretmenevi",
       "adres": "Hasas, Cumhuriyet Blv. No:139, 68200 Aksaray Merkez/Aksaray",
-      "ilce": "Aksaray Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Aksaray",
       "isim": "Aksaray Polisevi",
       "adres": "Yeni Sanayi, 68200 Aksaray Merkez/Aksaray",
-      "ilce": "Aksaray Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Aksaray",
       "isim": "Aksaray DSİ Misafirhanesi",
       "adres": "Şifahane, 3163. Sk. No:2, 68200 Aksaray Merkez/Aksaray",
-      "ilce": "Aksaray Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Aksaray",
       "isim": "Aksaray Karayolları 3. Bölge Müdürlüğü Misafirhanesi",
       "adres": "Aratol İstiklal, 68100 Aksaray Merkez/Aksaray",
-      "ilce": "Aksaray Merkez"
+      "ilce": ""
     },
     {
       "il": "Aksaray",
       "isim": "Uluırmak Uygulama Oteli",
       "adres": "Ereğlikapı, Şehit Polis Önder Güzel Cad No: 16, 68100 Aksaray Merkez/Aksaray",
-      "ilce": "Aksaray Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Aksaray",
@@ -593,7 +593,7 @@
       "il": "Ankara",
       "isim": "Ankara Hacı Bayram Veli Üniversitesi Sosyal Tesisleri",
       "adres": "Emniyet, Silahtar Cd. No:117, 06560 Yenimahalle/Ankara",
-      "ilce": "Yenimahalle"
+      "ilce": ""
     },
     {
       "il": "Ankara",
@@ -701,7 +701,7 @@
       "il": "Ankara",
       "isim": "T.C. Karayolları Genel Müdürlüğü Misafirhanesi",
       "adres": "25 Mart, Fatih Sultan Mehmet Blv 122 B, 06200 Yenimahalle/Ankara",
-      "ilce": "Yenimahalle"
+      "ilce": ""
     },
     {
       "il": "Ankara",
@@ -731,7 +731,7 @@
       "il": "Ankara",
       "isim": "Çalışma Ve Sosyal Güvenlik Bakanlığı Misafirhanesi",
       "adres": "Kavaklıdere, Remzi Oğuz Arık, Atatürk Blv No:235, 06680 Çankaya/Ankara",
-      "ilce": "Çankaya"
+      "ilce": ""
     },
     {
       "il": "Ankara",
@@ -743,7 +743,7 @@
       "il": "Ankara",
       "isim": "Orman Genel Müdürlüğü Misafirhanesi",
       "adres": "Söğütözü, Beştepe Cd. 8/1, 06560 Yenimahalle/Ankara",
-      "ilce": "Yenimahalle"
+      "ilce": "Çankaya"
     },
     {
       "il": "Ankara",
@@ -755,7 +755,7 @@
       "il": "Ankara",
       "isim": "Öğretmenevi – Başkent",
       "adres": "Emniyet, Abant 2.Sokak No:15, 06560 Yenimahalle/Ankara",
-      "ilce": "Yenimahalle"
+      "ilce": "Çankaya"
     },
     {
       "il": "Ankara",
@@ -773,7 +773,7 @@
       "il": "Ankara",
       "isim": "PTT Misafirhanesi",
       "adres": "Hacı Bayram, Anafartalar Cd No:100, 06050 Altındağ/Ankara",
-      "ilce": "Altındağ"
+      "ilce": ""
     },
     {
       "il": "Ankara",
@@ -809,7 +809,7 @@
       "il": "Ankara",
       "isim": "Deçev Misafirhanei",
       "adres": "Kızılay, Mithatpaşa Cd. No:37 D:8, 06930 Çankaya/Ankara",
-      "ilce": "Çankaya"
+      "ilce": ""
     },
     {
       "il": "Ankara",
@@ -833,7 +833,7 @@
       "il": "Ankara",
       "isim": "Ankara Vilayet Evleri",
       "adres": "Anıttepe, Gençlik Cd. No:18, 06570 Çankaya/Ankara",
-      "ilce": "Çankaya"
+      "ilce": "Gölbaşı"
     },
     {
       "il": "Ankara",
@@ -857,7 +857,7 @@
       "il": "Amasya",
       "isim": "Amasya Askeri Gazino Müdürlüğü",
       "adres": "Nergiz, Elmasiye Cd. No:10, 05200 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
@@ -875,7 +875,7 @@
       "il": "Amasya",
       "isim": "Amasya Öğretmenevi",
       "adres": "Hatuniye, Hacı Tevfik Hafız Sokak No:1/A, 05000 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
@@ -893,37 +893,37 @@
       "il": "Amasya",
       "isim": "Amasya Üniversitesi Misafirhanesi",
       "adres": "Helvacı Mahallesi Tavşanlı Sokak, Orman Bağları, Amasya - Erzurum Yolu Üzeri No:1, 05100 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
       "isim": "Amasya Uygulama Oteli",
       "adres": "Karaçalılık, 05000 İpekköy/Amasya District/Amasya",
-      "ilce": "Amasya District"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
       "isim": "Amasya Dsi Sosyal Tesisleri",
       "adres": "Kirazlıdere, Mehmet Varinli Cd. No:156, 05200 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
       "isim": "Amasya Karayolları Misafirhanesi",
       "adres": "Kirazlıdere, Mehmet Varinli Cd. No:92, 05200 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
       "isim": "Amasya İl Özel İdaresi Misafirhanesi",
       "adres": "İhsaniye, Zübeyde Hanım Cd. No:97, 05200 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
       "isim": "Amasya Orman Bölge Müdürlüğü Misafirhanesi",
       "adres": "Kirazlıdere, Mehmet Varinli Cd. No:112, 05200 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
@@ -1121,7 +1121,7 @@
       "il": "Antalya",
       "isim": "Antalya MEB Uygulama Oteli",
       "adres": "Falez Mesleki ve Teknik Anadolu Lisesi 100.Yıl Bulvarı Varlık Mah Muratpaşa, Varlık, 07030 Muratpaşa/Antalya",
-      "ilce": "Muratpaşa"
+      "ilce": ""
     },
     {
       "il": "Antalya",
@@ -1139,37 +1139,37 @@
       "il": "Antalya",
       "isim": "TRT Lara Kampı",
       "adres": "Muratpaşa, Güzeloba, Kundu, Oteller Bölgesi Tesisler Caddesi, 07110 Aksu/Antalya",
-      "ilce": "Aksu"
+      "ilce": ""
     },
     {
       "il": "Ardahan",
       "isim": "Çıldır Kışla Gazino Müdürlüğü",
       "adres": "Cumhuriyet, 36000 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Çıldır"
     },
     {
       "il": "Ardahan",
       "isim": "Ardahan Kışla Gazino Müdürlüğü",
       "adres": "Kaptanpaşa, Ordu Cd. No:8, 75000 Ardahan Merkez/Ardahan",
-      "ilce": "Ardahan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ardahan",
       "isim": "Ardahan Üniversitesi Yenisey Konukevi",
       "adres": "Merkez, 75000 Çamlıçatak/Ardahan Merkez/Ardahan",
-      "ilce": "Ardahan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ardahan",
       "isim": "Ardahan Polisevi",
       "adres": "Kaptanpaşa, Hamam Cd. No:1, 75000 Ardahan Merkez/Ardahan",
-      "ilce": "Ardahan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ardahan",
       "isim": "Ardahan Öğretmenevi",
       "adres": "Kaptanpaşa, Ordu Cd. No:8, 75000 Ardahan Merkez/Ardahan",
-      "ilce": "Ardahan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ardahan",
@@ -1199,31 +1199,31 @@
       "il": "Artvin",
       "isim": "Artvin Askeri Gazinosu",
       "adres": "Çayağzı, 08000 Artvin Merkez/Artvin",
-      "ilce": "Artvin Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Artvin",
       "isim": "Artvin Polisevi",
       "adres": "Yeni, Edip Dinç Sk. No:19, 08000 Artvin Merkez/Artvin",
-      "ilce": "Artvin Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Artvin",
       "isim": "Artvin Belediyesi İsmet Acar Misafirhanesi",
       "adres": "Çarşı, Dik Sk. No:1, 08000 Artvin Merkez/Artvin",
-      "ilce": "Artvin Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Artvin",
       "isim": "AÇÜ Misafirhanesi",
       "adres": "Çayağzı, Lif Levha Sokak No:3, 08000 Artvin Merkez/Artvin",
-      "ilce": "Artvin Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Artvin",
       "isim": "Artvin Merkez Öğretmenevi",
       "adres": "Çarşı, Öğrt. Süleyman Yurttaş Sk. No:2, 08000 Artvin Merkez/Artvin",
-      "ilce": "Artvin Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Artvin",
@@ -1367,7 +1367,7 @@
       "il": "Aydın",
       "isim": "Selçuk Şehit Er Mehmet Yüce İMKB Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
       "adres": "Atatürk, Kubilay Cd. No:3, 35920 Selçuk/İzmir",
-      "ilce": "Selçuk"
+      "ilce": "Kuşadası"
     },
     {
       "il": "Balıkesir",
@@ -1481,7 +1481,7 @@
       "il": "Balıkesir",
       "isim": "Balıkesir Polisevi Merkez",
       "adres": "Paşa Alanı, A. Gaffar Okkan Cd. No:14 D:1, 10020 Merkez/Balıkesir",
-      "ilce": "Merkez"
+      "ilce": "Karesi"
     },
     {
       "il": "Balıkesir",
@@ -1493,13 +1493,13 @@
       "il": "Balıkesir",
       "isim": "Çevre Ve Şehircilik Balıkesir İl Müdürlüğü Misafirhanesi",
       "adres": "Kuva-İ Milliye, 106. Sk., 10030 Balıkesir Merkez/Balıkesir",
-      "ilce": "Balıkesir Merkez"
+      "ilce": "Karesi"
     },
     {
       "il": "Balıkesir",
       "isim": "DSİ 25. Bölge Müdürlüğü Çayırhisar Misafirhanesi ve Eğitim Tesisi",
       "adres": "Atatürk, Bandırma Cd. No:81, 10020 Balıkesir Merkez/Balıkesir",
-      "ilce": "Balıkesir Merkez"
+      "ilce": "Karesi"
     },
     {
       "il": "Balıkesir",
@@ -1523,7 +1523,7 @@
       "il": "Balıkesir",
       "isim": "Balıkesir Maliye Defterdarlık Misafirhanesi",
       "adres": "Dumlupınar, Doğumevi Sk., 10010 Balıkesir Merkez/Balıkesir",
-      "ilce": "Balıkesir Merkez"
+      "ilce": "Karesi"
     },
     {
       "il": "Balıkesir",
@@ -1541,7 +1541,7 @@
       "il": "Balıkesir",
       "isim": "Edremit Maliye Defterdarlık Misafirhanesi",
       "adres": "Dumlupınar, Doğumevi Sk., 10010 Balıkesir Merkez/Balıkesir",
-      "ilce": "Balıkesir Merkez"
+      "ilce": "Edremit"
     },
     {
       "il": "Balıkesir",
@@ -1559,13 +1559,13 @@
       "il": "Bartın",
       "isim": "Bartın Deniz Komutanlığı Askeri Gazino",
       "adres": "Gölbucağı, 108. Sk. No:1, 74100 Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
       "isim": "Bartın İl Jandarma Kışla Gazino Müdürlüğü",
       "adres": "Kemer Köprü, Sıtmayanı Cd. 5 A, 74100 Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
@@ -1577,37 +1577,37 @@
       "il": "Bartın",
       "isim": "Merkez Bartın Öğretmenevi",
       "adres": "Kemer Köprü, Arka Sk. no:4/1, 74100 Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
       "isim": "Merkez Bartın Dsi Misafirhanesi",
       "adres": "Aladağ Mah. Kavallar Mevki, 74110 Merkez/Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
       "isim": "Hacettepe Üniversitesi Araştırma Merkezi Misafirhanesi",
       "adres": "İnkum İskele, 74110 Karasu/Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
       "isim": "İnkum Sosyal Tesis Evleri",
       "adres": "Yeni Mahalle Caddesi, İnkum Yeni, 74110 Güzelcehisar İnkum/Bartın Merkez/Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
       "isim": "Orman İşletme Müdürlüğü Misafirhanesi",
       "adres": "Tuna, 74100 Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
       "isim": "Bartın Polis Misafirevi",
       "adres": "Şiremirçavuş, 74000 Bartın Merkez/Bartın",
-      "ilce": "Bartın Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bartın",
@@ -1637,43 +1637,43 @@
       "il": "Batman",
       "isim": "Batman Hava Kışla Gazino Müdürlüğü",
       "adres": "Gültepe, 72000 Yediyol/Batman Merkez/Batman",
-      "ilce": "Batman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Batman",
       "isim": "Batman İl Jandarma Komutanlığı",
       "adres": "Girbereşik, 72000 İkiztepe/Batman Merkez/Batman",
-      "ilce": "Batman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Batman",
       "isim": "Batman Polisevi",
       "adres": "Kültür, 72060 Batman Merkez/Batman",
-      "ilce": "Batman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Batman",
       "isim": "Batman Tarım İl Müdürlüğü Misafirhanesi",
       "adres": "Belde, 72070 Batman Merkez/Batman",
-      "ilce": "Batman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Batman",
       "isim": "Batman DSİ Misafirhanesi",
       "adres": "Belde, 3216. Sk. No:3, 72070 Batman Merkez/Batman",
-      "ilce": "Batman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Batman",
       "isim": "Tüpraş Batman Rafinerisi Sosyal Tesisleri",
       "adres": "Site, 72040 Merkez/Batman Merkez/Batman",
-      "ilce": "Batman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Batman",
       "isim": "Batman Merkez Öğretmenevi",
       "adres": "Bahçelievler, Turgut Özal Blv. No:34, 72070 Batman Merkez/Batman",
-      "ilce": "Batman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Batman",
@@ -1703,55 +1703,55 @@
       "il": "Bayburt",
       "isim": "Bayburt İl Jandarma Askeri Gazino Müdürlüğü",
       "adres": "Şeyh Hayran, Cumhuriyet Cd. No:22, 69000 Bayburt Merkez/Bayburt",
-      "ilce": "Bayburt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bayburt",
       "isim": "Bayburt İl Tarım ve Orman Müdürlüğü",
       "adres": "Zahit, Bayındır Cd. 17-21, 69000 Bayburt Merkez/Bayburt",
-      "ilce": "Bayburt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bayburt",
       "isim": "Bayburt Üniversitesi Uygulama Oteli",
       "adres": "Yeni Kampüs Alanı Demirözü Yolu 5. km, Tuzcuzade, 69000 Bayburt Merkez/Bayburt",
-      "ilce": "Bayburt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bayburt",
       "isim": "Bayburt Öğretmenevi ve ASO Müdürlüğü",
       "adres": "Gençosman, Öğretmenevi, 69000 Bayburt Merkez/Bayburt",
-      "ilce": "Bayburt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bayburt",
       "isim": "Bayburt Polisevi",
       "adres": "Şeyh Hayran, Cumhuriyet Cd. No:18, 69000 Bayburt Merkez/Bayburt",
-      "ilce": "Bayburt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bayburt",
       "isim": "Bayburt Üniversitesi Konukevi",
       "adres": "Yeni Kampüs Alanı Demirözü Yolu 5. km, Tuzcuzade, 69000 Bayburt Merkez/Bayburt",
-      "ilce": "Bayburt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bilecik",
       "isim": "Bilecik 3. Jandarma Tugayı Kışla Gazinosu",
       "adres": "Hürriyet, Hoşgör Sk., 11000 Bilecik Merkez/Bilecik",
-      "ilce": "Bilecik Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bilecik",
       "isim": "Pelitözü Gölpark Misafirhanesi",
       "adres": "Pelitözü, Gölpark Kümeevler No: 1 Merkez, 11230 Bilecik Merkez/Bilecik",
-      "ilce": "Bilecik Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bilecik",
       "isim": "Bilecik Merkez Öğretmenevi",
       "adres": "Bahçelievler, Uzun Sk. No:5, 11000 Bilecik Merkez/Bilecik",
-      "ilce": "Bilecik Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bilecik",
@@ -1793,7 +1793,7 @@
       "il": "Bingöl",
       "isim": "Bingöl İl Jandarma Gazinosu",
       "adres": "Yenişehir, Zeki Gezen Bulv No:54, 12000 Bingöl",
-      "ilce": "Bingöl"
+      "ilce": "Merkez"
     },
     {
       "il": "Bingöl",
@@ -1805,7 +1805,7 @@
       "il": "Bingöl",
       "isim": "Bingöl Üniversitesi Termal Kaplıca Tesisleri",
       "adres": "Bingöl-Erzurum Yolu 22.Km, Ilıca, 12400 Ilıcalar/Bingöl",
-      "ilce": "Bingöl"
+      "ilce": "Merkez"
     },
     {
       "il": "Bingöl",
@@ -1823,7 +1823,7 @@
       "il": "Bingöl",
       "isim": "Bingöl Dsi Misafirhanesi",
       "adres": "Yenişehir, İnönü Cd. No:13, 12000 Bingöl",
-      "ilce": "Bingöl"
+      "ilce": "Merkez"
     },
     {
       "il": "Bingöl",
@@ -1835,7 +1835,7 @@
       "il": "Bitlis",
       "isim": "Bitlis İl Jandarma Askeri Gazinosu",
       "adres": "Taş, 13000 Bitlis Merkez/Bitlis",
-      "ilce": "Bitlis Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bitlis",
@@ -1847,13 +1847,13 @@
       "il": "Bitlis",
       "isim": "Bitlis Eren Üniversitesi Yahya Eren Konukevi",
       "adres": "Rahva Yerleşkesi, Beş Minare, Ahmet Eren Blv No:135, 13100 Koruk/merkez/Bitlis",
-      "ilce": "Koruk/merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bitlis",
       "isim": "Bitlis Merkez Öğretmenevi",
       "adres": "Beş Minare mah. Beş minare No:8, Beş Minare, 13000 Bitlis Merkez/Bitlis",
-      "ilce": "Bitlis Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bitlis",
@@ -1901,43 +1901,43 @@
       "il": "Bolu",
       "isim": "Bolu Kışla Gazinosu",
       "adres": "Tabaklar, Ali Rıza Tekemen Cd. No:4, 14100 Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bolu",
       "isim": "Bolu Orman İşletmesi Misafirhanesi",
       "adres": "Sağlık, Mehmet Zekai Konrapa Bv No:2, 14300 Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bolu",
       "isim": "Bolu Devlet Su İşleri Misafirhanesi",
       "adres": "İhsaniye, Konuralp Cd. No:2, 14200 Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bolu",
       "isim": "Bolu DSİ Eğitim ve Dinlenme Tesisleri",
       "adres": "Karaköy, 14030 Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": ""
     },
     {
       "il": "Bolu",
       "isim": "Bolu Abant İzzet Baysal Uygulama Oteli Bolu",
       "adres": "Tabaklar, Cumhuriyet Cd. No:101, 14100 Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bolu",
       "isim": "Aladağ Orman İşletme Müdürlüğü Eğitim ve Dinlenme Tesisleri",
       "adres": "Aladağ Orman İşletme Müdürlüğü Tesisleri Kızık Yaylası Mevkii Değirmenözü Küme Evleri, Değirmenözü Yaylası, 14100 Çamyayla/Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bolu",
       "isim": "Bolu Öğretmenevi",
       "adres": "Sağlık Mahallesi Karadere , Caddesi.1, Sağlık, Atatürk Orman Parkı yanı, 14300 Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bolu",
@@ -1967,37 +1967,37 @@
       "il": "Bolu",
       "isim": "Bolu Polisevi",
       "adres": "Bolu Düzce Yolu, 14030 Yeşilköy/Bolu Merkez/Bolu",
-      "ilce": "Bolu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Burdur",
       "isim": "Burdur Askeri Gazinosu",
       "adres": "Burç, Şht. Emeksiz Cd. No:3, 15200 Burdur Merkez/Burdur",
-      "ilce": "Burdur Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Burdur",
       "isim": "DSİ 18 Bölge Müdürlüğü Burdur 182 Şube Müdürlüğü Misafirhanesi",
       "adres": "Emek, Ali Kemal Erdem Blv. No:5, 15100 Burdur Merkez/Burdur",
-      "ilce": "Burdur Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Burdur",
       "isim": "Burdur Karayolları 13. Bölge Müdürlüğü 134. Şube Şefliği Misafirhanesi",
       "adres": "Bahçelievler, Gazi Osman Paşa Cd. No:30, 15100 Burdur Merkez/Burdur",
-      "ilce": "Burdur Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Burdur",
       "isim": "Burdur Şeker Fabrikası Misafirhanesi",
       "adres": "Şeker Evleri, 15100 Burdur Merkez/Burdur",
-      "ilce": "Burdur Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Burdur",
       "isim": "Burdur Merkez Öğretmenevi",
       "adres": "Konak, İstasyon Cd. No:12, 15200 Burdur Merkez/Burdur",
-      "ilce": "Burdur Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Burdur",
@@ -2117,7 +2117,7 @@
       "il": "Bursa",
       "isim": "Bursa Hakim Evi",
       "adres": "Gaziakdemir, Çekirge Cd. No:10, 16190 Osmangazi/Bursa",
-      "ilce": "Osmangazi"
+      "ilce": ""
     },
     {
       "il": "Bursa",
@@ -2183,31 +2183,31 @@
       "il": "Çanakkale",
       "isim": "Çanakkale Askeri Gazinosu",
       "adres": "Cevat Paşa, Kayserili Ahmet Paşa Cd. No:52, 17000 Merkez/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Subay Orduevi",
       "adres": "Cevat Paşa, Kayserili Ahmet Paşa Cd. No:52, 17000 Merkez/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": ""
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Astsubay Orduevi",
       "adres": "Cevat Paşa, 17000 Merkez/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Jandarma Özel Eğitim Merkezi",
       "adres": "17100 Güzelyalı/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Polisevi",
       "adres": "Kemalpaşa, Kayserili Ahmet Paşa Cd. No: 3, 17100 Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
@@ -2219,7 +2219,7 @@
       "il": "Çanakkale",
       "isim": "Çanakkale DSİ-Devlet Su İşleri Misafirhanesi",
       "adres": "Barbaros, Aziziye Cd. No:85, 17020 Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
@@ -2231,25 +2231,25 @@
       "il": "Çanakkale",
       "isim": "Çanakkale 18 Mart Üniversitesi Dardanos Yerleşkesi ve Uygulama Oteli",
       "adres": "Dardanos, Eski İzmir Cd. Çanakkale Onsekiz Mart Üniversitesi, 17100 Merkez/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Kepez Şehit Cevdet Korkmaz Uygulama Otelili",
       "adres": "Cumhuriyet, Ahmet Alkan Sk. No:4, 17110 Kepez/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Gençlik Hizmetleri ve Spor Müdürlüğü Güzelyalı Gençlik Kampı",
       "adres": "17100 Güzelyalı/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Yahya Çavuş Orman Kampı",
       "adres": "Dardanos, 17110 Çınarlı/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": ""
     },
     {
       "il": "Çanakkale",
@@ -2261,13 +2261,13 @@
       "il": "Çanakkale",
       "isim": "Çanakkale Maliye Güzelyalı Eğitim ve Dinlenme Tesisileri Misafirhanesi",
       "adres": "Güzelyalı Köyü İç Yolu, 17100 Güzelyalı/Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": ""
     },
     {
       "il": "Çanakkale",
       "isim": "Çanakkale Merkez Öğretmenevi",
       "adres": "19/A, Kemalpaşa, Kayserili Ahmet Paşa Cd., 17000 Çanakkale Merkez/Çanakkale",
-      "ilce": "Çanakkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çanakkale",
@@ -2321,31 +2321,31 @@
       "il": "Çankırı",
       "isim": "Çankırı Askeri Gazinosu",
       "adres": "Cumhuriyet, Necip Fazıl Kısakürek Sk. 1-3, 18100 Çankırı Merkez/Çankırı",
-      "ilce": "Çankırı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çankırı",
       "isim": "Çankırı Polisevi",
       "adres": "Cumhuriyet, Alparslan Türkeş Cd., 18100 Çankırı Merkez/Çankırı",
-      "ilce": "Çankırı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çankırı",
       "isim": "Çankırı Karatekin Üniversitesi Misafirhanesi",
       "adres": "Yeni, Bademlik Sk. No:11, 18200 Çankırı Merkez/Çankırı",
-      "ilce": "Çankırı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çankırı",
       "isim": "DSİ Çankırı Misafirhanesi",
       "adres": "Buğday Pazarı, Çay yolu Sk. No:28, 18100 Çankırı Merkez/Çankırı",
-      "ilce": "Çankırı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çankırı",
       "isim": "Çankırı Öğretmenevi",
       "adres": "Cumhuriyet, Adnan Menderes Cd. 4 A, 18100 Çankırı Merkez/Çankırı",
-      "ilce": "Çankırı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çankırı",
@@ -2375,31 +2375,31 @@
       "il": "Çorum",
       "isim": "Çorum Hitit Ünversitesi Uygulama Oteli",
       "adres": "Karakeçili, 19030 Çorum Merkez/Çorum",
-      "ilce": "Çorum Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çorum",
       "isim": "Çorum Devlet Su İşleri Misafirhanesi",
       "adres": "Yeniyol, Ankara Asfaltı 2. Km, 19200 Çorum Merkez/Çorum",
-      "ilce": "Çorum Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çorum",
       "isim": "Çorum TEDAŞ Misafirhanesi",
       "adres": "Gülabibey Mh, İnönü Cd. No:137, 19000 Çorum Merkez/Çorum",
-      "ilce": "Çorum Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çorum",
       "isim": "Hitit Mesleki Ve Teknik Anadolu Lisesi Uygulama Oteli",
       "adres": "Buharaevler, Buhara 8. Sk. No:8, 19030 Çorum Merkez/Çorum",
-      "ilce": "Çorum Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çorum",
       "isim": "Çorum Merkez Öğretmenevi",
       "adres": "Bahçelievler, Çamlık Cd. No:12, 19200 Çorum Merkez/Çorum",
-      "ilce": "Çorum Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Çorum",
@@ -2435,7 +2435,7 @@
       "il": "Denizli",
       "isim": "Denizli Polisevi",
       "adres": "Kınıklı, 20070 Denizli Merkez/Denizli",
-      "ilce": "Denizli Merkez"
+      "ilce": "Pamukkale"
     },
     {
       "il": "Denizli",
@@ -2447,7 +2447,7 @@
       "il": "Denizli",
       "isim": "DSİ Denizli Misafirhanesi",
       "adres": "Şemikler, Gümüşler Blv. No:40, 20030 Denizli Merkezefendi/Denizli",
-      "ilce": "Denizli Merkezefendi"
+      "ilce": ""
     },
     {
       "il": "Denizli",
@@ -2543,7 +2543,7 @@
       "il": "Diyarbakır",
       "isim": "GAP Uluslararası Tarımsal Araştırma Ve Eğitim Merkezi Konukevi",
       "adres": "Fetih, 21280 Sur/Diyarbakır",
-      "ilce": "Sur"
+      "ilce": ""
     },
     {
       "il": "Diyarbakır",
@@ -2561,19 +2561,19 @@
       "il": "Düzce",
       "isim": "Düzce Askerlik Şubesi Ve Orduevi",
       "adres": "No:, Kültür, Akar Stadyum Sk. No:5, 81600 Düzce",
-      "ilce": "Düzce"
+      "ilce": "Merkez"
     },
     {
       "il": "Düzce",
       "isim": "Düzce Üniversitesi Misafirhanesi",
       "adres": "Orhangazi, 81620 Düzce",
-      "ilce": "Düzce"
+      "ilce": "Merkez"
     },
     {
       "il": "Düzce",
       "isim": "Düzce Öğretmenevi",
       "adres": "Azmimilli, Azim Sk. No:7, 81020 Düzce",
-      "ilce": "Düzce"
+      "ilce": "Merkez"
     },
     {
       "il": "Düzce",
@@ -2591,13 +2591,13 @@
       "il": "Düzce",
       "isim": "Düzce DSİ Misafirhanesi",
       "adres": "Yeni, Kırklar Sk. No:2, 81600 Düzce",
-      "ilce": "Düzce"
+      "ilce": "Merkez"
     },
     {
       "il": "Düzce",
       "isim": "Düzce Polis Evi",
       "adres": "Camikebir, Mareşal Fevzi Çakmak Sk. No:11, 81020 Düzce",
-      "ilce": "Düzce"
+      "ilce": "Merkez"
     },
     {
       "il": "Düzce",
@@ -2639,7 +2639,7 @@
       "il": "Edirne",
       "isim": "Meriç Askeri Sosyal Tesisleri",
       "adres": "Karaağaç, 22050 Edirne Merkez/Edirne",
-      "ilce": "Edirne Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Edirne",
@@ -2657,25 +2657,25 @@
       "il": "Edirne",
       "isim": "Edirne DSİ 11. Bölge Misafirhanesi ve Sosyal Tesisleri",
       "adres": "İstasyon, 22100 Edirne Merkez/Edirne",
-      "ilce": "Edirne Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Edirne",
       "isim": "Trakya Üniversitesi Uygulama Oteli Edirne",
       "adres": "Koca Sinan, Trakya Ünv. Balkan Yerleşkesi, 22030 Edirne Merkez/Edirne",
-      "ilce": "Edirne Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Edirne",
       "isim": "Edirne Gençlik Hizmetleri ve Spor Müdürlüğü Misafirhanesi",
       "adres": "Şükrü Paşa Mah. Atatürk Bulv., Üniversite, Edirne Merkez, Atatürk, 22100 Edirne Merkez/Edirne",
-      "ilce": "Edirne Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Edirne",
       "isim": "Edirne Öğretmenevi ve ASO Oteli",
       "adres": "Kurtuluş, Ahmet Taşçı Cd. No:7 D:1, 22100 Edirne Merkez/Edirne",
-      "ilce": "Edirne Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Edirne",
@@ -2693,61 +2693,61 @@
       "il": "Edirne",
       "isim": "Edirne Polisevi",
       "adres": "Babademirtaş, 22000 Edirne Merkez/Edirne",
-      "ilce": "Edirne Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Edirne",
       "isim": "Edirne Polisevi VIP",
       "adres": "Mithat Paşa, Maarif Cd. No:30 D:32, 22020 Edirne Merkez/Edirne",
-      "ilce": "Edirne Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
       "isim": "Elazığ Orduevi Müdürlüğü",
       "adres": "Mustafa Paşa, Kumlu Sk. No:4, 23300 Elazığ Merkez/Elazığ",
-      "ilce": "Elazığ Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
       "isim": "Elazığ Polisevi",
       "adres": "Ataşehir, 2143. Sokak No:6, 23100 Elazığ Merkez/Elazığ",
-      "ilce": "Elazığ Merkez"
+      "ilce": ""
     },
     {
       "il": "Elazığ",
       "isim": "Elazığ Defterdarlığı Misafirhanesi (Maliye)",
       "adres": "Elazığ Defterdarlığı Misafirhanesi, Çaydaçıra, Emsal Sk. No:6, 23100 Elazığ Merkez/Elazığ",
-      "ilce": "Elazığ Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
       "isim": "Fırat Üniversitesi Misafirhanesi",
       "adres": "Üniversite, 23200 Elâzığ Merkez/Elazığ",
-      "ilce": "Elâzığ Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
       "isim": "Elazığ Öğretmenevi",
       "adres": "Nail Bey, Hürriyet Cd. NO:3, 23000 Elazığ Merkez/Elazığ",
-      "ilce": "Elazığ Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
       "isim": "Elazığ DSİ Misafirhanesi",
       "adres": "Üniversite, DSİ 9. Bölge Md., 23200 Elazığ Merkez/Elazığ",
-      "ilce": "Elazığ Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
       "isim": "Elazığ TEDAŞ Misafirhanesi",
       "adres": "Cumhuriyet, 23190 Elazığ Merkez/Elazığ",
-      "ilce": "Elazığ Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
       "isim": "Elazığ Orman Bölge Müd. Misafirhanesi",
       "adres": "Zubeyde Hanım Cad. Orman Bolge Mudurlugu 23049, Üniversite, 23200 Elazığ Merkez/Elazığ",
-      "ilce": "Elazığ Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Elazığ",
@@ -2777,37 +2777,37 @@
       "il": "Erzincan",
       "isim": "Erzincan Astsubay Orduevi Müdürlüğü",
       "adres": "Taksim, 13 Şubat Cd. No:112, 24050 Erzincan Merkez/Erzincan",
-      "ilce": "Erzincan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Erzincan",
       "isim": "Erzincan Orduevi",
       "adres": "Cumhuriyet, Ordu Cd., 24143 Erzincan Merkez/Erzincan",
-      "ilce": "Erzincan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Erzincan",
       "isim": "Erzincan Sağlık Misafirhanesi",
       "adres": "Aile Sağlığı Merkezi, Mimar Sinan, 1167. Sk. No:2, 24000 Erzincan Merkez/Erzincan",
-      "ilce": "Erzincan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Erzincan",
       "isim": "Erzincan Sosyal Tesisleri Misafirhane",
       "adres": "Kurutilek, PFXH+P9, 24050 Erzincan Merkez/Erzincan",
-      "ilce": "Erzincan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Erzincan",
       "isim": "DSİ Erzincan Misafirhanesi",
       "adres": "İnönü, 11. Sk. No:14, 24180 Erzincan Merkez/Erzincan",
-      "ilce": "Erzincan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Erzincan",
       "isim": "Çayırlı Öğretmenevi",
       "adres": "Fatih, 717. Sk. No:2, 24100 Erzincan Merkez/Erzincan",
-      "ilce": "Erzincan Merkez"
+      "ilce": "Çayırlı"
     },
     {
       "il": "Erzincan",
@@ -3077,7 +3077,7 @@
       "il": "Eskişehir",
       "isim": "Eskişehir Büyükşehir Belediyesi Porsuk Konuk Evi",
       "adres": "Mustafa Kemal Paşa, Köprübaşı Cd. No:4, 26000 Tepebaşı/Eskişehir",
-      "ilce": "Tepebaşı"
+      "ilce": "Odunpazarı"
     },
     {
       "il": "Eskişehir",
@@ -3203,7 +3203,7 @@
       "il": "Gaziantep",
       "isim": "Gaziantep Büyükşehir Belediyesi Gazi Konukevi",
       "adres": "Bey, Gazi Okulu Sk. No:5, 27010, 27010 Şahinbey/Gaziantep",
-      "ilce": "Şahinbey"
+      "ilce": ""
     },
     {
       "il": "Gaziantep",
@@ -3221,31 +3221,31 @@
       "il": "Giresun",
       "isim": "Giresun Jandarma Misafirhanesi",
       "adres": "Kale, Kazancılar Sk. No:30, 28100 Giresun Merkez/Giresun",
-      "ilce": "Giresun Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Giresun",
       "isim": "Giresun Üniversitesi Sahil Sosyal Eğitim Tesisleri Misafirhanesi",
       "adres": "Teyyaredüzü, 28200 Giresun Merkez/Giresun",
-      "ilce": "Giresun Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Giresun",
       "isim": "Giresun Üniversitesi Gazipaşa Misafirhanesi",
       "adres": "Nizamiye, Yüzbaşı Suyu Cd., 28200 Giresun Merkez/Giresun",
-      "ilce": "Giresun Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Giresun",
       "isim": "Giresun Defterdarlığı Misafirhanesi",
       "adres": "Nizamiye, Orhan Yılmaz Cd., 28200 Giresun Merkez/Giresun",
-      "ilce": "Giresun Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Giresun",
       "isim": "Giresun Öğretmen Evi",
       "adres": "Çınarlar, Kaymak Sk. No:10, 28100 Giresun Merkez/Giresun",
-      "ilce": "Giresun Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Giresun",
@@ -3305,7 +3305,7 @@
       "il": "Giresun",
       "isim": "Giresun Polisevi",
       "adres": "Çıtlakkale Mahallesi. Atatürk Bulvarı. No: 109. GİRESUN",
-      "ilce": "Teyyaredüzü"
+      "ilce": "Merkez"
     },
     {
       "il": "Gümüşhane",
@@ -3395,25 +3395,25 @@
       "il": "Hakkari",
       "isim": "Hakkari Üniversitesi Rektörlük Hizmet Binası ve Sosyal Tesisleri",
       "adres": "Dağgöl Mah. Çevre Yolu Hakkari Merkez, Hakkari (Hakkari sağlık misafirhanesi hekimevi devlet hastanesinin karşında yer almaktadır)",
-      "ilce": "Biçer"
+      "ilce": "Merkez"
     },
     {
       "il": "Hatay",
       "isim": "Gülcihan Yerel Özel Eğitim Merkezi Komutanlığı",
       "adres": "Gülcihan Mah. Atatürk Cad. Arsus",
-      "ilce": "Arsuz"
+      "ilce": ""
     },
     {
       "il": "Hatay",
       "isim": "İskenderun Deniz Uluçınar Öz. Eğitim Merkezi",
       "adres": "Arsus",
-      "ilce": "Arsuz"
+      "ilce": ""
     },
     {
       "il": "Hatay",
       "isim": "İskenderun Orduevi",
       "adres": "Kışla Saray Mah. Harbiye Cad., Antakya, Hatay",
-      "ilce": "İskenderun"
+      "ilce": ""
     },
     {
       "il": "Hatay",
@@ -3497,13 +3497,13 @@
       "il": "Hatay",
       "isim": "Hatay Valiliği İskenderun Konuk Evi",
       "adres": "Atatürk Caddesi. Kavaslı Köprü Yanı. HATAY",
-      "ilce": "İskenderun"
+      "ilce": ""
     },
     {
       "il": "Hatay",
       "isim": "Maliye Bakanlığı Hatay İli Defterdarlığı Dinlenme Tesisi",
       "adres": "Atatürk Caddesi. Kavaslı Köprü Yanı. HATAY",
-      "ilce": "Arsuz"
+      "ilce": ""
     },
     {
       "il": "Hatay",
@@ -3545,7 +3545,7 @@
       "il": "Iğdır",
       "isim": "Jandarma Sosyal Tesisleri",
       "adres": "Söğütlü Mahallesi. Işın Caddesi. No : 11. IĞDIR",
-      "ilce": "Jandarma Sosyal"
+      "ilce": "Merkez"
     },
     {
       "il": "Isparta",
@@ -3575,7 +3575,7 @@
       "il": "Isparta",
       "isim": "Isparta İl Özel İdaresi Sosyal Tesisleri",
       "adres": "Sanayi Mah. 104. Cad. No:59 Eğirdir Yolu Üzeri/ISPARTA",
-      "ilce": "Merkez"
+      "ilce": ""
     },
     {
       "il": "Isparta",
@@ -3587,7 +3587,7 @@
       "il": "Isparta",
       "isim": "Isparta DSİ Misafirhanesi",
       "adres": "Eğirdir Yolu Üzeri / ISPARTA",
-      "ilce": "Merkez"
+      "ilce": ""
     },
     {
       "il": "Isparta",
@@ -3641,13 +3641,13 @@
       "il": "Isparta",
       "isim": "Süleyman Demirel Üniversitesi Konukevi Uygulama Oteli Misafirhanesi",
       "adres": "SDÜ Konukevi, H.İbrahim Parlar Cad. Müze altı, Isparta",
-      "ilce": "Süleyman Demirel"
+      "ilce": "Merkez"
     },
     {
       "il": "Isparta",
       "isim": "PTT Isparta Baş müdürlüğü Misafirhane",
       "adres": "Bahçelievler Mah. Süleyman Demirel Cad. Isparta Isparta",
-      "ilce": "PTT Isparta"
+      "ilce": "Merkez"
     },
     {
       "il": "Isparta",
@@ -3695,7 +3695,7 @@
       "il": "İstanbul",
       "isim": "Selimiye Astsubay Orduevi",
       "adres": "196, Darüşşafaka, Büyükdere Cd., 34457 Sarıyer/İstanbul",
-      "ilce": "Sarıyer"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
@@ -3767,7 +3767,7 @@
       "il": "İstanbul",
       "isim": "Beylerbeyi Askeri Gazino Müdürlüğü",
       "adres": "Beylerbeyi, Beylerbeyi Kavşağı no: 16/G, 34676 Üsküdar/İstanbul",
-      "ilce": "Üsküdar"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
@@ -3815,7 +3815,7 @@
       "il": "İstanbul",
       "isim": "Yıldız Teknik Üniversitesi Misafirhanesi",
       "adres": "Lojmanları Misafirhanesi, Çifte Havuzlar, YTÜ-Davutpaşa Kampüsü, 34220 Esenler/İstanbul",
-      "ilce": "Esenler"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
@@ -3857,13 +3857,13 @@
       "il": "İstanbul",
       "isim": "İstanbul Karayolları 1. Bölge Müdürlüğü Sosyal Tesisleri",
       "adres": "Hamidiye, Kaymak Sokağı, 34408 Kağıthane/İstanbul",
-      "ilce": "Kağıthane"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
       "isim": "İstanbul Makina Kimya Endüstrisi Sosyal Tesisleri",
       "adres": "Gümüşsuyu, 19 Mayıs, İnönü Cd. No:88, 34736 Beyoğlu/İstanbul",
-      "ilce": "Beyoğlu"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
@@ -3953,7 +3953,7 @@
       "il": "İstanbul",
       "isim": "Bakırköy Başöğretmen Lokali ve Öğretmenevi",
       "adres": "Yeşilova, Reyhan Cd. No:27, 34295 Küçükçekmece/İstanbul",
-      "ilce": "Küçükçekmece"
+      "ilce": "Bakırköy"
     },
     {
       "il": "İstanbul",
@@ -3989,7 +3989,7 @@
       "il": "İstanbul",
       "isim": "Kadıköy(Zübeyde hanım) Vali Erol Çakır Öğretmenevi",
       "adres": "Küçükbakkalköy, Merdivenköy Yolu Cd. No:9, 34750 Ataşehir/İstanbul",
-      "ilce": "Ataşehir"
+      "ilce": "Kadıköy"
     },
     {
       "il": "İstanbul",
@@ -4001,13 +4001,13 @@
       "il": "İstanbul",
       "isim": "Hazine ve Maliye Bakanlığı Beyazıt Eğitim Tesisi ve Konukevi",
       "adres": "Mimar Kemalettin, Tiyatro Cd. No:12 D:12, 34130 Fatih/İstanbul",
-      "ilce": "Fatih"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
       "isim": "İstanbul Defterdarlığı Misafirhanesi",
       "adres": "Mimar Kemalettin, İstanbul Defterdarlığı Misafirhanesi, 34130 Fatih/İstanbul",
-      "ilce": "Fatih"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
@@ -4067,7 +4067,7 @@
       "il": "İstanbul",
       "isim": "Yurtkurt Ortaköy Misafirhanesi",
       "adres": "Mecidiye, Palanga Cd. No:20, 34347 Beşiktaş/İstanbul",
-      "ilce": "Beşiktaş"
+      "ilce": "Ümraniye"
     },
     {
       "il": "İstanbul",
@@ -4217,7 +4217,7 @@
       "il": "İstanbul",
       "isim": "Beylerbeyi Sabancı Polisevi Sosyal Tesisi",
       "adres": "Beylerbeyi, Beylerbeyi İskele Cd. No:34676 no 2, 34676 Üsküdar/İstanbul",
-      "ilce": "Üsküdar"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
@@ -4253,7 +4253,7 @@
       "il": "İstanbul",
       "isim": "Adile Mermerci Uygulama Oteli",
       "adres": "Merkezefendi, Mevlevihane Cd. No: 28, 34015 Zeytinburnu/İstanbul",
-      "ilce": "Zeytinburnu"
+      "ilce": ""
     },
     {
       "il": "İstanbul",
@@ -4337,7 +4337,7 @@
       "il": "İzmir",
       "isim": "Hava Eğitim Komutanlığı Gazinosu",
       "adres": "Mehmet Ali Akman, Şht. AF Erol Sit Sk, 35290 Konak/İzmir",
-      "ilce": "Konak"
+      "ilce": ""
     },
     {
       "il": "İzmir",
@@ -4355,7 +4355,7 @@
       "il": "İzmir",
       "isim": "Yolluca Denizciler Kampı",
       "adres": "Güvendik, Unnamed Rd, 35430 Urla/İzmir",
-      "ilce": "Urla"
+      "ilce": ""
     },
     {
       "il": "İzmir",
@@ -4373,13 +4373,13 @@
       "il": "İzmir",
       "isim": "İzmir Karayolları Sosyal Tesisleri",
       "adres": "KAHRAMANDERE MAHALLESİ 890 sokak 72/1 ÇEŞME OTOYOLU GÜZELBAHÇE GİRİŞİ, Kahramandere, 35310 Güzelbahçe/İzmir",
-      "ilce": "Güzelbahçe"
+      "ilce": "Bornova"
     },
     {
       "il": "İzmir",
       "isim": "İzmir DEU Sosyal Tesisleri",
       "adres": "Kültür, Cumhuriyet Blv 144-1, 35220 Konak/İzmir",
-      "ilce": "Konak"
+      "ilce": "Buca"
     },
     {
       "il": "İzmir",
@@ -4391,7 +4391,7 @@
       "il": "İzmir",
       "isim": "İzmir Adalet Sarayı Sosyal Tesisleri",
       "adres": "Adelet mah no 11/a adliye sarayı içi sosyol tesisler, Çınarlı, 35220 Bayraklı/İzmir",
-      "ilce": "Bayraklı"
+      "ilce": ""
     },
     {
       "il": "İzmir",
@@ -4565,7 +4565,7 @@
       "il": "İzmir",
       "isim": "İzmir Polis Evi Düğün Salonu",
       "adres": "Yeşiltepe, 35360 Konak/İzmir",
-      "ilce": "Konak"
+      "ilce": ""
     },
     {
       "il": "İzmir",
@@ -4589,7 +4589,7 @@
       "il": "Kahramanmaraş",
       "isim": "Kahramanmaraş Orduevi",
       "adres": "Gazi Paşa, Kışla Cd. No:4, 46030 Kahramanmaraş Merkez/Kahramanmaraş",
-      "ilce": "Kahramanmaraş Merkez"
+      "ilce": "Dulkadiroğlu"
     },
     {
       "il": "Kahramanmaraş",
@@ -4613,7 +4613,7 @@
       "il": "Kahramanmaraş",
       "isim": "Kahramanmaraş Sütçü İmam Üniversitesi Uygulama Oteli",
       "adres": "Sütçü İmam Ünv. Karacasu Kampüsü, Karacasu Kırım, 46000 Kahramanmaraş Merkez/Kahramanmaraş",
-      "ilce": "Kahramanmaraş Merkez"
+      "ilce": "Dulkadiroğlu"
     },
     {
       "il": "Kahramanmaraş",
@@ -4673,7 +4673,7 @@
       "il": "Karabük",
       "isim": "Karabük jandarma sosyal tesisleri",
       "adres": "Ergenekon, Ergenekon Cd. 1 A, 78200 Karabük Merkez/Karabük",
-      "ilce": "Karabük Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karabük",
@@ -4685,7 +4685,7 @@
       "il": "Karabük",
       "isim": "Karabük Polisevi",
       "adres": "Ergenekon, Ergenekon Cd. No:14, 78200 Karabük Merkez/Karabük",
-      "ilce": "Karabük Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karabük",
@@ -4703,43 +4703,43 @@
       "il": "Karabük",
       "isim": "Karabük Orman İşletme Müdürlüğü Misafirhanesi",
       "adres": "Yeşil, Esentepe Cd. No:89, 78200 Karabük Merkez/Karabük",
-      "ilce": "Karabük Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karabük",
       "isim": "Merkez Karabük Öğretmenevi",
       "adres": "Yeşil, Taşkent Cd. No:32, 78200 Karabük Merkez/Karabük",
-      "ilce": "Karabük Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karaman",
       "isim": "Karaman İl Jandarma Askeri Gazino Müdürlüğü",
       "adres": "Ziya Gökalp, Ahmet Yesevi Cd., 70500 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karaman",
       "isim": "Karamanoğlu Mehmetbey Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Uygulama Oteli",
       "adres": "Üniversite, Yunus Emre Yerleşkesi, 70200 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karaman",
       "isim": "Karaman 33. Şube Müdürlüğü Misafirhanesi",
       "adres": "Hisar, Özcan Genç Cd. No:146, 70200 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karaman",
       "isim": "Karaman İl Özel İdaresi Merkez",
       "adres": "Üniversite, İbrahim Öktem Cd. No:142, 70200 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
+      "ilce": ""
     },
     {
       "il": "Karaman",
       "isim": "Karaman Öğretmenevi",
       "adres": "Fenari, Kazım Karabekir Paşa Cd. No:29, 70100 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Karaman",
@@ -4751,13 +4751,13 @@
       "il": "Karaman",
       "isim": "Başyayla Öğretmenevi",
       "adres": "Fenari, Kazım Karabekir Paşa Cd. No:29, 70100 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
+      "ilce": "Başyayla"
     },
     {
       "il": "Karaman",
       "isim": "Karaman Polisevi",
       "adres": "Cumhuriyet, 70100 Karaman Merkez/Karaman",
-      "ilce": "Karaman Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
@@ -4769,49 +4769,49 @@
       "il": "Kars",
       "isim": "Kars Orduevi",
       "adres": "Cumhuriyet, 36000 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
       "isim": "Kars Karayolları 18. Bölge Müdürlüğü Misafirhane",
       "adres": "TCK 124. Şube Şefliği, Yenişehir, 36000 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
       "isim": "Kafkas Üniversitesi Rektörlüğü Konukevi",
       "adres": "Paşaçayırı, 36000 Cumhuriyet/Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
       "isim": "Kars Tarım Müdürlüğü Misafirhane",
       "adres": "Alpaslan, Şht. Er Asım Akçay Sk. No:43, 36000 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
       "isim": "DSİ 24.Bölge Misafirhanesi Örnek Mah.Hastane Sok.DSİ 24.Bölge Giriş Blok No:16 KARS",
       "adres": "Örnek, A. Gaffar Okkan Blv., 36000 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
       "isim": "Kars Maliye Defterdarlığı Eğitim Ve Dinlenme Tesisleri",
       "adres": "Yusufpaşa, 36100 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
       "isim": "Kars Polis Evi",
       "adres": "Ortakapı, Merkez, Faikbey Cd. No:13, 36100 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
       "isim": "Kars Merkez Öğretmen Evi Cumhuriyet",
       "adres": "Cumhuriyet, 36100 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kars",
@@ -4853,19 +4853,19 @@
       "il": "Kars",
       "isim": "Devlet Su İşleri Misafirhanesi",
       "adres": "Örnek, A. Gaffar Okkan Blv., 36000 Kars Merkez/Kars",
-      "ilce": "Kars Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Ilgaz Kış Eğitim Merkezi Komutanlığı",
       "adres": "37210 Bostan/Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Kastamonu İl Jandarma Askeri Gazinosu",
       "adres": "İsmail Bey Mahallesi İnebolu Caddesi No :1 Kastamonu/Merkez, İnönü, 37100 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
@@ -4883,37 +4883,37 @@
       "il": "Kastamonu",
       "isim": "Ankara Üniversitesi Örsem Kayak Evi",
       "adres": "37210 Bostan/Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Kastamonu DSİ Misafirhanesi",
       "adres": "İnönü Mahallesi Alpaslan Türkeş Bulvarı No:44, İnönü, 37200 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Kastamonu İl Özel İdaresi Sosyal Tesisleri",
       "adres": "Candaroğulları, İl Özel İdare İç Yolu, 37150 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Kastamonu Polisevi",
       "adres": "Saraçlar, 37100 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Kastamonu Şerife Bacı Öğretmenevi",
       "adres": "İnönü, Öğretmenevi Sk. No:10, 37150 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Şerife Bacı Öğretmenevi Doğa Kültür Köyü",
       "adres": "Budamış, 37210 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
@@ -4961,25 +4961,25 @@
       "il": "Kastamonu",
       "isim": "Kastamonu İl Tarım Müdürlüğü Sosyal Tesisler Misafirhanesi",
       "adres": "Saraçlar, Bayındır Sk. 14 A, 37100 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Teiaş 22. Bölge Müdürlüğü Kastamonu",
       "adres": "İnönü, Alparslan Türkeş Blv. 118 B, 37150 Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
       "isim": "Kastamonu Orman Bölge Müdürlüğü Misafirhanesi",
       "adres": "Kargı Mahallesi. Banka Sokak. No: 1/3. Tosya – KASTAMONU",
-      "ilce": "Merkez"
+      "ilce": ""
     },
     {
       "il": "Kastamonu",
       "isim": "Kastamonu Orman İşletme Müdürlüğü Ilgaz Dağı Yangın Eğitim Merkezi",
       "adres": "37210 Bostan/Kastamonu Merkez/Kastamonu",
-      "ilce": "Kastamonu Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kastamonu",
@@ -5045,7 +5045,7 @@
       "il": "Kayseri",
       "isim": "Kayseri Öğretmenevi",
       "adres": "Kiçiköy, Sağlık Cd. No:18, 38280 Talas/Kayseri",
-      "ilce": "Talas"
+      "ilce": "Kocasinan"
     },
     {
       "il": "Kayseri",
@@ -5153,61 +5153,61 @@
       "il": "Kilis",
       "isim": "Kilis İl Jandarma Askeri Gazino Müdürlüğü",
       "adres": "Gaziler, Mercidabık Cd., 79000 Kilis Merkez/Kilis",
-      "ilce": "Kilis Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kilis",
       "isim": "Kilis Polisevi",
       "adres": "Ekrem Çetin, Vali Konağı Yanı P39V+2C2 No:75, 79000 Kilis Merkez/Kilis",
-      "ilce": "Kilis Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kilis",
       "isim": "Kilis Merkez Öğretmenevi",
       "adres": "EKREM ÇETİN MAH PROF.DR. ALİ GÖRPE CAD. NO: 4, İÇ KAPI, Ekrem Çetin, NO: 101, 79000 Kilis Merkez/Kilis",
-      "ilce": "Kilis Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kilis",
       "isim": "Kilis 7 Aralık Üniversitesi Uygulama Oteli",
       "adres": "Sosyal Kültürel Merkez, Mehmet Sanlı, Doğan Güreş Paşa Blv. No:84 AC İç Kapı no:2, 79090 Kilis Merkez/Kilis",
-      "ilce": "Kilis Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
       "isim": "Kırıkkale Sancak Tepe Askeri Gazinosu",
       "adres": "Fabrikalar, 71100 Kırıkkale Merkez/Kırıkkale",
-      "ilce": "Kırıkkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
       "isim": "MKE Misafirhanesi Kırıkkale",
       "adres": "Fabrikalar, 10. Sk. No:7, 71100 Kırıkkale Merkez/Kırıkkale",
-      "ilce": "Kırıkkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
       "isim": "Kırıkkale Jandarma Komutanlığı Sosyal Tesis",
       "adres": "Yenimahalle, 71100 Kırıkkale Merkez/Kırıkkale",
-      "ilce": "Kırıkkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
       "isim": "Kırıkkale DSİ Misafirhanesi",
       "adres": "Bayraktepe, 71450 Kırıkkale Merkez/Kırıkkale",
-      "ilce": "Kırıkkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
       "isim": "Kırıkkale Polisevi",
       "adres": "Çalılıöz, 466. Sokak (63. Sk No:10, 71100 Kırıkkale Merkez/Kırıkkale",
-      "ilce": "Kırıkkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
       "isim": "Kırıkkale Merkez Öğretmenevi ve Akşam Sanat Okulu",
       "adres": "Fabrikalar, 6. Sk. No:1, 71100 Kırıkkale Merkez/Kırıkkale",
-      "ilce": "Kırıkkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
@@ -5219,7 +5219,7 @@
       "il": "Kırıkkale",
       "isim": "Kırıkkale Uygulama Oteli",
       "adres": "Kızılırmak, 86. Sk. no:32, 71300 Kırıkkale Merkez/Kırıkkale",
-      "ilce": "Kırıkkale Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırıkkale",
@@ -5243,7 +5243,7 @@
       "il": "Kırklareli",
       "isim": "Kırklareli Orduevi",
       "adres": "Karakaş, İstasyon Cd. No:12, 39000 Kırklareli Merkez/Kırklareli",
-      "ilce": "Kırklareli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırklareli",
@@ -5255,25 +5255,25 @@
       "il": "Kırklareli",
       "isim": "Kırklareli İl Jandarma Sosyal Tesisleri",
       "adres": "Karacaibrahim, 39000 Kırklareli Merkez/Kırklareli",
-      "ilce": "Kırklareli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırklareli",
       "isim": "Kırklareli Öğretmenevi ve ASO",
       "adres": "Demirtaş, Mehmet Akif Cd. No:1, 39000 Kırklareli Merkez/Kırklareli",
-      "ilce": "Kırklareli Merkez"
+      "ilce": ""
     },
     {
       "il": "Kırklareli",
       "isim": "Kırklareli Polisevi ve Yazlık Sosyal Tesisleri",
       "adres": "Karacaibrahim, Fevzi Çakmak Blv. No:7, 39000 Kırklareli Merkez/Kırklareli",
-      "ilce": "Kırklareli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırklareli",
       "isim": "Kırklareli DSİ Misafirhanesi",
       "adres": "İstasyon Mah. Edirne Caddesi No:17/EDevlet, Su İşleri, Karakaş, 39100 Kırklareli Merkez/Kırklareli",
-      "ilce": "Kırklareli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırklareli",
@@ -5285,7 +5285,7 @@
       "il": "Kırklareli",
       "isim": "Kırklareli Uygulama Oteli",
       "adres": "Pınar, Köy Hizmetleri Sosyal Tesisleri No:116, 39000 Kırklareli Merkez/Kırklareli",
-      "ilce": "Kırklareli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırklareli",
@@ -5303,7 +5303,7 @@
       "il": "Kırşehir",
       "isim": "Kırşehir İl Jandarma Askeri Gazino Müdürlüğü",
       "adres": "Medrese, Kayseri Kırşehir Yolu, 40200 Kırşehir Merkez/Kırşehir",
-      "ilce": "Kırşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırşehir",
@@ -5315,7 +5315,7 @@
       "il": "Kırşehir",
       "isim": "Kırşehir Merkez Öğretmenevi",
       "adres": "Ahievran, Prof. Dr. Mehmet Ali Altın Blv. 730. Sok D:3, 40100 Kırşehir Merkez/Kırşehir",
-      "ilce": "Kırşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırşehir",
@@ -5327,7 +5327,7 @@
       "il": "Kırşehir",
       "isim": "Kırşehir DSİ Misafirhanesi",
       "adres": "Kervansaray, Atatürk Cd. No:7, 40200 Kırşehir Merkez/Kırşehir",
-      "ilce": "Kırşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırşehir",
@@ -5339,7 +5339,7 @@
       "il": "Kırşehir",
       "isim": "TŞOF Kırşehir Misafirhanesi",
       "adres": "Yeni, Ankara Karayolu 165. Km, 40002 Çayağzı/Kırşehir Merkez/Kırşehir",
-      "ilce": "Kırşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kocaeli",
@@ -5363,7 +5363,7 @@
       "il": "Kocaeli",
       "isim": "Karamürselbey Eğitim Merkezi Komutanlığı",
       "adres": "Kaytazdere Bld. (Kaytazdere Mh, Devlet Karayolu Cd No:37, 77702, 77702 Kaytazdere/Altınova/Yalova",
-      "ilce": "Altınova"
+      "ilce": ""
     },
     {
       "il": "Kocaeli",
@@ -5375,13 +5375,13 @@
       "il": "Kocaeli",
       "isim": "Dsi 15. Şube Müdürlüğü İzmit",
       "adres": "Sanayi, 41140 İzmit/Kocaeli",
-      "ilce": "İzmit"
+      "ilce": "Başiskele"
     },
     {
       "il": "Kocaeli",
       "isim": "Kocaeli Defterdarlığı Maliye Misafirhanesi",
       "adres": "Kocaeli Valiliği Kompleksi B, Körfez, Ankara Karayolu Cad No:129 C Blok, 41040 İzmit/Kocaeli",
-      "ilce": "İzmit"
+      "ilce": ""
     },
     {
       "il": "Kocaeli",
@@ -5411,7 +5411,7 @@
       "il": "Kocaeli",
       "isim": "İzmit OGM Kavakçılık Sosyal Tesis ve Misafirhanesi",
       "adres": "Ovacık, Hasat Sk. No:4, 41140 Başiskele/Kocaeli",
-      "ilce": "Başiskele"
+      "ilce": "İzmit"
     },
     {
       "il": "Kocaeli",
@@ -5465,7 +5465,7 @@
       "il": "Konya",
       "isim": "Konya Uygulama Oteli",
       "adres": "Horozluhan, Konya - Ankara Karayolu No:42100, 42100 Selçuklu/Konya",
-      "ilce": "Selçuklu"
+      "ilce": ""
     },
     {
       "il": "Konya",
@@ -5627,7 +5627,7 @@
       "il": "Konya",
       "isim": "Seydişehir Öğretmenevi",
       "adres": "Alaylar iki mahallesi 152330 sokak no 4/1 Seydişehir, Alaylar İki, 42370 Seydişlehir/Konya",
-      "ilce": "Seydişlehir"
+      "ilce": "Seydişehir"
     },
     {
       "il": "Konya",
@@ -5645,43 +5645,43 @@
       "il": "Kütahya",
       "isim": "Kütahya Orduevi",
       "adres": "Alipaşa, Fuat Paşa Cad. No:10, 43020 Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kütahya",
       "isim": "Kütahya Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
       "adres": "Gaybiefendi, Atatürk Blv. No:93/1, 43020 Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kütahya",
       "isim": "Kütahya Dumlupınar Üniversitesi Konukevi",
       "adres": "DPÜ Evliya Çelebi Yerleşkesi, Kirazpınar, Kütahya Tavşanlı Yolu 10. km, 43100 Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kütahya",
       "isim": "Kütahya Uygulama Oteli",
       "adres": "Yoncalı, Sekiören Caddesi No:14, 43270 Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kütahya",
       "isim": "Kütahya Devlet Su İşleri Misafirhanesi Ali Paşa",
       "adres": "Ali Paşa Mah., Fevzi Çakmak Cd. No:18, 43020 Merkez/Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kütahya",
       "isim": "Bengisu Sosyal Tesisleri",
       "adres": "30 Ağustos, Meriç Sk. No:6/A, 43100 Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kütahya",
       "isim": "Kütahya Öğretmenevi",
       "adres": "Yıldırım Beyazıt, Abdurrahman Karaa Blv. No:45, 43020 Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kütahya",
@@ -5717,7 +5717,7 @@
       "il": "Kütahya",
       "isim": "Kütahya Polisevi",
       "adres": "Vefa, Atatürk Blv., 43020 Kütahya Merkez/Kütahya",
-      "ilce": "Kütahya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Malatya",
@@ -5729,19 +5729,19 @@
       "il": "Malatya",
       "isim": "Malatya TCDD Misafirhanesi",
       "adres": "İnönü, İstasyon Cd. No:1, 44070 Malatya Merkez/Malatya",
-      "ilce": "Malatya Merkez"
+      "ilce": "Yeşilyurt"
     },
     {
       "il": "Malatya",
       "isim": "İnönü Üniversitesi Hastahane Oteli",
       "adres": "Üzümlü, Turgut Özal Tıp Mrk., 44000 Malatya Merkez/Malatya",
-      "ilce": "Malatya Merkez"
+      "ilce": "Battalgazi"
     },
     {
       "il": "Malatya",
       "isim": "Malatya PTT Misafirhanesi",
       "adres": "Yeşiltepe, İnönü, Şule Sok. No:1, 44070 Yeşilyurt/Malatya",
-      "ilce": "Yeşilyurt"
+      "ilce": "Battalgazi"
     },
     {
       "il": "Malatya",
@@ -5765,7 +5765,7 @@
       "il": "Malatya",
       "isim": "Malatya Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
       "adres": "Çöşnük, Necip Fazıl Kısakürek Cd., 44320 Malatya Merkez/Malatya",
-      "ilce": "Malatya Merkez"
+      "ilce": "Battalgazi"
     },
     {
       "il": "Malatya",
@@ -5777,7 +5777,7 @@
       "il": "Malatya",
       "isim": "Malatya Orduevi",
       "adres": "Kernek, Hastane Cd. No:2, 44300 Malatya Merkez/Malatya",
-      "ilce": "Malatya Merkez"
+      "ilce": "Battalgazi"
     },
     {
       "il": "Malatya",
@@ -5843,7 +5843,7 @@
       "il": "Manisa",
       "isim": "Manisa Polisevi",
       "adres": "Akmescit, 45110 Manisa Merkez/Manisa",
-      "ilce": "Manisa Merkez"
+      "ilce": "Yunusemre"
     },
     {
       "il": "Manisa",
@@ -5885,13 +5885,13 @@
       "il": "Manisa",
       "isim": "Yunusemre Belediyesi Misafirhanesi",
       "adres": "Muradiye, 45140 Yunusemre/Manisa",
-      "ilce": "Yunusemre"
+      "ilce": ""
     },
     {
       "il": "Manisa",
       "isim": "Manisa Jandarma Sosyal Tesisleri",
       "adres": "Yenice, Cevdet Kaya Çk. No:10, 45600 Alaşehir/Manisa",
-      "ilce": "Şehzadeler"
+      "ilce": ""
     },
     {
       "il": "Mardin",
@@ -5903,7 +5903,7 @@
       "il": "Mardin",
       "isim": "Mardin Kışla Gazino Müdürlüğü",
       "adres": "Savurkapı, 47100 Mardin Merkez/Mardin",
-      "ilce": "Mardin Merkez"
+      "ilce": ""
     },
     {
       "il": "Mardin",
@@ -5921,7 +5921,7 @@
       "il": "Mardin",
       "isim": "Şatana Konağı (Maü Uygulama Oteli)",
       "adres": "Medrese, Cumhuriyet Cd. No:240, 47100 Mardin Merkez/Mardin",
-      "ilce": "Mardin Merkez"
+      "ilce": "Artuklu"
     },
     {
       "il": "Mardin",
@@ -5963,7 +5963,7 @@
       "il": "Mardin",
       "isim": "Mardin Polisevi",
       "adres": "kavşağı Artuklu/, Yenişehir, Kızıltepe Blv., 47200 Mardin Merkez/Mardin",
-      "ilce": "Mardin Merkez"
+      "ilce": "Artuklu"
     },
     {
       "il": "Mardin",
@@ -6107,7 +6107,7 @@
       "il": "Mersin",
       "isim": "Mersin Karayolları Merkez Bölge Misafirhanesi",
       "adres": "İhsaniye, Gazi Mustafa Kemal Blv. No:133, 33070 Akdeniz/Mersin",
-      "ilce": "Akdeniz"
+      "ilce": "Toroslar"
     },
     {
       "il": "Mersin",
@@ -6119,13 +6119,13 @@
       "il": "Mersin",
       "isim": "Mersin Defterdarlığı Maliye Misafirhanesi",
       "adres": "İhsaniye, Kuvayi Milliye Cd. No:78, 33050 Akdeniz/Mersin",
-      "ilce": "Akdeniz"
+      "ilce": ""
     },
     {
       "il": "Mersin",
       "isim": "Türkiye Yol İş Sendikası Eğitim Ve Dinlenme Tesisleri",
       "adres": "Atayurt, 33980 Silifke/Mersin",
-      "ilce": "Silifke"
+      "ilce": ""
     },
     {
       "il": "Mersin",
@@ -6173,7 +6173,7 @@
       "il": "Muğla",
       "isim": "Marmaris Aksaz Deniz Askeri Gazino Müdürlüğü",
       "adres": "Adaköy, Unnamed Road, Adaköy, 48700 Marmaris/Muğla",
-      "ilce": "Marmaris"
+      "ilce": ""
     },
     {
       "il": "Muğla",
@@ -6209,7 +6209,7 @@
       "il": "Muğla",
       "isim": "Muğla Jandarma Misafirhanesi",
       "adres": "Orhaniye, Birlik Sk., 48000 Muğla Merkez/Muğla",
-      "ilce": "Muğla Merkez"
+      "ilce": "Menteşe"
     },
     {
       "il": "Muğla",
@@ -6251,7 +6251,7 @@
       "il": "Muğla",
       "isim": "Muğla Orman Müdürlüğü Misafirhane",
       "adres": "Muslihittin, Mehmet Polatoğlu Sk. 28-10, 48000 Muğla Merkez/Muğla",
-      "ilce": "Muğla Merkez"
+      "ilce": "Menteşe"
     },
     {
       "il": "Muğla",
@@ -6275,7 +6275,7 @@
       "il": "Muğla",
       "isim": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler Konuk Evi",
       "adres": "20, Orhaniye, İskender Alper Cd., 48000 Muğla Merkez/Muğla",
-      "ilce": "Muğla Merkez"
+      "ilce": "Menteşe"
     },
     {
       "il": "Muğla",
@@ -6299,31 +6299,31 @@
       "il": "Muş",
       "isim": "Muş Merkez Öğretmenevi Aso",
       "adres": "Hürriyet İstasyon Caddesi No:47, Hürriyet, 49200 Muş Merkez/Muş",
-      "ilce": "Muş Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Muş",
       "isim": "Muş Alparslan Üniversitesi Konukevi",
       "adres": "49250 Suvaran/Muş Merkez/Muş",
-      "ilce": "Muş Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Muş",
       "isim": "Muş Polisevi",
       "adres": "Hürriyet Mah. İstasyon Cad. Atatürk Bulv., Serinova, Muş Merkez, Muş, Yeşilyurt, 49200 Muş Merkez/Muş",
-      "ilce": "Muş Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Muş",
       "isim": "Muş İl Sağlık Müdürlüğü Misafirhanesi",
       "adres": "Hürriyet Mah., Murat paşa cad., 49100 Muş Merkez/Muş",
-      "ilce": "Muş Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Muş",
       "isim": "Muş Çevre ve Şehircilik Bakanlığı Misafirhanesi",
       "adres": "Zafer, Çevre Ve Şehircilik Bakanlığı Muş İl Md., 49200 Muş Merkez/Muş",
-      "ilce": "Muş Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Muş",
@@ -6353,25 +6353,25 @@
       "il": "Muş",
       "isim": "Muş İl Özel İdaresi Misafirhanesi",
       "adres": "Saray, Bitlis Karayolu, 49200 Muş Merkez/Muş",
-      "ilce": "Muş Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Nevşehir",
       "isim": "Nevşehir Merkez Öğretmenevi",
       "adres": "2000 Evler, 77. Sokak No: 1, 50300 Nevşehir Merkez/Nevşehir",
-      "ilce": "Nevşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Nevşehir",
       "isim": "Nevşehir Polisevi",
       "adres": "Güzelyurt, Ürgüp Cd. No:45, 50300 Nevşehir Merkez/Nevşehir",
-      "ilce": "Nevşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Nevşehir",
       "isim": "Nevşehir İl Özel İdaresi Misafirhanesi",
       "adres": "15 Temmuz, 157. Sk. No:2, 50300 Nevşehir Merkez/Nevşehir",
-      "ilce": "Nevşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Nevşehir",
@@ -6413,43 +6413,43 @@
       "il": "Nevşehir",
       "isim": "Nevşehir Otelcilik ve Turizm Meslek Lisesi Uygulama Oteli",
       "adres": "350 Evler, Ali Dirikoç Blv. No:13, 50300 Nevşehir Merkez/Nevşehir",
-      "ilce": "Nevşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Nevşehir",
       "isim": "Nevşehir Jandarma Sosyal Tesisi",
       "adres": "Yeni, Tusan Sk. No:4, 50160 Nevşehir Merkez/Nevşehir",
-      "ilce": "Nevşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Niğde",
       "isim": "Niğde İl Jandarma Sosyal Tesisleri",
       "adres": "Yukarı Kayabaşı, Feridun Zeren Cd., 51200 Niğde Merkez/Niğde",
-      "ilce": "Niğde Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Niğde",
       "isim": "Niğde Ömer Halisdemir Üniversitesi Göncü Konukevi",
       "adres": "Kale, Cullaz Sk. No:14, 51100 Niğde Merkez/Niğde",
-      "ilce": "Niğde Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Niğde",
       "isim": "Ömer Halis Demir Üniversitesi Konukevi Kayabaşı",
       "adres": "Yukarı Kayabaşı, 51200 Niğde Merkez/Niğde",
-      "ilce": "Niğde Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Niğde",
       "isim": "Niğde DSİ 45. Şube Müdürlüğü Misafirhanesi",
       "adres": "İlhanlı Adana Eski, İlhanlı, Hacı Sabancı Blv. No:7, 51100 Niğde Merkez/Niğde",
-      "ilce": "Niğde Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Niğde",
       "isim": "Niğde Merkez Öğretmenevi",
       "adres": "İnönü, Feridun Zeren Cd. No:4, 51200 Niğde Merkez/Niğde",
-      "ilce": "Niğde Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Niğde",
@@ -6485,13 +6485,13 @@
       "il": "Niğde",
       "isim": "Niğde Polisevi",
       "adres": "Nar, 51100 Niğde Merkez/Niğde",
-      "ilce": "Niğde Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ordu",
       "isim": "Ordu Orduevi Askeri Gazino",
       "adres": "Düz, Süleyman Felek Cd. No:22, 52100 Ordu Merkez/Ordu",
-      "ilce": "Ordu Merkez"
+      "ilce": "Altınordu"
     },
     {
       "il": "Ordu",
@@ -6515,7 +6515,7 @@
       "il": "Ordu",
       "isim": "Ordu Merkez Öğretmenevi ve Akşam Sanat Okulu",
       "adres": "Düz, Süleyman Felek Cd. No:33, 52100 Ordu Merkez/Ordu",
-      "ilce": "Ordu Merkez"
+      "ilce": "Altınordu"
     },
     {
       "il": "Ordu",
@@ -6587,25 +6587,25 @@
       "il": "Osmaniye",
       "isim": "Osmaniye Merkez Öğretmenevi",
       "adres": "Esenevler, 15520. Sk. No:12, 80010 Osmaniye Merkez/Osmaniye",
-      "ilce": "Osmaniye Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Osmaniye",
       "isim": "Jandarma Sosyal Tesis Müdürlüğü",
       "adres": "Selimiye, Musa Şahin Blv. 375, 80020, 80020 Osmaniye Merkez/Osmaniye",
-      "ilce": "Osmaniye Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Osmaniye",
       "isim": "Osmaniye Polisevi",
       "adres": "Akyar, 80000 Osmaniye Merkez/Osmaniye",
-      "ilce": "Osmaniye Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Osmaniye",
       "isim": "Osmaniye Korkut Ata Üniversitesi Sosyal Tesisleri",
       "adres": "Fakıuşağı, Osmaniye Korkut Ata Ünv., 80010 Osmaniye Merkez/Osmaniye",
-      "ilce": "Osmaniye Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Osmaniye",
@@ -6617,7 +6617,7 @@
       "il": "Osmaniye",
       "isim": "Osmaniye Jandarma Sosyal Tesisleri",
       "adres": "Selimiye, Musa Şahin Blv. 375, 80020, 80020 Osmaniye Merkez/Osmaniye",
-      "ilce": "Osmaniye Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
@@ -6629,43 +6629,43 @@
       "il": "Rize",
       "isim": "Rize Merkez Öğretmenevi ve Akşam Sanat Okulu",
       "adres": "Engindere Mah, Menders Bulvarı No:175 D:1, 53020 Merkez/Rize Merkez/Rize",
-      "ilce": "Rize Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
       "isim": "Rize Ptt Misafirhanesi",
       "adres": "Mermerdelen, Cumhuriyet Cd., 53020 Rize Merkez/Rize",
-      "ilce": "Rize Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
       "isim": "Rize İl Sağlık Müdürlüğü Misafirhanesi",
       "adres": "Piriçelebi, Adliye Caddesi No:8, 53020 Rize Merkez/Rize",
-      "ilce": "Rize Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
       "isim": "Recep Tayyip Erdoğan Üniversitesi Sosyal Tesisleri",
       "adres": "Recep Tayyip Erdoğan Üniversitesi Sosyal Tesisleri, Fener Mahallesi, Merkez, 53020 Rize Merkez/Rize",
-      "ilce": "Rize Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
       "isim": "Rize Dsi Misafirhanesi",
       "adres": "İslampaşa, Şehitler Çeşmesi Sk. No:38, 53020 Rize Merkez/Rize",
-      "ilce": "Rize Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
       "isim": "Müftü Yusuf Karali Eğitim Merkezi",
       "adres": "Dağsu, Dağbaşı Cd. No:154, 53020 Rize Merkez/Rize",
-      "ilce": "Rize Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
       "isim": "Rize Karayolları Misafirhanesi",
       "adres": "Engindere, Rize Güneysu Yolu No:22, 53020 Akarsu/Rize Merkez/Rize",
-      "ilce": "Rize Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Rize",
@@ -6731,7 +6731,7 @@
       "il": "Sakarya",
       "isim": "Sakarya TUVASAŞ Misafirhanesi",
       "adres": "Bahçelievler, Serdivan Cd. No:79, 54100 Serdivan/Sakarya",
-      "ilce": "Serdivan"
+      "ilce": "Adapazarı"
     },
     {
       "il": "Sakarya",
@@ -6743,7 +6743,7 @@
       "il": "Sakarya",
       "isim": "Sakarya Tarım Orman Misafirhanesi",
       "adres": "Şirinevler, Adnan Menderes Cd. No:197, 54100 Adapazarı/Sakarya",
-      "ilce": "Adapazarı"
+      "ilce": ""
     },
     {
       "il": "Sakarya",
@@ -6767,7 +6767,7 @@
       "il": "Sakarya",
       "isim": "Kefken Özel Eğitim Merkezi K.lığı",
       "adres": "Kefken, Kandıra Kefken Yolu No:272, 41600 Kandıra/Kocaeli",
-      "ilce": "Kandıra"
+      "ilce": ""
     },
     {
       "il": "Sakarya",
@@ -6821,7 +6821,7 @@
       "il": "Samsun",
       "isim": "Samsun Kurupelit Eğitim Merkezi",
       "adres": "Körfez, Üniversite Lojmanları No:13, 55270 Atakum/Samsun",
-      "ilce": "Atakum"
+      "ilce": ""
     },
     {
       "il": "Samsun",
@@ -6875,7 +6875,7 @@
       "il": "Samsun",
       "isim": "Samsun Tarım Misafirhanesi",
       "adres": "Kılıçdede, Abdülhak Hamit Cd. No:5, 55070 İlkadım/Samsun",
-      "ilce": "İlkadım"
+      "ilce": ""
     },
     {
       "il": "Samsun",
@@ -6959,13 +6959,13 @@
       "il": "Şanlıurfa",
       "isim": "Şanlıurfa Kışla Gazinosu",
       "adres": "İpekyol, 63340 Şanlıurfa Merkez/Şanlıurfa",
-      "ilce": "Şanlıurfa Merkez"
+      "ilce": "Haliliye"
     },
     {
       "il": "Şanlıurfa",
       "isim": "Şanlıurfa DSİ Misafirhanesi",
       "adres": "Hamidiye, DSİ Tesisleri 15. Bölge Md. 1 B, 63300 Şanlıurfa Merkez/Şanlıurfa",
-      "ilce": "Şanlıurfa Merkez"
+      "ilce": "Haliliye"
     },
     {
       "il": "Şanlıurfa",
@@ -7037,43 +7037,43 @@
       "il": "Şanlıurfa",
       "isim": "Harran Üniversitesi Urfa Evi Uygulama Oteli",
       "adres": "Yeni mah.Göl, Balıklı Göl Cd. No:40, 63210 Eyyübiye, Yeni, 63200 Şanlıurfa Merkez/Şanlıurfa",
-      "ilce": "Şanlıurfa Merkez"
+      "ilce": "Eyyübiye"
     },
     {
       "il": "Siirt",
       "isim": "Siirt İl Özel İdare Sosyal Tesisleri",
       "adres": "Marmara yanı, Yüklüce, 56100 Yağmurtepe/Siirt Merkez/Siirt",
-      "ilce": "Siirt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Siirt",
       "isim": "SİÜ – Siirt Üniversitesi Misafirhanesi",
       "adres": "56220 Pınarca/Siirt Merkez/Siirt",
-      "ilce": "Siirt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Siirt",
       "isim": "Siirt Öğretmenevi",
       "adres": "Yeni, 56000 Siirt Merkez/Siirt",
-      "ilce": "Siirt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Siirt",
       "isim": "Siirt Polisevi",
       "adres": "Bahçelievler, Hayrettin Şişman Cd. No:2, 56000 Siirt Merkez/Siirt",
-      "ilce": "Siirt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Siirt",
       "isim": "Siirt Orman İşletme Müdürlüğü Misafirhanesi",
       "adres": "Yeni, Ziraat Cd. No:8, 56100 Siirt Merkez/Siirt",
-      "ilce": "Siirt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Siirt",
       "isim": "Siirt İl Sağlık Müdürlüğü Misafirhanesi",
       "adres": "Barış, Şeyh Ebül Vefa Cd., 56100 Siirt Merkez/Siirt",
-      "ilce": "Siirt Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Siirt",
@@ -7097,43 +7097,43 @@
       "il": "Sinop",
       "isim": "Sinop Jandarma sosyal tesis müdürlüğü",
       "adres": "Gelincik, Fatih Cd. No:19, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Sinop DSİ Sosyal Tesisleri",
       "adres": "Sarıgüzel Mahallesi, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Sinop Orman İşletme Müdürlüğü Sosyal Tesisleri",
       "adres": "Gelincik, Plaj Yolu, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Sinop Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
       "adres": "Zeytinlik, Okullar Cd. No:31, 57010 Bostancılı Köyü/Sinop Merkez/Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Sinop İl Tarım ve Orman Müdürlüğü Misafirhanesi",
       "adres": "Gelincik Mh, Gelincik, Fatih Cd. No:13, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Sinop İl Özel İdaresi Karakum Sosyal Tesisleri",
       "adres": "Zeytinlik, Enver Bahadır Cd. No:14, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Sinop Merkez Öğretmenevi",
       "adres": "Kefevi, Okullar Cd. No:12, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
@@ -7169,25 +7169,25 @@
       "il": "Sinop",
       "isim": "Sinop Polisevi",
       "adres": "Gelincik, 100 nolu sokak No:9, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Sinop Devlet Konukevi",
       "adres": "Gelincik, 100 nolu sokak No:9, 57000 Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
       "isim": "Ahmet Muhip Dıranas Uygulama Oteli",
       "adres": "Akliman, Abalı Köyü Akliman Mevkii, 57000 Abalı/Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": ""
     },
     {
       "il": "Sinop",
       "isim": "Sinop Prof. Dr. Necmettin Erbakan Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
       "adres": "Çiftlik Köyü, Agcelli Mevkii, Agcelli Köyü Sokak No:20/5, Yalıboyu, 57002 Çiftlik/Sinop Merkez/Sinop",
-      "ilce": "Sinop Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sinop",
@@ -7199,37 +7199,37 @@
       "il": "Sivas",
       "isim": "Sivas Askeri Gazino (Orduevi)",
       "adres": "Dörteylül, 58010 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Sivas Tarım İl Müdürlüğü Misafirhanesi",
       "adres": "Mehmet Akif Ersoy, 58050 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Sivas DSİ Misafirhanesi",
       "adres": "Mimar Sinan, DSİ 19. Bölge Md., 58010 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Sivas TCDD Misafirhanesi",
       "adres": "Kadı Burhanettin, Muhsin Yazıcıoğlu Blv. No:3, 58080 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Sivas Polisevi",
       "adres": "Kızılırmak, M. Fethi Akyüz Cd. No:22, 58070 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Sivas Öğretmenevi",
       "adres": "Pulur, 58050 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
@@ -7241,19 +7241,19 @@
       "il": "Sivas",
       "isim": "Cumhuriyet Üniversitesi Vakfı Konuk Evi",
       "adres": "Yenişehir, Cumhuriyet Ünv., 58070 İmaret/Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Sivas Hekimevi",
       "adres": "Diriliş, 11.Sokak No: 17, 58010 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Sivas T.C.Karayolları Bölge Müdürlüğü Misafirhanesi",
       "adres": "Kümbet Mevkii, Muhsin Yazıcıoğlu Blv. No:39, 58010 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
@@ -7313,25 +7313,25 @@
       "il": "Sivas",
       "isim": "Sivas Demir Çelik Fabrikası Konuk Evi",
       "adres": "Unnamed Road, 58000 Körtuzla/Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Sivas",
       "isim": "Cumhuriyet Üniversitesi Konuk Evi 2",
       "adres": "Yenişehir, 58070 Sivas Merkez/Sivas",
-      "ilce": "Sivas Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Şırnak",
       "isim": "Şırnak Üniversitesi Sosyal Tesisleri",
       "adres": "Şehrinuh, Siirt Cd. No:102, 73000 Şırnak Merkez/Şırnak",
-      "ilce": "Şırnak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Şırnak",
       "isim": "Şırnak Merkez Öğretmenevi",
       "adres": "Gündoğdu, 73000 Şırnak Merkez/Şırnak",
-      "ilce": "Şırnak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Şırnak",
@@ -7361,7 +7361,7 @@
       "il": "Şırnak",
       "isim": "Şırnak Polisevi",
       "adres": "Bahçelievler, Siirt Cd. No:13, 73000 Şırnak Merkez/Şırnak",
-      "ilce": "Şırnak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Şırnak",
@@ -7373,7 +7373,7 @@
       "il": "Tekirdağ",
       "isim": "Tekirdağ DSİ Misafirhanesi",
       "adres": "Değirmenaltı, Şehit Zülfikar Tezcan Sok. No:4 D:5, 59030 Tekirdağ Merkez/Tekirdağ",
-      "ilce": "Tekirdağ Merkez"
+      "ilce": "Süleymanpaşa"
     },
     {
       "il": "Tekirdağ",
@@ -7397,7 +7397,7 @@
       "il": "Tekirdağ",
       "isim": "Tekirdağ Polisevi",
       "adres": "Ertuğrul, Yalı Sk. No:19, 59100 Tekirdağ Merkez/Tekirdağ",
-      "ilce": "Tekirdağ Merkez"
+      "ilce": "Süleymanpaşa"
     },
     {
       "il": "Tekirdağ",
@@ -7415,13 +7415,13 @@
       "il": "Tekirdağ",
       "isim": "Tekirdağ Kumbağ Polis Kampı",
       "adres": "Kumbağ, 59060 Tekirdağ Merkez/Tekirdağ",
-      "ilce": "Tekirdağ Merkez"
+      "ilce": "Süleymanpaşa"
     },
     {
       "il": "Tekirdağ",
       "isim": "Tekirdağ Karayolları 18. Şube Şefliği",
       "adres": "Cumhuriyet, 59030 Tekirdağ Merkez/Tekirdağ",
-      "ilce": "Tekirdağ Merkez"
+      "ilce": "Süleymanpaşa"
     },
     {
       "il": "Tekirdağ",
@@ -7445,37 +7445,37 @@
       "il": "Tokat",
       "isim": "Tokat DSİ Misafirhanesi",
       "adres": "Yeşilırmak, Gaziosmanpaşa Blv. No:24, 60030 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
       "isim": "Tokat Gaziosmanpaşa Üniversitesi Konukevi",
       "adres": "Gaziosmanpaşa Üniversitesi Kampüsü Mh, 60000 Taşlıçiftlik/Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
       "isim": "Tokat Öğretmenevi Gülbaharhatun",
       "adres": "Gülbaharhatun, Gaziosmanpaşa Blv. no:123, 60200 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
       "isim": "Tokat Polisevi",
       "adres": "Doğancıbağları, Polis Evi, 60100 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": ""
     },
     {
       "il": "Tokat",
       "isim": "Tedaş Tokat Lojmanları",
       "adres": "Yeni, Mustafa Satan Cd., 60100 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
       "isim": "Tokat Tarım ve Orman İl Müdürlüğü Misafirhanesi",
       "adres": "Güneşli, İmamlık Cd. No:68, 60200 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
@@ -7529,25 +7529,25 @@
       "il": "Tokat",
       "isim": "Tokat Jandarma Sosyal Tesisleri",
       "adres": "Küçükbey Bağı, Gaziosmanpaşa Blv., 60100 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
       "isim": "Tokat İl Sağlık Müdürlüğü Misafirhanesi (75.Yıl Eğitim ve Sosyal Tesisi)",
       "adres": "Yeni, Mustafa Satan Cd., 60100 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
       "isim": "Tokat Devlet Su İşleri Misafirhanesi",
       "adres": "Kemer, Gazi Osman Paşa Bulv. No:2, 60100 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tokat",
       "isim": "Tokat Osman Paşa Konağı Butik Uygulama Oteli",
       "adres": "Soğuk Pınar Mah. Behzat Bulvarı, Soğukpınar, Behzat Blv. 29. Sk. No:23, 60100 Tokat Merkez/Tokat",
-      "ilce": "Tokat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Trabzon",
@@ -7559,13 +7559,13 @@
       "il": "Trabzon",
       "isim": "Trabzon Dsi Misafirhanesi",
       "adres": "Yalıncak, 61000 Trabzon Merkez/Trabzon",
-      "ilce": "Trabzon Merkez"
+      "ilce": "Ortahisar"
     },
     {
       "il": "Trabzon",
       "isim": "Trabzon Öğretmenevi",
       "adres": "Cumhuriyet, Gölcük Cd. No:1, 61030 Ortahisar/Trabzon",
-      "ilce": "Ortahisar"
+      "ilce": ""
     },
     {
       "il": "Trabzon",
@@ -7577,19 +7577,19 @@
       "il": "Trabzon",
       "isim": "Yol-İş Sendikası Trabzon Misafirhanesi",
       "adres": "Çarşı, Uzun Sk. No:86, 61200 Trabzon Merkez/Trabzon",
-      "ilce": "Trabzon Merkez"
+      "ilce": "Ortahisar"
     },
     {
       "il": "Trabzon",
       "isim": "KTÜ Koru Tesisleri Üniversite",
       "adres": "Üniversite, Milli Egemenlik Cd. No:23, 61080 Trabzon Merkez/Trabzon",
-      "ilce": "Trabzon Merkez"
+      "ilce": "Ortahisar"
     },
     {
       "il": "Trabzon",
       "isim": "Trabzon Karayolları Sosyal Tesisleri",
       "adres": "İnönü, Trabzonspor Blv. No:110, 61040 Trabzon Merkez/Trabzon",
-      "ilce": "Trabzon Merkez"
+      "ilce": "Ortahisar"
     },
     {
       "il": "Trabzon",
@@ -7607,25 +7607,25 @@
       "il": "Trabzon",
       "isim": "Teiaş 14. Bölge Müdürlüğü Misafirevi",
       "adres": "Yeşilköy, Yunus Emre Cd. No:1, 61000 Ortahisar/Trabzon",
-      "ilce": "Ortahisar"
+      "ilce": ""
     },
     {
       "il": "Trabzon",
       "isim": "Trabzon Gençlik ve Spor İl Müdürlüğü Misafirhanesi",
       "adres": "Akyazı mahallesi Akçaabat (Konak) caddesi, Akyazı, Şenol Güneş Spor Kompleksi No:6, 61040 Trabzon Merkez/Trabzon",
-      "ilce": "Trabzon Merkez"
+      "ilce": "Ortahisar"
     },
     {
       "il": "Trabzon",
       "isim": "Akçaabat Anadolu Otelcilik ve Turizm Meslek Lisesi Uygulama Oteli",
       "adres": "Söğütlü, Bilge Cd. No:5 D:5, 61300 Söğütlü/Trabzon",
-      "ilce": "Söğütlü"
+      "ilce": "Akçaabat"
     },
     {
       "il": "Trabzon",
       "isim": "Çevre ve Şehircilik Bakanlığı Trabzon İl Müdürlüğü Sosyal Tesisleri",
       "adres": "2 Nolu Beşirli, Devlet Sahil Yolu Cd., 61040 Trabzon Merkez/Trabzon",
-      "ilce": "Trabzon Merkez"
+      "ilce": "Ortahisar"
     },
     {
       "il": "Trabzon",
@@ -7685,13 +7685,13 @@
       "il": "Trabzon",
       "isim": "Trabzon Defterdarlığı Yıldızlı Misafirhane Ve Eğitim Tesisi",
       "adres": "Trabzon Defterdarlığı, Yıldızlı, 61040 Akçaabat/Trabzon",
-      "ilce": "Akçaabat"
+      "ilce": ""
     },
     {
       "il": "Trabzon",
       "isim": "Trabzon KTÜ Sahil Tesisleri",
       "adres": "Üniversite, Ahmet Suat Özyazıcı Cd. No:23, 61080 Trabzon Merkez/Trabzon",
-      "ilce": "Trabzon Merkez"
+      "ilce": ""
     },
     {
       "il": "Trabzon",
@@ -7703,7 +7703,7 @@
       "il": "Trabzon",
       "isim": "TRT Trabzon Misafirhanesi",
       "adres": "Söğütlü, 61300 Akçaabat/Trabzon",
-      "ilce": "Akçaabat"
+      "ilce": ""
     },
     {
       "il": "Trabzon",
@@ -7715,25 +7715,25 @@
       "il": "Tunceli",
       "isim": "Tunceli İl Özel İdaresi Misafirhanesi-Köy Hizmetleri Misafirhanesi",
       "adres": "Cumhuriyet, Köy Hizmetleri, 62000 Tunceli Merkez/Tunceli",
-      "ilce": "Tunceli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tunceli",
       "isim": "Tunceli Öğretmenevi Cem Emir",
       "adres": "Atatürk, Cem Emir Cd. No:11, 62000 Tunceli Merkez/Tunceli",
-      "ilce": "Tunceli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tunceli",
       "isim": "Tunceli Polisevi",
       "adres": "Cumhuriyet, Yaşar Kemal Cd. No:7, 62000 Tunceli Merkez/Tunceli",
-      "ilce": "Tunceli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tunceli",
       "isim": "Tunceli Devlet Su İşleri Misafirhanesi",
       "adres": "Atatürk, Elazığ Yolu, 62000 Tunceli Merkez/Tunceli",
-      "ilce": "Tunceli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tunceli",
@@ -7763,43 +7763,43 @@
       "il": "Tunceli",
       "isim": "Tunceli İl Jandarma Bölge Kışla Gazino Müdürlüğü",
       "adres": "Merkez, Sütlüce, Tunceli Merkez, Tunceli, Moğultay, 62000 Tunceli Merkez/Tunceli",
-      "ilce": "Tunceli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Tunceli",
       "isim": "Tunceli Sağlık Müdürlüğü Dinlenme Tesisi",
       "adres": "Atatürk, 10. Sk. No:24, 62000 Tunceli Merkez/Tunceli",
-      "ilce": "Tunceli Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Uşak",
       "isim": "Uşak Şeker Fabrikası Misafirhanesi",
       "adres": "Kalfa, 64000 Uşak Merkez/Uşak",
-      "ilce": "Uşak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Uşak",
       "isim": "Uşak Polisevi ve Hasbahçe Sosyal Tesisi",
       "adres": "Elmalıdere, İzci Sk. No:32, 64400 Uşak Merkez/Uşak",
-      "ilce": "Uşak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Uşak",
       "isim": "Uşak Öğretmen Evi ve ASO Müdürlüğü",
       "adres": "Cumhuriyet, İbrahim Tahtakılıç Cd. no:45, 64100 Uşak Merkez/Uşak",
-      "ilce": "Uşak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Uşak",
       "isim": "Uşak Üniversitesi Sosyal Tesisleri",
       "adres": "Kaşbelen Mücavir, 64000 Kaşbelen/Uşak Merkez/Uşak",
-      "ilce": "Uşak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Uşak",
       "isim": "Uşak DSİ Misafirhanesi Cumhuriyet",
       "adres": "Cumhuriyet, Orhan Dengiz Blv. No:254, 64200 Uşak Merkez/Uşak",
-      "ilce": "Uşak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Uşak",
@@ -7889,13 +7889,13 @@
       "il": "Van",
       "isim": "Van İl Tarım Misafirhanesi",
       "adres": "Abdurrahman Gazi, Kısmet 5. Sk. No:12, 65040 Van Merkez/Van",
-      "ilce": "Van Merkez"
+      "ilce": ""
     },
     {
       "il": "Van",
       "isim": "Van YYÜ Konuk Evi Uygulama Oteli",
       "adres": "Bardakçı, Erciş Yolu Yüzüncü Yıl Üniversitesi Kampüsü, 65090 Merkez/Tuşba/Van",
-      "ilce": "Tuşba"
+      "ilce": ""
     },
     {
       "il": "Van",
@@ -7907,13 +7907,13 @@
       "il": "Van",
       "isim": "Van PTT Misafirhane",
       "adres": "Selimbey, 65040 Van Merkez/Van",
-      "ilce": "Van Merkez"
+      "ilce": "Tuşba"
     },
     {
       "il": "Van",
       "isim": "Van Tcdd Misafirhane",
       "adres": "İstasyon, İstasyon Cd. No:67, 65030 Van Merkez/Van",
-      "ilce": "Van Merkez"
+      "ilce": "Tuşba"
     },
     {
       "il": "Van",
@@ -7931,7 +7931,7 @@
       "il": "Van",
       "isim": "Van Yol-İş Sendikası Misafirhanesi",
       "adres": "Vali Mithat Bey, İskele Cd. No:7, 65130 Van Merkez/Van",
-      "ilce": "Van Merkez"
+      "ilce": "İpekyolu"
     },
     {
       "il": "Van",
@@ -7955,37 +7955,37 @@
       "il": "Van",
       "isim": "Van Orduevi",
       "adres": "Şerefiye, Ordu Cd. No:68, 65140 Van Merkez/Van",
-      "ilce": "Van Merkez"
+      "ilce": "İpekyolu"
     },
     {
       "il": "Yalova",
       "isim": "Yalova Özel Eğitim Merkezi Komutanlığı",
       "adres": "Süleyman Bey, 77100 Yalova Merkez/Yalova",
-      "ilce": "Yalova Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yalova",
       "isim": "Yalova Ptt Misafirhanesi",
       "adres": "Rüstem Paşa, Gazi Paşa Cd. No:36, 77200 Yalova Merkez/Yalova",
-      "ilce": "Yalova Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yalova",
       "isim": "Yalova Öğretmenevi",
       "adres": "Dereağzı Mevki, 77100 Yalova Merkez/Yalova",
-      "ilce": "Yalova Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yalova",
       "isim": "Yalova Dsi Yazlık Dinlenme Tesisleri",
       "adres": "Samanlı Köyü Tigem Pk:77000 Yalova Merkez/yalova, Bahçelievler, 77200 Samanlı/Yalova Merkez/Yalova",
-      "ilce": "Yalova Merkez"
+      "ilce": ""
     },
     {
       "il": "Yalova",
       "isim": "Yalova Uygulama Oteli",
       "adres": "Bahçelievler, Şht. Ömer Faydalı Cd. No:38, 77200 Yalova Merkez/Yalova",
-      "ilce": "Yalova Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yalova",
@@ -7997,7 +7997,7 @@
       "il": "Yalova",
       "isim": "Yalova Zirai Mücadele Yazlık Dinlenme Tesisleri",
       "adres": "Samanlı Köyü Tigem Pk:77000 Yalova Merkez/yalova, Bahçelievler, 77200 Samanlı/Yalova Merkez/Yalova",
-      "ilce": "Yalova Merkez"
+      "ilce": ""
     },
     {
       "il": "Yalova",
@@ -8009,25 +8009,25 @@
       "il": "Yozgat",
       "isim": "Yozgat İl Jandarma Askeri Gazino Müdürlüğü",
       "adres": "Medrese, 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yozgat",
       "isim": "Yozgat Bozok Üniversitesi Uygulama Oteli",
       "adres": "Fatih, Adnan Menderes Blv., 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yozgat",
       "isim": "Yozgat Öğretmenevi",
       "adres": "Medrese Mahallesi, Sivas Caddesi, Merkez, Adnan Menderes Blv. No:147, 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yozgat",
       "isim": "Yozgat Polisevi",
       "adres": "Bahçeşehir, 66200 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yozgat",
@@ -8039,7 +8039,7 @@
       "il": "Yozgat",
       "isim": "Yozgat İl Özel İdare Misafirhanesi",
       "adres": "Köseoğlu, Adnan Menderes Blv. No:70, 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yozgat",
@@ -8105,19 +8105,19 @@
       "il": "Yozgat",
       "isim": "DSİ Yozgat Misafirhanesi",
       "adres": "Medrese, Sivas Yolu, 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": ""
     },
     {
       "il": "Yozgat",
       "isim": "Yozgat Hekimevi",
       "adres": "Tekke, Şeyhzade Cd. No:2, 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Yozgat",
       "isim": "Yozgat Bozok Konuk Evi",
       "adres": "Yeni Cami, Söğütlüdere Cd. No:15, 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Yozgat Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Zonguldak",
@@ -8129,7 +8129,7 @@
       "il": "Zonguldak",
       "isim": "Zonguldak İl Jandarma Askeri Gazino Müdürlüğü",
       "adres": "Yayla, Liman Cd. No:12, 67030 Zonguldak Merkez/Zonguldak",
-      "ilce": "Zonguldak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Zonguldak",
@@ -8141,25 +8141,25 @@
       "il": "Zonguldak",
       "isim": "Yayla Konağı Misafirhanesi",
       "adres": "Yayla, Yağcılar Cd. No:18, 67030 Zonguldak Merkez/Zonguldak",
-      "ilce": "Zonguldak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Zonguldak",
       "isim": "Zonguldak Bülent Ecevit Üniversitesi Konukevi",
       "adres": "İncivez, Otopark, 67100 Zonguldak Merkez/Zonguldak",
-      "ilce": "Zonguldak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Zonguldak",
       "isim": "Zonguldak Öğretmenevi İncivez",
       "adres": "İncivez, Milli Egemenlik Cd. No:157, 67100 Kozlu Belediyesi/Zonguldak Merkez/Zonguldak",
-      "ilce": "Zonguldak Merkez"
+      "ilce": "Kozlu"
     },
     {
       "il": "Zonguldak",
       "isim": "Jandarma Askeri Gazino Zonguldak Orduevi",
       "adres": "Yayla, Liman Cd. No:12, 67030 Zonguldak Merkez/Zonguldak",
-      "ilce": "Zonguldak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Zonguldak",
@@ -8171,7 +8171,7 @@
       "il": "Zonguldak",
       "isim": "Zonguldak Orman İşletme Müdürlüğü Misafirhane",
       "adres": "Yayla, Kapuz Cd., 67030 Zonguldak Merkez/Zonguldak",
-      "ilce": "Zonguldak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Zonguldak",
@@ -8207,43 +8207,43 @@
       "il": "Zonguldak",
       "isim": "Zonguldak TTK Misafirhanesi",
       "adres": "Yayla, Behçet Kemal Çağlar Cd. No:3, 67030 Zonguldak Merkez/Zonguldak",
-      "ilce": "Zonguldak Merkez"
+      "ilce": "Çaycuma"
     },
     {
       "il": "Kıbrıs",
       "isim": "Gazimağusa Orduevi",
       "adres": "Derinya, 4X56+27J, Kuzey 99450",
-      "ilce": "Kuzey"
+      "ilce": ""
     },
     {
       "il": "Kıbrıs",
       "isim": "Kırklar Askeri Gazino Md.lüğü",
       "adres": "Şehit Yavuz Sokak Güzelyurt/KKTC (49'uncu P.A. Askeri Katin Karşısı Güzelyurt, KKTC 99700",
-      "ilce": "KKTC"
+      "ilce": "Lefkoşa"
     },
     {
       "il": "Kıbrıs",
       "isim": "Ortaköy Askeri Gazino Md.lüğü",
       "adres": "EURO CENTER, Ali Rıza Efendi Cd 8, Ortaköy 99010",
-      "ilce": "Ortaköy"
+      "ilce": "Lefkoşa"
     },
     {
       "il": "Kıbrıs",
       "isim": "Değirmenlik Kışla Gazino Md.lüğü",
       "adres": "Şehit Yavuz Sokak Güzelyurt/KKTC (49'uncu P.A. Askeri Katin Karşısı Güzelyurt, KKTC 99700",
-      "ilce": "KKTC"
+      "ilce": "Lefkoşa"
     },
     {
       "il": "Kıbrıs",
       "isim": "Ulukışla Kışla Gazino Md.lüğü",
       "adres": "6JC3+CP, Ulukışla 99655",
-      "ilce": "Ulukışla"
+      "ilce": "Gazimağusa"
     },
     {
       "il": "Kıbrıs",
       "isim": "Paşaköy Kışla Gazino Md.lüğü",
       "adres": "Derinya, 4X56+27J, Kuzey 99450",
-      "ilce": "Kuzey"
+      "ilce": "Gazimağusa"
     },
     {
       "il": "Kıbrıs",
@@ -8255,37 +8255,37 @@
       "il": "Kıbrıs",
       "isim": "Barış Plajı Kışla Gazino Md.lüğü",
       "adres": "8CJ7+MM3, Çatalköy 99370",
-      "ilce": "Çatalköy"
+      "ilce": "Girne"
     },
     {
       "il": "Kıbrıs",
       "isim": "Çamlıbel Kışla Gazino Md.lüğü",
       "adres": "Şehit Yavuz Sokak Güzelyurt/KKTC (49'uncu P.A. Askeri Katin Karşısı Güzelyurt, KKTC 99700",
-      "ilce": "KKTC"
+      "ilce": "Girne"
     },
     {
       "il": "Kıbrıs",
       "isim": "Güzelyurt Askeri Gazino Md.lüğü",
       "adres": "Şehit Yavuz Sokak Güzelyurt/KKTC (49'uncu P.A. Askeri Katin Karşısı Güzelyurt, KKTC 99700",
-      "ilce": "KKTC"
+      "ilce": "Güzelyurt"
     },
     {
       "il": "Kıbrıs",
       "isim": "Ortadoğu Teknik Üniversitesi Kuzey Kıbrıs Kampüsü Konukevi",
       "adres": "ODTÜ Kuzey Kampüsü Misafirhane, Güzelyurt KKTC, 62WJ+P7C, Kalkanlı 99750",
-      "ilce": "Kalkanlı"
+      "ilce": "Güzelyurt"
     },
     {
       "il": "Kıbrıs",
       "isim": "Girne Yalı Orduevi",
       "adres": "88R7+Q3, Kyrenia 99300",
-      "ilce": "Kyrenia"
+      "ilce": ""
     },
     {
       "il": "Kıbrıs",
       "isim": "Güven Orduevi",
       "adres": "Güven Orduevi, Gazimağusa 99500",
-      "ilce": "Gazimağusa"
+      "ilce": ""
     },
     {
       "il": "Adana",
@@ -8411,7 +8411,7 @@
       "il": "Afyonkarahisar",
       "isim": "Afyonkarahisar Polis Evi",
       "adres": "Dörtyol, İzmir Yolu 9. Km., 03218 Afyonkarahisar Merkez/Afyonkarahisar",
-      "ilce": "Afyonkarahisar Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Afyonkarahisar",
@@ -8465,7 +8465,7 @@
       "il": "Ağrı",
       "isim": "Ağrı Öğretmenevi ( Merkez Burçin Uysal Öğretmenevi ve A.S.O. Müdürlüğü)",
       "adres": "Fırat, 934. Sk. No:2 D:1, 04200 Ağrı Merkez/Ağrı",
-      "ilce": "Ağrı Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Ağrı",
@@ -8543,7 +8543,7 @@
       "il": "Amasya",
       "isim": "Amasya Polis Evi",
       "adres": "Göllü Bağları, Ayça Sk No:3, 05200 Amasya Merkez/Amasya",
-      "ilce": "Amasya Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Amasya",
@@ -9071,7 +9071,7 @@
       "il": "Aydın",
       "isim": "Aydın Polis Evi",
       "adres": "Güzelhisar, 09010 Aydın Merkez/Aydın",
-      "ilce": "Aydın Merkez"
+      "ilce": "Efeler"
     },
     {
       "il": "Aydın",
@@ -9437,7 +9437,7 @@
       "il": "Bilecik",
       "isim": "Bilecik Polis Evi",
       "adres": "Hürriyet 1. OSB, Eskişehir İstanbul Asfaltı 72/1, 11000 Bilecik Merkez/Bilecik",
-      "ilce": "Bilecik Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bilecik",
@@ -9473,7 +9473,7 @@
       "il": "Bingöl",
       "isim": "Bingöl Polisevi",
       "adres": "İnönü, Kültür Cd. No:46, 12000 Bingöl",
-      "ilce": "Bingöl"
+      "ilce": "Merkez"
     },
     {
       "il": "Bingöl",
@@ -9485,7 +9485,7 @@
       "il": "Bingöl",
       "isim": "Bingöl Universitesi Konuk Evi",
       "adres": "Şehit Mustafa Gündoğdu, Bingöl Ünv. Lojmanları, 12000 Bingöl",
-      "ilce": "Bingöl"
+      "ilce": "Merkez"
     },
     {
       "il": "Bingöl",
@@ -9509,7 +9509,7 @@
       "il": "Bitlis",
       "isim": "Bitlis Polis Evi",
       "adres": "Atatürk, Feyzullah Ensari Cd. No:139, 13000 Bitlis Merkez/Bitlis",
-      "ilce": "Bitlis Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Bitlis",
@@ -9617,7 +9617,7 @@
       "il": "Burdur",
       "isim": "Burdur Polis Evi",
       "adres": "Burç, Nur Cami Sk. No.1, 15200 Burdur Merkez/Burdur",
-      "ilce": "Burdur Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Burdur",
@@ -10325,7 +10325,7 @@
       "il": "Erzincan",
       "isim": "Erzincan Polis Evi",
       "adres": "İnönü, Halit Paşa Cd., 24180 Erzincan Merkez/Erzincan",
-      "ilce": "Erzincan Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Erzincan",
@@ -10631,7 +10631,7 @@
       "il": "Gümüşhane",
       "isim": "Gumushane Polis Evi",
       "adres": "Karaer, Atatürk Cd. No:1, 29000 Gümüşhane Merkez/Gümüşhane",
-      "ilce": "Gümüşhane Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Gümüşhane",
@@ -10781,7 +10781,7 @@
       "il": "Isparta",
       "isim": "Isparta Polis Evi",
       "adres": "Şevket Savlu Caddesi No:44/48D:No:68, Halıkent, 32040 Isparta Merkez/Isparta",
-      "ilce": "Isparta Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Isparta",
@@ -10895,7 +10895,7 @@
       "il": "İstanbul",
       "isim": "Merter POLISEVI ( PEKOM)",
       "adres": "Maltepe, 34010 Zeytinburnu/İstanbul",
-      "ilce": "Zeytinburnu"
+      "ilce": "Güngören"
     },
     {
       "il": "İstanbul",
@@ -11759,7 +11759,7 @@
       "il": "Kırşehir",
       "isim": "Kırşehir Polis Evi",
       "adres": "Ahievran, Mehmet Ali Yapıcı Blv. No:1, 40100 Kırşehir Merkez/Kırşehir",
-      "ilce": "Kırşehir Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Kırşehir",
@@ -12773,7 +12773,7 @@
       "il": "Şanlıurfa",
       "isim": "Şanlıurfa Jandarma Sosyal Tesisleri",
       "adres": "Karşıyaka, 4004. Sk. No:3 D:B, 63320 Karaköprü/Şanlıurfa",
-      "ilce": "Karaköprü"
+      "ilce": ""
     },
     {
       "il": "Şanlıurfa",
@@ -13205,7 +13205,7 @@
       "il": "Uşak",
       "isim": "Uşak Polis Evi",
       "adres": "İslice, Nuri Şeker Cd. No:50, 64400 Uşak Merkez/Uşak",
-      "ilce": "Uşak Merkez"
+      "ilce": "Merkez"
     },
     {
       "il": "Van",
@@ -13344,6 +13344,3246 @@
       "isim": "Kozlu Öğretmenevi",
       "adres": "Merkez, 67510 Kozlu/Zonguldak",
       "ilce": "Kozlu"
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana İmamoğlu Öğretmenevi",
+      "adres": "",
+      "ilce": "İmamoğlu"
+    },
+    {
+      "il": "Adıyaman",
+      "isim": "Adıyaman Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ağrı",
+      "isim": "Ağrı Ahmed-i Hani Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ankara",
+      "isim": "DHMİ Havacılık Akademisi Ankara Esenboğa Eğitim Tesisi",
+      "adres": "",
+      "ilce": "Çubuk"
+    },
+    {
+      "il": "Ankara",
+      "isim": "TEKSİF EĞİTİM & DİNLENME TESİSİ",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Muratpaşa"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Orman Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Muratpaşa"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Kepez Belediyesi (Hasta) Konuk Evi",
+      "adres": "",
+      "ilce": "Kepez"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Koca Seyit Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Merkez Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Altıeylül"
+    },
+    {
+      "il": "Bingöl",
+      "isim": "Bingöl Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli Çardak Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Çardak"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "DHMİ Havacılık Akademisi Erzincan Eğitim Tesisi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Astsubay Orduevi",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Gaziantep Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Oğuzeli"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Yüksekova Selahaddin Eyyubi Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Yüksekova"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır Şehit Bülent Aydın Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Adalet Bakanlığı Ord. Prof. Dr. Sulhi Dönmezer İstanbul Eğitim Merkezi Misafirhanesi",
+      "adres": "",
+      "ilce": "Bahçelievler"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Bahçelievler Abidin Pak Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "",
+      "ilce": "Bahçelievler"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "DHMİ Florya Atatürk Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Bakırköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "DHMİ Havacılık Akademisi İstanbul Eğitim Tesisi",
+      "adres": "",
+      "ilce": "Bakırköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Diyanet Evi Sultanahmet",
+      "adres": "",
+      "ilce": "Fatih"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "DSİ 14. Bölge Misafirhanesi",
+      "adres": "",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Et ve Süt Kurumu İstanbul Misafirhanesi",
+      "adres": "",
+      "ilce": "Beylikdüzü"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Meteoroloji 1. Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Kartal"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Alaçatı Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "",
+      "ilce": "Çeşme"
+    },
+    {
+      "il": "İzmir",
+      "isim": "DHMİ Havacılık Akademisi İzmir Eğitim Tesisi",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "İzmir",
+      "isim": "DHMİ İzmir Adnan Menderes Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Gaziemir"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Karaburun-Akdağ Havacılık Akademisi Eğitim Tesisi",
+      "adres": "",
+      "ilce": "Karaburun"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir SGK Misafirhanesi",
+      "adres": "",
+      "ilce": "Konak"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Meteoroloji 2. Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Konak"
+    },
+    {
+      "il": "Kars",
+      "isim": "Kars Harakani Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Kocasinan"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Yeşilyurt Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Güzelyurt"
+    },
+    {
+      "il": "Kıbrıs",
+      "isim": "Güngör Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Lefkoşa"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Selçuklu"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Dumlupınar Üniversitesi Konukevi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Prof. Dr. Aziz Sancar Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Kızıltepe"
+    },
+    {
+      "il": "Mersin",
+      "isim": "DHMİ Çukurova Uluslararası Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Tarsus"
+    },
+    {
+      "il": "Mersin",
+      "isim": "DSİ 6. Bölge Kapızlı Eğitim Ve Dinlenme Tesisi",
+      "adres": "",
+      "ilce": "Silifke"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Hizmet İçi Eğitim Enstitüsü",
+      "adres": "",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Dalaman Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Dalaman"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Milas Bodrum Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler",
+      "adres": "",
+      "ilce": "Menteşe"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "",
+      "ilce": "Altınordu"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize – Artvin Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Pazar"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa GAP Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Haliliye"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Şerafettin Elçi Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "İdil"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Nuri Demirağ Havalimanı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Adıyaman",
+      "isim": "Adıyaman Çelikhan Öğretmenevi",
+      "adres": "",
+      "ilce": "Çelikhan"
+    },
+    {
+      "il": "Adıyaman",
+      "isim": "Adıyaman Tut Öğretmenevi",
+      "adres": "",
+      "ilce": "Tut"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Bala Öğretmenevi",
+      "adres": "",
+      "ilce": "Bala"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Beypazarı Öğretmenevi",
+      "adres": "",
+      "ilce": "Beypazarı"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Nallıhan Öğretmenevi",
+      "adres": "",
+      "ilce": "Nallıhan"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Haymana Öğretmenevi",
+      "adres": "",
+      "ilce": "Haymana"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Kızılcahamam Öğretmenevi",
+      "adres": "",
+      "ilce": "Kızılcahamam"
+    },
+    {
+      "il": "Artvin",
+      "isim": "Artvin Şavşat Öğretmenevi",
+      "adres": "",
+      "ilce": "Şavşat"
+    },
+    {
+      "il": "Bilecik",
+      "isim": "Bilecik Söğüt Öğretmenevi",
+      "adres": "",
+      "ilce": "Söğüt"
+    },
+    {
+      "il": "Bilecik",
+      "isim": "Söğüt Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Söğüt"
+    },
+    {
+      "il": "Bingöl",
+      "isim": "Bingöl Adaklı Öğretmenevi",
+      "adres": "",
+      "ilce": "Adaklı"
+    },
+    {
+      "il": "Bingöl",
+      "isim": "Bingöl Karlıova Öğretmenevi",
+      "adres": "",
+      "ilce": "Karlıova"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Gemlik Daniş Ekim Öğretmenevi",
+      "adres": "",
+      "ilce": "Gemlik"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Mudanya Öğretmenevi",
+      "adres": "",
+      "ilce": "Mudanya"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Orhangazi Öğretmenevi",
+      "adres": "",
+      "ilce": "Orhangazi"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Gökçeada Öğretmenevi",
+      "adres": "",
+      "ilce": "Gökçeada"
+    },
+    {
+      "il": "Çankırı",
+      "isim": "Çankırı Kızılırmak Öğretmenevi",
+      "adres": "",
+      "ilce": "Kızılırmak"
+    },
+    {
+      "il": "Çorum",
+      "isim": "Çorum Alaca Öğretmenevi",
+      "adres": "",
+      "ilce": "Alaca"
+    },
+    {
+      "il": "Çorum",
+      "isim": "Çorum Bayat Öğretmenevi",
+      "adres": "",
+      "ilce": "Bayat"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Eğil Öğretmenevi",
+      "adres": "",
+      "ilce": "Eğil"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Ağın Yusuf Karabatak Öğretmenevi",
+      "adres": "",
+      "ilce": "Ağın"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Arıcak Öğretmenevi",
+      "adres": "",
+      "ilce": "Arıcak"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Karaçoban Öğretmenevi",
+      "adres": "",
+      "ilce": "Karaçoban"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Gaziantep İslahiye Sabancı Öğretmenevi",
+      "adres": "",
+      "ilce": "İslahiye"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Gaziantep Oğuzeli Öğretmenevi",
+      "adres": "",
+      "ilce": "Oğuzeli"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Çamoluk Öğretmenevi",
+      "adres": "",
+      "ilce": "Çamoluk"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Doğankent Öğretmenevi",
+      "adres": "",
+      "ilce": "Doğankent"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Piraziz Öğretmenevi",
+      "adres": "",
+      "ilce": "Piraziz"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Şemdinli Öğretmenevi",
+      "adres": "",
+      "ilce": "Şemdinli"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Beylikdüzü Atatürk Öğretmenevi",
+      "adres": "",
+      "ilce": "Beylikdüzü"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Çatalzeytin Öğretmenevi",
+      "adres": "",
+      "ilce": "Çatalzeytin"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Doğanyurt Necdet Ruhi Aygün Öğretmenevi",
+      "adres": "",
+      "ilce": "Doğanyurt"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Kırşehir Çiçekdağı Şehit Yücel Yılmaz Öğretmenevi",
+      "adres": "",
+      "ilce": "Çiçekdağı"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Yunak Öğretmenevi",
+      "adres": "",
+      "ilce": "Yunak"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Kütahya Tavşanlı Öğretmenevi",
+      "adres": "",
+      "ilce": "Tavşanlı"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Malatya Arapgir Şehit Hüsnü Bilgiç Öğretmenevi",
+      "adres": "",
+      "ilce": "Arapgir"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Malatya Doğanyol Tanrıverdi Öğretmenevi",
+      "adres": "",
+      "ilce": "Doğanyol"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Manisa Gördes Ataman-Koç Öğretmenevi",
+      "adres": "",
+      "ilce": "Gördes"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaraş Ekinözü Öğretmenevi",
+      "adres": "",
+      "ilce": "Ekinözü"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Mazıdağı Öğretmenevi",
+      "adres": "",
+      "ilce": "Mazıdağı"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Ömerli Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "adres": "",
+      "ilce": "Ömerli"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Nusaybin Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Nusaybin"
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Mardin",
+      "isim": "223.No.lu Hv.Rd.Kt.K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Artuklu"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Ula Öğretmenevi",
+      "adres": "",
+      "ilce": "Ula"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Nevşehir Gülşehir Öğretmenevi",
+      "adres": "",
+      "ilce": "Gülşehir"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Çamlıhemşin Yamantürk Öğretmenevi",
+      "adres": "",
+      "ilce": "Çamlıhemşin"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Karasu Öğretmenevi",
+      "adres": "",
+      "ilce": "Karasu"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Söğütlü Öğretmenevi ve Akşama Sanat Okulu",
+      "adres": "",
+      "ilce": "Söğütlü"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Taraklı Öğretmenevi",
+      "adres": "",
+      "ilce": "Taraklı"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Baykan Öğretmenevi",
+      "adres": "",
+      "ilce": "Baykan"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Doğanşar Öğretmenevi",
+      "adres": "",
+      "ilce": "Doğanşar"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Gölova Selahattin Ayan Öğretmenevi",
+      "adres": "",
+      "ilce": "Gölova"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Koyulhisar Öğretmenevi",
+      "adres": "",
+      "ilce": "Koyulhisar"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Trabzon Sürmene İnci Hamitcan Aksoy Öğretmenevi",
+      "adres": "",
+      "ilce": "Sürmene"
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Trabzon Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Ortahisar"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli Pertek Öğretmenevi",
+      "adres": "",
+      "ilce": "Pertek"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Karaköprü Onikilier Öğretmenevi",
+      "adres": "",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Yozgat",
+      "isim": "Yozgat Şefaatli Öğretmenevi",
+      "adres": "",
+      "ilce": "Şefaatli"
+    },
+    {
+      "il": "Yozgat",
+      "isim": "Yozgat Yenifakılı Öğretmenevi",
+      "adres": "",
+      "ilce": "Yenifakılı"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak İdil Öğretmenevi",
+      "adres": "",
+      "ilce": "İdil"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Uludere Öğretmenevi",
+      "adres": "",
+      "ilce": "Uludere"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Karabük Eflani Öğretmenevi",
+      "adres": "",
+      "ilce": "Eflani"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Düziçi Öğretmenevi",
+      "adres": "",
+      "ilce": "Düziçi"
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana TEDAŞ Misafirhanesi",
+      "adres": "",
+      "ilce": "Yüreğir"
+    },
+    {
+      "il": "Adıyaman",
+      "isim": "Adıyaman Üniversitesi Turizm Uygulama Oteli",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Antalya",
+      "isim": "İller Bankası A.Ş. Antalya Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Manavgat Maliye Misafirhanesi",
+      "adres": "",
+      "ilce": "Manavgat"
+    },
+    {
+      "il": "Bingöl",
+      "isim": "Bingöl Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çankırı",
+      "isim": "Çankırı Ilgaz Kış Sporları Eğitim Merkezi",
+      "adres": "",
+      "ilce": "Ilgaz"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli Askeri Gazinosu",
+      "adres": "",
+      "ilce": "Merkezefendi"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne İpsala 116. Jandarma Tesisleri",
+      "adres": "",
+      "ilce": "İpsala"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Askeri Gazinosu",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Gümüşhane",
+      "isim": "Gümüşhane Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Yüksekova Askeri Gazinosu",
+      "adres": "",
+      "ilce": "Yüksekova"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Pendik Pavli Vardiya Yatakhanesi Şb.Md.lüğü",
+      "adres": "",
+      "ilce": "Pendik"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Darıca Yerel Özel Eğitim Merkezi (Kamp)",
+      "adres": "",
+      "ilce": "Darıca"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Kandıra Kefken Kampı",
+      "adres": "",
+      "ilce": "Kandıra"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Subay Orduevi",
+      "adres": "",
+      "ilce": "Meram"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Kütahya Hava Er Eğitim K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Niğde Bor Askeri Misafirhanesi (Gazino)",
+      "adres": "",
+      "ilce": "Bor"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Askeri Gazinosu",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Ticaret Bakanlığı Eğitim Merkezi ve Konukevi",
+      "adres": "",
+      "ilce": "Akyurt"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Türk Eğitim-Sen Öğrenci Misafirhanesi",
+      "adres": "",
+      "ilce": "Altındağ"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Açık Ceza İnfaz Kurumu Adaletevi Misafirhanesi",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Türkiye Belediyeler Birliği Konukevi",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaraş Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Onikişubat"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Fidanlık Misafirhanesi",
+      "adres": "",
+      "ilce": "Meram"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Kütahya Belediyesi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kütahya",
+      "isim": "Kütahya Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Türkiye Diyanet Vakfı Manisa Konukevi",
+      "adres": "",
+      "ilce": "Yunusemre"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Urla Polisevi",
+      "adres": "",
+      "ilce": "Urla"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Alanya Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Alanya"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Orman Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir PTT Misafirhanesi",
+      "adres": "",
+      "ilce": "Altıeylül"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Ayvalık Vilayetler Evi (VE Hotels)",
+      "adres": "",
+      "ilce": "Ayvalık"
+    },
+    {
+      "il": "Bingöl",
+      "isim": "Bingöl Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bingöl",
+      "isim": "Kiğı Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Kiğı"
+    },
+    {
+      "il": "Bolu",
+      "isim": "Bolu Karayolları 41. Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Çekirge Polis Eğitim ve Dinlenme Tesisi",
+      "adres": "",
+      "ilce": "Osmangazi"
+    },
+    {
+      "il": "Çankırı",
+      "isim": "Çankırı İl Özel İdaresi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bitlis",
+      "isim": "Bitlis Tatvan Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Tatvan"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Gelibolu Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Gelibolu"
+    },
+    {
+      "il": "Çorum",
+      "isim": "Çorum Polisevi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli Pamukkale Üniversitesi Sosyal Tesisleri ve Konukevi",
+      "adres": "",
+      "ilce": "Pamukkale"
+    },
+    {
+      "il": "Rize",
+      "isim": "Şehit Altuğ Verdi Rize Polisevi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Askeri Gazinosu",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Tokat",
+      "isim": "Tokat Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Karayolları 104.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Orman Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Yeşil Giresun Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun DSİ Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Hatay",
+      "isim": "DSİ 63.Şube Md.lüğü Hatay Misafirhanesi",
+      "adres": "",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Isparta",
+      "isim": "Isparta Karayolları 135.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Isparta Orman Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Beyoğlu PTT Misafirhanesi",
+      "adres": "",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Balçova Termal Otel ve Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Balçova"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Narlıdere Polisevi (Moral Eğitim Merkezi)",
+      "adres": "",
+      "ilce": "Narlıdere"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Tarım ve Orman Bakanlığı Foça Kampı",
+      "adres": "",
+      "ilce": "Foça"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Yeni Foça Polisevi (Foça)",
+      "adres": "",
+      "ilce": "Foça"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Bergama Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Bergama"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Çeşme Polisevi",
+      "adres": "",
+      "ilce": "Çeşme"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir DSİ 2.Bölge Md.lüğü Gümüldür Kampı",
+      "adres": "",
+      "ilce": "Menderes"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Ereğli Polisevi",
+      "adres": "",
+      "ilce": "Ereğli"
+    },
+    {
+      "il": "Kırşehir",
+      "isim": "Kırşehir Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kilis",
+      "isim": "Kilis İl Özel İdare Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Manisa Ege Linyitleri İşletmesi Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Soma"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Üniversitesi Kırkpınar Turizm Meslek Yüksekokulu Uygulama Oteli",
+      "adres": "",
+      "ilce": "Sapanca"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Çerkezköy Polisevi",
+      "adres": "",
+      "ilce": "Çerkezköy"
+    },
+    {
+      "il": "Uşak",
+      "isim": "Uşak Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Bayburt",
+      "isim": "Bayburt Baksı Müzesi Konukevi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bayburt",
+      "isim": "Bayburt Loru Han (Kenan Yavuz Etnografya Müzesi Konukevi)",
+      "adres": "",
+      "ilce": "Demirözü"
+    },
+    {
+      "il": "Batman",
+      "isim": "Batman Üniversitesi Hasankeyf Uygulama Oteli",
+      "adres": "",
+      "ilce": "Hasankeyf"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Cizre Polisevi (Polis Lokali)",
+      "adres": "",
+      "ilce": "Cizre"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Silopi Polisevi",
+      "adres": "",
+      "ilce": "Silopi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Erciyes Jandarma Kış Eğitim Merkezi K.lığı",
+      "adres": "",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Alanya Ümit Altay Uygulama Oteli",
+      "adres": "",
+      "ilce": "Alanya"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Kemer Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Kemer"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Kaş Uygulama Oteli",
+      "adres": "",
+      "ilce": "Kaş"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Oltu Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Oltu"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Bodrum Turgut Reis Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Bodrum"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Sıtkı Koçman Üniversitesi Akyaka Uygulama Oteli",
+      "adres": "",
+      "ilce": "Ula"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Selçuk Uygulama Oteli",
+      "adres": "",
+      "ilce": "Selçuk"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Çeşme Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Çeşme"
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın Kuşadası Güvercinada Uygulama Oteli",
+      "adres": "",
+      "ilce": "Kuşadası"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Fethiye Şehit Yüzbaşı Özgür Özekin Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Fethiye"
+    },
+    {
+      "il": "Afyonkarahisar",
+      "isim": "Afyonkarahisar Emir Murat Özdilek Uygulama Oteli",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Üçkuyu Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Şehit Erol Olçok Turizm Mesleki ve Teknik Anadolu Lisesi Şehit Abdullah Tayyip Olçok Uygulama Oteli",
+      "adres": "",
+      "ilce": "Osmangazi"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Cunda Uygulama Oteli",
+      "adres": "",
+      "ilce": "Ayvalık"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Alsancak Tarihi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Konak"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Şarköy Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Şarköy"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Lara Polisevi İktisadi İşletmesi",
+      "adres": "",
+      "ilce": "Muratpaşa"
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın İLKSAN Didim Sosyal Tesisi",
+      "adres": "",
+      "ilce": "Didim"
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın TKİ Didim Eğitim ve Dinlenme Tesisi",
+      "adres": "",
+      "ilce": "Didim"
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın Demiryol-İş Sendikası Didim Eğitim ve Dinlenme Tesisleri",
+      "adres": "",
+      "ilce": "Didim"
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın TŞOF Didim Eğitim ve Dinlenme Tesisi",
+      "adres": "",
+      "ilce": "Didim"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Gazi Mustafa Kemal Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Karesi"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Anadolu Hakimevi",
+      "adres": "",
+      "ilce": "Ümraniye"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Gölbaşı Hakimevi",
+      "adres": "",
+      "ilce": "Gölbaşı"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Kızılcahamam Hakimevi",
+      "adres": "",
+      "ilce": "Kızılcahamam"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Hakimevi",
+      "adres": "",
+      "ilce": "Karatay"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Hakimevi",
+      "adres": "",
+      "ilce": "Sur"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Hakimevi",
+      "adres": "",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Aydın",
+      "isim": "Aydın Söke Zirai Üretim İşletmesi Tarımsal Yayım ve Hizmetiçi Eğitim Merkezi Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Söke"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Köyceğiz Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Köyceğiz"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Manavgat Uygulama Oteli",
+      "adres": "",
+      "ilce": "Manavgat"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Mihmandar Uygulama Tesisleri",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Polisevi",
+      "adres": "",
+      "ilce": "Gölbaşı"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Bayındır Otel",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Meteoroloji 3.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Çorlu Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Çorlu"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Vilayetler Evi (VE Hotels)",
+      "adres": "",
+      "ilce": "Sur"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Seferihisar Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Seferihisar"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne Keşan Mecidiye Askeri Kampı (MSB Özel Eğitim Merkezi)",
+      "adres": "",
+      "ilce": "Keşan"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli Karayolları 27.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Pamukkale"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli Orman Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Pamukkale"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Seferihisar Polisevi (Polis Kampı)",
+      "adres": "",
+      "ilce": "Seferihisar"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Sultan Alparslan Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Dışkapı Uzman Erbaş Misafirhanesi",
+      "adres": "",
+      "ilce": "Altındağ"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Tapu Kadastro Vakfı Misafirhanesi",
+      "adres": "",
+      "ilce": "Osmangazi"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Kaş Meteoroloji Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Kaş"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Marmaris Meteoroloji Misafirhanesi",
+      "adres": "",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Datça Meteoroloji Misafirhanesi",
+      "adres": "",
+      "ilce": "Datça"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Meteoroloji 15.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Bağlar"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Anamur Meteoroloji Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Anamur"
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Meteoroloji 6. Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Yüreğir"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne DSİ 114.Şube Md.lüğü İpsala Misafirhanesi",
+      "adres": "",
+      "ilce": "İpsala"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Datça Hava Radar Mevzi Komutanlığı Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Datça"
+    },
+    {
+      "il": "Zonguldak",
+      "isim": "Zonguldak Ereğli Polisevi",
+      "adres": "",
+      "ilce": "Ereğli"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Ayvalık Jandarma Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Ayvalık"
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana İl Sağlık Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Seyhan"
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Taşköprü Konukevi",
+      "adres": "",
+      "ilce": "Seyhan"
+    },
+    {
+      "il": "Adana",
+      "isim": "10.Tanker Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Yüreğir"
+    },
+    {
+      "il": "Adıyaman",
+      "isim": "Adıyaman Devlet Su İşleri Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Afyonkarahisar",
+      "isim": "Afyonkarahisar Orman İşletme Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Afyonkarahisar",
+      "isim": "Afyonkarahisar Karayolları 31.Şube Şefliği ve Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Afyonkarahisar",
+      "isim": "Afyonkarahisar Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ağrı",
+      "isim": "Ağrı TEİAŞ Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ağrı",
+      "isim": "Ağrı İbrahim Çeçen Üniversitesi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Ağrı",
+      "isim": "Gökay Askeri Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Doğubayazıt"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Kr.Hvcl.K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Etimesgut"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara 3.Hv.İs.İnş.Tb.K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Etimesgut"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Mürted Hava Meydan K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Kahramankazan"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara 4.Kolordu K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Mamak"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Polatlı Acıkır Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Polatlı"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Dz.K.K.lığı Kh.Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Jandarma ve Sahil Güvenlik Akademesi Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Sahil Güvenlik K.lığı Misafirhanesi",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Kızılay Uzman Erbaş Misafirhanesi",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Sıhhıye Orduevi Md.lüğü Astsubay Misafirhanesi",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Kara Kuvvetleri K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Sıhhıye Orduevi Md.lüğü",
+      "adres": "",
+      "ilce": "Çankaya"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Muratpaşa"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Hava Meydan K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Muratpaşa"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Sahil Güvenlik Antalya Grup K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Konyaaltı"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Sahil Güvenlik Okul K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Kepez"
+    },
+    {
+      "il": "Antalya",
+      "isim": "Antalya Alanya Belediyesi Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Alanya"
+    },
+    {
+      "il": "Artvin",
+      "isim": "Artvin Orduevi Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Artvin",
+      "isim": "Artvin Orman Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Bakım Okulu ve Eğitim Merkezi K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Altıeylül"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir 9.Ana Jet Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Karesi"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir İl Özel İdaresi Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Karesi"
+    },
+    {
+      "il": "Bitlis",
+      "isim": "Bitlis İl Sağlık Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bitlis",
+      "isim": "Bitlis DSİ Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bolu",
+      "isim": "Bolu Abant İzzet Baysal Üniversistesi Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa SGK İl Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Osmangazi"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa PTT Misafirhanesi",
+      "adres": "",
+      "ilce": "Osmangazi"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Ziraat Bankası Misafirhanesi",
+      "adres": "",
+      "ilce": "Osmangazi"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa TEİAŞ 2.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Nilüfer"
+    },
+    {
+      "il": "Bursa",
+      "isim": "İstanbul Teknik Üniversitesi Bursa Konukevi",
+      "adres": "",
+      "ilce": "Nilüfer"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Bursa Dini İhtisas Merkezi Md.lüğü Misafirhanesi ve TDV Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Nilüfer"
+    },
+    {
+      "il": "Bursa",
+      "isim": "Uludağ Jandarma Kış Eğitim Merkezi K.lığı",
+      "adres": "",
+      "ilce": "Osmangazi"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Adalet Bakanlığı Gökçeada Kampı",
+      "adres": "",
+      "ilce": "Gökçeada"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Deniz Hava Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale TEİAŞ İletim, İşletme ve Bakım Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Karayolları 142.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Askeri Gazino Md.lüğü Barbaros Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Eceabat"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Gökçeada Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Gökçeada"
+    },
+    {
+      "il": "Çanakkale",
+      "isim": "Çanakkale Şehit Pilot Oktay Güngördü Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çankırı",
+      "isim": "Çankırı Belediyesi Sosyal Tesisi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çorum",
+      "isim": "Çorum Belediyesi Refakatçi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Çorum",
+      "isim": "Çorum Karayolları 73.Şube Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli TEİAŞ 21.İletim Tesis ve İşletme Grup Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkezefendi"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli İl Sağlık Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkezefendi"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Türkiye Diyanet Vakfı Denizli Konukevi",
+      "adres": "",
+      "ilce": "Merkezefendi"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Denizli Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Pamukkale"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır İl Tarım ve Orman Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır TCDD Misafirhanesi",
+      "adres": "",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Türkiye Diyanet Vakfı Diyarbakır Konukevi",
+      "adres": "",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Büyükşehir Belediyesi Kız Öğrenci Misafirhanesi",
+      "adres": "",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır 52.Bakım Fabrika Md.üğü Vardiya Yatakhanesi",
+      "adres": "",
+      "ilce": "Kayapınar"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Gümrük Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Kayapınar"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Açık Ceza İnfaz Kurumu Misafirhanesi",
+      "adres": "",
+      "ilce": "Kayapınar"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır 8.Ana Jet Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Bağlar"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Çevre ve Şehircilik İl Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Bağlar"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Silvan Jandarma Komando Alay K.lığı Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Silvan"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Hani Jandarma Komando Tabur K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Hani"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Şehit Er Hayri Ayhan Kışlası Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Ergani"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Bilgekışla Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Kayapınar"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Orman İşletme Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Sur"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Lice Jandarma Komando Alay K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Lice"
+    },
+    {
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Jandarma Bölge K.lığı Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Yenişehir"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne Süloğlu Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Süloğlu"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne Maliye Kampı",
+      "adres": "",
+      "ilce": "Keşan"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne İstanbul Üniversitesi Enez Kampı",
+      "adres": "",
+      "ilce": "Enez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne Trakya Üniversitesi Enez Kampı",
+      "adres": "",
+      "ilce": "Enez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne Başakşehir Belediyesi Enez Gençlik Kampı",
+      "adres": "",
+      "ilce": "Enez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne İl Özel İdaresi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne TCDD Yatakhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Edirne Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Meteoroloji 13. Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ Karayolları 8. Bölge Dinlenme Tesisi ve Konukevi",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Elazığ",
+      "isim": "Elazığ İl Sağlık Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Erzincan",
+      "isim": "Erzincan Çevre Şehircilik İl Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Çevre ve Şehircilik İl Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Atatürk Üniversitesi Konukevi-3",
+      "adres": "",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Hüseyin Turgut Erzurum Eğitim Merkezi Misafirhanesi",
+      "adres": "",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Orduevi Md.lüğü",
+      "adres": "",
+      "ilce": "Yakutiye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Diyanet Akademisi Erzurum Ömer Nasuhi Bilmen Dini Yüksek İhtisas Merkezi Misafirhanesi",
+      "adres": "",
+      "ilce": "Aziziye"
+    },
+    {
+      "il": "Erzurum",
+      "isim": "Erzurum Ilıca Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Aziziye"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir 1.Ana Jet Üs K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Tepebaşı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Çevre ve Şehircilik İl Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Tepebaşı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Toprak Mahsulleri Ofisi Başmüdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Odunpazarı"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Sivrihisar Meydan K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Sivrihisar"
+    },
+    {
+      "il": "Eskişehir",
+      "isim": "1.Hava Bakım Fabrikası Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Tepebaşı"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Türkiye Diyanet Vakfı Gaziantep Misafirhanesi",
+      "adres": "",
+      "ilce": "Şehitkamil"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Gaziantep Şehit Karayılan Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "Gaziantep Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Şahinbey"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "İslahiye Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "İslahiye"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Şemdinli Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Şemdinli"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Derecik Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Derecik"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari DSİ 174.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari İl Özel İdaresi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Hakkari Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Hakkari",
+      "isim": "Çukurca Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Çukurca"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay TCDD Arsuz Eğitim ve Dinlenme Tesisi ve Kampı",
+      "adres": "",
+      "ilce": "Arsuz"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Yatırım İzleme ve Koordinasyon Başkanlığı Arsuz Eğitim ve Dinlenme Tesisi",
+      "adres": "",
+      "ilce": "Arsuz"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Defterdarlığı Dinlenme Tesisi ve Kampı",
+      "adres": "",
+      "ilce": "Arsuz"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Mustafa Kemal Üniversitesi Misafirhanesi",
+      "adres": "",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Hatay",
+      "isim": "PTT Hatay Misafirhanesi",
+      "adres": "",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Uluçınar Özel Eğitim Merkezi K.lığı",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Hatay",
+      "isim": "Hatay Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Antakya"
+    },
+    {
+      "il": "Hatay",
+      "isim": "Dörtyol Jandarma Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Dörtyol"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Isparta Kızaldağ Milli Parkı Konaklama Tesisleri",
+      "adres": "",
+      "ilce": "Şarkikaraağaç"
+    },
+    {
+      "il": "Isparta",
+      "isim": "Isparta Kara Havacılık Okulu Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Keçiborlu"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Sahil Güvenlik Akdeniz Bölge K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Akdeniz"
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Çağ Üniversitesi Yaşar Bayboğan Konukevi",
+      "adres": "",
+      "ilce": "Tarsus"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Alemdağ Jandarma Tabur K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Çekmeköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Ataşehir TEDAŞ-AYEDAŞ Bölge Misafirhanesi",
+      "adres": "",
+      "ilce": "Ataşehir"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Piyade Okul K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Tuzla"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul İkmal Maliye Okulu K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Maltepe"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Maltepe Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Maltepe"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Kara Dikimevi Md.lüğü Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Maltepe"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Ümraniye TEİAŞ 4.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Ümraniye"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul SGK Üsküdar Misafirhanesi",
+      "adres": "",
+      "ilce": "Üsküdar"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Vilayetler Birliği Boğaziçi Oteli",
+      "adres": "",
+      "ilce": "Sarıyer"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Çaykur İstanbul Misafirhanesi",
+      "adres": "",
+      "ilce": "Sarıyer"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul TCDD Fenarbahçe Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Kadıköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Hadımköy Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Esenyurt"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul MKE Misafirhanesi",
+      "adres": "",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Vakıflar 1.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Beyoğlu"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Boğaz K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Beykoz"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Yenilevent Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Beşiktaş"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İstanbul Hava Harp Okulu K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Bakırköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Sarıgazi Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Çekmeköy"
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Deniz Harp Okulu K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Tuzla"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Hava Teknik Okl.K.lığı Vardiya Yatakhanesi Md.lüğü ve Gaziemir Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Gaziemir"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Sahil Güvenlik Hava K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Gaziemir"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Dokuz Eylül Üniversitesi Öğretim Elemanı ve Araştırmacı Konukevi",
+      "adres": "",
+      "ilce": "Buca"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Buca Açık Ceza İnfaz Kurumu Misafirhanesi",
+      "adres": "",
+      "ilce": "Buca"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Dokuz Eylül Üniversitesi Seferihisar Öğrenci Eğitim ve Dinlenme Tesisleri",
+      "adres": "",
+      "ilce": "Seferihisar"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Türkiye Diyanet Vakfı Tire Konukevi",
+      "adres": "",
+      "ilce": "Tire"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Menemen Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Menemen"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Ilıca PTT Eğitim Merkezi ve Konukevi",
+      "adres": "",
+      "ilce": "Çeşme"
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir İl Jandarma K.lığı Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Buca"
+    },
+    {
+      "il": "İzmir",
+      "isim": "Narlıdere Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Narlıdere"
+    },
+    {
+      "il": "Kars",
+      "isim": "Kars İl Sağlık Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu İhsangazi Belediye Misafirhanesi",
+      "adres": "",
+      "ilce": "İhsangazi"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu İlbank Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Tapu ve Kadastro 19.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Karayolları 15.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Jandarma Komando Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Kastamonu Azdavay Belediyesi Mehmet Avni İman Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Azdavay"
+    },
+    {
+      "il": "Kastamonu",
+      "isim": "Ilgaz Jandarma Kış Eğitim Merkezi K.lığı",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri İl Sağlık Md.lüğü Bölge Eğitim Araştırma ve Uygulama Merkezi Misafirhanesi",
+      "adres": "",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri 2.Hava Bakım Fabrika Md.lüğü Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Jandarma Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Melikgazi"
+    },
+    {
+      "il": "Kayseri",
+      "isim": "12.Hava Ulaştırma Ana Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Kocasinan"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Üniversitesi Derbent Uygulama Oteli",
+      "adres": "",
+      "ilce": "Kartepe"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Kartepe Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Kartepe"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Gümrük ve Muhafaza Baş Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Kocaeli Jandarma Sosyal Tesis K.lığı",
+      "adres": "",
+      "ilce": "İzmit"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Türkiye Diyanet Vakfı Kocaeli Konukevi",
+      "adres": "",
+      "ilce": "Başiskele"
+    },
+    {
+      "il": "Kocaeli",
+      "isim": "Gölcük Tersanesi Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Gölcük"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya 3.Ana Jet Üssü Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Selçuklu"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Karapınar Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Karapınar"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Ilgın DSİ İşletme Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Ilgın"
+    },
+    {
+      "il": "Konya",
+      "isim": "Konya Çumra DSİ Misafirhanesi",
+      "adres": "",
+      "ilce": "Çumra"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Malatya Fırat Gümrük ve Dış Ticaret Bölge Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Malatya",
+      "isim": "Malatya 2.Ordu K.lığı Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Malatya",
+      "isim": "7.Ana Jet Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Yeşilyurt"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Manisa Orman İşletme Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Yunusemre"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Türk Metal Sendikası Manisa Misafirhanesi",
+      "adres": "",
+      "ilce": "Şehzadeler"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Akhisar Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Akhisar"
+    },
+    {
+      "il": "Manisa",
+      "isim": "Kırkağaç Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Kırkağaç"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaraş Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Onikişubat"
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Kahramanmaraş İl Sağlık Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Onikişubat"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Tarım İşletmeleri Genel Md.lüğü Dalaman Misafirhanesi",
+      "adres": "",
+      "ilce": "Dalaman"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Dalaman Deniz Hava Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Dalaman"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Milas Hava Meydan K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Milas"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Marmaris Karayolları 26.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Marmaris"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Datça Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Datça"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Turgutreis Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Bodrum"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Mumcular Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Bodrum"
+    },
+    {
+      "il": "Muğla",
+      "isim": "Dalaman Hava Meydan K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Dalaman"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Nusret Sarman Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş DSİ 172.Şube Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Havaliamanı DHMİ Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Karayolları 113.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Gıda, Tarım ve Hayvacılık İl Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Şeker Fabrikası Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Muş",
+      "isim": "Muş Hava Meydan K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Nevşehir",
+      "isim": "Nevşehir Karayolları 67.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Niğde İl Tarım ve Orman Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Niğde",
+      "isim": "Niğde Bor Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Bor"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu Adliyesi Misafirhanesi",
+      "adres": "",
+      "ilce": "Altınordu"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu Diyanet Misafirhanesi",
+      "adres": "",
+      "ilce": "Altınordu"
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu 222 No.lu Hv.Rd.Kt.K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Perşembe"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Çaykur Sosyal Tesisleri",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize İl Özel İdaresi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Rize Orman İşletme Md.lüğü Milli Parklar Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Rize",
+      "isim": "Adalet Bakanlığı EDB Rize Personel Eğitim Merkezi ve Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Et ve Süt Kurumu Sakarya Et Kombinası Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Erenler"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Defterdarlığı Bölgesel Eğitim Merkezi ve Misafirhanesi",
+      "adres": "",
+      "ilce": "İlkadım"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun İl Özel İdaresi Misafirhanesi",
+      "adres": "",
+      "ilce": "İlkadım"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Büyükşehir Belediyesi Anakent Sosyal Tesisleri ve Misafirhanesi",
+      "adres": "",
+      "ilce": "Canik"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Etibakır A.Ş. Misafirhanesi",
+      "adres": "",
+      "ilce": "Tekkeköy"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Toprak Mahsulleri Ofisi Misafirhanesi",
+      "adres": "",
+      "ilce": "Tekkeköy"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun TEİAŞ 10.Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Tekkeköy"
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Çay-Kur Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "İlkadım"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Jandarma Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Siirt",
+      "isim": "Siirt Kaymakam Suçi Misafirhanesi",
+      "adres": "",
+      "ilce": "Eruh"
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Gençlik ve Spor İl Md.lüğü Sporcu Kampı",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Defterdarlığı Maliye Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas TEİAŞ Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Ulusal Deniz Emniyeti Başkanlığı Tekirdağ Misafirhanesi",
+      "adres": "",
+      "ilce": "Marmaraereğlisi"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Namık Kemal Üniversitesi Sosyal Tesisleri ve Misafirhanesi",
+      "adres": "",
+      "ilce": "Süleymanpaşa"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Maliye Misafirhanesi",
+      "adres": "",
+      "ilce": "Şarköy"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Şarköy Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Şarköy"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Saray Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Saray"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Malkara Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Malkara"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Hayrabolu Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Hayrabolu"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Tekirdağ Çerkezköy Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Çerkezköy"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Çorlu Orduevi Md.lüğü",
+      "adres": "",
+      "ilce": "Çorlu"
+    },
+    {
+      "il": "Tekirdağ",
+      "isim": "Çorlu Hava Meydan K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Çorlu"
+    },
+    {
+      "il": "Tokat",
+      "isim": "Tokat Defterdarlığı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli TEDAŞ Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli İl Özel İdaresi Munzur Doğa Oteli",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli Munzur Üniversitesi Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli Hozat Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Hozat"
+    },
+    {
+      "il": "Tunceli",
+      "isim": "Tunceli Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Karaköprü"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Türkiye Diyanet Vakfı Şanlıurfa Konukevi",
+      "adres": "",
+      "ilce": "Eyyübiye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Defterdarlık Misafirhanesi",
+      "adres": "",
+      "ilce": "Haliliye"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Suruç Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Suruç"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Siverek Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Siverek"
+    },
+    {
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Ceylanpınar Tarım İşletmesi Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Ceylanpınar"
+    },
+    {
+      "il": "Uşak",
+      "isim": "Uşak Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Uşak",
+      "isim": "Uşak Orman İşletme Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Van",
+      "isim": "Çevre ve Şehircilik Van İl Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Edremit Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Karayolları 11. Bölge",
+      "adres": "",
+      "ilce": ""
+    },
+    {
+      "il": "Van",
+      "isim": "Van DHMİ Misafirhanesi",
+      "adres": "",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Hava Radar K.lığı Vardiya Yatakhanesi Md.lüğü",
+      "adres": "",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Çaldıran Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Çaldıran"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Toprakkale Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "İpekyolu"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Özalp Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Özalp"
+    },
+    {
+      "il": "Van",
+      "isim": "Van DSİ Erciş İşletme Bakım Başmühendisliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Erciş"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Albayrak Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Başkale"
+    },
+    {
+      "il": "Van",
+      "isim": "Erciş Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Erciş"
+    },
+    {
+      "il": "Van",
+      "isim": "Van Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "İpekyolu"
+    },
+    {
+      "il": "Yozgat",
+      "isim": "Yozgat Karayolları 65.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Aksaray",
+      "isim": "Aksaray İl Jandarma K.lığı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bayburt",
+      "isim": "Bayburt DSİ 225.Şube Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bayburt",
+      "isim": "Bayburt İl Sağlık Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bayburt",
+      "isim": "Tedaş Bayburt Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Karaman Çevre ve Şehircilik İl Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Karaman",
+      "isim": "Karaman İl Sağlık Md.lüğü Eğitim ve Konaklama Tesisi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Batman",
+      "isim": "Batman Belediyesi Konukevi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Batman",
+      "isim": "Batman Defterdalığı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Şenoba Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Uludere"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Defterdarlığı Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Silopi Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Silopi"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Karayolları Misafirhanesi",
+      "adres": "",
+      "ilce": "Cizre"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Cizre Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Cizre"
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Çakırsöğüt Jandarma Sosyal Tesis Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Bartın",
+      "isim": "Bartın Ulus Kumluca Belediye Oteli",
+      "adres": "",
+      "ilce": "Ulus"
+    },
+    {
+      "il": "Bartın",
+      "isim": "Bartın Kurucaşile PTT Misafirhanesi",
+      "adres": "",
+      "ilce": "Kurucaşile"
+    },
+    {
+      "il": "Bartın",
+      "isim": "Dz.K.Amasra Vardiya Yatakhanesi",
+      "adres": "",
+      "ilce": "Amasra"
+    },
+    {
+      "il": "Ardahan",
+      "isim": "Ardahan Tarım Orman Bakanlığı Arıcılık Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır İl Sağlık Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır DSİ Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır Meteoroloji 16. Bölge Md.lüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Iğdır",
+      "isim": "Iğdır Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Yalova",
+      "isim": "Yalova Çiftlikköy Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Çiftlikköy"
+    },
+    {
+      "il": "Yalova",
+      "isim": "Yalova Altınova Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Altınova"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Karabük Safranbolu Cemil Meriç Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "adres": "",
+      "ilce": "Safranbolu"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Karabük Karayolları 153.Şube Şefliği Misafirhanesi",
+      "adres": "",
+      "ilce": "Safranbolu"
+    },
+    {
+      "il": "Karabük",
+      "isim": "Karabük Safranbolu PTT Misafirhanesi",
+      "adres": "",
+      "ilce": "Safranbolu"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Çevre ve Şehircilik İl Müdürlüğü Misafirhanesi",
+      "adres": "",
+      "ilce": "Toprakkale"
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Askeri Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Merkez"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Akçay Polisevi",
+      "adres": "",
+      "ilce": "Edremit"
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "6.Ana Jet Üs K.lığı Kışla Gazino Md.lüğü",
+      "adres": "",
+      "ilce": "Bandırma"
     }
   ]
 }
