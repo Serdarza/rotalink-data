@@ -50,6 +50,62 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 1213
+   },
+   {
+    "ad": "Adana Yer Fıstığı",
+    "aciklama": "Adana yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3442
+   },
+   {
+    "ad": "Adana Şalgamı",
+    "aciklama": "Adana yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38147
+   },
+   {
+    "ad": "Kozan Portakalı",
+    "aciklama": "Adana yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38677
+   },
+   {
+    "ad": "Kuytucak Narı",
+    "aciklama": "Adana yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38433
+   },
+   {
+    "ad": "Pozantı Çileği",
+    "aciklama": "Adana / Pozantı yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 6265
+   },
+   {
+    "ad": "Karaisalı Biberi",
+    "aciklama": "Adana / Karaisalı yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11722
+   },
+   {
+    "ad": "Tufanbeyli Kuru Fasulyesi",
+    "aciklama": "Adana / Tufanbeyli yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4063
    }
   ],
   "Adıyaman": [
@@ -92,6 +148,22 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 922
+   },
+   {
+    "ad": "Kahta Bademi",
+    "aciklama": "Adıyaman / Kahta yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1562
+   },
+   {
+    "ad": "Kahta Narı",
+    "aciklama": "Adıyaman yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2782
    }
   ],
   "Afyonkarahisar": [
@@ -112,6 +184,22 @@
     "kaynak_id": 4464
    },
    {
+    "ad": "Afyonkarahisar Hurma Baklavası / Afyon Hurma Baklavası",
+    "aciklama": "Afyonkarahisar yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4487
+   },
+   {
+    "ad": "Afyon Kaymaklı Ekmek Kadayıfı",
+    "aciklama": "Afyonkarahisar yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38346
+   },
+   {
     "ad": "Afyon Keçesi",
     "aciklama": "Afyonkarahisar yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
@@ -128,6 +216,62 @@
     "kaynak_id": 37892
    },
    {
+    "ad": "Dazkırı Halısı",
+    "aciklama": "Afyonkarahisar / Dazkırı yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1003
+   },
+   {
+    "ad": "Emirdağ Kilimi",
+    "aciklama": "Afyonkarahisar / Emirdağ yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1922
+   },
+   {
+    "ad": "Pazırık El Halısı",
+    "aciklama": "Afyonkarahisar yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37873
+   },
+   {
+    "ad": "Sandıklı Haşhaşlı Tahinli Pidesi",
+    "aciklama": "Afyonkarahisar / Sandıklı yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7286
+   },
+   {
+    "ad": "Sandıklı Kürek Helvası",
+    "aciklama": "Afyonkarahisar / Sandıklı yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3632
+   },
+   {
+    "ad": "Süper İnce Kilim",
+    "aciklama": "Afyonkarahisar yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37887
+   },
+   {
+    "ad": "Türkmen El Halısı",
+    "aciklama": "Afyonkarahisar yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37872
+   },
+   {
     "ad": "Afyonkarahisar Haşhaş Ezmesi",
     "aciklama": "Afyonkarahisar yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Yöresel ürün",
@@ -142,6 +286,78 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 37935
+   },
+   {
+    "ad": "Afyon Sucuğu",
+    "aciklama": "Afyonkarahisar yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37934
+   },
+   {
+    "ad": "Sandıklı Haşhaş Ezmesi",
+    "aciklama": "Afyonkarahisar / Sandıklı yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3633
+   },
+   {
+    "ad": "Afyon Kaymağı",
+    "aciklama": "Afyonkarahisar yöresine özgü süt ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37936
+   },
+   {
+    "ad": "Sultandağı Gılli Kirazı",
+    "aciklama": "Afyonkarahisar yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38637
+   },
+   {
+    "ad": "Sultandağı Kirazı",
+    "aciklama": "Afyonkarahisar yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38638
+   },
+   {
+    "ad": "Çay İlçesi Vişnesi",
+    "aciklama": "Afyonkarahisar yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37963
+   },
+   {
+    "ad": "Şuhut Patatesi",
+    "aciklama": "Afyonkarahisar / Şuhut yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4242
+   },
+   {
+    "ad": "Karacalar Üzümü",
+    "aciklama": "Afyonkarahisar / Emirdağ yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6962
+   },
+   {
+    "ad": "Sandıklı Leblebisi",
+    "aciklama": "Afyonkarahisar / Sandıklı yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3635
    }
   ],
   "Aksaray": [
@@ -160,6 +376,22 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 2343
+   },
+   {
+    "ad": "Aksaray Un Kurabiyesi / Aksaray Asker Kurabiyesi",
+    "aciklama": "Aksaray yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5282
+   },
+   {
+    "ad": "Aksaray Şeker Böreği",
+    "aciklama": "Aksaray yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4670
    },
    {
     "ad": "Taşpınar El Halısı",
@@ -204,6 +436,22 @@
     "kaynak_id": 5306
    },
    {
+    "ad": "Merzifon Dokuması",
+    "aciklama": "Amasya yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5203
+   },
+   {
+    "ad": "Yassıçal Çuha Dokuması",
+    "aciklama": "Amasya yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5763
+   },
+   {
     "ad": "Amasya Kirazı",
     "aciklama": "Amasya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
@@ -218,6 +466,22 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38182
+   },
+   {
+    "ad": "Amasya Çiçek Bamyası",
+    "aciklama": "Amasya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38196
+   },
+   {
+    "ad": "Suluova Soğanı",
+    "aciklama": "Amasya / Suluova yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5302
    }
   ],
   "Ankara": [
@@ -254,6 +518,30 @@
     "kaynak_id": 923
    },
    {
+    "ad": "Nallıhan Örtmesi",
+    "aciklama": "Ankara yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38173
+   },
+   {
+    "ad": "Nallıhan İğne Oyası",
+    "aciklama": "Ankara yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38171
+   },
+   {
+    "ad": "Şereflikoçhisar Tahinli Pidesi",
+    "aciklama": "Ankara yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3342
+   },
+   {
     "ad": "Ankara Erkeç Pastırması",
     "aciklama": "Ankara yöresine özgü et ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Bal / peynir / şarküteri",
@@ -268,6 +556,62 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38499
+   },
+   {
+    "ad": "Çubuk Agat Taşı",
+    "aciklama": "Ankara / Çubuk yöresine özgü el sanatı ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38265
+   },
+   {
+    "ad": "Haymana Sucuğu",
+    "aciklama": "Ankara yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11102
+   },
+   {
+    "ad": "Ayaş Dutu",
+    "aciklama": "Ankara / Ayaş yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3083
+   },
+   {
+    "ad": "Çubuk Vişnesi",
+    "aciklama": "Ankara / Çubuk yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4383
+   },
+   {
+    "ad": "Akyurt Teberik Fasulyesi",
+    "aciklama": "Ankara / Akyurt yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6026
+   },
+   {
+    "ad": "Polatlı Soğanı",
+    "aciklama": "Ankara / Polatlı yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1944
+   },
+   {
+    "ad": "Çubuk Turşusu",
+    "aciklama": "Ankara yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37966
    }
   ],
   "Antalya": [
@@ -304,12 +648,92 @@
     "kaynak_id": 38670
    },
    {
+    "ad": "Antalya Turunç Kabuğu Reçeli",
+    "aciklama": "Antalya yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38671
+   },
+   {
+    "ad": "Alanya Avokadosu",
+    "aciklama": "Antalya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38164
+   },
+   {
+    "ad": "Alanya Muzu",
+    "aciklama": "Antalya / Alanya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 5963
+   },
+   {
+    "ad": "Alanya Yenidünyası",
+    "aciklama": "Antalya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38373
+   },
+   {
+    "ad": "Finike Portakalı",
+    "aciklama": "Antalya / Finike yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37969
+   },
+   {
+    "ad": "Gazipaşa Çekirdeksiz Narı",
+    "aciklama": "Antalya / Gazipaşa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 7786
+   },
+   {
+    "ad": "Kaş Margaz Üzümü",
+    "aciklama": "Antalya / Kaş yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 10326
+   },
+   {
+    "ad": "Korkuteli Karyağdı Armudu",
+    "aciklama": "Antalya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38437
+   },
+   {
     "ad": "Alanya Fıstıklı Limonata",
     "aciklama": "Antalya / Alanya yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "İçecek",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 9502
+   },
+   {
+    "ad": "Alanya Keçiboynuzu / Alanya Harnub",
+    "aciklama": "Antalya / Alanya yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11318
+   },
+   {
+    "ad": "İbradı Enek Pekmezi",
+    "aciklama": "Antalya yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11150
    }
   ],
   "Ardahan": [
@@ -414,12 +838,28 @@
     "kaynak_id": 502
    },
    {
+    "ad": "Söke Körüklü Çizmesi",
+    "aciklama": "Aydın yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38264
+   },
+   {
     "ad": "Söke Peksimeti",
     "aciklama": "Aydın / Söke yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 8523
+   },
+   {
+    "ad": "Söke Tahinli Pidesi",
+    "aciklama": "Aydın yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 9062
    },
    {
     "ad": "Aydın Memecik Zeytinyağı",
@@ -436,6 +876,70 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 542
+   },
+   {
+    "ad": "İncirliova Deve Sucuğu",
+    "aciklama": "Aydın / İncirliova yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38412
+   },
+   {
+    "ad": "Aydın Kestanesi",
+    "aciklama": "Aydın yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38039
+   },
+   {
+    "ad": "Aydın Memecik Zeytini",
+    "aciklama": "Aydın yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 642
+   },
+   {
+    "ad": "Aydın Yamalak Sarısı Zeytini",
+    "aciklama": "Aydın yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38590
+   },
+   {
+    "ad": "Aydın Çam Fıstığı",
+    "aciklama": "Aydın yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 610
+   },
+   {
+    "ad": "Aydın İnciri",
+    "aciklama": "Aydın yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37933
+   },
+   {
+    "ad": "Kuyucak Portakalı",
+    "aciklama": "Aydın / Kuyucak yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 6243
+   },
+   {
+    "ad": "Sultanhisar Çileği",
+    "aciklama": "Aydın yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38624
    }
   ],
   "Ağrı": [
@@ -482,6 +986,30 @@
     "kaynak_id": 6842
    },
    {
+    "ad": "Dursunbey Yatık",
+    "aciklama": "Balıkesir yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10842
+   },
+   {
+    "ad": "Gönen İğne Oyası",
+    "aciklama": "Balıkesir yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38017
+   },
+   {
+    "ad": "Yağcıbedir El Halısı",
+    "aciklama": "Balıkesir yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37880
+   },
+   {
     "ad": "Yağlılar Basma Helvası",
     "aciklama": "Balıkesir / İvrindi yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
@@ -504,6 +1032,174 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 37940
+   },
+   {
+    "ad": "Burhaniye Zeytinyağı",
+    "aciklama": "Balıkesir yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 104
+   },
+   {
+    "ad": "Edincik Su Zeytinyağı",
+    "aciklama": "Balıkesir yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 6023
+   },
+   {
+    "ad": "Edremit Zeytinyağı",
+    "aciklama": "Balıkesir yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38284
+   },
+   {
+    "ad": "Ayvalık Kelle Peyniri/Ayvalık Sepet Peyniri",
+    "aciklama": "Balıkesir / Ayvalık yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7044
+   },
+   {
+    "ad": "Balya Tereyağı",
+    "aciklama": "Balıkesir / Balya yöresine özgü yağ. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6103
+   },
+   {
+    "ad": "Erdek Kapıdağ Zeytinyağı",
+    "aciklama": "Balıkesir / Erdek yöresine özgü yağ. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10863
+   },
+   {
+    "ad": "Kepsut Bükdere Küflü Katık Peyniri",
+    "aciklama": "Balıkesir / Kepsut yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4563
+   },
+   {
+    "ad": "Manyas Kelle Peyniri",
+    "aciklama": "Balıkesir yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 926
+   },
+   {
+    "ad": "Savaştepe Mihaliç Kelle Peyniri",
+    "aciklama": "Balıkesir / Savaştepe yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8106
+   },
+   {
+    "ad": "İvrindi Kelle Peyniri",
+    "aciklama": "Balıkesir / İvrindi yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3488
+   },
+   {
+    "ad": "Balıkesir Tombul Bamyası",
+    "aciklama": "Balıkesir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 10002
+   },
+   {
+    "ad": "Balıkesir Manda Kaymağı",
+    "aciklama": "Balıkesir yöresine özgü süt ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4564
+   },
+   {
+    "ad": "Edincik Zeytini",
+    "aciklama": "Balıkesir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 6004
+   },
+   {
+    "ad": "Edremit Körfezi Yeşil Çizik Zeytini",
+    "aciklama": "Balıkesir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38130
+   },
+   {
+    "ad": "Havran Siyah İnciri",
+    "aciklama": "Balıkesir / Havran yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 7722
+   },
+   {
+    "ad": "Kapıdağ Mor Soğanı",
+    "aciklama": "Balıkesir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38518
+   },
+   {
+    "ad": "Savaştepe Kalemköy Üzümü",
+    "aciklama": "Balıkesir / Savaştepe yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 10302
+   },
+   {
+    "ad": "Sındırgı Kornişonu",
+    "aciklama": "Balıkesir / Sındırgı yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3169
+   },
+   {
+    "ad": "Çakıl Kestanesi",
+    "aciklama": "Balıkesir / Bandırma yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 10283
+   },
+   {
+    "ad": "Havran Mandalinası",
+    "aciklama": "Balıkesir / Havran yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5862
+   },
+   {
+    "ad": "Manyas Kazak Fasulyesi",
+    "aciklama": "Balıkesir / Manyas yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6003
    }
   ],
   "Bartın": [
@@ -650,14 +1346,6 @@
     "kaynak_id": 1505
    },
    {
-    "ad": "Bilecik Şerbetçiotu",
-    "aciklama": "Bilecik yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
-    "kategori": "Yöresel ürün",
-    "cografi_isaret": true,
-    "tescil_turu": "Mahreç İşareti",
-    "kaynak_id": 822
-   },
-   {
     "ad": "Bilecik Kamber Biberi / Bilecik Gavata Biberi",
     "aciklama": "Bilecik yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
@@ -672,6 +1360,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 608
+   },
+   {
+    "ad": "Pazaryeri Bozası",
+    "aciklama": "Bilecik / Pazaryeri yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 12004
    }
   ],
   "Bingöl": [
@@ -768,6 +1464,14 @@
     "kaynak_id": 38158
    },
    {
+    "ad": "Mudurnu Basma Helva",
+    "aciklama": "Bolu / Mudurnu yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 845
+   },
+   {
     "ad": "Bolu Kıbrıscık Pirinci",
     "aciklama": "Bolu / Kıbrıscık yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Yöresel ürün",
@@ -782,6 +1486,62 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38332
+   },
+   {
+    "ad": "Bolu Sarı Patatesi",
+    "aciklama": "Bolu yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 323
+   },
+   {
+    "ad": "Bolu Çivril Fasulyesi",
+    "aciklama": "Bolu yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38331
+   },
+   {
+    "ad": "Bolu Kanlıca Mantarı",
+    "aciklama": "Bolu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1583
+   },
+   {
+    "ad": "Bolu Keşi",
+    "aciklama": "Bolu yöresine özgü süt ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38211
+   },
+   {
+    "ad": "Bolu Manda Kaymağı",
+    "aciklama": "Bolu yöresine özgü süt ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 302
+   },
+   {
+    "ad": "Göynük Bombay Fasulye",
+    "aciklama": "Bolu yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38157
+   },
+   {
+    "ad": "Gerede Keşi",
+    "aciklama": "Bolu / Gerede yöresine özgü süt ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1282
    }
   ],
   "Burdur": [
@@ -832,6 +1592,46 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 1062
+   },
+   {
+    "ad": "Karamanlı Cevizi",
+    "aciklama": "Burdur yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38572
+   },
+   {
+    "ad": "Karamanlı Kişnişi",
+    "aciklama": "Burdur yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38573
+   },
+   {
+    "ad": "Karamanlı Rezenesi",
+    "aciklama": "Burdur / Karamanlı yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38574
+   },
+   {
+    "ad": "Melli İnciri",
+    "aciklama": "Burdur yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38312
+   },
+   {
+    "ad": "Tefenni Rezenesi",
+    "aciklama": "Burdur / Tefenni yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1985
    }
   ],
   "Bursa": [
@@ -860,12 +1660,28 @@
     "kaynak_id": 1205
    },
    {
+    "ad": "Bursa Havlusu",
+    "aciklama": "Bursa yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2522
+   },
+   {
     "ad": "Bursa Kestane Şekeri",
     "aciklama": "Bursa yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 405
+   },
+   {
+    "ad": "Bursa Tahinli Pide",
+    "aciklama": "Bursa yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1204
    },
    {
     "ad": "Bursa Şeftalisi",
@@ -876,12 +1692,140 @@
     "kaynak_id": 38589
    },
    {
+    "ad": "Müşküle İğne Oyası",
+    "aciklama": "Bursa / İznik yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3004
+   },
+   {
+    "ad": "İnegöl Sütlü Kadayıfı",
+    "aciklama": "Bursa / İnegöl yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6164
+   },
+   {
+    "ad": "İznik Derbent Dokuması",
+    "aciklama": "Bursa / İznik yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7663
+   },
+   {
     "ad": "Gemlik Zeytini",
     "aciklama": "Bursa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 37924
+   },
+   {
+    "ad": "Bursa İpeği / Bursa İpek İpliği",
+    "aciklama": "Bursa yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38165
+   },
+   {
+    "ad": "Keles Sorgun Peyniri",
+    "aciklama": "Bursa / Keles yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10982
+   },
+   {
+    "ad": "İnegöl Çıbrıkası",
+    "aciklama": "Bursa yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6262
+   },
+   {
+    "ad": "Bursa Kestanesi",
+    "aciklama": "Bursa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 6964
+   },
+   {
+    "ad": "Bursa Santa Maria Armudu",
+    "aciklama": "Bursa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 5522
+   },
+   {
+    "ad": "Bursa Siyah İnciri / Bursa Siyahı / Siyah Bursa İnciri",
+    "aciklama": "Bursa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38556
+   },
+   {
+    "ad": "Gürsu Deveci Armudu",
+    "aciklama": "Bursa / Gürsu yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 84
+   },
+   {
+    "ad": "Karacabey Soğanı",
+    "aciklama": "Bursa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38146
+   },
+   {
+    "ad": "Keles Kirazı",
+    "aciklama": "Bursa / Keles yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 7684
+   },
+   {
+    "ad": "İznik Müşküle Üzümü",
+    "aciklama": "Bursa / İznik yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3003
+   },
+   {
+    "ad": "Orhangazi Gedelek Turşusu",
+    "aciklama": "Bursa yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38109
+   },
+   {
+    "ad": "Yenişehir Biberi",
+    "aciklama": "Bursa / Yenişehir yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5782
+   },
+   {
+    "ad": "İnegöl Cerrah Kuru Fasulyesi",
+    "aciklama": "Bursa / İnegöl yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6223
    }
   ],
   "Denizli": [
@@ -910,6 +1854,22 @@
     "kaynak_id": 38238
    },
    {
+    "ad": "Çameli Elmalı Bezi",
+    "aciklama": "Denizli / Çameli yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 162
+   },
+   {
+    "ad": "Çameli Kilimi",
+    "aciklama": "Denizli / Çameli yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 141
+   },
+   {
     "ad": "Denizli Kekiği",
     "aciklama": "Denizli yöresine özgü baharat / çeşni. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Yağ / baharat",
@@ -926,12 +1886,68 @@
     "kaynak_id": 383
    },
    {
-    "ad": "Denizli Çalkarası Üzümü/Denizli Çalkarası",
-    "aciklama": "Denizli / Çal yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "ad": "Denizli Leblebisi",
+    "aciklama": "Denizli yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37995
+   },
+   {
+    "ad": "Acıpayam Çakır Havucu",
+    "aciklama": "Denizli / Acıpayam yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
-    "kaynak_id": 38547
+    "kaynak_id": 8522
+   },
+   {
+    "ad": "Buldan Kestanesi",
+    "aciklama": "Denizli yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1185
+   },
+   {
+    "ad": "Honaz Kirazı",
+    "aciklama": "Denizli / Honaz yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 783
+   },
+   {
+    "ad": "Kale Biberi",
+    "aciklama": "Denizli yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38005
+   },
+   {
+    "ad": "Çameli Fasulyesi",
+    "aciklama": "Denizli yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38235
+   },
+   {
+    "ad": "İsabey Çekirdeksiz Üzümü",
+    "aciklama": "Denizli yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37945
+   },
+   {
+    "ad": "Avşar Üzümü",
+    "aciklama": "Denizli yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8222
    }
   ],
   "Diyarbakır": [
@@ -982,6 +1998,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38038
+   },
+   {
+    "ad": "Çermik Biberi",
+    "aciklama": "Diyarbakır / Çermik yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1964
    }
   ],
   "Düzce": [
@@ -1030,6 +2054,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38368
+   },
+   {
+    "ad": "Düzce Kestanesi",
+    "aciklama": "Düzce yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1322
+   },
+   {
+    "ad": "Düzce Şeker Kamışı Pekmezi",
+    "aciklama": "Düzce yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1186
+   },
+   {
+    "ad": "Akçakoca Sarı Fındığı",
+    "aciklama": "Düzce / Akçakoca yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38323
+   },
+   {
+    "ad": "Akçakoca Kaplandede Kestanesi",
+    "aciklama": "Düzce / Akçakoca yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5984
    }
   ],
   "Edirne": [
@@ -1080,6 +2136,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38065
+   },
+   {
+    "ad": "Keşan Mahmutköy Kuru Fasulyesi",
+    "aciklama": "Edirne yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 5964
+   },
+   {
+    "ad": "Keşan Siğilli Bamyası",
+    "aciklama": "Edirne / Keşan yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1502
+   },
+   {
+    "ad": "Meriç Yer Fıstığı",
+    "aciklama": "Edirne / Meriç yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38266
+   },
+   {
+    "ad": "Çeribaşı Kirazı",
+    "aciklama": "Edirne yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7568
    }
   ],
   "Elazığ": [
@@ -1122,9 +2210,33 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 1806
+   },
+   {
+    "ad": "Ağın Leblebisi",
+    "aciklama": "Elazığ yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38151
+   },
+   {
+    "ad": "Keban Biberi",
+    "aciklama": "Elazığ yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3462
    }
   ],
   "Erzincan": [
+   {
+    "ad": "Erzincan Bakır İmalat Ve El İşlemeciliği Sanatı",
+    "aciklama": "Erzincan yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37905
+   },
    {
     "ad": "Erzincan Kesme Kadayıfı",
     "aciklama": "Erzincan yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
@@ -1150,6 +2262,14 @@
     "kaynak_id": 8604
    },
    {
+    "ad": "Kemaliye Kapı Tokmağı/Eğin Kapı Tokmağı",
+    "aciklama": "Erzincan / Kemaliye yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8602
+   },
+   {
     "ad": "Cimin Üzümü",
     "aciklama": "Erzincan yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
@@ -1172,6 +2292,62 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 37894
+   },
+   {
+    "ad": "Kemah Doğal Kaynak Tuzu",
+    "aciklama": "Erzincan / Kemah yöresine özgü baharat / çeşni. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3303
+   },
+   {
+    "ad": "Refahiye Balı",
+    "aciklama": "Erzincan / Refahiye yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38678
+   },
+   {
+    "ad": "Tercan Balı",
+    "aciklama": "Erzincan / Tercan yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 8762
+   },
+   {
+    "ad": "Erzincan Ekşisu Doğal Maden Suyu",
+    "aciklama": "Erzincan yöresine özgü içecek. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 10825
+   },
+   {
+    "ad": "Erzincan Üzümlü Sarucu",
+    "aciklama": "Erzincan / Üzümlü yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6106
+   },
+   {
+    "ad": "Kemaliye Dutu / Eğin Dutu",
+    "aciklama": "Erzincan / Kemaliye yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2962
+   },
+   {
+    "ad": "Kemaliye Kuru Kaymağı/Eğin Kuru Kaymağı",
+    "aciklama": "Erzincan yöresine özgü süt ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8603
    }
   ],
   "Erzurum": [
@@ -1200,12 +2376,84 @@
     "kaynak_id": 8323
    },
    {
+    "ad": "Erzurum Ehram Dokuma Kumaşı",
+    "aciklama": "Erzurum yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38137
+   },
+   {
     "ad": "Erzurum Ketesi",
     "aciklama": "Erzurum yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 4024
+   },
+   {
+    "ad": "Erzurum Pekmezli Baklavası",
+    "aciklama": "Erzurum yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1203
+   },
+   {
+    "ad": "Erzurum Pekmezli Kadayıfı",
+    "aciklama": "Erzurum yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3784
+   },
+   {
+    "ad": "Erzurum Peynir Helvası",
+    "aciklama": "Erzurum yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1206
+   },
+   {
+    "ad": "Erzurum Tel Helvası",
+    "aciklama": "Erzurum yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3982
+   },
+   {
+    "ad": "Erzurum Tuzlu Lokumu",
+    "aciklama": "Erzurum yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4025
+   },
+   {
+    "ad": "Erzurum Un Helvası",
+    "aciklama": "Erzurum yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10987
+   },
+   {
+    "ad": "Karnavas Bezi",
+    "aciklama": "Erzurum / Olur yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3882
+   },
+   {
+    "ad": "Tortum Ekşi Pestili",
+    "aciklama": "Erzurum / Tortum yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6442
    },
    {
     "ad": "Hınıs Fasulyesi",
@@ -1222,6 +2470,102 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38001
+   },
+   {
+    "ad": "Erzurum Aşotu",
+    "aciklama": "Erzurum yöresine özgü baharat / çeşni. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3742
+   },
+   {
+    "ad": "Erzurum Civil Peyniri",
+    "aciklama": "Erzurum yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37987
+   },
+   {
+    "ad": "Erzurum Et Kavurması",
+    "aciklama": "Erzurum yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3722
+   },
+   {
+    "ad": "Erzurum Küflü Civil Peyniri (Göğermiş Peynir)",
+    "aciklama": "Erzurum yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38020
+   },
+   {
+    "ad": "Erzurum Kıtlama Şekeri",
+    "aciklama": "Erzurum yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1207
+   },
+   {
+    "ad": "Erzurum Pastırması",
+    "aciklama": "Erzurum yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3724
+   },
+   {
+    "ad": "Erzurum Sucuğu",
+    "aciklama": "Erzurum yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3704
+   },
+   {
+    "ad": "Erzurum Tereyağı",
+    "aciklama": "Erzurum yöresine özgü yağ. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3744
+   },
+   {
+    "ad": "Erzurum Çaşır Salamurası",
+    "aciklama": "Erzurum yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5665
+   },
+   {
+    "ad": "Karnavas Dut Pekmezi",
+    "aciklama": "Erzurum yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37962
+   },
+   {
+    "ad": "Narman Şeker Fasulyesi",
+    "aciklama": "Erzurum / Narman yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38634
+   },
+   {
+    "ad": "İspir Kaymağı",
+    "aciklama": "Erzurum yöresine özgü süt ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38276
    }
   ],
   "Eskişehir": [
@@ -1256,6 +2600,30 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38261
+   },
+   {
+    "ad": "Sivrihisar Sarkası",
+    "aciklama": "Eskişehir / Sivrihisar yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4823
+   },
+   {
+    "ad": "Sivrihisar İncili Küpe",
+    "aciklama": "Eskişehir yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 442
+   },
+   {
+    "ad": "Sorkun Çömleği",
+    "aciklama": "Eskişehir / Mihalıççık yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1811
    },
    {
     "ad": "Sivrihisar Dövme Sucuğu",
@@ -1308,12 +2676,284 @@
     "kaynak_id": 38030
    },
    {
+    "ad": "Gaziantep Leblebili Kıtır Helva",
+    "aciklama": "Gaziantep yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 12902
+   },
+   {
+    "ad": "Gaziantep Sakız Helva",
+    "aciklama": "Gaziantep yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10526
+   },
+   {
     "ad": "Gaziantep Sedef El Işlemeciliği",
     "aciklama": "Gaziantep yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38031
+   },
+   {
+    "ad": "Gaziantep Yemenisi / Antep Yemenisi",
+    "aciklama": "Gaziantep yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11584
+   },
+   {
+    "ad": "Antep Fıstık Ezmesi (Antepfıstığı Ezmesi / Gaziantep Fıstık Ezmesi)",
+    "aciklama": "Gaziantep yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38244
+   },
+   {
+    "ad": "Antep Kutnu Kumaşı",
+    "aciklama": "Gaziantep yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38152
+   },
+   {
+    "ad": "Antep Muskası (Gaziantep Muskası)",
+    "aciklama": "Gaziantep yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38293
+   },
+   {
+    "ad": "Antep Peynirli İrmik Helvası / Gaziantep Peynirli İrmik Helvası",
+    "aciklama": "Gaziantep yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2345
+   },
+   {
+    "ad": "Antep İşi",
+    "aciklama": "Gaziantep yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38064
+   },
+   {
+    "ad": "Gaziantep Koruk Ekşisi",
+    "aciklama": "Gaziantep yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3487
+   },
+   {
+    "ad": "Gaziantep Muhammarası",
+    "aciklama": "Gaziantep yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4424
+   },
+   {
+    "ad": "Gaziantep Susamlı Kıtır Helva",
+    "aciklama": "Gaziantep yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10505
+   },
+   {
+    "ad": "Antep Firiği",
+    "aciklama": "Gaziantep yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38247
+   },
+   {
+    "ad": "Antep Menengiç Kahvesi / Gaziantep Menengiç Kahvesi / Antep Melengiç Kahvesi / Gaziantep Melengiç Kahvesi",
+    "aciklama": "Gaziantep yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38351
+   },
+   {
+    "ad": "Antep Zahter Balı / Gaziantep Zahter Balı",
+    "aciklama": "Gaziantep yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 5445
+   },
+   {
+    "ad": "Nizip Nanesi",
+    "aciklama": "Gaziantep / Nizip yöresine özgü baharat / çeşni. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38458
+   },
+   {
+    "ad": "Antep Bulguru / Gaziantep Bulguru",
+    "aciklama": "Gaziantep yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38256
+   },
+   {
+    "ad": "Antep Sumağı",
+    "aciklama": "Gaziantep yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 102
+   },
+   {
+    "ad": "Antep Zahter Çayı / Gaziantep Zahter Çayı",
+    "aciklama": "Gaziantep yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5627
+   },
+   {
+    "ad": "Nizip Sabunu",
+    "aciklama": "Gaziantep yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38080
+   },
+   {
+    "ad": "Nizip Zeytinyağı",
+    "aciklama": "Gaziantep yöresine özgü yağ. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38011
+   },
+   {
+    "ad": "Oğuzeli Nar Ekşisi",
+    "aciklama": "Gaziantep / Oğuzeli yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38405
+   },
+   {
+    "ad": "Gaziantep Oğuzeli Narı /Antep Oğuzeli Narı",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38401
+   },
+   {
+    "ad": "Gaziantep Acur-Biber Turşusu",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3403
+   },
+   {
+    "ad": "Antep Kuruluk Patlıcanı (Gaziantep Kuru Patlıcanı)",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38270
+   },
+   {
+    "ad": "Antep Urmu Dut Şurubu / Gaziantep Urmu Dut Şurubu",
+    "aciklama": "Gaziantep yöresine özgü içecek. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38632
+   },
+   {
+    "ad": "Araban Sarımsağı",
+    "aciklama": "Gaziantep / Araban yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 130
+   },
+   {
+    "ad": "Nizip Patlıcanı",
+    "aciklama": "Gaziantep / Nizip yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38425
+   },
+   {
+    "ad": "İslahiye Biberi",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38523
+   },
+   {
+    "ad": "Antep Biber Salçası / Gaziantep Biber Salçası",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38514
+   },
+   {
+    "ad": "Antep Karası Kuru Üzümü",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38443
+   },
+   {
+    "ad": "Antep Meyan Şerbeti",
+    "aciklama": "Gaziantep yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38295
+   },
+   {
+    "ad": "Antep Pekmezi / Gaziantep Pekmezi",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38296
+   },
+   {
+    "ad": "Nizip Mızar Havucu",
+    "aciklama": "Gaziantep yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3684
+   },
+   {
+    "ad": "Oğuzeli Kurutmalığı",
+    "aciklama": "Gaziantep / Oğuzeli yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38267
    }
   ],
   "Giresun": [
@@ -1356,6 +2996,46 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38641
+   },
+   {
+    "ad": "Giresun Sivri Fındığı",
+    "aciklama": "Giresun yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38643
+   },
+   {
+    "ad": "Giresun Tombul Fındığı",
+    "aciklama": "Giresun yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37899
+   },
+   {
+    "ad": "Piraziz Elması",
+    "aciklama": "Giresun yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38088
+   },
+   {
+    "ad": "Çamoluk Şeker Kuru Fasulyesi",
+    "aciklama": "Giresun yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38423
+   },
+   {
+    "ad": "Şebinkarahisar Karadutu",
+    "aciklama": "Giresun / Şebinkarahisar yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1635
    }
   ],
   "Gümüşhane": [
@@ -1384,6 +3064,14 @@
     "kaynak_id": 37938
    },
    {
+    "ad": "Kelkit Ketesi",
+    "aciklama": "Gümüşhane yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2422
+   },
+   {
     "ad": "Kelkit Zilli Kilimi",
     "aciklama": "Gümüşhane / Kelkit yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
@@ -1406,6 +3094,22 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38544
+   },
+   {
+    "ad": "Gümüşhane Kuşburnu Nektarı",
+    "aciklama": "Gümüşhane yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6304
+   },
+   {
+    "ad": "Kelkit Şeker Fasulyesi",
+    "aciklama": "Gümüşhane yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38674
    }
   ],
   "Hakkari": [
@@ -1460,6 +3164,30 @@
     "kaynak_id": 4665
    },
    {
+    "ad": "Hatay Peynirli İrmik Helvası",
+    "aciklama": "Hatay yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10608
+   },
+   {
+    "ad": "Hatay Taş Kadayıfı",
+    "aciklama": "Hatay yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10616
+   },
+   {
+    "ad": "Hatay Tel Kadayıfı",
+    "aciklama": "Hatay yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11168
+   },
+   {
     "ad": "Hatay İpeği",
     "aciklama": "Hatay yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
@@ -1476,6 +3204,22 @@
     "kaynak_id": 221
    },
    {
+    "ad": "Altınözü Cimemi",
+    "aciklama": "Hatay / Altınözü yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4743
+   },
+   {
+    "ad": "Hatay Defne Sabunu",
+    "aciklama": "Hatay yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38259
+   },
+   {
     "ad": "Hatay Nar Ekşisi",
     "aciklama": "Hatay yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Yağ / baharat",
@@ -1490,6 +3234,110 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 647
+   },
+   {
+    "ad": "Altınözü Zeytinyağı",
+    "aciklama": "Hatay yöresine özgü yağ. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1102
+   },
+   {
+    "ad": "Antakya Küflü Sürkü (Çökeleği)",
+    "aciklama": "Hatay yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38362
+   },
+   {
+    "ad": "Antakya Künefelik Peyniri",
+    "aciklama": "Hatay yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38616
+   },
+   {
+    "ad": "Antakya Sürkü (Antakya Çökeleği)",
+    "aciklama": "Hatay yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38274
+   },
+   {
+    "ad": "Hatay Barburi Üzümü",
+    "aciklama": "Hatay yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7326
+   },
+   {
+    "ad": "Hatay Biber Salçası",
+    "aciklama": "Hatay yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2964
+   },
+   {
+    "ad": "Hatay Ceviz Reçeli",
+    "aciklama": "Hatay yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3189
+   },
+   {
+    "ad": "Hatay Halhalı Zeytini",
+    "aciklama": "Hatay yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3192
+   },
+   {
+    "ad": "Dörtyol Mandarini",
+    "aciklama": "Hatay yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1082
+   },
+   {
+    "ad": "Kırıkhan Siyah Havucu",
+    "aciklama": "Hatay / Kırıkhan yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4702
+   },
+   {
+    "ad": "Samandağ Biberi",
+    "aciklama": "Hatay / Samandağ yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3162
+   },
+   {
+    "ad": "Belen Kömürçukuru Pekmezi",
+    "aciklama": "Hatay / Belen yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2655
+   },
+   {
+    "ad": "Kırıkhan Havucu",
+    "aciklama": "Hatay / Kırıkhan yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8662
    }
   ],
   "Isparta": [
@@ -1518,12 +3366,36 @@
     "kaynak_id": 3494
    },
    {
+    "ad": "İnce Isparta (Hasgül) El Halısı",
+    "aciklama": "Isparta yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37884
+   },
+   {
     "ad": "Isparta Gül Suyu",
     "aciklama": "Isparta yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Yöresel ürün",
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 3045
+   },
+   {
+    "ad": "Isparta Gülyağı",
+    "aciklama": "Isparta yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38477
+   },
+   {
+    "ad": "Sütçüler Kekik Yağı",
+    "aciklama": "Isparta yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 8465
    },
    {
     "ad": "Sütçüler Kekiği",
@@ -1540,6 +3412,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 8842
+   },
+   {
+    "ad": "Gelendost Çaltı Sarımsağı",
+    "aciklama": "Isparta yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3903
+   },
+   {
+    "ad": "Senirkent Dimrit Üzümü",
+    "aciklama": "Isparta / Senirkent yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1623
+   },
+   {
+    "ad": "Uluborlu Kirazı",
+    "aciklama": "Isparta / Uluborlu yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38615
+   },
+   {
+    "ad": "Senirkent Üzüm Pekmezi",
+    "aciklama": "Isparta / Senirkent yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1624
    }
   ],
   "Iğdır": [
@@ -1586,6 +3490,46 @@
     "kaynak_id": 38221
    },
    {
+    "ad": "Maraş File Nakışı",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38192
+   },
+   {
+    "ad": "Kahramanmaraş Yemenisi",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38214
+   },
+   {
+    "ad": "Maraş Bakır El İşlemesi",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4669
+   },
+   {
+    "ad": "Maraş Burma Bileziği",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38079
+   },
+   {
+    "ad": "Maraş Camekânı",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2920
+   },
+   {
     "ad": "Maraş Fıstık Ezmesi",
     "aciklama": "Kahramanmaraş yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
@@ -1594,12 +3538,36 @@
     "kaynak_id": 38216
    },
    {
+    "ad": "Maraş Gülü Motifi",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2887
+   },
+   {
+    "ad": "Maraş Rahlesi",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2921
+   },
+   {
     "ad": "Maraş Samsası",
     "aciklama": "Kahramanmaraş yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 5462
+   },
+   {
+    "ad": "Maraş İşi / Maraş Sim Sırma",
+    "aciklama": "Kahramanmaraş yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38193
    },
    {
     "ad": "Afşin Koçovası Sarımsağı",
@@ -1616,6 +3584,70 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 9644
+   },
+   {
+    "ad": "Maraş Parmak /Sıkma Peyniri",
+    "aciklama": "Kahramanmaraş yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38218
+   },
+   {
+    "ad": "Maraş Sumak Ekşi Külü",
+    "aciklama": "Kahramanmaraş yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5452
+   },
+   {
+    "ad": "Maraş Sumak Ekşisi Akıtı",
+    "aciklama": "Kahramanmaraş yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38219
+   },
+   {
+    "ad": "Kahramanmaraş Bertiz Kabarcık Üzümü / Maraş Bertiz Kabarcık Üzümü",
+    "aciklama": "Kahramanmaraş yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4627
+   },
+   {
+    "ad": "Maraş Biberi",
+    "aciklama": "Kahramanmaraş yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37908
+   },
+   {
+    "ad": "Çağlayancerit Cevizi",
+    "aciklama": "Kahramanmaraş yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38058
+   },
+   {
+    "ad": "Andırın Andız Pekmezi",
+    "aciklama": "Kahramanmaraş / Andırın yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5464
+   },
+   {
+    "ad": "Maraş Ravanda Şerbeti",
+    "aciklama": "Kahramanmaraş yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2943
    }
   ],
   "Karabük": [
@@ -1716,6 +3748,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 5803
+   },
+   {
+    "ad": "Başyayla Karın Kaymağı",
+    "aciklama": "Karaman / Başyayla yöresine özgü süt ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7427
    }
   ],
   "Kars": [
@@ -1760,6 +3800,22 @@
     "kaynak_id": 38240
    },
    {
+    "ad": "Kars Kaşarı",
+    "aciklama": "Kars yöresine özgü peynir. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38112
+   },
+   {
+    "ad": "Sarıkamış Obsidyen Taşı",
+    "aciklama": "Kars / Sarıkamış yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5085
+   },
+   {
     "ad": "Kağızman Uzun Elması",
     "aciklama": "Kars yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
@@ -1802,6 +3858,22 @@
     "kaynak_id": 38427
    },
    {
+    "ad": "Kastamonu Örme Fanilası/Kastamonu Fanilası",
+    "aciklama": "Kastamonu yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 584
+   },
+   {
+    "ad": "Azdavay Yöresel Giysileri",
+    "aciklama": "Kastamonu / Azdavay yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1844
+   },
+   {
     "ad": "Cide Ceviz Helvası",
     "aciklama": "Kastamonu / Cide yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
@@ -1810,12 +3882,116 @@
     "kaynak_id": 38625
    },
    {
+    "ad": "Evrenye Bıçağı",
+    "aciklama": "Kastamonu yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1763
+   },
+   {
+    "ad": "Tosya Bıçkısı",
+    "aciklama": "Kastamonu yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38451
+   },
+   {
+    "ad": "Tosya Kıl Telası",
+    "aciklama": "Kastamonu / Tosya yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2443
+   },
+   {
+    "ad": "Tosya Kıstısı",
+    "aciklama": "Kastamonu / Tosya yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 126
+   },
+   {
+    "ad": "Çatalzeytin Fındık Şekeri",
+    "aciklama": "Kastamonu / Çatalzeytin yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38554
+   },
+   {
     "ad": "Kastamonu Kestane Balı",
     "aciklama": "Kastamonu yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Bal / peynir / şarküteri",
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38676
+   },
+   {
+    "ad": "Kastamonu Siyez Bulguru",
+    "aciklama": "Kastamonu yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38426
+   },
+   {
+    "ad": "Kastamonu Pastırması",
+    "aciklama": "Kastamonu yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38472
+   },
+   {
+    "ad": "Kastamonu Siyez Unu",
+    "aciklama": "Kastamonu yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38601
+   },
+   {
+    "ad": "Kastamonu Kuzu Kestanesi",
+    "aciklama": "Kastamonu yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 7005
+   },
+   {
+    "ad": "Kastamonu Eğşisi",
+    "aciklama": "Kastamonu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1209
+   },
+   {
+    "ad": "Kastamonu Üryani Eriği",
+    "aciklama": "Kastamonu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 644
+   },
+   {
+    "ad": "Taşköprü Sarımsağı",
+    "aciklama": "Kastamonu / Taşköprü yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38009
+   },
+   {
+    "ad": "İnebolu Kuzu Kestane",
+    "aciklama": "Kastamonu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5983
    }
   ],
   "Kayseri": [
@@ -1852,6 +4028,14 @@
     "kaynak_id": 37926
    },
    {
+    "ad": "Yahyalı El Halısı",
+    "aciklama": "Kayseri yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37881
+   },
+   {
     "ad": "Kayseri Cırgalan Biberi",
     "aciklama": "Kayseri / Kocasinan yöresine özgü baharat / çeşni. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Yağ / baharat",
@@ -1866,6 +4050,102 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 11312
+   },
+   {
+    "ad": "Kayseri Pastırması",
+    "aciklama": "Kayseri yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37898
+   },
+   {
+    "ad": "Kayseri Sucuğu",
+    "aciklama": "Kayseri yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37897
+   },
+   {
+    "ad": "Kayseri Çemeni",
+    "aciklama": "Kayseri yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5366
+   },
+   {
+    "ad": "Pınarbaşı Uzunyayla Çerkes Peyniri",
+    "aciklama": "Kayseri yöresine özgü peynir. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1636
+   },
+   {
+    "ad": "Özvatan Çiçek Balı",
+    "aciklama": "Kayseri / Özvatan yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38627
+   },
+   {
+    "ad": "Develi Gaceri",
+    "aciklama": "Kayseri / Develi yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3345
+   },
+   {
+    "ad": "Talas Çörekotlu Çömlek Peyniri",
+    "aciklama": "Kayseri yöresine özgü peynir. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8004
+   },
+   {
+    "ad": "Akkışla Gilaburusu",
+    "aciklama": "Kayseri / Akkışla yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38229
+   },
+   {
+    "ad": "Bünyan Gilaburusu",
+    "aciklama": "Kayseri yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38250
+   },
+   {
+    "ad": "Yamula Patlıcanı",
+    "aciklama": "Kayseri yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37985
+   },
+   {
+    "ad": "İncesu Karaevrek Üzümü",
+    "aciklama": "Kayseri yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38139
+   },
+   {
+    "ad": "Talas Zincidere Kuru Kaymağı",
+    "aciklama": "Kayseri yöresine özgü süt ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8005
    }
   ],
   "Kilis": [
@@ -1928,6 +4208,38 @@
     "kaynak_id": 37865
    },
    {
+    "ad": "Hereke İpek Halısı",
+    "aciklama": "Kocaeli yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37864
+   },
+   {
+    "ad": "Kandıra Bezi",
+    "aciklama": "Kocaeli yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38474
+   },
+   {
+    "ad": "Karamürsel Sepeti",
+    "aciklama": "Kocaeli yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37980
+   },
+   {
+    "ad": "Nüzhetiye Bebeği / Döşeme Bebeği",
+    "aciklama": "Kocaeli yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 583
+   },
+   {
     "ad": "Değirmendere Fındığı",
     "aciklama": "Kocaeli / Gölcük yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
@@ -1970,6 +4282,46 @@
     "kaynak_id": 8126
    },
    {
+    "ad": "Konya Kenevir Helvası",
+    "aciklama": "Konya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2563
+   },
+   {
+    "ad": "Konya Peynir Şekeri",
+    "aciklama": "Konya yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38107
+   },
+   {
+    "ad": "Konya İrmik Helvası",
+    "aciklama": "Konya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2666
+   },
+   {
+    "ad": "Ahırlı Köpük Helvası",
+    "aciklama": "Konya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7249
+   },
+   {
+    "ad": "Akşehir Peynir Baklavası",
+    "aciklama": "Konya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38506
+   },
+   {
     "ad": "Emirgazi Halısı",
     "aciklama": "Konya / Emirgazi yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
@@ -1978,12 +4330,68 @@
     "kaynak_id": 9602
    },
    {
+    "ad": "Ilgın Haşhaşlı Kömbe",
+    "aciklama": "Konya / Ilgın yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 9402
+   },
+   {
+    "ad": "Kadınhanı Kömbesi",
+    "aciklama": "Konya / Kadınhanı yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6905
+   },
+   {
+    "ad": "Kadınhanı Tahinli Pidesi",
+    "aciklama": "Konya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38029
+   },
+   {
     "ad": "Karapınar Halısı",
     "aciklama": "Konya yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 8363
+   },
+   {
+    "ad": "Karapınar Tülü Dokuması",
+    "aciklama": "Konya / Karapınar yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8367
+   },
+   {
+    "ad": "Nuzumla Kilimi",
+    "aciklama": "Konya / Seydişehir yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10362
+   },
+   {
+    "ad": "Nuzumla Yatak Halısı",
+    "aciklama": "Konya yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 10346
+   },
+   {
+    "ad": "Sille Kurabiyesi",
+    "aciklama": "Konya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8122
    },
    {
     "ad": "Atlantı Dededağ Tulum Peyniri",
@@ -2000,6 +4408,102 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 662
+   },
+   {
+    "ad": "Karapınar Kavurgası",
+    "aciklama": "Konya / Karapınar yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8365
+   },
+   {
+    "ad": "Konya Kifayesi",
+    "aciklama": "Konya yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7244
+   },
+   {
+    "ad": "Konya Reyhan Şerbeti",
+    "aciklama": "Konya yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2660
+   },
+   {
+    "ad": "Akçabelen (Çetmi) Şeker Fasulyesi",
+    "aciklama": "Konya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38307
+   },
+   {
+    "ad": "Akşehir Kirazı",
+    "aciklama": "Konya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37932
+   },
+   {
+    "ad": "Derbent Fasulyesi",
+    "aciklama": "Konya / Derbent yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1812
+   },
+   {
+    "ad": "Derebucak Gembos Şeker Fasulyesi",
+    "aciklama": "Konya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 9842
+   },
+   {
+    "ad": "Ereğli Beyaz Kirazı",
+    "aciklama": "Konya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38128
+   },
+   {
+    "ad": "Ereğli Siyah Havucu",
+    "aciklama": "Konya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38129
+   },
+   {
+    "ad": "Hüyük Çileği",
+    "aciklama": "Konya / Hüyük yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1882
+   },
+   {
+    "ad": "Seydişehir Leblebisi",
+    "aciklama": "Konya yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5903
+   },
+   {
+    "ad": "Seydişehir Çileği",
+    "aciklama": "Konya / Seydişehir yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7462
    }
   ],
   "Kütahya": [
@@ -2036,6 +4540,22 @@
     "kaynak_id": 6128
    },
    {
+    "ad": "Paşa Helvası",
+    "aciklama": "Kütahya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1815
+   },
+   {
+    "ad": "Simav El Halısı",
+    "aciklama": "Kütahya yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37867
+   },
+   {
     "ad": "Kütahya Pazarlar Kirazı",
     "aciklama": "Kütahya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
@@ -2050,6 +4570,22 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 1526
+   },
+   {
+    "ad": "Şaphane Vişnesi",
+    "aciklama": "Kütahya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38325
+   },
+   {
+    "ad": "Tavşanlı Leblebisi",
+    "aciklama": "Kütahya / Tavşanlı yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37915
    }
   ],
   "Kırklareli": [
@@ -2076,6 +4612,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 6084
+   },
+   {
+    "ad": "Kırklareli Meşe Balı",
+    "aciklama": "Kırklareli yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1362
    },
    {
     "ad": "Babaeski Sarımsağı",
@@ -2180,12 +4724,172 @@
     "kaynak_id": 38597
    },
    {
+    "ad": "Malatya Yassı Kadayıfı",
+    "aciklama": "Malatya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5490
+   },
+   {
     "ad": "Akçadağ Halısı",
     "aciklama": "Malatya yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38545
+   },
+   {
+    "ad": "Akçadağ Kömbesi",
+    "aciklama": "Malatya / Akçadağ yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38557
+   },
+   {
+    "ad": "Arapgir Deli Kız Baklavası",
+    "aciklama": "Malatya / Arapgir yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6525
+   },
+   {
+    "ad": "Arapgir Gelin Kız Helvası",
+    "aciklama": "Malatya yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 14762
+   },
+   {
+    "ad": "Arapgir Manusa Dokuması",
+    "aciklama": "Malatya yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2544
+   },
+   {
+    "ad": "Arapgir Pestil Kavurması / Arapgir Bastık Kavurması",
+    "aciklama": "Malatya / Arapgir yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7043
+   },
+   {
+    "ad": "Arapgir Pohmutu /Pohmut",
+    "aciklama": "Malatya / Arapgir yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2542
+   },
+   {
+    "ad": "Arapgir Tahta Çivili Ayakkabı",
+    "aciklama": "Malatya / Arapgir yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5724
+   },
+   {
+    "ad": "Battalgazi Haşhaşlı Dut Pestili",
+    "aciklama": "Malatya / Battalgazi yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38609
+   },
+   {
+    "ad": "Malatya Erik Ekşisi",
+    "aciklama": "Malatya yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5063
+   },
+   {
+    "ad": "Arapgir Mor Reyhanı",
+    "aciklama": "Malatya yöresine özgü baharat / çeşni. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38308
+   },
+   {
+    "ad": "Arapgir Kakuk",
+    "aciklama": "Malatya / Arapgir yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2487
+   },
+   {
+    "ad": "Pütürge Dermanı",
+    "aciklama": "Malatya / Pütürge yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7785
+   },
+   {
+    "ad": "Malatya Banazı Karası Üzümü",
+    "aciklama": "Malatya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38119
+   },
+   {
+    "ad": "Malatya Dalbastı Kirazı",
+    "aciklama": "Malatya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38120
+   },
+   {
+    "ad": "Malatya Kayısı Çekirdeği",
+    "aciklama": "Malatya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38596
+   },
+   {
+    "ad": "Arapgir Köhnü Üzümü",
+    "aciklama": "Malatya yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37976
+   },
+   {
+    "ad": "Hekimhan Cevizi",
+    "aciklama": "Malatya / Hekimhan yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38187
+   },
+   {
+    "ad": "Akçadağ Armudu",
+    "aciklama": "Malatya / Akçadağ yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8432
+   },
+   {
+    "ad": "Pütürge Dutu",
+    "aciklama": "Malatya / Pütürge yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7903
    }
   ],
   "Manisa": [
@@ -2214,12 +4918,28 @@
     "kaynak_id": 37883
    },
    {
+    "ad": "Kula El Halısı",
+    "aciklama": "Manisa yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37876
+   },
+   {
     "ad": "Soma Helvası",
     "aciklama": "Manisa / Soma yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 4675
+   },
+   {
+    "ad": "Yuntdağı El Halısı",
+    "aciklama": "Manisa yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37874
    },
    {
     "ad": "Akhisar Domat Zeytinyağı",
@@ -2236,6 +4956,142 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38404
+   },
+   {
+    "ad": "Soma Zeytinyağı",
+    "aciklama": "Manisa / Soma yöresine özgü yağ. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4674
+   },
+   {
+    "ad": "Manisa Asma Yaprağı",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4762
+   },
+   {
+    "ad": "Manisa Sultani Çekirdeksiz Üzümü",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38399
+   },
+   {
+    "ad": "Akhisar Domat Zeytini",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38037
+   },
+   {
+    "ad": "Akhisar Uslu Zeytini",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38036
+   },
+   {
+    "ad": "Büyükbelen Tekir Zeytini",
+    "aciklama": "Manisa / Saruhanlı yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 5385
+   },
+   {
+    "ad": "Demirci Hünnabı",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38255
+   },
+   {
+    "ad": "Köprübaşı Çileği",
+    "aciklama": "Manisa / Köprübaşı yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38302
+   },
+   {
+    "ad": "Salihli Kirazı",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37974
+   },
+   {
+    "ad": "Saruhanlı Çekirdeksiz Beyaz Üzümü",
+    "aciklama": "Manisa / Saruhanlı yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2743
+   },
+   {
+    "ad": "Alaşehir Asma Yaprağı",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3629
+   },
+   {
+    "ad": "Alaşehir Çekirdeksiz Üzümü",
+    "aciklama": "Manisa / Alaşehir yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11724
+   },
+   {
+    "ad": "Demirci Figani Efendi Eriği",
+    "aciklama": "Manisa / Demirci yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5973
+   },
+   {
+    "ad": "Demirci Kirazı",
+    "aciklama": "Manisa yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4605
+   },
+   {
+    "ad": "Emcelli Biberi",
+    "aciklama": "Manisa / Sarıgöl yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4163
+   },
+   {
+    "ad": "Kula Leblebisi",
+    "aciklama": "Manisa / Kula yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38285
+   },
+   {
+    "ad": "Salihli Sultani Üzüm Pekmezi",
+    "aciklama": "Manisa / Salihli yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7403
    }
   ],
   "Mardin": [
@@ -2286,6 +5142,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 1142
+   },
+   {
+    "ad": "Midyat İnciri",
+    "aciklama": "Mardin / Midyat yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1125
+   },
+   {
+    "ad": "Ömerli Karfoki Üzümü",
+    "aciklama": "Mardin / Ömerli yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38263
+   },
+   {
+    "ad": "Midyat Acuru",
+    "aciklama": "Mardin / Midyat yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1025
+   },
+   {
+    "ad": "Midyat Turşusu / Midyat Acur Turşusu",
+    "aciklama": "Mardin / Midyat yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3963
    }
   ],
   "Mersin": [
@@ -2304,6 +5192,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38600
+   },
+   {
+    "ad": "Tarsus Yayla Bandırması",
+    "aciklama": "Mersin yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37946
    },
    {
     "ad": "Çamlıyayla İğne Oyaları",
@@ -2330,12 +5226,100 @@
     "kaynak_id": 1924
    },
    {
+    "ad": "Tarsus Biberiyesi",
+    "aciklama": "Mersin yöresine özgü baharat / çeşni. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3205
+   },
+   {
     "ad": "Mersin Kan Portakalı",
     "aciklama": "Mersin yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 7822
+   },
+   {
+    "ad": "Anamur Muzu",
+    "aciklama": "Mersin yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37904
+   },
+   {
+    "ad": "Erdemli Lamas Limonu",
+    "aciklama": "Mersin / Erdemli yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38586
+   },
+   {
+    "ad": "Erdemli Muzu",
+    "aciklama": "Mersin / Erdemli yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 790
+   },
+   {
+    "ad": "Gezende Eriği",
+    "aciklama": "Mersin yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38198
+   },
+   {
+    "ad": "Gülnar Kuş Üzümü",
+    "aciklama": "Mersin yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4824
+   },
+   {
+    "ad": "Mut Kayısısı (Yaş Sofralık)",
+    "aciklama": "Mersin yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37961
+   },
+   {
+    "ad": "Silifke Çileği",
+    "aciklama": "Mersin / Silifke yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38591
+   },
+   {
+    "ad": "Tarsus Beyazı Üzüm (Topacık)",
+    "aciklama": "Mersin yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37931
+   },
+   {
+    "ad": "Tarsus Sarıulak Zeytini",
+    "aciklama": "Mersin yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38269
+   },
+   {
+    "ad": "Tarsus Şalgamı",
+    "aciklama": "Mersin yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37947
    }
   ],
   "Muğla": [
@@ -2354,6 +5338,30 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 9042
+   },
+   {
+    "ad": "Milas El Halısı",
+    "aciklama": "Muğla yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37878
+   },
+   {
+    "ad": "Seydiler Kilimi",
+    "aciklama": "Muğla yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38680
+   },
+   {
+    "ad": "Üzümlü Dastarı/Yeşilüzümlü Dastarı",
+    "aciklama": "Muğla yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38673
    },
    {
     "ad": "Muğla Çam Balı",
@@ -2386,6 +5394,126 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 3485
+   },
+   {
+    "ad": "Fethiye Tahini",
+    "aciklama": "Muğla yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 382
+   },
+   {
+    "ad": "Milas Ciğer Kavurması",
+    "aciklama": "Muğla yöresine özgü et ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7324
+   },
+   {
+    "ad": "Milas Zeytinyağı Sabunu",
+    "aciklama": "Muğla / Milas yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7343
+   },
+   {
+    "ad": "Bodrum Mandarini",
+    "aciklama": "Muğla yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38014
+   },
+   {
+    "ad": "Datça Nurlu Bademi",
+    "aciklama": "Muğla yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4982
+   },
+   {
+    "ad": "Fethiye Kaya İnciri",
+    "aciklama": "Muğla yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2063
+   },
+   {
+    "ad": "Gökova Susamı",
+    "aciklama": "Muğla / Ula yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 5968
+   },
+   {
+    "ad": "Kavaklıdere Cevizi",
+    "aciklama": "Muğla / Kavaklıdere yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38226
+   },
+   {
+    "ad": "Köyceğiz Portakalı",
+    "aciklama": "Muğla / Köyceğiz yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4469
+   },
+   {
+    "ad": "Marmaris Yer Fıstığı",
+    "aciklama": "Muğla / Marmaris yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 5684
+   },
+   {
+    "ad": "Milas Yağlı Zeytini",
+    "aciklama": "Muğla yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38457
+   },
+   {
+    "ad": "Milas Çekişke Zeytini",
+    "aciklama": "Muğla / Milas yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4844
+   },
+   {
+    "ad": "Ula Sarımsağı",
+    "aciklama": "Muğla yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 9084
+   },
+   {
+    "ad": "Fethiye Kuzu Göbeği Mantarı",
+    "aciklama": "Muğla / Fethiye yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 12370
+   },
+   {
+    "ad": "Milas Ekşili Zeytini",
+    "aciklama": "Muğla / Milas yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7342
    }
   ],
   "Muş": [
@@ -2446,6 +5574,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 9043
+   },
+   {
+    "ad": "Derinkuyu Kuru Fasulyesi",
+    "aciklama": "Nevşehir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3283
    },
    {
     "ad": "Kaymaklı Kuru Kaymağı",
@@ -2530,6 +5666,54 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 11322
+   },
+   {
+    "ad": "Ordu Dağ Çileği Reçeli",
+    "aciklama": "Ordu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7562
+   },
+   {
+    "ad": "Ordu Taflan Turşusu",
+    "aciklama": "Ordu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5384
+   },
+   {
+    "ad": "Ordu Yayla Pancarı Turşusu / Ordu Dürme Turşusu",
+    "aciklama": "Ordu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38108
+   },
+   {
+    "ad": "Akkuş Şeker Fasulyesi",
+    "aciklama": "Ordu yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38022
+   },
+   {
+    "ad": "Gürgentepe Çakıldak Fındığı",
+    "aciklama": "Ordu yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5449
+   },
+   {
+    "ad": "Gürgentepe Çoban Fasulyesi",
+    "aciklama": "Ordu / Gürgentepe yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3823
    },
    {
     "ad": "Ünye İzabella Üzüm Suyu",
@@ -2624,12 +5808,52 @@
     "kaynak_id": 1342
    },
    {
+    "ad": "Rize Bezi (Feretiko)",
+    "aciklama": "Rize yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37953
+   },
+   {
     "ad": "Rize Enişte Lokumu",
     "aciklama": "Rize yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 2362
+   },
+   {
+    "ad": "Ayder Balı",
+    "aciklama": "Rize yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 830
+   },
+   {
+    "ad": "Çayeli Koloti Peyniri",
+    "aciklama": "Rize / Çayeli yöresine özgü peynir. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2986
+   },
+   {
+    "ad": "İyidere Pileki Taşı",
+    "aciklama": "Rize / İyidere yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4062
+   },
+   {
+    "ad": "Rize Kokulu Üzümü",
+    "aciklama": "Rize yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7344
    }
   ],
   "Sakarya": [
@@ -2680,6 +5904,46 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38205
+   },
+   {
+    "ad": "Kocaali Çamdağı Kestane Balı",
+    "aciklama": "Sakarya / Kocaali yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2228
+   },
+   {
+    "ad": "Geyve Ayvası",
+    "aciklama": "Sakarya / Geyve yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38301
+   },
+   {
+    "ad": "Sapanca Cevizi",
+    "aciklama": "Sakarya / Sapanca yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 10022
+   },
+   {
+    "ad": "Karapürçek Cennet Hurması Pekmezi",
+    "aciklama": "Sakarya / Karapürçek yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4164
+   },
+   {
+    "ad": "Kocaali Hurma Kurusu",
+    "aciklama": "Sakarya / Kocaali yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2222
    }
   ],
   "Samsun": [
@@ -2706,6 +5970,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 38374
+   },
+   {
+    "ad": "Vezirköprü Susuz Bezi",
+    "aciklama": "Samsun yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38587
+   },
+   {
+    "ad": "Vezirköprü Tahtaköprü Kilimi",
+    "aciklama": "Samsun yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38588
+   },
+   {
+    "ad": "Yumurta Topuk Çarşamba Ayakkabısı / Çarşamba Ayakkabısı",
+    "aciklama": "Samsun / Çarşamba yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 945
+   },
+   {
+    "ad": "Çarşamba Sekiz Köşe Kasketi / Çarşamba Kasketi",
+    "aciklama": "Samsun / Çarşamba yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 944
    },
    {
     "ad": "Salıpazarı Kestane Balı",
@@ -2758,6 +6054,14 @@
     "kaynak_id": 6110
    },
    {
+    "ad": "Siirt Bıttım Sabunu",
+    "aciklama": "Siirt yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11267
+   },
+   {
     "ad": "Pervari Balı",
     "aciklama": "Siirt / Pervari yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Bal / peynir / şarküteri",
@@ -2792,12 +6096,36 @@
     "kaynak_id": 38082
    },
    {
+    "ad": "Ayancık Keten Bezi",
+    "aciklama": "Sinop yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38081
+   },
+   {
     "ad": "Boyabat Ezmesi",
     "aciklama": "Sinop / Boyabat yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 13324
+   },
+   {
+    "ad": "Durağan Mahraması",
+    "aciklama": "Sinop / Durağan yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38662
+   },
+   {
+    "ad": "Durağan Çemberi",
+    "aciklama": "Sinop / Durağan yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38661
    },
    {
     "ad": "Sinop Kestane Balı",
@@ -2824,6 +6152,30 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 37869
+   },
+   {
+    "ad": "Sivas Kemik Tarağı",
+    "aciklama": "Sivas yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5972
+   },
+   {
+    "ad": "Yenihan Bebekleri",
+    "aciklama": "Sivas yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38504
+   },
+   {
+    "ad": "Şarkışla Kilimi",
+    "aciklama": "Sivas yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38445
    },
    {
     "ad": "Sivas Pastırması",
@@ -2856,6 +6208,22 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38105
+   },
+   {
+    "ad": "Gürün Dut Pekmezi",
+    "aciklama": "Sivas / Gürün yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38436
+   },
+   {
+    "ad": "Suşehri Kuru Fasulyesi",
+    "aciklama": "Sivas / Suşehri yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3623
    }
   ],
   "Tekirdağ": [
@@ -2934,6 +6302,54 @@
     "kaynak_id": 9684
    },
    {
+    "ad": "Tokat Bileziği / Tokat Mengil Kolluğu",
+    "aciklama": "Tokat yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3564
+   },
+   {
+    "ad": "Tokat Dive Dokuması",
+    "aciklama": "Tokat yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 9785
+   },
+   {
+    "ad": "Tokat Honçası",
+    "aciklama": "Tokat yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3565
+   },
+   {
+    "ad": "Tokat Kızık Kilimi",
+    "aciklama": "Tokat yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 9623
+   },
+   {
+    "ad": "Tokat Perpereli Küpesi / Tokat Pırpırlı Küpesi",
+    "aciklama": "Tokat yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3583
+   },
+   {
+    "ad": "Reşadiye Hamam Kesesi",
+    "aciklama": "Tokat / Reşadiye yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6046
+   },
+   {
     "ad": "Zile Kömesi",
     "aciklama": "Tokat yöresine özgü şekerleme. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Tatlı / şekerleme",
@@ -2956,6 +6372,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38289
+   },
+   {
+    "ad": "Tokat Üzüm Tarhanası",
+    "aciklama": "Tokat yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8967
+   },
+   {
+    "ad": "Erbaa Narince Bağ Yaprağı",
+    "aciklama": "Tokat yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38203
+   },
+   {
+    "ad": "Niksar Cevizi",
+    "aciklama": "Tokat yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38047
+   },
+   {
+    "ad": "Reşadiye Kırmızı Pezik Turşusu",
+    "aciklama": "Tokat / Reşadiye yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6063
    }
   ],
   "Trabzon": [
@@ -2982,6 +6430,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38232
+   },
+   {
+    "ad": "Trabzon Fanilası",
+    "aciklama": "Trabzon yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 9682
+   },
+   {
+    "ad": "Trabzon Telkariye Ve Hasırı",
+    "aciklama": "Trabzon yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37977
+   },
+   {
+    "ad": "Ağasar Yöresel Giysileri / Şalpazarı Yöresel Giysileri",
+    "aciklama": "Trabzon / Şalpazarı yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11071
+   },
+   {
+    "ad": "Çarşıbaşı Keşanı",
+    "aciklama": "Trabzon yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37943
    },
    {
     "ad": "Yomra Elması",
@@ -3068,6 +6548,14 @@
     "kaynak_id": 38016
    },
    {
+    "ad": "Uşak Helvası",
+    "aciklama": "Uşak yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4264
+   },
+   {
     "ad": "Eşme - Yörük Kilimi",
     "aciklama": "Uşak yöresine özgü halı / kilim. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "El sanatı",
@@ -3118,6 +6606,14 @@
     "kaynak_id": 37885
    },
    {
+    "ad": "Reşik",
+    "aciklama": "Van yöresine özgü el sanatı ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 13071
+   },
+   {
     "ad": "Van Gül Reçeli",
     "aciklama": "Van yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
     "kategori": "Meyve / kuruyemiş",
@@ -3132,6 +6628,30 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 5005
+   },
+   {
+    "ad": "Erciş Üzümü",
+    "aciklama": "Van / Erciş yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1764
+   },
+   {
+    "ad": "Çatak Cevizi",
+    "aciklama": "Van / Çatak yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2656
+   },
+   {
+    "ad": "Gevaş Fasulyesi",
+    "aciklama": "Van yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 4622
    }
   ],
   "Yalova": [
@@ -3234,6 +6754,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 125
+   },
+   {
+    "ad": "Devrek Kireni",
+    "aciklama": "Zonguldak / Devrek yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 823
    }
   ],
   "Çanakkale": [
@@ -3284,6 +6812,70 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 10582
+   },
+   {
+    "ad": "Işıkeli Nohut Kahvesi",
+    "aciklama": "Çanakkale yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6082
+   },
+   {
+    "ad": "Bayramiç Zeytinyağı",
+    "aciklama": "Çanakkale yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3405
+   },
+   {
+    "ad": "Geyikli Zeytinyağı",
+    "aciklama": "Çanakkale yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1724
+   },
+   {
+    "ad": "Biga Pirinci",
+    "aciklama": "Çanakkale yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6083
+   },
+   {
+    "ad": "Bayramiç Elması",
+    "aciklama": "Çanakkale yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38089
+   },
+   {
+    "ad": "Bozcaada Çavuş Üzümü",
+    "aciklama": "Çanakkale / Bozcaada yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38630
+   },
+   {
+    "ad": "Lapseki Şeftalisi",
+    "aciklama": "Çanakkale / Lapseki yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4544
+   },
+   {
+    "ad": "Yenice Kırmızı Biberi",
+    "aciklama": "Çanakkale / Yenice yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1814
    }
   ],
   "Çankırı": [
@@ -3302,6 +6894,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 3182
+   },
+   {
+    "ad": "Yapraklı Panayır Helvası",
+    "aciklama": "Çankırı yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 9102
+   },
+   {
+    "ad": "Çerkeş Lokumu",
+    "aciklama": "Çankırı / Çerkeş yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 9253
+   },
+   {
+    "ad": "Çerkeş Sırma Baklavası",
+    "aciklama": "Çankırı / Çerkeş yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8006
+   },
+   {
+    "ad": "Şabanözü Dondurma Helvası",
+    "aciklama": "Çankırı / Şabanözü yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 6108
    },
    {
     "ad": "Çankırı Kaya Tuzu",
@@ -3334,6 +6958,22 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 8524
+   },
+   {
+    "ad": "Çerkeş Çiçek Balı",
+    "aciklama": "Çankırı / Çerkeş yöresine özgü bal. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Bal / peynir / şarküteri",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 12267
+   },
+   {
+    "ad": "Eldivan Kirazı",
+    "aciklama": "Çankırı / Eldivan yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5343
    }
   ],
   "Çorum": [
@@ -3362,6 +7002,14 @@
     "kaynak_id": 8870
    },
    {
+    "ad": "İskilip Baklavası",
+    "aciklama": "Çorum / İskilip yöresine özgü tatlı. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Tatlı / şekerleme",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 8642
+   },
+   {
     "ad": "Kargı Tulum Peyniri",
     "aciklama": "Çorum / Kargı yöresine özgü peynir. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Bal / peynir / şarküteri",
@@ -3384,6 +7032,38 @@
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 38583
+   },
+   {
+    "ad": "Alaca Mor Soğanı / Alaca Moru",
+    "aciklama": "Çorum / Alaca yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3586
+   },
+   {
+    "ad": "Osmancık Kapari Turşusu",
+    "aciklama": "Çorum yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 11249
+   },
+   {
+    "ad": "İskilip Turşusu",
+    "aciklama": "Çorum / İskilip yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 37951
+   },
+   {
+    "ad": "İskilip Çileği",
+    "aciklama": "Çorum yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5784
    }
   ],
   "İstanbul": [
@@ -3454,12 +7134,164 @@
     "kaynak_id": 10144
    },
    {
+    "ad": "Tire Beledi Dokuması",
+    "aciklama": "İzmir / Tire yöresine özgü dokuma. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "El sanatı",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1762
+   },
+   {
     "ad": "Güney Ege Zeytinyağları",
     "aciklama": "İzmir yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
     "kategori": "Yağ / baharat",
     "cografi_isaret": true,
     "tescil_turu": "Menşe Adı",
     "kaynak_id": 37927
+   },
+   {
+    "ad": "Ödemiş Çekişte Zeytinyağı",
+    "aciklama": "İzmir yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 462
+   },
+   {
+    "ad": "Ödemiş İpeği",
+    "aciklama": "İzmir / Ödemiş yöresine özgü yöresel ürün. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2723
+   },
+   {
+    "ad": "Bergama Parşömeni/ Bergama Kâğıdı",
+    "aciklama": "İzmir / Bergama yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1588
+   },
+   {
+    "ad": "Kuzey Ege Zeytinyağları",
+    "aciklama": "İzmir yöresine özgü yağ. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38239
+   },
+   {
+    "ad": "Çeşme Damla Sakızı",
+    "aciklama": "İzmir / Çeşme yöresine özgü yöresel ürün. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yöresel ürün",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 2144
+   },
+   {
+    "ad": "Arslanlar Biberi",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 4664
+   },
+   {
+    "ad": "Bergama Kozak Çam Fıstığı",
+    "aciklama": "İzmir / Bergama yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38004
+   },
+   {
+    "ad": "Bornova Kınalı Bamyası",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 122
+   },
+   {
+    "ad": "Ege Sultani Üzümü",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37919
+   },
+   {
+    "ad": "Ege İnciri",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37918
+   },
+   {
+    "ad": "Gümüldür Mandalinası (Gümüldür Mandarini)",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38163
+   },
+   {
+    "ad": "Kavacık Üzümü",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38553
+   },
+   {
+    "ad": "Kemalpaşa Kirazı",
+    "aciklama": "İzmir / Kemalpaşa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 1862
+   },
+   {
+    "ad": "Seferihisar Mandalinası",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38102
+   },
+   {
+    "ad": "Ödemiş Patatesi",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 37910
+   },
+   {
+    "ad": "Bademli Koruk Şerbeti",
+    "aciklama": "İzmir yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 3042
+   },
+   {
+    "ad": "Gökçealan Osmancık Üzümü",
+    "aciklama": "İzmir yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 1785
+   },
+   {
+    "ad": "Çavuşdağı Kuru Fasulyesi",
+    "aciklama": "İzmir / Kiraz yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 624
    }
   ],
   "Şanlıurfa": [
@@ -3510,6 +7342,70 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 5202
+   },
+   {
+    "ad": "Birecik Patlıcanı",
+    "aciklama": "Şanlıurfa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38111
+   },
+   {
+    "ad": "Karaköprü Narı",
+    "aciklama": "Şanlıurfa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38478
+   },
+   {
+    "ad": "Suruç Narı",
+    "aciklama": "Şanlıurfa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 2344
+   },
+   {
+    "ad": "Şanlıurfa Sadeyağı (Urfa Yağı)",
+    "aciklama": "Şanlıurfa yöresine özgü yağ. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Yağ / baharat",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 38155
+   },
+   {
+    "ad": "Hasenik Pekmezi",
+    "aciklama": "Şanlıurfa yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5003
+   },
+   {
+    "ad": "Hasenik Pestili",
+    "aciklama": "Şanlıurfa / Hilvan yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 5004
+   },
+   {
+    "ad": "Urfa Keten Köyneği Fıstığı / Şanlıurfa Keten Köyneği Fıstığı",
+    "aciklama": "Şanlıurfa yöresine özgü tarım ürünü. Menşe Adı ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Menşe Adı",
+    "kaynak_id": 3170
+   },
+   {
+    "ad": "Urfa Meyan Şerbeti (Biyanbalı)",
+    "aciklama": "Şanlıurfa yöresine özgü içecek. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "İçecek",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 38098
    }
   ],
   "Şırnak": [
@@ -3560,6 +7456,14 @@
     "cografi_isaret": true,
     "tescil_turu": "Mahreç İşareti",
     "kaynak_id": 11984
+   },
+   {
+    "ad": "Silopi Behnat İnciri",
+    "aciklama": "Şırnak / Silopi yöresine özgü tarım ürünü. Mahreç İşareti ile tescilli coğrafi işaretli ürün.",
+    "kategori": "Meyve / kuruyemiş",
+    "cografi_isaret": true,
+    "tescil_turu": "Mahreç İşareti",
+    "kaynak_id": 7662
    }
   ]
  }
