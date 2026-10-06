@@ -8,6 +8,11 @@ master_database_updated.json içindeki `sosyal` listesini canlı tutar:
 
 Güvenlik: API hatası oranı yüksekse veya tek çalıştırmada çok fazla ekleme /
 çıkarma çıkarsa hiçbir değişiklik uygulanmaz. Anahtar: GOOGLE_PLACES_API_KEY.
+
+Maliyet freni: Text Search Pro'nun aylık 5.000 ücretsiz isteği aşılmasın diye bir
+çalıştırma en fazla MAX_CALLS_PER_RUN, aynı aydaki tüm çalıştırmalar toplam
+MONTHLY_CALL_CAP istek atar. Sayaç state.json içindeki `aylik_cagri` alanındadır.
+Sınıra takılan tarama hiçbir değişiklik uygulamaz.
 """
 from __future__ import annotations
 
@@ -38,6 +43,8 @@ REMOVE_MIN = 0.9
 DUP_MIN = 0.85
 DISCOVERY_QUERIES = ("{il} belediyesi sosyal tesisleri", "{il} belediye sosyal tesis kafe")
 DISCOVERY_PAGES = 3
+MAX_CALLS_PER_RUN = 2000
+MONTHLY_CALL_CAP = 4500
 
 SEARCH_URL = "https://places.googleapis.com/v1/places:searchText"
 SEARCH_FIELDS = (
@@ -114,12 +121,17 @@ def clean_address(address: str) -> str:
     return re.sub(r",\s*(Türkiye|Turkey)$", "", (address or "").strip())
 
 
+class CallBudgetExceeded(Exception):
+    """İstek sınırı doldu; RuntimeError değildir, tek arama hatası gibi yutulmaz."""
+
+
 class PlacesClient:
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, max_calls: int):
         import requests
 
         self._s = requests.Session()
         self._s.headers.update({"X-Goog-Api-Key": api_key, "Content-Type": "application/json"})
+        self.max_calls = max_calls
         self.calls = 0
         self.errors = 0
 
@@ -128,6 +140,8 @@ class PlacesClient:
         if page_token:
             body["pageToken"] = page_token
         for attempt in range(3):
+            if self.calls >= self.max_calls:
+                raise CallBudgetExceeded(f"{self.max_calls} istek sınırına ulaşıldı")
             self.calls += 1
             try:
                 r = self._s.post(SEARCH_URL, json=body, headers={"X-Goog-FieldMask": SEARCH_FIELDS}, timeout=30)
@@ -304,20 +318,75 @@ def write_report(today: str, plan: dict | None, applied: bool, note: str, calls:
     print("\n".join(lines))
 
 
+def load_state() -> dict:
+    return json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
+
+
+def estimated_calls(record_count: int) -> int:
+    """Bir taramanın en fazla atacağı istek (yeniden denemeler hariç)."""
+    iller = sum(1 for il in IL_ILCE if il != "Kıbrıs")
+    return record_count + iller * len(DISCOVERY_QUERIES) * DISCOVERY_PAGES
+
+
+def call_budget(state: dict, month: str) -> tuple[int, int]:
+    """(bu çalıştırmanın kullanabileceği istek, bu ay önceden kullanılan)."""
+    used = int((state.get("aylik_cagri") or {}).get(month, 0))
+    return max(0, min(MAX_CALLS_PER_RUN, MONTHLY_CALL_CAP - used)), used
+
+
+def add_usage(state: dict, month: str, calls: int) -> None:
+    usage = state.setdefault("aylik_cagri", {})
+    usage[month] = int(usage.get(month, 0)) + calls
+    for old in sorted(usage)[:-12]:
+        del usage[old]
+
+
+def record_usage_only(month: str, calls: int) -> None:
+    """Değişiklik uygulanmayan çalıştırmada yalnız aylık sayacı günceller."""
+    if not calls:
+        return
+    state = load_state()
+    add_usage(state, month, calls)
+    write_json(STATE, state, indent=1)
+
+
 def main() -> int:
     today = date.today().isoformat()
+    month = today[:7]
     key = os.environ.get("GOOGLE_PLACES_API_KEY", "").strip()
     if not key:
         write_report(today, None, False, "GOOGLE_PLACES_API_KEY tanımlı değil; tarama yapılmadı.", 0)
         return 0
 
     data = json.loads(MASTER.read_text(encoding="utf-8"))
-    state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
-    client = PlacesClient(key)
-    plan = plan_changes(data.get("sosyal") or [], state, client)
+    sosyal = data.get("sosyal") or []
+    state = load_state()
+    budget, used = call_budget(state, month)
+    need = estimated_calls(len(sosyal))
+    if need > budget:
+        write_report(
+            today, None, False,
+            f"İstek sınırı: tarama en fazla {need} istek gerektiriyor, kullanılabilir {budget} "
+            f"(bu ay kullanılan {used}/{MONTHLY_CALL_CAP}, çalıştırma başına en fazla {MAX_CALLS_PER_RUN}). "
+            "Tarama yapılmadı.",
+            0,
+        )
+        return 0
 
-    problem = safety_check(plan, len(data.get("sosyal") or []), client)
+    client = PlacesClient(key, budget)
+    try:
+        plan = plan_changes(sosyal, state, client)
+    except CallBudgetExceeded as e:
+        record_usage_only(month, client.calls)
+        write_report(today, None, False, f"{e}; hiçbir değişiklik uygulanmadı.", client.calls)
+        return 0
+    except BaseException:
+        record_usage_only(month, client.calls)
+        raise
+
+    problem = safety_check(plan, len(sosyal), client)
     if problem or DRY_RUN:
+        record_usage_only(month, client.calls)
         write_report(today, plan, False, problem or "DRY RUN", client.calls)
         return 0
 
@@ -328,6 +397,7 @@ def main() -> int:
         archive += [{**r, "kaldirilma_tarihi": today, "neden": "Google: kalıcı olarak kapandı"} for r in removed]
         write_json(ARCHIVE, archive, indent=1)
     state["son_tarama"] = today
+    add_usage(state, month, client.calls)
     write_json(STATE, state, indent=1)
     write_report(today, plan, True, "Tamamlandı", client.calls)
     return 0

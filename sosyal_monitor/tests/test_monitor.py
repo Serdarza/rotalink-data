@@ -97,6 +97,52 @@ def test_ilce_from_address(monkeypatch):
     assert monitor.ilce_from_address("Adana", "Kurttepe, 01170 Adana") == ""
 
 
+def test_call_budget_monthly_and_per_run():
+    assert monitor.call_budget({}, "2026-10") == (monitor.MAX_CALLS_PER_RUN, 0)
+    state = {"aylik_cagri": {"2026-10": 3000}}
+    assert monitor.call_budget(state, "2026-10") == (monitor.MONTHLY_CALL_CAP - 3000, 3000)
+    assert monitor.call_budget({"aylik_cagri": {"2026-10": 9999}}, "2026-10")[0] == 0
+    assert monitor.call_budget(state, "2026-11")[0] == monitor.MAX_CALLS_PER_RUN
+
+
+def test_add_usage_accumulates_and_keeps_12_months():
+    state = {"aylik_cagri": {f"2025-{m:02d}": 1 for m in range(1, 13)}}
+    monitor.add_usage(state, "2026-01", 500)
+    monitor.add_usage(state, "2026-01", 100)
+    assert state["aylik_cagri"]["2026-01"] == 600
+    assert len(state["aylik_cagri"]) == 12 and "2025-01" not in state["aylik_cagri"]
+
+
+def test_full_scan_fits_per_run_cap():
+    assert monitor.estimated_calls(1169) < monitor.MAX_CALLS_PER_RUN
+
+
+def test_client_stops_at_budget():
+    client = object.__new__(monitor.PlacesClient)
+    client.max_calls, client.calls, client.errors = 2, 2, 0
+    try:
+        client.search("x")
+    except monitor.CallBudgetExceeded:
+        pass
+    else:
+        raise AssertionError("sınırda istek atılmamalı")
+    assert client.calls == 2
+
+
+def test_budget_exceeded_is_not_swallowed(monkeypatch):
+    monkeypatch.setattr(monitor, "IL_ILCE", {"Düzce": ["Merkez"]})
+
+    class Exhausted(FakeClient):
+        def search(self, query, page_token=None):
+            raise monitor.CallBudgetExceeded("dolu")
+
+    try:
+        monitor.plan_changes(SOSYAL[:1], {}, Exhausted({}))
+    except monitor.CallBudgetExceeded:
+        return
+    raise AssertionError("sınır aşımı plan_changes içinde yutulmamalı")
+
+
 def test_api_error_never_removes(monkeypatch):
     monkeypatch.setattr(monitor, "IL_ILCE", {"Düzce": ["Merkez"]})
     client = FakeClient({}, fail={"Düzce Belediyesi Sosyal Tesisleri Düzce"})

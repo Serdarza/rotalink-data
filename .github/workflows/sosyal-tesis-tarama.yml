@@ -52,8 +52,8 @@ jobs:
           path: sosyal_monitor/reports/
           if-no-files-found: ignore
 
-      - name: Commit ve push (canlı modda ve değişiklik varsa)
-        if: env.DRY_RUN != 'true'
+      # DRY RUN'da monitor ana veriye yazmaz; yalnız rapor ve aylık istek sayacı commit edilir.
+      - name: Commit ve push (değişiklik varsa)
         run: |
           git config user.name "rotalink-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
