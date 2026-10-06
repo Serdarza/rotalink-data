@@ -1,0 +1,6561 @@
+{
+ "tarih": "2026-10-06",
+ "uygulandi": false,
+ "not": "Eklenecek tesis sayısı güvenlik eşiğini aşıyor (446 > 150)",
+ "api_cagrisi": 1358,
+ "remove": [
+  {
+   "kayit": {
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "isim": "Tünektepe Sosyal Tesisi",
+    "adres": "Liman, Tünektepe Teleferik Üst İstasyonu, 07130 Konyaaltı/Antalya",
+    "aciklama": "Teleferikle çıkılan 605 rakımlı tepede yer alan, 360 derece panoramik Antalya manzarasına sahip döner restoran ve kafe. Antalya Büyükşehir Belediyesi'nin şirketi ANET A.Ş. tarafından işletilmektedir. Antalya il merkezine yaklaşık 20 km uzaklıktadır."
+   },
+   "google_ad": "Tünektepe Sosyal Tesisleri",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Aydın",
+    "ilce": "Kuşadası",
+    "isim": "Gazibeğendi Sosyal Tesisi",
+    "adres": "Kadınlar Denizi, Gazibeğendi Blv., 09400 Kuşadası/Aydın",
+    "aciklama": "Atatürk'ün Kuşadası'nı ilk gördüğü ve 'beğendiği' tepede yer alan, panoramik deniz ve şehir manzarasına sahip kafe ve restoran. Kuşadası Belediyesi'ne aittir. Aydın il merkezine yaklaşık 70 km uzaklıktadır."
+   },
+   "google_ad": "2.gazibeğendi tesisleri",
+   "benzerlik": 0.92
+  },
+  {
+   "kayit": {
+    "il": "Aydın",
+    "ilce": "Kuşadası",
+    "isim": "Ada Camping Sosyal Tesisi",
+    "adres": "Kadınlar Denizi, 09400 Kuşadası/Aydın",
+    "aciklama": "Denize sıfır konumda, kamp ve karavan alanlarının yanı sıra halka açık kafe ve restoran hizmeti sunan tesis. Aydın Büyükşehir Belediyesi'nin şirketi AYBEL A.Ş.'ye aittir. Aydın il merkezine yaklaşık 70 km uzaklıktadır."
+   },
+   "google_ad": "Ada Camping",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Balıkesir",
+    "ilce": "Balıkesir",
+    "isim": "Balıkesir Belediyesi Sosyal Tesisleri",
+    "adres": "Alparslan Türkeş Spor Kompleksi yanı, Gala Düğün Salonu karşısı, Bursa yolu 1.km, Yay/Ada civarı, Balıkesir",
+    "aciklama": "Belediyeye ait sosyal tesis, kafe/restoran hizmeti veriyor, oturma alanları mevcut. Balıkesir Belediyesi'ne aittir. Balıkesir il merkezine yaklaşık 1 km uzaklıktadır."
+   },
+   "google_ad": "Balıkesir Büyükşehir Belediyesi Sosyal Tesisleri",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Giresun",
+    "ilce": "Giresun",
+    "isim": "Giresun Belediyesi Plaj Sosyal Tesisi",
+    "adres": "Gedikkaya, Plajlar Mevkii, 28100 Giresun",
+    "aciklama": "Giresun'un plajlar bölgesinde, denize sıfır konumda, plaj hizmetleri ve halka açık kafe/restoran sunan modern tesis. Giresun Belediyesi'ne aittir. Giresun il merkezine yaklaşık 3 km uzaklıktadır."
+   },
+   "google_ad": "Giresun Belediyesi Plaj Sosyal Tesisleri",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Hatay",
+    "ilce": "Samandağ",
+    "isim": "Çevlik Sosyal Tesisleri",
+    "adres": "Kapısuyu, Çevlik Sahili, Samandağ/Hatay",
+    "aciklama": "Türkiye'nin en uzun sahillerinden Çevlik'te, denize sıfır, piknik alanı ve kafe/restoran sunan tesis. Samandağ Belediyesi tarafından işletilmektedir. Hatay il merkezine yaklaşık 50 km uzaklıktadır."
+   },
+   "google_ad": "Çevlik Sosyal Tesisleri",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Malatya",
+    "ilce": "Yeşilyurt",
+    "isim": "Hasbahçe Kent Lokantası",
+    "adres": "Atatürk Caddesi, Yeşilyurt/Malatya",
+    "aciklama": "Yeşilyurt Belediyesi’ne ait kent lokantası, 4 çeşit yemek sunar. Deprem sonrası yeniden açılmış olabilir. Deprem sonrası durum kontrol edilmelidir. Malatya il merkezine yaklaşık 3 km uzaklıktadır."
+   },
+   "google_ad": "Hasbahçe Kent Lokantası",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Samsun",
+    "ilce": "Canik",
+    "isim": "Canik Belediyesi Sosyal Tesisleri",
+    "adres": "Belediye Evleri, 55080 Canik/Samsun",
+    "aciklama": "Canik’te, şehir manzaralı bir tepede, düğün salonu ve kafe hizmeti sunan modern tesis. Aile etkinlikleri için tercih edilir. Canik Belediyesi’ne aittir. Samsun il merkezine yaklaşık 5 km uzaklıktadır."
+   },
+   "google_ad": "Canik Belediyesi Sosyal Tesisleri",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Tunceli",
+    "ilce": "Hozat",
+    "isim": "Hozat Belediyesi Aile Çay Bahçesi",
+    "adres": "Fikripaşa, 62700 Hozat/Tunceli",
+    "aciklama": "Merkezi konumda, halkın sosyalleşmesi için çay bahçesi ve dinlenme alanı. Hozat Belediyesi’ne aittir. Tunceli il merkezine yaklaşık 40 km uzaklıktadır."
+   },
+   "google_ad": "Hozat Belediyesi Aile Çay Bahçesi",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Yozgat",
+    "ilce": "Sorgun",
+    "isim": "Sorgun Belediyesi Sosyal Tesisleri",
+    "adres": "Cihanşarlı Köyü, Sosyal Tesisi İçi Yolu No:169, 66700 Sorgun/Yozgat",
+    "aciklama": "Doğayla iç içe, sosyal etkinlikler için dinlenme alanı ve kafe. Sorgun Belediyesi’ne aittir. Yozgat il merkezine yaklaşık 35 km uzaklıktadır."
+   },
+   "google_ad": "Sorgun Belediyesi Sosyal Tesisleri",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Kayseri",
+    "ilce": "Melikgazi",
+    "isim": "Meydan Döner | Kaytur",
+    "adres": "Cumhuriyet, Nazmi Toker Cd. No:2, 38040 Melikgazi/Kayseri",
+    "aciklama": "Tarihi Kayseri Cumhuriyet Meydanı'nın kalbinde, et ve tavuk döner servisi yapan bir restorandır. Güler yüzlü hizmeti ve merkezi konumuyla bilinir. Kayseri Büyükşehir Belediyesi iştiraki KAYTUR A.Ş.'ye aittir. Kayseri il merkezindedir."
+   },
+   "google_ad": "Meydan Döner | Kaytur",
+   "benzerlik": 1.0
+  },
+  {
+   "kayit": {
+    "il": "Zonguldak",
+    "ilce": "Alaplı",
+    "isim": "Alaplı Belediyesi Sosyal Tesisleri",
+    "adres": "Merkez, İskele Cd., 67850 Alaplı/Zonguldak",
+    "aciklama": "Karadeniz sahilinde, aile çay bahçesi ve kafe. Alaplı Belediyesi’ne aittir. Zonguldak il merkezine yaklaşık 60 km uzaklıktadır."
+   },
+   "google_ad": "Alaplı Belediyesi Sosyal Tesisleri",
+   "benzerlik": 1.0
+  }
+ ],
+ "added": [
+  {
+   "il": "Adana",
+   "ilce": "Çukurova",
+   "isim": "Atosev Sosyal Tesisleri",
+   "adres": "Dilberler Sekisi Mevkii, Beyazevler, DSİ yanı, 01150 Çukurova/Adana",
+   "aciklama": "Adana / Çukurova konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Adana",
+   "ilce": "",
+   "isim": "Bölge Müdürlüğü Sosyal Tesisleri",
+   "adres": "Topalak, DSİ Seyhan Baraj Tesisleri, 01170 Dörtler/Çukurova/Adana",
+   "aciklama": "Adana konumunda sosyal tesis."
+  },
+  {
+   "il": "Adana",
+   "ilce": "Çukurova",
+   "isim": "ADANA TAPU VE KADASTRO MİSAFİRHANESİ (TAKAV SOSYAL TESİSLERİ ADANA)",
+   "adres": "Beyazevler, Adnan Kahveci Blv. NO:48, 01150 Çukurova/Adana",
+   "aciklama": "Adana / Çukurova konumunda sosyal tesis."
+  },
+  {
+   "il": "Adıyaman",
+   "ilce": "",
+   "isim": "Adıyaman Belediyesi Fortuna Sosyal Tesisleri",
+   "adres": "Millet Bahçesi, Altınşehir, 02100 Adıyaman Merkez/Adıyaman",
+   "aciklama": "Adıyaman konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Adıyaman",
+   "ilce": "",
+   "isim": "Adıyaman Belediyesi Altınşehir Sosyal Tesisleri",
+   "adres": "Altınşehir, 30163. Sk. No:2, 02040 Adıyaman Merkez/Adıyaman",
+   "aciklama": "Adıyaman konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Afyonkarahisar",
+   "ilce": "",
+   "isim": "Afyonkarahisar Belediyesi Sosyal Tesisleri",
+   "adres": "Karaman, Ordu Blv., 03200 Afyonkarahisar Merkez/Afyonkarahisar",
+   "aciklama": "Afyonkarahisar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Afyonkarahisar",
+   "ilce": "",
+   "isim": "AFYONKARAHİSAR BELESİ SOSYAL TESİSİ",
+   "adres": "Mareşal Fevzi Çakmak, 435. Sk. NO:19, 03030 Afyonkarahisar Merkez/Afyonkarahisar",
+   "aciklama": "Afyonkarahisar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Afyonkarahisar",
+   "ilce": "Çobanlar",
+   "isim": "ÇOBANLAR BELEDİYESİ SOSYAL TESİSİ",
+   "adres": "Yeni, 03060 Çobanlar/Afyonkarahisar",
+   "aciklama": "Afyonkarahisar / Çobanlar konumunda sosyal tesis."
+  },
+  {
+   "il": "Afyonkarahisar",
+   "ilce": "Sinanpaşa",
+   "isim": "Sinanpaşa Belediyesi Sosyal Tesisleri",
+   "adres": "Öğretmenler, 03850 Sinanpaşa/Afyonkarahisar",
+   "aciklama": "Afyonkarahisar / Sinanpaşa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ağrı",
+   "ilce": "Eleşkirt",
+   "isim": "Belediye Konuk Evi ve Kafe",
+   "adres": "Lozan, Cumhuriyet Cd. No:18, 04100 Eleşkirt/Ağrı",
+   "aciklama": "Ağrı / Eleşkirt konumunda sosyal tesis."
+  },
+  {
+   "il": "Aksaray",
+   "ilce": "",
+   "isim": "Aksaray Belediyesi Kılıçarslan Sosyal Tesisleri",
+   "adres": "Zafer, 68010 Sevinçli/Aksaray Merkez/Aksaray",
+   "aciklama": "Aksaray konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Aksaray",
+   "ilce": "",
+   "isim": "Aksaray Belediyesi Kent Park Sosyal Tesisi",
+   "adres": "Taşpazar, 13. Sk. No:7, 68100 Aksaray Merkez/Aksaray",
+   "aciklama": "Aksaray konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Aksaray",
+   "ilce": "",
+   "isim": "Aksaray Belediyesi Terminal Sosyal Tesisleri",
+   "adres": "Aksaray Şehirlerarası Otobüs Terminali, Hacılar Harmanı Mah Konya Cad E90, Hacılar Harmanı, 68100 Aksaray Merkez/Aksaray",
+   "aciklama": "Aksaray konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Aksaray",
+   "ilce": "",
+   "isim": "Aksaray sosyal tesisleri",
+   "adres": "Fatih, 93F3+8P, 68010 Sevinçli/Aksaray Merkez/Aksaray",
+   "aciklama": "Aksaray konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Aksaray",
+   "ilce": "",
+   "isim": "Belediye sosyal tesis",
+   "adres": "Kayaardı, 68502 Ihlara/Güzelyurt/Aksaray",
+   "aciklama": "Aksaray konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Amasya",
+   "ilce": "",
+   "isim": "Yenice Gölbaşı Sosyal Tesisleri",
+   "adres": "Yenice Mahallesi, Aşıklar Caddesi No:1, 05100 Amasya Merkez/Amasya",
+   "aciklama": "Amasya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Amasya",
+   "ilce": "",
+   "isim": "Ziyaret Gölbaşı Sosyal Tesisleri",
+   "adres": "Aşağı Mahallesi Atatürk caddesi Ziyaret Kasabası, Aşağı, 05000 Ziyaret/Amasya Merkez/Amasya",
+   "aciklama": "Amasya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Amasya",
+   "ilce": "",
+   "isim": "Yeşil Vadi Amasya Ziyaret Sosyal Tesisleri",
+   "adres": "Aşağı, Unnamed Road, 05000 Ziyaret/Amasya Merkez/Amasya",
+   "aciklama": "Amasya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Amasya",
+   "ilce": "",
+   "isim": "ELMA KAFE (Amasya Belediyesi Sosyal Tesisi)",
+   "adres": "Hacılar Meydanı, Bahçelievler Oba Konutları No:39, 05100 Amasya Merkez/Amasya",
+   "aciklama": "Amasya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Amasya",
+   "ilce": "",
+   "isim": "Yaylagöl sosyal tesisi",
+   "adres": "Erkonaş, MW3W+4J, 05000 Yassıçal/Amasya Merkez/Amasya",
+   "aciklama": "Amasya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Amasya",
+   "ilce": "",
+   "isim": "Dörtmevsim sosyal tesisleri",
+   "adres": "Yukarı, 05000 Ziyaret/Amasya Merkez/Amasya",
+   "aciklama": "Amasya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "ÇANKAYA BELEDİYESİ SOSYAL TESİSLERİ",
+   "adres": "Yıldızevler, Şht. Mustafa Doğan Cd 37 A, 06550 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Etimesgut",
+   "isim": "Etimesgut Belediyesi Atakent Sosyal Tesisleri El Ve Yöresel Ürünler Merkezi",
+   "adres": "Atakent, 1491. Sk. No:4, 06796 Etimesgut/Ankara",
+   "aciklama": "Ankara / Etimesgut konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "",
+   "isim": "GEST SOSYAL TESİSLERİ",
+   "adres": "Bahçekapı, 06797 Çankaya/Etimesgut/Ankara",
+   "aciklama": "Ankara konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "Çankaya Belediyesi Zübeyde Hanım Sosyal Tesisi",
+   "adres": "Yıldızevler, Şht. Mustafa Doğan Cd No:60, 06550 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Altındağ",
+   "isim": "T.C. Ankara büyükşehir belediyesi başkent sosyal tesisi",
+   "adres": "Baraj, Melikşah Cd, 06140 Altındağ/Ankara",
+   "aciklama": "Ankara / Altındağ konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Sincan",
+   "isim": "SOSYAL TESİSLERİ",
+   "adres": "Tandoğan, Şht. Mehmet Metin Sk. No:18, 06930 Sincan/Ankara",
+   "aciklama": "Ankara / Sincan konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Yenimahalle",
+   "isim": "İller Bankası Sosyal Tesisleri",
+   "adres": "Çamlıca, Anadolu Blv No:24 No:24, 06200 Yenimahalle/Ankara",
+   "aciklama": "Ankara / Yenimahalle konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Gölbaşı",
+   "isim": "Mogan Gölü Belediye tesisleri",
+   "adres": "Karşıyaka, 06830 Gölbaşı/Ankara",
+   "aciklama": "Ankara / Gölbaşı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "Zübeyde hanım sosyal tesisi balo&kokteyl salonu",
+   "adres": "Yıldızevler, Şht. Mustafa Doğan Cd, 06550 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Etimesgut",
+   "isim": "Eryaman Sosyal Tesisleri",
+   "adres": "Altay, 06820 Etimesgut/Ankara",
+   "aciklama": "Ankara / Etimesgut konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Altındağ",
+   "isim": "ALTINDAĞ BELEDİYESİ ÇOK AMAÇLI SPOR TESİSİ",
+   "adres": "Güneşevler, 83. Sk. No:36, 06140 Altındağ/Ankara",
+   "aciklama": "Ankara / Altındağ konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Altındağ",
+   "isim": "Altındağ belediyesi yüzme havuzu ve sosyal tesisleri",
+   "adres": "Güneşevler, 9. Sk. No:48, 06140 Altındağ/Ankara",
+   "aciklama": "Ankara / Altındağ konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Sincan",
+   "isim": "Osmanlı Sosyal Tesisleri",
+   "adres": "Osmanlı, 06940 Sincan/Ankara",
+   "aciklama": "Ankara / Sincan konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Yenimahalle",
+   "isim": "Yenimahalle Belediyesi Prof. Dr. Mehmet Haberal Yüzme Havuzu Ve Sosyal Tesisleri",
+   "adres": "Barıştepe, 734/2. Sk. No:18, 06210 Yenimahalle/Ankara",
+   "aciklama": "Ankara / Yenimahalle konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Gölbaşı",
+   "isim": "Teiaş Gölbaşı Sosyal Tesisleri İşletme Müdürlüğü",
+   "adres": "Eymir, 06830 Gölbaşı/Ankara",
+   "aciklama": "Ankara / Gölbaşı konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Etimesgut",
+   "isim": "Sosyal Tesis",
+   "adres": "Devlet, 06824 Etimesgut/Ankara",
+   "aciklama": "Ankara / Etimesgut konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Gölbaşı",
+   "isim": "Mogan konuk evi ve sosyal tesisleri (ABB)",
+   "adres": "Karşıyaka, QQJQ+3V, 06830 Gölbaşı/Ankara",
+   "aciklama": "Ankara / Gölbaşı konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Gölbaşı",
+   "isim": "Hava Kuvvetleri Gölbaşı Sosyal Tesisleri",
+   "adres": "Karşıyaka, Haymana Yolu Blv. No:131, 06830 Gölbaşı/Ankara",
+   "aciklama": "Ankara / Gölbaşı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Mamak",
+   "isim": "Eserkent Sosyal Tesisleri",
+   "adres": "Araplar, Büyükşehir Toplu Konutları No:25, 06270 Mamak/Ankara",
+   "aciklama": "Ankara / Mamak konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Pursaklar",
+   "isim": "Mehmet Akif Ersoy Sosyal Tesisleri",
+   "adres": "Yunus Emre, Kayıkçı Sk. No:7, 06145 Pursaklar/Ankara",
+   "aciklama": "Ankara / Pursaklar konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Kızılcahamam",
+   "isim": "ABB ŞİFA TERMAL SOSYAL TESİSİ",
+   "adres": "Yenice, Namık Kemal Cd. No.: 41, 06890 Kızılcahamam/Ankara",
+   "aciklama": "Ankara / Kızılcahamam konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Altındağ",
+   "isim": "Gaziler Sosyal Tesisi",
+   "adres": "Hacı Bayram, 06050 Altındağ/Ankara",
+   "aciklama": "Ankara / Altındağ konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Keçiören",
+   "isim": "Keçiören Belediyesi Kartaltepe Sosyal Tesisleri Restaurant",
+   "adres": "Ovacık, 06280 Keçiören/Ankara",
+   "aciklama": "Ankara / Keçiören konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Yenimahalle",
+   "isim": "TBMM Beşevler Sosyal Tesisleri",
+   "adres": "Beştepe, Alparslan Türkeş Cd. No:69, 06560 Yenimahalle/Ankara",
+   "aciklama": "Ankara / Yenimahalle konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "Merkez Bankasi Sosyal Tesisi",
+   "adres": "Çankaya, Galip Dede Sk. No:5, 06690 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Yenimahalle",
+   "isim": "Tbmm Eğitim ve Sosyal Tesisleri(Ala Restoran)",
+   "adres": "Emniyet, 06560 Yenimahalle/Ankara",
+   "aciklama": "Ankara / Yenimahalle konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çubuk",
+   "isim": "Belpa Karagöl Sosyal Tesisleri",
+   "adres": "Yeşilkent, CW76+2X, 06760 Çubuk/Ankara",
+   "aciklama": "Ankara / Çubuk konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "Jeoloji Mühendisleri Odası Sosyal Tesisler",
+   "adres": "Cumhuriyet, Bayındır-1 Sk. No:7/3, 06430 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "JMO Sosyal Tesisleri",
+   "adres": "Cumhuriyet, Bayındır-1 Sk. No:3, 06420 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Yenimahalle",
+   "isim": "Tigem Sosyal Tesisleri",
+   "adres": "tigem sitesi içi, Gazi, AOÇ, 06560 Yenimahalle/Ankara",
+   "aciklama": "Ankara / Yenimahalle konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "Takav Sosyal Tesisleri",
+   "adres": "Bahçelievler Mahallesi, TAŞKENT CADDESİ(ESKİ 1 CADDE) NO:56, Bahçelievler, 06490 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis."
+  },
+  {
+   "il": "Ankara",
+   "ilce": "Çankaya",
+   "isim": "Tek Vakfı Sosyal Tesisi",
+   "adres": "Bahçelievler, 44. Sk. No:15, 06490 Çankaya/Ankara",
+   "aciklama": "Ankara / Çankaya konumunda sosyal tesis."
+  },
+  {
+   "il": "Antalya",
+   "ilce": "Muratpaşa",
+   "isim": "Antalya Büyükşehir Belediyesi Atatürk Parkı Sosyal Tesisi - EKDAĞ AŞ",
+   "adres": "Bahçelievler, 07050 Muratpaşa/Antalya",
+   "aciklama": "Antalya / Muratpaşa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Antalya",
+   "ilce": "Muratpaşa",
+   "isim": "ANTALYA BÜYÜKŞEHİR BELEDİYESİ -EKDAĞ KONYAALTI SOSYAL TESİSİ",
+   "adres": "Meltem, 07030 Muratpaşa/Antalya",
+   "aciklama": "Antalya / Muratpaşa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Antalya",
+   "ilce": "Konyaaltı",
+   "isim": "ANTALYA BÜYÜKŞEHİR BELEDİYESİ -EKDAĞ BOĞAÇAYI SOSYAL TESİSİ",
+   "adres": "Liman, Akdeniz Blv. No:20, 07130 Konyaaltı/Antalya",
+   "aciklama": "Antalya / Konyaaltı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Antalya",
+   "ilce": "Muratpaşa",
+   "isim": "Muratpaşa Belediyesi Sosyal Tesisleri",
+   "adres": "Yeşilbahçe, 1470. Sk. No:70, 07010 Muratpaşa/Antalya",
+   "aciklama": "Antalya / Muratpaşa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Antalya",
+   "ilce": "Muratpaşa",
+   "isim": "Antalya Büyüksehir Belediyesi Hasta Ve Hasta Yakinlari Sosyal Tesisi",
+   "adres": "Altındağ, 153. Sk. No:27, 07050 Muratpaşa/Antalya",
+   "aciklama": "Antalya / Muratpaşa konumunda sosyal tesis."
+  },
+  {
+   "il": "Antalya",
+   "ilce": "Döşemealtı",
+   "isim": "Kepez Belediyesi Sosyal Tesisler Ve Mesire Alanı",
+   "adres": "Yeşilbayır, 07190 Döşemealtı/Antalya",
+   "aciklama": "Antalya / Döşemealtı konumunda sosyal tesis."
+  },
+  {
+   "il": "Antalya",
+   "ilce": "Muratpaşa",
+   "isim": "Antalya Büyükşehir Belediyesi Sosyal Tesisleri",
+   "adres": "No:, Etiler, Mevlana Altgeçidi No:2005, 07010 Muratpaşa/Antalya",
+   "aciklama": "Antalya / Muratpaşa konumunda sosyal tesis."
+  },
+  {
+   "il": "Ardahan",
+   "ilce": "",
+   "isim": "Ardahan Salih aktürk sosyal tesis bungolov evleri",
+   "adres": "Salih aktürk, sosyal tesis, 75000 Ardahan Merkez/Ardahan",
+   "aciklama": "Ardahan konumunda sosyal tesis."
+  },
+  {
+   "il": "Ardahan",
+   "ilce": "",
+   "isim": "T.C. Ardahan Belediyesi Kitap Kafe Gençler",
+   "adres": "Kaptanpaşa, Edip Çanakçı Cd. No:26, 75000 Ardahan Merkez/Ardahan",
+   "aciklama": "Ardahan konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Artvin",
+   "ilce": "",
+   "isim": "Artvin Kafkasor Belediye Sosyal Tesisleri",
+   "adres": "Çamlık, Kafkasör Sk., 08000 Artvin Merkez/Artvin",
+   "aciklama": "Artvin konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Aydın",
+   "ilce": "",
+   "isim": "Aydın Belediyesi Sosyal Tesisleri",
+   "adres": "Köprülü - Veysipaşa, 1609. Sk. No:11, 09100 Aydın Merkez/Aydın",
+   "aciklama": "Aydın konumunda sosyal tesis."
+  },
+  {
+   "il": "Aydın",
+   "ilce": "",
+   "isim": "T.C. Aydın Büyükşehir Belediyesi restaurant ve çay bahçesi",
+   "adres": "Kurtuluş, Adnan Menderes Blv. No:12, 09020 Aydın Merkez/Aydın",
+   "aciklama": "Aydın konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Aydın",
+   "ilce": "Çine",
+   "isim": "AYDIN BÜYÜKŞEHİR SOSYAL TESİSLER - DÜĞÜN SALONU",
+   "adres": "Yeni, 344. Sk. No:63, 09500 Çine/Aydın",
+   "aciklama": "Aydın / Çine konumunda sosyal tesis."
+  },
+  {
+   "il": "Aydın",
+   "ilce": "",
+   "isim": "Aydın büyükşehir belediyesi hali saha tesisleri",
+   "adres": "Ilıcabaşı, Denizli Blv. No:95, 09010 Aydın Merkez/Aydın",
+   "aciklama": "Aydın konumunda sosyal tesis."
+  },
+  {
+   "il": "Balıkesir",
+   "ilce": "",
+   "isim": "Bayındırlık Ve İskan Müdürlüğü İdari Ve Sosyal Tesisler",
+   "adres": "Kuva-İ Milliye, Karanfil Sk. No:3, 10030 Balıkesir Merkez/Balıkesir",
+   "aciklama": "Balıkesir konumunda sosyal tesis."
+  },
+  {
+   "il": "Balıkesir",
+   "ilce": "Karesi",
+   "isim": "Belediye Hizmet Ve Sosyal Tesis Alanı",
+   "adres": "Adnan Menderes, 10100 Karesi/Balıkesir",
+   "aciklama": "Balıkesir / Karesi konumunda sosyal tesis."
+  },
+  {
+   "il": "Balıkesir",
+   "ilce": "Altıeylül",
+   "isim": "Altıeylül belediyesi Konakpınar sosyal tesisleri",
+   "adres": "Konakpınar, CRPJ+4X, 10195 Altıeylül/Balıkesir",
+   "aciklama": "Balıkesir / Altıeylül konumunda sosyal tesis."
+  },
+  {
+   "il": "Balıkesir",
+   "ilce": "",
+   "isim": "Balıkesir İl Özel İdaresi Sosyal Tesisleri",
+   "adres": "Paşa Alanı, Bandırma Cd., 10020 Balıkesir Merkez/Balıkesir",
+   "aciklama": "Balıkesir konumunda sosyal tesis."
+  },
+  {
+   "il": "Batman",
+   "ilce": "",
+   "isim": "Tüpraş Batman Rafinerisi Sosyal Tesisleri",
+   "adres": "Site, 72040 Merkez/Batman Merkez/Batman",
+   "aciklama": "Batman konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Batman",
+   "ilce": "",
+   "isim": "Sosyal Tesis",
+   "adres": "Gültepe, 72000 Yediyol/Batman Merkez/Batman",
+   "aciklama": "Batman konumunda sosyal tesis."
+  },
+  {
+   "il": "Bayburt",
+   "ilce": "",
+   "isim": "Demirözü Belediyesi Sosyal Tesisleri",
+   "adres": "Esentepe, Güvercindere Yolu, 69400 Güvercindere/Demirözü/Bayburt",
+   "aciklama": "Bayburt konumunda sosyal tesis."
+  },
+  {
+   "il": "Bayburt",
+   "ilce": "",
+   "isim": "Bayburt Bld. Sosyal Tesisleri",
+   "adres": "Gençosman, 69000 Bayburt Merkez/Bayburt",
+   "aciklama": "Bayburt konumunda sosyal tesis."
+  },
+  {
+   "il": "Bilecik",
+   "ilce": "",
+   "isim": "Bilecik Belediyesi Sosyal Tesisi Cemal Süreya Bebek ve Çocuk Atölyesi",
+   "adres": "İstasyon, Yeni Pazar Sk. No:5, 11130 Bilecik Merkez/Bilecik",
+   "aciklama": "Bilecik konumunda sosyal tesis."
+  },
+  {
+   "il": "Bilecik",
+   "ilce": "",
+   "isim": "Bilecik Esnafspor Kulübü Sosyal Tesisleri",
+   "adres": "Gazipaşa, Gülistan Sk., 11000 Bilecik Merkez/Bilecik",
+   "aciklama": "Bilecik konumunda sosyal tesis."
+  },
+  {
+   "il": "Bitlis",
+   "ilce": "Ahlat",
+   "isim": "BETAV Yahya Eren Sosyal Tesisleri",
+   "adres": "Erkizan, Sahil Yolu Üzeri, 13400 Ahlat/Bitlis",
+   "aciklama": "Bitlis / Ahlat konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bolu",
+   "ilce": "",
+   "isim": "T.C. Bolu Belediyesi Teras Sosyal Tesisi",
+   "adres": "Büyükcami, Sanat Sk No:10, 14200 Bolu Merkez/Bolu",
+   "aciklama": "Bolu konumunda sosyal tesis."
+  },
+  {
+   "il": "Bolu",
+   "ilce": "",
+   "isim": "Sosyal Tesisler",
+   "adres": "Paşaköy, Eski İstanbul Cd. No:73, 14100 Bolu Merkez/Bolu",
+   "aciklama": "Bolu konumunda sosyal tesis."
+  },
+  {
+   "il": "Bolu",
+   "ilce": "",
+   "isim": "seyit mahallesi sosyal tesisleri",
+   "adres": "Seyit, Unnamed Road, 14100 Bolu Merkez/Bolu",
+   "aciklama": "Bolu konumunda sosyal tesis."
+  },
+  {
+   "il": "Bolu",
+   "ilce": "",
+   "isim": "İmaret Sosyal Tesisi",
+   "adres": "Aktaş, Öney Sk. No:2, 14200 Bolu Merkez/Bolu",
+   "aciklama": "Bolu konumunda sosyal tesis."
+  },
+  {
+   "il": "Bolu",
+   "ilce": "",
+   "isim": "Arçelik Sosyal Tesisleri",
+   "adres": "İzzet Baysal, Oğuz Sk. No:15, 14200 Bolu Merkez/Bolu",
+   "aciklama": "Bolu konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bolu",
+   "ilce": "",
+   "isim": "Karaköy Mahallesi Sosyal Tesis",
+   "adres": "Karaköy, 14020 Bolu Merkez/Bolu",
+   "aciklama": "Bolu konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Burdur",
+   "ilce": "",
+   "isim": "Burdur işyurtları sosyal tesis",
+   "adres": "Kavak Altı, ankara yolu üzeri, 15100 Gökçebağ/Burdur Merkez/Burdur",
+   "aciklama": "Burdur konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Burdur",
+   "ilce": "",
+   "isim": "Burdur Belediyesi Yeşiltepe Dinlenme Tesisleri",
+   "adres": "Karasenir, Büğdüz Cd., 15200 Burdur Merkez/Burdur",
+   "aciklama": "Burdur konumunda sosyal tesis."
+  },
+  {
+   "il": "Burdur",
+   "ilce": "",
+   "isim": "Burdur Belediyesi Engelsiz Kafe",
+   "adres": "Özgür Mahallesi Şehit Uzman Çavuş Hakan Aktürk Caddesi No=5, Özgür, 15200 Burdur Merkez/Burdur",
+   "aciklama": "Burdur konumunda sosyal tesis."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Dobruca Sosyal Tesisleri",
+   "adres": "Doburca, 3. Zümrüt Sk., 16090 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Yıldırım",
+   "isim": "Hünkar Köşkü Sosyal Tesisleri",
+   "adres": "Mollaarap, 4. Vakıf Sk. NO:1/2, 16360 Yıldırım/Bursa",
+   "aciklama": "Bursa / Yıldırım konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "GÖLPARK SOSYAL TESİSİ",
+   "adres": "Santral Garaj, Mah. Merinos Parkı, 16200 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Burfaş - Balibey Han Sosyal Tesisi",
+   "adres": "Şehreküstü, Cemal Nadir Cd., 16050 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Burfaş Sosyal Tesisi",
+   "adres": "Kiremitçi, 16220 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Yıldırım",
+   "isim": "Kaplıkaya sosyal tesisleri",
+   "adres": "SİTELER MAHALLESİ, CAZİBE MERKEZİ, Kaplıkaya, Selçuk Bey Cd. NO:160/1, 16310 Yıldırım/Bursa",
+   "aciklama": "Bursa / Yıldırım konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Mudanya",
+   "isim": "Bursa Mudanya İstasyon Sosyal Tesisleri",
+   "adres": "Ömerbey, İstasyon Cd., 16940 Mudanya/Bursa",
+   "aciklama": "Bursa / Mudanya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Gemlik",
+   "isim": "Büyükşehir Gemlik Atatepe Sosyal Tesisi",
+   "adres": "Ata, 107. Sk. No:12, 16600 Gemli̇k/Bursa",
+   "aciklama": "Bursa / Gemlik konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Buski Sosyal Tesisleri",
+   "adres": "Sırameşeler, 16190 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Derebahçe Sosyal Tesisleri Restaurant",
+   "adres": "Doburca, 325.sokak No:7, 16090 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Haraççıoğlu Medresesi Sosyal Tesisleri",
+   "adres": "No: 25, Kavaklı Mh, 2. Kavaklı Cd., 16040 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Osmangazi Belediyesi Değirmen Parkı Restaurant & Cafe",
+   "adres": "Hüdavendigar, 16090 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Buski Genel Müdürlüğü Sosyal Tesisleri",
+   "adres": "Doburca, 3. Zümrüt Sk. 11-8, 16090 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "Uludağ Milli Park Müdürlüğü İdari ve Sosyal Tesisleri",
+   "adres": "Kirazlı, Bursa Uludağ Yolu, 16370 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Kestel",
+   "isim": "Kestel Sosyal Tesisleri",
+   "adres": "Ahmet Vefik Paşa, Lise Cd., 16450 Kestel/Bursa",
+   "aciklama": "Bursa / Kestel konumunda sosyal tesis."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Osmangazi",
+   "isim": "MANTI EVİ SOSYAL TESİSİ",
+   "adres": "Santral Garaj Mh., Merinos Cd. Merinos Parkı İçi,, 16200 Osmangazi̇/Bursa",
+   "aciklama": "Bursa / Osmangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Yıldırım",
+   "isim": "Osmanlı Sosyal Tesisleri",
+   "adres": "Kaplıkaya, Kanuni Cd. No:13, 16310 Yıldırım/Bursa",
+   "aciklama": "Bursa / Yıldırım konumunda sosyal tesis."
+  },
+  {
+   "il": "Bursa",
+   "ilce": "Nilüfer",
+   "isim": "Beyçeşme Sosyal Tesisleri",
+   "adres": "BeyçeşmeCd No:49, Görükle, 16285 Ni̇lüfer/Bursa",
+   "aciklama": "Bursa / Nilüfer konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Çanakkale",
+   "ilce": "",
+   "isim": "Çanakkale Belediye Sosyal Tesisleri",
+   "adres": "Cevat Paşa, 17100 Çanakkale Merkez/Çanakkale",
+   "aciklama": "Çanakkale konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Çanakkale",
+   "ilce": "",
+   "isim": "Belediye Sosyal Tesisleri",
+   "adres": "Barbaros, Hacı Mustafa Bey Cd. No:4, 17020 Çanakkale Merkez/Çanakkale",
+   "aciklama": "Çanakkale konumunda sosyal tesis."
+  },
+  {
+   "il": "Çankırı",
+   "ilce": "",
+   "isim": "T.C. Çankırı Belediyesi Sosyal Tesisi",
+   "adres": "Cumhuriyet, Tevfik Fikret Cd. No:2, 18100 Çankırı Merkez/Çankırı",
+   "aciklama": "Çankırı konumunda sosyal tesis."
+  },
+  {
+   "il": "Çankırı",
+   "ilce": "",
+   "isim": "Çankırı Belediyesi Yöresel Mutfak Kültür Evi",
+   "adres": "Karataş, Kayabaşı Cd. No:03, 18100 Çankırı Merkez/Çankırı",
+   "aciklama": "Çankırı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Çorum",
+   "ilce": "",
+   "isim": "Çorum Belediyesi Sosyal Tesisi",
+   "adres": "Yavruturna, 19200 Çorum Merkez/Çorum",
+   "aciklama": "Çorum konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Çorum",
+   "ilce": "",
+   "isim": "KentPark Çorum Belediyesi Sosyal Tesisleri",
+   "adres": "Çepni, KENTPARK, Necmettin Erbakan Cad. No:157, 19040 Çorum Merkez/Çorum",
+   "aciklama": "Çorum konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Çorum",
+   "ilce": "",
+   "isim": "çorum belediyesi kerebi gazi sosyal tesisleri",
+   "adres": "Çepni, Kerebigazi Cd NO:5/B, 19100 Çorum Merkez/Çorum",
+   "aciklama": "Çorum konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Denizli",
+   "ilce": "Tavas",
+   "isim": "Denizli Büyükşehir Belediyesi Sosyal Tesisler",
+   "adres": "Yorga, 20500 Tavas/Denizli",
+   "aciklama": "Denizli / Tavas konumunda sosyal tesis."
+  },
+  {
+   "il": "Denizli",
+   "ilce": "",
+   "isim": "Merkezefendi Belediyesi Başkarcı Düğün Salonu ve Sosyal Tesisleri",
+   "adres": "Başkarcı, Yeni Yol Cd., 20050 Denizli Merkezefendi/Denizli",
+   "aciklama": "Denizli konumunda sosyal tesis."
+  },
+  {
+   "il": "Denizli",
+   "ilce": "",
+   "isim": "Kırçiçeği Sosyal Tesisleri",
+   "adres": "Başkarcı, Yeni Yol Cd. No:77, 20050 Denizli Merkezefendi/Denizli",
+   "aciklama": "Denizli konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Denizli",
+   "ilce": "Pamukkale",
+   "isim": "Aktepe Sosyal Tesisleri",
+   "adres": "Aktepe, 2421. Sk. No:109 D:99, 20170 Pamukkale/Denizli",
+   "aciklama": "Denizli / Pamukkale konumunda sosyal tesis."
+  },
+  {
+   "il": "Denizli",
+   "ilce": "",
+   "isim": "HeMs TIRPARK SOSYAL TESİSLERİ",
+   "adres": "Kumkısık, 20100 Denizli Merkezefendi/Denizli",
+   "aciklama": "Denizli konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Denizli",
+   "ilce": "",
+   "isim": "PASVAK AŞEVİ Merkezefendi Sosyal Tesisler",
+   "adres": "Mehmet Akif Ersoy, 45/1 SOK NO:5/1, 20160 Denizli Merkezefendi/Denizli",
+   "aciklama": "Denizli konumunda sosyal tesis."
+  },
+  {
+   "il": "Denizli",
+   "ilce": "",
+   "isim": "Şemikler sosyal tesisleri",
+   "adres": "Şemikler, 20030 Denizli Merkezefendi/Denizli",
+   "aciklama": "Denizli konumunda sosyal tesis."
+  },
+  {
+   "il": "Diyarbakır",
+   "ilce": "Yenişehir",
+   "isim": "Diyarbakır büyükşehir belediyesi sosyal tesisleri",
+   "adres": "Yenişehir, 21100 Yenişehir/Diyarbakır",
+   "aciklama": "Diyarbakır / Yenişehir konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Edirne",
+   "ilce": "",
+   "isim": "Edirne Belediyesi Meriç Sosyal Tesisi",
+   "adres": "Karaağaç, Lozan Cd. no:4, 22100 Edirne Merkez/Edirne",
+   "aciklama": "Edirne konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Edirne",
+   "ilce": "",
+   "isim": "Edirne Belediyesi Cafe Ve Çay Bahçesi",
+   "adres": "Karaağaç, 22050 Edirne Merkez/Edirne",
+   "aciklama": "Edirne konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Edirne",
+   "ilce": "",
+   "isim": "EDİRNE VALİLİĞİ MERİÇ SOSYAL TESİSLERİ",
+   "adres": "Meriç nehri, 22022 Edirne Merkez/Edirne",
+   "aciklama": "Edirne konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Edirne",
+   "ilce": "",
+   "isim": "Edirne Tabip Odasi Sosyal Tesisleri",
+   "adres": "Fatih, Mehmet Rasim Ertür No:10, 22030 Edirne Merkez/Edirne",
+   "aciklama": "Edirne konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Elazığ",
+   "ilce": "",
+   "isim": "Elazığ Belediyesi Sosyal Tesisleri",
+   "adres": "Hicret, 23050 Elazığ Merkez/Elazığ",
+   "aciklama": "Elazığ konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Elazığ",
+   "ilce": "",
+   "isim": "Sosyal Tesis",
+   "adres": "Fırat Üniversitesi, Üniversite, Fırat Ünv. Veteriner Fakültesi yanı Sosyal Tesis, 23200 Elazığ Merkez/Elazığ",
+   "aciklama": "Elazığ konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Erzincan",
+   "ilce": "",
+   "isim": "T.C. Erzincan Belediyesi Sosyal Tesisleri",
+   "adres": "Başbağlar Mah, Esentepe Rekreasyon Alanı İçi, Hacı Ali, Akın Cad No:1, 24000 Erzincan Merkez/Erzincan",
+   "aciklama": "Erzincan konumunda sosyal tesis."
+  },
+  {
+   "il": "Erzurum",
+   "ilce": "Yakutiye",
+   "isim": "Erzurum Büyükşehir Belediyesi Sosyal Tesisleri",
+   "adres": "Rabia Ana, Çifte Minareler Sk. No:24 D:20, 25030 Yakutiye/Erzurum",
+   "aciklama": "Erzurum / Yakutiye konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Erzurum",
+   "ilce": "Palandöken",
+   "isim": "EBB SOSYAL TESİSLER PALANDÖKEN DAĞ KAFE",
+   "adres": "Osman Bektaş, 25080 Palandöken/Erzurum",
+   "aciklama": "Erzurum / Palandöken konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Erzurum",
+   "ilce": "Palandöken",
+   "isim": "EBB Sosyal Tesisleri",
+   "adres": "Adnan Menderes, Erzurum-Yenişehir Yolu No:30, 25070 Palandöken/Erzurum",
+   "aciklama": "Erzurum / Palandöken konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Eskişehir",
+   "ilce": "Odunpazarı",
+   "isim": "Omek Sosyal Tesisleri",
+   "adres": "Çankaya, 26050 Odunpazarı/Eskişehir",
+   "aciklama": "Eskişehir / Odunpazarı konumunda sosyal tesis."
+  },
+  {
+   "il": "Eskişehir",
+   "ilce": "Odunpazarı",
+   "isim": "Eskişehir Büyükşehir Belediyesi Emek Kafe",
+   "adres": "Arifiye, Sencer Sk. No:1, 26010 Odunpazarı/Eskişehir",
+   "aciklama": "Eskişehir / Odunpazarı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Eskişehir",
+   "ilce": "Tepebaşı",
+   "isim": "Eskişehir Açık Cezaevi Sosyal tesisi",
+   "adres": "Fevziçakmak, Güvenir Sk. No:44, 26230 Tepebaşı/Eskişehir",
+   "aciklama": "Eskişehir / Tepebaşı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Eskişehir",
+   "ilce": "Tepebaşı",
+   "isim": "Tepebaşı Belediyesi Gökkuşağı Cafe",
+   "adres": "Hoşnudiye, Kızılcıklı M. Pehlivan Cd., 26130 Tepebaşı/Eskişehir",
+   "aciklama": "Eskişehir / Tepebaşı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Eskişehir",
+   "ilce": "Odunpazarı",
+   "isim": "Türkiye Diyanet Vakfı Eskişehir Sosyal Tesisi",
+   "adres": "Göztepe, Ertaylan Sk. No:12, 26060 Odunpazarı/Eskişehir",
+   "aciklama": "Eskişehir / Odunpazarı konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Adil Özberk Sosyal Tesisi",
+   "adres": "Karataş, 103423. Sk., 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi ERTUĞRULGAZİ SOSYAL TESİSLERİ",
+   "adres": "Ertuğrulgazi, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Şehit Taner Cinpolat Sosyal Tesisi",
+   "adres": "Güneş Mah., 1 Nolu Cad.No:136, Şahinbey, 27000 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "75.yıl Sosyal Tesisi",
+   "adres": "75. Yıl, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahibey Belediyesi Akkent Sosyal Tesisi",
+   "adres": "Akkent, 134002. Sk., 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi BÜLBÜLZADE SOSYAL TESİSİ",
+   "adres": "Bülbülzade, 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi FİDANLIK SOSYAL TESİSİ",
+   "adres": "Fidanlık, 80008. Sk. No:79, 27010 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Sosyal Tesis",
+   "adres": "Sanayi, 60013. Cd. No:58, 27110 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Şehitkamil Belediyesi 121 Nolu Sosyal Tesis (Taziye Evi)",
+   "adres": "Sarıgüllük, Güceylioğlu Cd. No:24, 27060 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Şehitkamil Belediyesi Sosyal Tesisleri",
+   "adres": "Çıksorut, Maaşkuyu Cd. No:79, 27080 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Beybahçe Sosyal Tesisi",
+   "adres": "No:, Güzelvadi, 91001. Cd. No:16, 27300 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi 23 Nisan Sosyal Tesisi",
+   "adres": "23 Nisan, 82047. Cd. No:4, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Onur sosyal tesisi",
+   "adres": "Onur, 74064. Sk., 27200 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Üçyüz Evler Sosyal Tesisi",
+   "adres": "Perilikaya, 98086. Sk., 27100 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Dumlupınar Sosyal Tesisi",
+   "adres": "Dumlupınar, 68052. Sk, 27300 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Güneykent Sosyal Tesisleri",
+   "adres": "Güneykent, 102234. Cd., 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Yunus Emre Sosyal Tesisi",
+   "adres": "Barak, 100080. Sk., 27100 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Binevler Sosyal Tesisi",
+   "adres": "Binevler, 81044. Sk. No:2, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Çağdaş Sosyal Tesisi",
+   "adres": "Çağdaş, 84044. Sk. No:44, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Ulucanlar Sosyal Tesisleri",
+   "adres": "Tekstilkent, Hasip Dürri Cd. No:55, 27300 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Beydilli Hatice Belgin Sosyal Tesisi",
+   "adres": "Beydilli, 66009. Sk., 27300 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "",
+   "isim": "Şahinbey Belediyesi Yeditepe Sosyal Tesisi",
+   "adres": "Yeditepe, 85103. Sk., 27470 Yamaçtepe/Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Hz. Yuşa Sosyal Tesisi",
+   "adres": "Karataş, 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Sosyal Tesisler",
+   "adres": "No:12/13127110, Sanayi, Nolu Cd, 60090 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Hacı Bektaş ı Veli Sosyal Tesisi",
+   "adres": "Onur, 74037. Sk. No:19, 27200 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Büyükşehir Belediyesi Yunus Emre Sosyal Tesisi",
+   "adres": "Barak, 99082. Cd., 27100 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Mimar Sinan Sosyal Tesisi",
+   "adres": "Mimar Sinan, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Şehitkamil Belediyesi 185 Nolu Sosyal Tesis",
+   "adres": "Pancarlı, 58029. Sk, 27060 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Malazgirt Sosyal Tesisi",
+   "adres": "Malazgirt, 27100 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şehit Adnan Öztürk Sosyal Tesisi",
+   "adres": "No:, Güneykent, 102250. Cd. No:12, 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Keçiören Sosyal Tesisi",
+   "adres": "Yeditepe, 85061. Sk. No:20, 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Sehitkamil Belediyesi Melvana Sosyal Tesisi",
+   "adres": "Mevlana, 50132. Sk. No:27, 27590 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahinbey Belediyesi Aydınbaba Sosyal Tesisleri",
+   "adres": "Şenyurt, 57007. Sk. No:1, 27300 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Özgürlük Sosyal Tesisi",
+   "adres": "Pirsultan, 57091. Cd., 27500 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Gazikent Sosyal Tesisi",
+   "adres": "Gazikent, 2035. Sk., 27580 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Cumhuriyet Sosyal Tesisleri",
+   "adres": "Kolejtepe, 12056. Sk. No:3, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "148 Nolu Sosyal Tesis",
+   "adres": "Karacaoğlan, Şht. İsmet Esen Cd. No:35, 27590 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Selimiye Mahallesi Sosyal Tesisi",
+   "adres": "Selimiye, 64095. Sk. No:104, 27590 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "179 NOLU SOSYAL TESİS",
+   "adres": "Belkız, 27580 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "İncilikaya Sosyal Tesisi",
+   "adres": "Sacır, 27080 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Selahattin Eyyubi Sosyal Tesisi",
+   "adres": "Selahattin Eyyubi, 63020. Sk. No:42, 27080 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Hüseyin çelik sosyal tesisi",
+   "adres": "Binevler, 81067. Sk. No:4, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Boyacı Sosyal Tesisi",
+   "adres": "Boyacı, Hüseyin Kendirci Sk. No:53, 27400 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Gaziantep İl Tarım ve Orman Müdürlüğü Sosyal Tesisleri",
+   "adres": "Binevler, 27060 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Mustafa Kanar Sosyal Tesisi",
+   "adres": "Şahintepe, 133392. Sk. No:6, 27470 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Hatice kanalıcı-Necla Derundere sosyal tesisi",
+   "adres": "Beyazlar, 12063. Sk. No:11, 27070 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şehitkamil",
+   "isim": "Çamlarkent Sosyal Tesis",
+   "adres": "Ağaçlıboyno, 27000 Şehitkamil/Gaziantep",
+   "aciklama": "Gaziantep / Şehitkamil konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şahınbey Beledıyesı Saçakli Sosyal Tesısı",
+   "adres": "Saçaklı, Şht. Şahin Cd. No:26, 27300 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gaziantep",
+   "ilce": "Şahinbey",
+   "isim": "Şehitler Sosyal Tesisleri",
+   "adres": "Kepenek, Şehitler Parkı Gç. No:2, 27300 Şahinbey/Gaziantep",
+   "aciklama": "Gaziantep / Şahinbey konumunda sosyal tesis."
+  },
+  {
+   "il": "Gümüşhane",
+   "ilce": "Şiran",
+   "isim": "Bayrak Tepe Sosyal Tesisleri",
+   "adres": "Karaca, 29700 Şiran/Gümüşhane",
+   "aciklama": "Gümüşhane / Şiran konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Gümüşhane",
+   "ilce": "Şiran",
+   "isim": "Şiran Belediyesi Sosyal Tesisi",
+   "adres": "Karaca, 29700 Şiran/Gümüşhane",
+   "aciklama": "Gümüşhane / Şiran konumunda sosyal tesis."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Antakya",
+   "isim": "Hatay Büyük Şehir Belediyesi Habibi Neccar Sosyal Tesisi",
+   "adres": "Kardeşler, İzmir Cd. No:122, 31060 Antakya/Hatay",
+   "aciklama": "Hatay / Antakya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Antakya",
+   "isim": "Antakya Belediyesi Sosyal Tesisleri",
+   "adres": "Hacı Ömer Alpagot, Güngör Cd. No:205, 31060 Antakya/Hatay",
+   "aciklama": "Hatay / Antakya konumunda sosyal tesis."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Dörtyol",
+   "isim": "Dörtyol Belediyesi 1 Nolu Sosyal Tesis",
+   "adres": "Özerli Mahallesi Deniz 2 Sokak No:33, Özerli, Sahil Yolu Martı Sitesi Yanı, 31600 Dörtyol/Hatay",
+   "aciklama": "Hatay / Dörtyol konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Reyhanlı",
+   "isim": "Reyhanlı Belediyesi Sosyal Tesisler - Göl Gazinosu",
+   "adres": "Yenişehir Mah., Abdurrezzak Alkan Cad., Reyhanlı/hatay, Yenişehir, 31500 Reyhanlı/Hatay",
+   "aciklama": "Hatay / Reyhanlı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Arsuz",
+   "isim": "Karaağaç Belediyesi Sosyal Tesisleri",
+   "adres": "Karaağaç Övündük, 31290 Arsuz/Hatay",
+   "aciklama": "Hatay / Arsuz konumunda sosyal tesis."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Erzin",
+   "isim": "Erzin Belediyesi Şahin Tepesi Soyal Tesisi",
+   "adres": "Erzin Belediyesi Şahin Tepesi Sosyal Tesisi, Gökgöl, 31960 Erzin/Hatay",
+   "aciklama": "Hatay / Erzin konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Reyhanlı",
+   "isim": "Reyhanlı Belediyesi Sosyal Tesisleri",
+   "adres": "Yeni, Şemsettin Mursaloğlu Cd. No:55, 31500 Reyhanlı/Hatay",
+   "aciklama": "Hatay / Reyhanlı konumunda sosyal tesis."
+  },
+  {
+   "il": "Hatay",
+   "ilce": "Hassa",
+   "isim": "Dora Sosyal Tesisleri",
+   "adres": "Akbez, Avukat Mehmet Doğan Cd., 31700 Hassa/Hatay",
+   "aciklama": "Hatay / Hassa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Iğdır",
+   "ilce": "",
+   "isim": "Iğdır Belediyesi Sosyal Tesisleri",
+   "adres": "Söğütlü, Tünay Aydemir Cd., 76000 Iğdır Merkez/Iğdır",
+   "aciklama": "Iğdır konumunda sosyal tesis."
+  },
+  {
+   "il": "Isparta",
+   "ilce": "",
+   "isim": "Kirazlıdere Sosyal Tesisler",
+   "adres": "Dere, 32040 Isparta Merkez/Isparta",
+   "aciklama": "Isparta konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Isparta",
+   "ilce": "",
+   "isim": "Isp. Bel. Kirazlıtepe Restoran Sosyal Tesis",
+   "adres": "Dere, 32040 Isparta Merkez/Isparta",
+   "aciklama": "Isparta konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Fatih",
+   "isim": "İBB Haliç Sosyal Tesisleri",
+   "adres": "Abdülezel Paşa Cad. Kadir Has Üniversitesi Karşısı Fatih, Yavuz Sultan Selim, 34083 Fatih/İstanbul",
+   "aciklama": "İstanbul / Fatih konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Beyoğlu",
+   "isim": "İBB Cihangir Sosyal Tesisi",
+   "adres": "Sanatkarlar Caddesi, Kılıçalipaşa Mahallesi, Kamacı Ustası Sk. No: 1, 34433 Beyoğlu/İstanbul",
+   "aciklama": "İstanbul / Beyoğlu konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Beyoğlu",
+   "isim": "İBB Kasımpaşa Sosyal Tesisi",
+   "adres": "Bedrettin, Evliya Çelebi Cd. No:4, 34440 Beyoğlu/İstanbul",
+   "aciklama": "İstanbul / Beyoğlu konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Bakırköy",
+   "isim": "İBB Florya Sosyal Tesisleri",
+   "adres": "İtfaiye Cad. No:1 Yeşilköy Halk Pazarı Yanı Yeşilköy İtfaye Arkası Florya, Yeşilköy, Bakırköy - Bostancı No:1, 34153 Bakırköy/İstanbul",
+   "aciklama": "İstanbul / Bakırköy konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Sarıyer",
+   "isim": "İBB İstinye Sosyal Tesisleri",
+   "adres": "No:, İstinye, Emirgan Koru Cd. No:108, 34467 Sarıyer/İstanbul",
+   "aciklama": "İstanbul / Sarıyer konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Kartal",
+   "isim": "İBB Dragos Sosyal Tesisi",
+   "adres": "Orhantepe, Turgut Özal Blv. No:10, 34865 Kartal/İstanbul",
+   "aciklama": "İstanbul / Kartal konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Eyüpsultan",
+   "isim": "İBB Altınboynuz Sosyal Tesisi",
+   "adres": "Tekke Parkı, Merkez, Silahtarağa Cad. No: 16, 34050 Eyüpsultan/İstanbul",
+   "aciklama": "İstanbul / Eyüpsultan konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Fatih",
+   "isim": "Eminönü Sosyal Tesisleri",
+   "adres": "Rüstem Paşa, Yeni Camii Cd. No:1, 34116 Fatih/İstanbul",
+   "aciklama": "İstanbul / Fatih konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Üsküdar",
+   "isim": "İBB Küçük Çamlıca Sosyal Tesisi",
+   "adres": "Korusu, Küçük Çamlıca, Oyma Sokak No: 3, 34696 Üsküdar/İstanbul",
+   "aciklama": "İstanbul / Üsküdar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Sultangazi",
+   "isim": "İBB Gazi Sosyal Tesisleri",
+   "adres": "Zübeyde Hanım, 1481. Sk., 34260 Sultangazi/İstanbul",
+   "aciklama": "İstanbul / Sultangazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Üsküdar",
+   "isim": "İBB Paşalimanı Sosyal Tesisi",
+   "adres": "Kuzguncuk, Paşalimanı Cad., 34674 Üsküdar/İstanbul",
+   "aciklama": "İstanbul / Üsküdar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Sarıyer",
+   "isim": "İBB Pembe Köşk Sosyal Tesisi",
+   "adres": "Emirgan, Emirgan Korusu İçi Yolu No:3, 34467 Sarıyer/İstanbul",
+   "aciklama": "İstanbul / Sarıyer konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Zeytinburnu",
+   "isim": "Zeytinburnu Sosyal Tesisleri",
+   "adres": "Kazlıçeşme, Beşkardeşler Sk. No:12, 34020 Zeytinburnu/İstanbul",
+   "aciklama": "İstanbul / Zeytinburnu konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "",
+   "isim": "İBB Sultanbeyli Sosyal Tesisi",
+   "adres": "Fatih mh. Antalya cad. Beşiroğlu Sk No.32 sultanbeyli, Fatih Mh, Sultanbeyli Gölet Sosyal Tesisleri, 34920 Antalya Cad./Sultanbeyli/İstanbul",
+   "aciklama": "İstanbul konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Fatih",
+   "isim": "Çatladıkapı Sosyal Tesisleri",
+   "adres": "Sultanahmet Mahallesi, Kennedy Cad. No:8, 34122 Fatih/İstanbul",
+   "aciklama": "İstanbul / Fatih konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Fatih",
+   "isim": "Fatih Belediyesi Topkapı Sosyal Tesisleri",
+   "adres": "Topkapı Mahallesii Paşa odaları sokak, Topkapı, Kaleiçi, 34093 Fatih/İstanbul",
+   "aciklama": "İstanbul / Fatih konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Bakırköy",
+   "isim": "İBB 1453 Çırpıcı Sosyal Tesisleri",
+   "adres": "Osmaniye, Çırpıcı Spor Tesisleri İç Yolu No:18, 34146 Bakırköy/İstanbul",
+   "aciklama": "İstanbul / Bakırköy konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Ümraniye",
+   "isim": "Ümraniye Belediyesi Tantavi Sosyal Tesisi",
+   "adres": "Tantavi, Karayusuf Sk. No:10, 34764 Ümraniye/İstanbul",
+   "aciklama": "İstanbul / Ümraniye konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Kağıthane",
+   "isim": "Kağıthane Belediyesi Nurtepe Sosyal Tesisleri",
+   "adres": "Nurtepe, Sınır Sk. 28/1, 34406 Kağıthane/İstanbul",
+   "aciklama": "İstanbul / Kağıthane konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Maltepe",
+   "isim": "İstanbul Büyükşehir Belediyesi Maltepe Spor Tesisleri",
+   "adres": "Orhangazi Şehir Parkı Maltepe Sahil Dolgu Alanı, Turgut Özal Blv. No:167 Yalı Mahallesi 34844 Maltepe/Istanbul, Çınar, 34844 Maltepe/İstanbul",
+   "aciklama": "İstanbul / Maltepe konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Bakırköy",
+   "isim": "İBB Florya Sosyal Tesisleri sahili",
+   "adres": "Yeşilköy, Kordonboyu Sk., 34149 Bakırköy/İstanbul",
+   "aciklama": "İstanbul / Bakırköy konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Büyükçekmece",
+   "isim": "Büyükçekmece Belediyesi Orhan Veli Sosyal Tesisleri",
+   "adres": "Fatih, Kordonboyu Cd., 34500 Büyükçekmece/İstanbul",
+   "aciklama": "İstanbul / Büyükçekmece konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Fatih",
+   "isim": "Ibb sosyal tesisi beltur",
+   "adres": "Cankurtaran, Gülhane Parkı, 34122 Fatih/İstanbul",
+   "aciklama": "İstanbul / Fatih konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Avcılar",
+   "isim": "İBB Sosyal Tesisleri",
+   "adres": "Gümüşpala, 34320 Avcılar/İstanbul",
+   "aciklama": "İstanbul / Avcılar konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Kağıthane",
+   "isim": "Kağıthane Belediyesi Kırkahvesi Sosyal Tesisler",
+   "adres": "Merkez, 34406 Kağıthane/İstanbul",
+   "aciklama": "İstanbul / Kağıthane konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Üsküdar",
+   "isim": "Sgk Üsküdar Sosyal Tesisi ve Eğitim Merkezi",
+   "adres": "Sgk üsküdar sosyal tesisi ve eğitim merkezi, Sultantepe, Paşalimanı Cad. no 19, 34674 Üsküdar/İstanbul",
+   "aciklama": "İstanbul / Üsküdar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Arnavutköy",
+   "isim": "İBB Boğazköy Sosyal Tesisi",
+   "adres": "Yunus Emre, Erdener Sk. No:36, 34285 Arnavutköy/İstanbul",
+   "aciklama": "İstanbul / Arnavutköy konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Beşiktaş",
+   "isim": "Kır Kahvesi Sosyal Tesisleri",
+   "adres": "Yıldız, Yıldız Cd. No.62, 34349 Beşiktaş/İstanbul",
+   "aciklama": "İstanbul / Beşiktaş konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Bakırköy",
+   "isim": "İBB Florya Sosyal Tesisleri: İdeal Salon",
+   "adres": "Yeşilköy, XR64+Q4, 34149 Bakırköy/İstanbul",
+   "aciklama": "İstanbul / Bakırköy konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Kadıköy",
+   "isim": "Kadıköy Bld. Sosyal Tesisleri",
+   "adres": "Caferağa, Küçükmoda Burnu Sok., 34710 Kadıköy/İstanbul",
+   "aciklama": "İstanbul / Kadıköy konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Zeytinburnu",
+   "isim": "İBB Zeytinburnu Sosyal Tesisi",
+   "adres": "Kazlıçeşme, 34020 Zeytinburnu/İstanbul",
+   "aciklama": "İstanbul / Zeytinburnu konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Bayrampaşa",
+   "isim": "İsmetpaşa Sosyal Tesisleri",
+   "adres": "İsmet Paşa, İsmet Paşa Caddesi, İsmet Paşa Parkı, 34040 Bayrampaşa/İstanbul",
+   "aciklama": "İstanbul / Bayrampaşa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Üsküdar",
+   "isim": "Üsküdar Belediyesi İktisadi ve Sosyal Tesisler",
+   "adres": "Mimar Sinan, Dr. Fahri Atabey Cd. No:9, 34672 Üsküdar/İstanbul",
+   "aciklama": "İstanbul / Üsküdar konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Eyüpsultan",
+   "isim": "Osmanlı Park Sosyal Tesisleri",
+   "adres": "Alibeyköy, Sevinç Cd. No:4, 34060 Eyüpsultan/İstanbul",
+   "aciklama": "İstanbul / Eyüpsultan konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Beyoğlu",
+   "isim": "Beyoğlu Belediyesi Sosyal Tesis",
+   "adres": "Piri Paşa, Kumbarahane Cd. No:1, 34445 Beyoğlu/İstanbul",
+   "aciklama": "İstanbul / Beyoğlu konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Kağıthane",
+   "isim": "Hasbahce Sosyal Tesisleri",
+   "adres": "Merkez, İstanbul, 34406 Kağıthane/İstanbul",
+   "aciklama": "İstanbul / Kağıthane konumunda sosyal tesis."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Eyüpsultan",
+   "isim": "RAMİ PARK SOSYAL TESİSLERİ",
+   "adres": "Rami Yeni, Reşadiye Cd. No:6, 34055 Eyüpsultan/İstanbul",
+   "aciklama": "İstanbul / Eyüpsultan konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Avcılar",
+   "isim": "Avcılar Belediyesi Firuzköy Sosyal Tesisleri",
+   "adres": "Firuzköy, Firuzköy Göl Yolu No:12, 34325 Avcılar/İstanbul",
+   "aciklama": "İstanbul / Avcılar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Maltepe",
+   "isim": "Maltepe Belediyesi Küçükyalı Sosyal Tesisleri / Sevgi Kitap Kafe",
+   "adres": "Çınar, Adnan Kahveci Blv. No:6, 34841, 34841 Maltepe/İstanbul",
+   "aciklama": "İstanbul / Maltepe konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İstanbul",
+   "ilce": "Bayrampaşa",
+   "isim": "FATİH PARKI SOSYAL TESİS BYKAFE",
+   "adres": "Orta, Park İçi Yolu 14/B, 34030 Bayrampaşa/İstanbul",
+   "aciklama": "İstanbul / Bayrampaşa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Balçova",
+   "isim": "İzmir Büyükşehir Belediyesi İnciraltı Engelliler Kafeteryası",
+   "adres": "Bahçelerarası Mahallesi, Haydar Aliyev Blv, İzmir Büyükşehir Belediyesi İnciraltı Kent Ormanı, Bahçelerarası, Bakü Caddesi, 35330 Balçova/İzmir",
+   "aciklama": "İzmir / Balçova konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Menemen",
+   "isim": "TEPE SOSYAL TESİSLERİ",
+   "adres": "TEPE SOSYAL TESİSLERİ, Zafer, Su Deposu Mevkİ No 5, 35660 Menemen/İzmir",
+   "aciklama": "İzmir / Menemen konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Karşıyaka",
+   "isim": "İZELMAN A.Ş. Örnekköy Sosyal Tesisleri",
+   "adres": "Örnekköy, Baş Pehlivan Karaali Cd. No:381, 35575 Karşıyaka/İzmir",
+   "aciklama": "İzmir / Karşıyaka konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Çiğli",
+   "isim": "T.C. Çiğli Belediyesi Pelikan Sosyal Tesisleri",
+   "adres": "Evka - 2, 6851. Sk. No:1, 35640 Çiğli/İzmir",
+   "aciklama": "İzmir / Çiğli konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Foça",
+   "isim": "Foça Belediyesi Ali İlçan Sosyal Tesisleri",
+   "adres": "Atatürk, 35687 Foça/İzmir",
+   "aciklama": "İzmir / Foça konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Bayraklı",
+   "isim": "İZMİR ADLİYESİ SOSYAL TESİSLERİ",
+   "adres": "Adelet mah no 11/a adliye sarayı içi sosyol tesisler, Çınarlı, 35220 Bayraklı/İzmir",
+   "aciklama": "İzmir / Bayraklı konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Bayraklı",
+   "isim": "BAYRAKLI BELEDİYESİ ŞEHİT ÜMİT BOZ SOSYAL TESİSLERİ",
+   "adres": "Çiçek, 1637/24. Sk. No:1, 35540 Bayraklı/İzmir",
+   "aciklama": "İzmir / Bayraklı konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Balçova",
+   "isim": "T.C. Balçova Belediyesi Ercüment Özgür Sosyal Tesisler",
+   "adres": "Korutürk, Vali Hüseyin Öğütçen Cd, 35330 Balçova/İzmir",
+   "aciklama": "İzmir / Balçova konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Balçova",
+   "isim": "İzmir Büyükşehir Belediyesi Gençlik Ve Spor Klubü İnciraltı Spor Tesisleri",
+   "adres": "Bahçelerarası, Haydar Aliyev Blv. No:42, 353330 Balçova/İzmir",
+   "aciklama": "İzmir / Balçova konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Narlıdere",
+   "isim": "S.S. Narlıdere Su Ürünleri Kooperatifi Sosyal Tesisleri",
+   "adres": "Gürler Caddesi No:1/2 Altı evler Mah, Sahilevleri, Gürler Cd. No:1/2, 35320 Narlıdere/İzmir",
+   "aciklama": "İzmir / Narlıdere konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Bornova",
+   "isim": "Şehit Er Adem Bilaloğlu Sosyal Tesisi",
+   "adres": "Barbaros, 5233. Sk. No:44, 35090 Bornova/İzmir",
+   "aciklama": "İzmir / Bornova konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Konak",
+   "isim": "Konak Belediyesi Beştepeler Pazaryeri ve Sosyal Tesisleri",
+   "adres": "1. Kadriye, 628. Sk., 35360 Konak/İzmir",
+   "aciklama": "İzmir / Konak konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Bornova",
+   "isim": "Şehit Kurmay Pilot Yüzbaşı Mehmet İlker Karaman Sosyal Tesisleri",
+   "adres": "Atatürk, 928. Sk. No:5, 35030 Bornova/İzmir",
+   "aciklama": "İzmir / Bornova konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Narlıdere",
+   "isim": "Dz.K.K. Narlıdere Sosyal Tesisleri",
+   "adres": "Altıevler, Yıldırım Kemal Cd. No:118, 35320 Narlıdere/İzmir",
+   "aciklama": "İzmir / Narlıdere konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Gaziemir",
+   "isim": "Gaziemir Belediyesi Mümin Gençoğlu Sosyal Tesisleri Kır Düğün Salonları",
+   "adres": "Hürriyet, 35410 Gaziemir/İzmir",
+   "aciklama": "İzmir / Gaziemir konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Karşıyaka",
+   "isim": "T.C. Karşıyaka Belediyesi Şantiye Tesisleri",
+   "adres": "Zübeyde Hanım, 35520 Karşıyaka/İzmir",
+   "aciklama": "İzmir / Karşıyaka konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Karşıyaka",
+   "isim": "Takav Tapu Ve Kadastro Vakfi Sosyal Tesisi",
+   "adres": "Bahçelievler, 1706. Sk. No:30, 35600 Karşıyaka/İzmir",
+   "aciklama": "İzmir / Karşıyaka konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Buca",
+   "isim": "Tınaztepe Sosyal Tesisleri",
+   "adres": "Adatepe, 35370 Buca/İzmir",
+   "aciklama": "İzmir / Buca konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Konak",
+   "isim": "Sosyal tesis",
+   "adres": "Güney, 1218 Sk, 35360 Konak/İzmir",
+   "aciklama": "İzmir / Konak konumunda sosyal tesis."
+  },
+  {
+   "il": "İzmir",
+   "ilce": "Karşıyaka",
+   "isim": "Karşıyaka Belediyesi Zübeyde Hanım Çay Bahçesi",
+   "adres": "Bahariye, Hidayet Erzeybek Cd. No:58/A, 35600 Karşıyaka/İzmir",
+   "aciklama": "İzmir / Karşıyaka konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kahramanmaraş",
+   "ilce": "",
+   "isim": "Kahramanmaraş Çamlıca Sosyal Tesisleri",
+   "adres": "Pınarbaşı, Pınarbaşı Cd. No:51, 46030 Kahramanmaraş Merkez/Kahramanmaraş",
+   "aciklama": "Kahramanmaraş konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kahramanmaraş",
+   "ilce": "Dulkadiroğlu",
+   "isim": "Hamidiye Yurtlaro Sosyal Tesisi Kristal Salon",
+   "adres": "Senem Ayşe, 46030 Dulkadiroğlu/Kahramanmaraş",
+   "aciklama": "Kahramanmaraş / Dulkadiroğlu konumunda sosyal tesis."
+  },
+  {
+   "il": "Kahramanmaraş",
+   "ilce": "Dulkadiroğlu",
+   "isim": "Kahramanmaraş Büyükşehir Belediyesi Karaziyaret Sosyal Tesisleri",
+   "adres": "Erkenez, 46080 Dulkadiroğlu/Kahramanmaraş",
+   "aciklama": "Kahramanmaraş / Dulkadiroğlu konumunda sosyal tesis."
+  },
+  {
+   "il": "Karabük",
+   "ilce": "",
+   "isim": "Karabük Belediyesi Has Bahçe Sosyal Tesisi",
+   "adres": "5000 Evler 75. Yıl, 29. Sk. No:36, 78020 Karabük Merkez/Karabük",
+   "aciklama": "Karabük konumunda sosyal tesis."
+  },
+  {
+   "il": "Karabük",
+   "ilce": "",
+   "isim": "BELEDIYE SOSYAL TESISLERI",
+   "adres": "5000 Evler 75. Yıl, 29. Sk. No:36, 78020 Karabük Merkez/Karabük",
+   "aciklama": "Karabük konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kastamonu",
+   "ilce": "",
+   "isim": "Sosyal Tesisler",
+   "adres": "Kuzeykent, 37150 Kastamonu Merkez/Kastamonu",
+   "aciklama": "Kastamonu konumunda sosyal tesis."
+  },
+  {
+   "il": "Kastamonu",
+   "ilce": "",
+   "isim": "İl Özel İdaresi Sosyal Tesisleri",
+   "adres": "Candaroğulları, İl Özel İdare İç Yolu, 37150 Kastamonu Merkez/Kastamonu",
+   "aciklama": "Kastamonu konumunda sosyal tesis."
+  },
+  {
+   "il": "Kastamonu",
+   "ilce": "Bozkurt",
+   "isim": "Meteoroloji Sosyal Tesisleri - Cafe Restaurant",
+   "adres": "Merkez, Hamza Cd. No:51, 37680 Bozkurt/Kastamonu",
+   "aciklama": "Kastamonu / Bozkurt konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kastamonu",
+   "ilce": "Cide",
+   "isim": "Cide Belediyesi Jale İmer & Memduh İmer Sosyal Tesisleri",
+   "adres": "Cumhuriyet, Gecen Sokak No:11/5, 37600 Cide/Kastamonu",
+   "aciklama": "Kastamonu / Cide konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Melikgazi Belediyesi Sosyal Tesisleri",
+   "adres": "Danişmend Gazi, Çağla Sk. No:2, 38050 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Melikgazi Belediyesi Tınaztepe Sosyal Tesisleri",
+   "adres": "Tınaztepe, 9. Sk. No:1, 38070 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Talas",
+   "isim": "Talas Belediyesi Ali Dağı 360 Sosyal Tesisleri",
+   "adres": "Yukarı, İrem Cd. No:27, 38280, 38280 Talas/Kayseri",
+   "aciklama": "Kayseri / Talas konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Sosyal Tesisler",
+   "adres": "Kocatepe, Şht. Taha Carım Blv. No:1, 38070 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Talas",
+   "isim": "Talas Belediyesi Sosyal Tesisi",
+   "adres": "Mevlana, Halef Hoca Cd. No:77, 38280 Talas/Kayseri",
+   "aciklama": "Kayseri / Talas konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "ESENYURT SOSYAL TESİSLERİ (MELİKGAZİ BELEDİYESİ )",
+   "adres": "Sosyal Tesisleri, Esenyurt, Türkocağı Cd. NO:3, 38050 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Kocasinan",
+   "isim": "Kocasinan Sosyal Tesisleri",
+   "adres": "Baraj Mevki, Kuşçu, Yeni Mah Kızılırmak bulvarı, 38100 Kocasinan/Kayseri",
+   "aciklama": "Kayseri / Kocasinan konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "belsin sosyal tesisleri",
+   "adres": "Anafartalar, 38070 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Melikgazi Belediyesi Şirintepe Sosyal Tesisi",
+   "adres": "Şirintepe, Necip Fazıl Kısakürek Cd. No:28, 38350 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Kocasinan",
+   "isim": "KAYSERİ büyükşehir belediyesi spor tesisleri",
+   "adres": "Cırgalan, 38110 Kocasinan/Kayseri",
+   "aciklama": "Kayseri / Kocasinan konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Melikgazi Belediyesi İldem Sosyal Tesisi",
+   "adres": "İldem Cumhuriyet, 38180 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Talas",
+   "isim": "Kayseri Büyükşehir Belediyesi Spor Etkinlikleri A.Ş. Spor Tesisleri",
+   "adres": "Yenidoğan, Toki Küme Evleri No:15, 38280 Talas/Kayseri",
+   "aciklama": "Kayseri / Talas konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Melikgazi Belediyesi Spor Tesisleri",
+   "adres": "Yeniköy, Hasbek Sk., 38050 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Kocasinan",
+   "isim": "Turkuaz Sosyal Tesisleri Ziyafet & Balo Salonları",
+   "adres": "Beyazşehir, 822. Sk. No: 12 / B, 38350 Kocasinan/Kayseri",
+   "aciklama": "Kayseri / Kocasinan konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Kayseri Valiliği Sosyal Tesisleri",
+   "adres": "Gültepe, Özüm Cd. No:18, 38050 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Gökkent Mahallesi Sosyal Tesisleri",
+   "adres": "Gökkent, 409. Sk. No:10, 38350 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kayseri",
+   "ilce": "Melikgazi",
+   "isim": "Melikgazi Belediyesi Fedakar Gülderen Sosyal Tesisleri",
+   "adres": "Keykubat, Kaynak Cd. No:21, 38070 Melikgazi/Kayseri",
+   "aciklama": "Kayseri / Melikgazi konumunda sosyal tesis."
+  },
+  {
+   "il": "Kırıkkale",
+   "ilce": "",
+   "isim": "Kırıkkale Belediyesi Sosyal Tesisleri",
+   "adres": "Yaylacık, Kırıkkale Belediyesi Sosyal Tesisleri, 71100 Kırıkkale Merkez/Kırıkkale",
+   "aciklama": "Kırıkkale konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kırıkkale",
+   "ilce": "",
+   "isim": "Kırıkkale belediye ATA sosyal Tesisi",
+   "adres": "Fabrikalar, Fevzi Çakmak Cd. No:6, 71100 Kırıkkale Merkez/Kırıkkale",
+   "aciklama": "Kırıkkale konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kırklareli",
+   "ilce": "",
+   "isim": "Çakıllı Belediyesi Sosyal Tesisleri",
+   "adres": "Cumhuriyet, 39400 Çakıllı/Vize/Kırklareli",
+   "aciklama": "Kırklareli konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kırklareli",
+   "ilce": "Vize",
+   "isim": "100. Yıl Sosyal Tesisleri",
+   "adres": "Devlet, Düz Ova Cd., 39400 Vize/Kırklareli",
+   "aciklama": "Kırklareli / Vize konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Derince",
+   "isim": "T.C. Derince BELEDIYESI SAHIL SOSYAL TESISLERI",
+   "adres": "Yavuz Sultan, Rıhtım Cd. No:57, 41900 Derince/Kocaeli",
+   "aciklama": "Kocaeli / Derince konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Darıca",
+   "isim": "Kocaeli Büyükşehir Belediyesi Balyanoz Eğitim Tesisi",
+   "adres": "Bayramoğlu, 41700 Darıca/Kocaeli",
+   "aciklama": "Kocaeli / Darıca konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Darıca",
+   "isim": "Darıca Belediyesi Sosyal Tesisleri Teras",
+   "adres": "Bayraktepe Otobüs Durağı, Yalı, Eski Hükümet Cd., 41700 Darıca/Kocaeli",
+   "aciklama": "Kocaeli / Darıca konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Çayırova",
+   "isim": "Şelale Park Sosyal Tesisleri",
+   "adres": "Özgürlük, Uğur Mumcu Cd. No:72, 41420 Gebze Osb 3/Çayırova/Kocaeli",
+   "aciklama": "Kocaeli / Çayırova konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Çayırova",
+   "isim": "Çağdaşkent Sosyal Tesisleri",
+   "adres": "Akse, 41420 Çayırova/Kocaeli",
+   "aciklama": "Kocaeli / Çayırova konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "Kentsa Sosyal Tesisleri",
+   "adres": "Alikahya Fatih, Sabancı Holding, 41310 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "MÜSİAD SOSYAL TESİSLERİ",
+   "adres": "Kemalpaşa Mahallesi Cumhuriyet Caddesi, Metropol İş Merkezi Kat:3, Kemalpaşa, İstanbul İzmit Yolu No:1, 41200 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Kartepe",
+   "isim": "ibrikdere sosyal tesisleri",
+   "adres": "Bağdat Mahallesi, 41255 Kartepe/Kocaeli",
+   "aciklama": "Kocaeli / Kartepe konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Gölcük",
+   "isim": "Tropical Sosyal Tesisleri",
+   "adres": "Deniz Evler, 41650 Gölcük/Kocaeli",
+   "aciklama": "Kocaeli / Gölcük konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "Kocaelispor Sosyal Tesisleri",
+   "adres": "Ömerağa, Oramiral Salim Dervişoğlu Cd. No:74, 41100 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Darıca",
+   "isim": "Darıca Belediyesi Sancaktepe Sosyal Tesisleri",
+   "adres": "Kazım Karabekir, Gazanfer Sk. No:4, 41700 Darıca/Kocaeli",
+   "aciklama": "Kocaeli / Darıca konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Darıca",
+   "isim": "Darıca Belediyesi Hilal Bahçe Cafe",
+   "adres": "Cami, 41700 Darıca/Kocaeli",
+   "aciklama": "Kocaeli / Darıca konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Karamürsel",
+   "isim": "Karamürsel Belediyesi Sosyal Tesisi Bizim Kafe",
+   "adres": "Kayacık, İnönü Cd. No:60, 41500 Karamürsel/Kocaeli",
+   "aciklama": "Kocaeli / Karamürsel konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Çayırova",
+   "isim": "Akse Meydan Sosyal Tesisleri",
+   "adres": "Akse, 517. Sk. No:1, 41420 Çayırova/Kocaeli",
+   "aciklama": "Kocaeli / Çayırova konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "İzmit Belediyesi Spor Kulübü Kuruçeşme Sosyal Tesisleri",
+   "adres": "Kocatepe, Pir Sultan Abdal Cd. No:42, 41100 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Gebze",
+   "isim": "Mutlukent Sosyal Tesisleri",
+   "adres": "Yenikent, 2478. Sk. No:4, 41400 Gebze/Kocaeli",
+   "aciklama": "Kocaeli / Gebze konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Başiskele",
+   "isim": "İzmit Orman İşletme Müdürlüğü Sosyal Tesisleri",
+   "adres": "Ovacık Mahallesi, Unnamed Road, Ovacık, 41140 Başiskele/Kocaeli",
+   "aciklama": "Kocaeli / Başiskele konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "Gülümse Cafe Sosyal Tesisleri",
+   "adres": "Yahyakaptan, Sarı Mimoza Cd. No:5, 41050 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Başiskele",
+   "isim": "Serin dere köyü sosyal tesisleri",
+   "adres": "Serindere, 41090 Başiskele/Kocaeli",
+   "aciklama": "Kocaeli / Başiskele konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Gölcük",
+   "isim": "Gölcük Belediyesi Ilıca Tesisleri",
+   "adres": "Yazlık Yeni, Gedikli Sk. No:15, 41275 Gölcük/Kocaeli",
+   "aciklama": "Kocaeli / Gölcük konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Derince",
+   "isim": "Yenikent sosyal tesisleri",
+   "adres": "Yenikent, 41900 Derince/Kocaeli",
+   "aciklama": "Kocaeli / Derince konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Körfez",
+   "isim": "Tüpraş Sosyal Tesisleri",
+   "adres": "Güney, Tuğrul Cd., 41780 Körfez/Kocaeli",
+   "aciklama": "Kocaeli / Körfez konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "Kuruçeşme Sosyal Tesisi",
+   "adres": "Kuruçeşme Fatih, Barış Cd. No:41, 41100 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Körfez",
+   "isim": "Sosyal Tesisler Lojmanı",
+   "adres": "Hacı Akif, Sosyal Tesisler Lojmanı, 41800 Körfez/Kocaeli",
+   "aciklama": "Kocaeli / Körfez konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Başiskele",
+   "isim": "Kolayli Sitesi Sosyal Tesisi",
+   "adres": "Yaylacık, Fakülte Cd. 247 K, 41140 Başiskele/Kocaeli",
+   "aciklama": "Kocaeli / Başiskele konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "Lastik İş Sendikası Sosyal Tesisleri",
+   "adres": "Sanayi, 41040 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "İzmit",
+   "isim": "Kocaeli Büyükşehir Belediyesi Destek Hizmetler Dairesi Başkanlığı Tesisler Şubesi Müdürlüğü Bakım Şefliği",
+   "adres": "Körfez, Karadut Sk. No:11, 41040 İzmit/Kocaeli",
+   "aciklama": "Kocaeli / İzmit konumunda sosyal tesis."
+  },
+  {
+   "il": "Kocaeli",
+   "ilce": "Körfez",
+   "isim": "Körfez Belediyesi Kirazlıyalı Çay Bahçesi",
+   "adres": "Kirazlıyalı, 41780 Körfez/Kocaeli",
+   "aciklama": "Kocaeli / Körfez konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SOSYAL TESİSLERİ PALYE KAFE",
+   "adres": "Köyceğiz, Beyşehir Cd. No:311/1, 42000 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Karatay",
+   "isim": "Karatay Belediyesi Sosyal Tesisleri",
+   "adres": "Ulubatlıhasan, Mercidabık Sk. No:72, 42050 Karatay/Konya",
+   "aciklama": "Konya / Karatay konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Selçuklu",
+   "isim": "SELÇUKLU BELEDİYESİ SOSYAL TESİSLERİ",
+   "adres": "Mahallesi, Şeyh Şamil, Doç. Dr. Halil Ürün Cd. No:19, 42070 Selçuklu/Konya",
+   "aciklama": "Konya / Selçuklu konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Selçuklu",
+   "isim": "SELÇUKLU BELEDİYESİ BUHARA SOSYAL TESİSİ",
+   "adres": "Buhara, Hat Cd. No:49, 42070 Selçuklu/Konya",
+   "aciklama": "Konya / Selçuklu konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "MERAM DERE SOSYAL TESİSLERİ",
+   "adres": "Dere, Yeşil Dere Cd. No:36, 42140 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Karatay",
+   "isim": "Konya Barosu Sosyal Tesisleri",
+   "adres": "Çimenlik, Kurbanlı Sk. no1, 42040 Karatay/Konya",
+   "aciklama": "Konya / Karatay konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Selçuklu",
+   "isim": "SELÇUKLU BELEDİYESİ GEVHER HATUN SOSYAL TESİSİ",
+   "adres": "Hanaybaşı, Anadolu Cd. NO : 4, 42080 Selçuklu/Konya",
+   "aciklama": "Konya / Selçuklu konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Selçuklu",
+   "isim": "Selçuklu Belediyesi Yazır Sosyal Tesisi",
+   "adres": "Yazır, 42250 Selçuklu/Konya",
+   "aciklama": "Konya / Selçuklu konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Meram Belediyesi Sosyal Tesisleri",
+   "adres": "Dere, 42210 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "",
+   "isim": "Karatay Belediyesi Keykubat Sosyal Tesisleri",
+   "adres": "26, Araplar, Kuşadalı İbrahim Sk. Karatay Bld. Keykubat Sosyal Tesisleri No:26, 42050 Horozluhan Osb/Karatay/Konya",
+   "aciklama": "Konya konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Meram Belediyesi Osman Gazi Sosyal Tesisi",
+   "adres": "Osman Gazi, 42090 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Karatay",
+   "isim": "KARATAY BELEDİYESİ SARACOĞLU TESİSLERİ",
+   "adres": "Erler, 42020 Karatay/Konya",
+   "aciklama": "Konya / Karatay konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Selçuklu",
+   "isim": "SELÇUKLU BELEDİYESİ AYDINLIKEVLER SOSYAL TESİSİ",
+   "adres": "Aydınlıkevler, Kadayıfçı Sk. No:5, 42100 Selçuklu/Konya",
+   "aciklama": "Konya / Selçuklu konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "HAVZAN SOSYAL TESİS",
+   "adres": "Havzan, Mercanlı Sk No:19, 42090 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Selçuklu",
+   "isim": "Selçuklu Belediyesi Dumlupınar Sosyal Tesisi",
+   "adres": "Dumlupınar, 42070 Selçuklu/Konya",
+   "aciklama": "Konya / Selçuklu konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Karatay",
+   "isim": "Karatay Belediyesi Küçük Kumköprü Emekli Konağı Sosyal Tesisi",
+   "adres": "Gaziosmanpaşa, Mengene Sk. No:17, 42020 Karatay/Konya",
+   "aciklama": "Konya / Karatay konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Konevi Sosyal Tesisleri",
+   "adres": "Aşkan, 42090 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Meram Belediyesi Çomaklı Mahallesi Sosyal Tesisi",
+   "adres": "Çomaklı, Gökpınar Cd., 42140 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Karatay",
+   "isim": "Karatay Belediyesi İşkalaman Sosyal Tesisleri",
+   "adres": "Hacıveyiszade, Müverrihhadidi Sk. No:22, 42030 Karatay/Konya",
+   "aciklama": "Konya / Karatay konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Meram Belediyesi Çandır Sosyal Tesisleri Ve So",
+   "adres": "Ayanbey, 42090 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Meram Belediyesi Ertuğrul Gazi Sosyal Tesisleri",
+   "adres": "Uzunharmanlar, Küçük Kovanağzı Cd. No:243, 42010 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Selçuklu",
+   "isim": "Buhara Sosyal Tesisi",
+   "adres": "Buhara, Dokumalı Sk. No:30, 42070 Selçuklu/Konya",
+   "aciklama": "Konya / Selçuklu konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Teiaş Sosyal Tesisi",
+   "adres": "Havzan, Yeni Elektrik Santral Cd. Teiaş 9 İletim Tesis Ve İşletme Grup Müdürlüğü, 42090 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "GAZZE SOSYAL TESİSİ",
+   "adres": "Yenişehir, Gazze Cd, 42010 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Karatay",
+   "isim": "Sedirler Sosyal Tesisleri",
+   "adres": "Ortamescit, Ballıdere Sk. No:5, 42030 Karatay/Konya",
+   "aciklama": "Konya / Karatay konumunda sosyal tesis."
+  },
+  {
+   "il": "Konya",
+   "ilce": "Meram",
+   "isim": "Çomaklı sosyal tesisleri düğün salonu",
+   "adres": "Çomaklı, Gökpınar Cd., 42140 Meram/Konya",
+   "aciklama": "Konya / Meram konumunda sosyal tesis."
+  },
+  {
+   "il": "Kütahya",
+   "ilce": "",
+   "isim": "Bengisu Sosyal Tesisleri",
+   "adres": "30 Ağustos, Meriç Sk. No:6/A, 43100 Kütahya Merkez/Kütahya",
+   "aciklama": "Kütahya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kütahya",
+   "ilce": "",
+   "isim": "Kütahya Belediyesi Sosyal Tesisleri",
+   "adres": "Hamidiye, Ahi Erbasan Cd. No:13, 43050 Kütahya Merkez/Kütahya",
+   "aciklama": "Kütahya konumunda sosyal tesis."
+  },
+  {
+   "il": "Kütahya",
+   "ilce": "",
+   "isim": "Kütahya Belediyesi Çamlıca Kır Lokantası",
+   "adres": "Okçu, 43100 Kütahya Merkez/Kütahya",
+   "aciklama": "Kütahya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Kütahya",
+   "ilce": "",
+   "isim": "TC Kütahya Belediyesi Ağaçköy Restoran",
+   "adres": "Ağaçköy, 43100 Kütahya Merkez/Kütahya",
+   "aciklama": "Kütahya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "Yeşilyurt",
+   "isim": "Malatya Büyükşehir Belediyesi Sosyal Tesislerii",
+   "adres": "Koyunoğlu, İnönü Cd. no:197/1, 44070 Yeşilyurt/Malatya",
+   "aciklama": "Malatya / Yeşilyurt konumunda sosyal tesis."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "Yeşilyurt",
+   "isim": "Barguzu Sosyal Tesisleri",
+   "adres": "Karakavak, 44915 Yeşilyurt/Malatya",
+   "aciklama": "Malatya / Yeşilyurt konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "Yeşilyurt",
+   "isim": "Beylerderesi Sosyal Tesisleri",
+   "adres": "Yakınca, 44920 Yeşilyurt/Malatya",
+   "aciklama": "Malatya / Yeşilyurt konumunda sosyal tesis."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "",
+   "isim": "Malatya Büyükşehir Belediyesi Sancaktar Çok Amaçli Sosyal Tesisi",
+   "adres": "Üçbağlar, Mutlu Sk. No:7, 44100 Malatya Merkez/Malatya",
+   "aciklama": "Malatya konumunda sosyal tesis."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "Yeşilyurt",
+   "isim": "Yeşilyurt Belediyesi Zafer Sosyal Tesisi",
+   "adres": "Yakınca, 44920 Yeşilyurt/Malatya",
+   "aciklama": "Malatya / Yeşilyurt konumunda sosyal tesis."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "Yeşilyurt",
+   "isim": "Şehit Muhsin Yazıcıoğlu Sosyal Tesisleri",
+   "adres": "Muhsin Yazıcıoğlu Parkı, Yakınca, anemon caddesi, 44900 Yeşilyurt/Malatya",
+   "aciklama": "Malatya / Yeşilyurt konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "Akçadağ",
+   "isim": "Akçadağ Belediyesi Sosyal Tesisleri",
+   "adres": "Başpınar, 44600 Akçadağ/Malatya",
+   "aciklama": "Malatya / Akçadağ konumunda sosyal tesis."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "Yeşilyurt",
+   "isim": "Sosyal tesis",
+   "adres": "Yaka, Cami Sk No:77, 44070 Yeşilyurt/Malatya",
+   "aciklama": "Malatya / Yeşilyurt konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Malatya",
+   "ilce": "",
+   "isim": "Şeyhbayram Sosyal Tesis Çocuk parkı",
+   "adres": "Şeyh Bayram, Hacı Bektaş-ı Veli Cd. 5. Sk. No:27, 44090 Malatya Merkez/Malatya",
+   "aciklama": "Malatya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Manisa",
+   "ilce": "Yunusemre",
+   "isim": "Yunusemre Belediyesi Muradiye Sosyal Tesisleri",
+   "adres": "Muradiye, 45140 Yunusemre/Manisa",
+   "aciklama": "Manisa / Yunusemre konumunda sosyal tesis."
+  },
+  {
+   "il": "Manisa",
+   "ilce": "",
+   "isim": "Ulutepe Sosyal Tesisleri",
+   "adres": "Saruhan, Ulutepe Cd. No:104, 45010 Manisa Merkez/Şehzadeler/Manisa",
+   "aciklama": "Manisa konumunda sosyal tesis."
+  },
+  {
+   "il": "Manisa",
+   "ilce": "Salihli",
+   "isim": "Salihli Belediyesi Bizim Ev Sosyal Tesisleri",
+   "adres": "Seyrantepe, 136. Sk., 45310 Salihli/Manisa",
+   "aciklama": "Manisa / Salihli konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Mardin",
+   "ilce": "",
+   "isim": "büyükşehir belediye spor sosyal tesisleri",
+   "adres": "Yenişehir, Stadyum Cd. No:9, 47200 Mardin Merkez/Mardin",
+   "aciklama": "Mardin konumunda sosyal tesis."
+  },
+  {
+   "il": "Mardin",
+   "ilce": "Midyat",
+   "isim": "Biçen Sosyal Tesisleri",
+   "adres": "Sivrice, sokak no 28, 47500 Midyat/Mardin",
+   "aciklama": "Mardin / Midyat konumunda sosyal tesis."
+  },
+  {
+   "il": "Mersin",
+   "ilce": "Yenişehir",
+   "isim": "Mersin Büyükşehir Belediyesi Spor Tesisleri",
+   "adres": "Deniz, İsmet İnönü Blv. No:229, 33150 Yenişehir/Mersin",
+   "aciklama": "Mersin / Yenişehir konumunda sosyal tesis."
+  },
+  {
+   "il": "Mersin",
+   "ilce": "Mezitli",
+   "isim": "Mezitli Belediyesi Sosyal Tesisleri",
+   "adres": "Menderes, 33340 Mezitli/Mersin",
+   "aciklama": "Mersin / Mezitli konumunda sosyal tesis."
+  },
+  {
+   "il": "Mersin",
+   "ilce": "Mezitli",
+   "isim": "Davultepe Belediyesi Sosyal Tesisleri",
+   "adres": "Davultepe, 33320 Mezitli/Mersin",
+   "aciklama": "Mersin / Mezitli konumunda sosyal tesis."
+  },
+  {
+   "il": "Mersin",
+   "ilce": "",
+   "isim": "Mestaş Sosyal Tesisleri",
+   "adres": "Karaduvar SB, Yalçın Alaybeyoğlu Blv. No:2, 33040 Camili Köyü/Akdeniz/Mersin",
+   "aciklama": "Mersin konumunda sosyal tesis."
+  },
+  {
+   "il": "Mersin",
+   "ilce": "Akdeniz",
+   "isim": "Büyükşehir Belediye Kafe",
+   "adres": "Kültür, 4304. Sk. No:1, 33010 Akdeniz/Mersin",
+   "aciklama": "Mersin / Akdeniz konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Muğla",
+   "ilce": "Menteşe",
+   "isim": "Düğerek Sosyal Tesisleri",
+   "adres": "Düğerek, 48000 Menteşe/Muğla",
+   "aciklama": "Muğla / Menteşe konumunda sosyal tesis."
+  },
+  {
+   "il": "Muğla",
+   "ilce": "Köyceğiz",
+   "isim": "Köyceğiz belediyesi sosyal tesisleri",
+   "adres": "Ulucami, 48800 Köyceğiz/Muğla",
+   "aciklama": "Muğla / Köyceğiz konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Muğla",
+   "ilce": "Bodrum",
+   "isim": "Bitez Cafe & Restaurant - Bodrum Belediye A.Ş.",
+   "adres": "Bitez, Çökertme Cd. No:5, 48400 Bodrum/Muğla",
+   "aciklama": "Muğla / Bodrum konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Muş",
+   "ilce": "",
+   "isim": "Başbakanlık Muş İli Sosyal Tesisleri",
+   "adres": "Minare, Yeni Cezaevi Cd., 49100 Muş Merkez/Muş",
+   "aciklama": "Muş konumunda sosyal tesis."
+  },
+  {
+   "il": "Nevşehir",
+   "ilce": "",
+   "isim": "Nevşehir Hacı Bektaş Veli Üniverstesi Merkezi Yemekhane Ve Sosyal Tesis",
+   "adres": "2000 Evler, 50300 Nevşehir Merkez/Nevşehir",
+   "aciklama": "Nevşehir konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Niğde",
+   "ilce": "",
+   "isim": "Niğde Belediyesi Sosyal Tesisleri",
+   "adres": "İnönü, Lise Sk. No:1, 51200 Niğde Merkez/Niğde",
+   "aciklama": "Niğde konumunda sosyal tesis."
+  },
+  {
+   "il": "Niğde",
+   "ilce": "",
+   "isim": "Niğde Belediyesi Nar Sosyal Tesisi",
+   "adres": "Nar, Aydınlık Cd., 51100 Niğde Merkez/Niğde",
+   "aciklama": "Niğde konumunda sosyal tesis."
+  },
+  {
+   "il": "Niğde",
+   "ilce": "",
+   "isim": "Niğde Barosu Sosyal Tesisleri",
+   "adres": "Fertek, Ali Rıza Tuncer Cd. No:21, 51700 Niğde Merkez/Niğde",
+   "aciklama": "Niğde konumunda sosyal tesis."
+  },
+  {
+   "il": "Niğde",
+   "ilce": "",
+   "isim": "Niğde İlhanlı sosyal tesisleri",
+   "adres": "İlhanlı, 33. Sk. No:12, 51100 Niğde Merkez/Niğde",
+   "aciklama": "Niğde konumunda sosyal tesis."
+  },
+  {
+   "il": "Ordu",
+   "ilce": "Altınordu",
+   "isim": "Kayabaşı Park ve Sosyal Tesisler",
+   "adres": "Akçatepe, 52000 Altınordu/Ordu",
+   "aciklama": "Ordu / Altınordu konumunda sosyal tesis."
+  },
+  {
+   "il": "Ordu",
+   "ilce": "Altınordu",
+   "isim": "Ordu Büyükşehir Belediyesi İktisadi ve Sosyal Tesisler İşletmesi İktisadi İşletmesi",
+   "adres": "Şarkiye, Yükçülük Sk. No:2, 52300 Altınordu/Ordu",
+   "aciklama": "Ordu / Altınordu konumunda sosyal tesis."
+  },
+  {
+   "il": "Ordu",
+   "ilce": "Perşembe",
+   "isim": "Fenerburnu Deniz Yıldızı Sosyal Tesisleri",
+   "adres": "Kaleyaka, 52750 Perşembe/Ordu",
+   "aciklama": "Ordu / Perşembe konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ordu",
+   "ilce": "Mesudiye",
+   "isim": "Mesudiye Belediyesi Beykoz Tesisleri",
+   "adres": "Merkez, Cami Sk. 29-11, 52900 Mesudiye/Ordu",
+   "aciklama": "Ordu / Mesudiye konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Ordu",
+   "ilce": "",
+   "isim": "Orman Dairesi Sosyal Tesisleri",
+   "adres": "Kumbaşı, 1. Sk. No:52, 52100 Ordu Merkez/Ordu",
+   "aciklama": "Ordu konumunda sosyal tesis."
+  },
+  {
+   "il": "Ordu",
+   "ilce": "Ünye",
+   "isim": "Ünye sosyal tesis",
+   "adres": "Kaledere, D010 367c, 52300 Ünye/Ordu",
+   "aciklama": "Ordu / Ünye konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Osmaniye",
+   "ilce": "",
+   "isim": "Osmaniye Belediyesi Sosyal Tesisleri",
+   "adres": "Adnan Menderes, 19527. Sk. No:29, 80010 Osmaniye Merkez/Osmaniye",
+   "aciklama": "Osmaniye konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Rize",
+   "ilce": "",
+   "isim": "Rize Belediyesi Sosyal Tesisleri",
+   "adres": "Piriçelebi, Menderes Blv. No:182, 53020 Rize Merkez/Rize",
+   "aciklama": "Rize konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Rize",
+   "ilce": "",
+   "isim": "Rize Belediyesi Alipaşa Sosyal Tesisi",
+   "adres": "Alipaşa, 53100 Rize Merkez/Rize",
+   "aciklama": "Rize konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Rize",
+   "ilce": "",
+   "isim": "Rize Belediyesi Fener Mahallesi Sosyal Tesisi",
+   "adres": "Fener, 53020 Rize Merkez/Rize",
+   "aciklama": "Rize konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Rize",
+   "ilce": "",
+   "isim": "Rize Belediyesi Isırlık Sosyal Tesisi",
+   "adres": "Köprülü Köyü Yolu, 53950 Köprülü/Rize Merkez, Aşağı, 53100 Küçükköy/Rize Merkez/Rize",
+   "aciklama": "Rize konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Rize",
+   "ilce": "",
+   "isim": "Rize Belediyesi Meydan Sosyal Tesisi",
+   "adres": "Piriçelebi, Atatürk Cd. No:273/A, 53020 Rize Merkez/Rize",
+   "aciklama": "Rize konumunda sosyal tesis."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Adapazarı",
+   "isim": "Yenikentpark Sosyal Tesisleri",
+   "adres": "1626 Ada Önü, 15 Temmuz Camili, 54100 Adapazarı/Sakarya",
+   "aciklama": "Sakarya / Adapazarı konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Serdivan",
+   "isim": "Sakarya Büyükşehir Belediyesi Öğrenci Lokantası",
+   "adres": "Kemalpaşa, 54050 Serdivan/Sakarya",
+   "aciklama": "Sakarya / Serdivan konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Kocaali",
+   "isim": "Sahil park sosyal tesisleri",
+   "adres": "Ağalar, 54800 Kocaali/Sakarya",
+   "aciklama": "Sakarya / Kocaali konumunda sosyal tesis."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Serdivan",
+   "isim": "Serdivan Belediyesi Kırantepe Sosyal Tesisleri",
+   "adres": "Kemalpaşa, 48. Sk., 54100 Serdivan/Sakarya",
+   "aciklama": "Sakarya / Serdivan konumunda sosyal tesis."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Serdivan",
+   "isim": "Asem Sosyal Tesisleri",
+   "adres": "İstiklal, Asem Küçük Sanayi Sitesi, 54050 Serdivan/Sakarya",
+   "aciklama": "Sakarya / Serdivan konumunda sosyal tesis."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Sapanca",
+   "isim": "Sapanca Belediye Çay Bahçesi",
+   "adres": "Rüstempasa, 54600 Sapanca/Sakarya",
+   "aciklama": "Sakarya / Sapanca konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "",
+   "isim": "Sakarya Mahallesi Sosyal Tesisleri",
+   "adres": "Sakarya, 34050 Eyüpsultan/İstanbul",
+   "aciklama": "Sakarya konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Ferizli",
+   "isim": "Ferizli Belediyesi Sosyal Tesisleri",
+   "adres": "İnönü, 24. Sk. No:10, 54110 Ferizli/Sakarya",
+   "aciklama": "Sakarya / Ferizli konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Sakarya",
+   "ilce": "Geyve",
+   "isim": "Geyve Belediyesi Nehir Park Sosyal Tesisleri",
+   "adres": "Alifuatpaşa yolu üzeri Bayezit Caddesi, Alifuatpaşa, 54700 Geyve/Sakarya",
+   "aciklama": "Sakarya / Geyve konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "Canik",
+   "isim": "Anakent Sosyal Tesisleri",
+   "adres": "Yenimahalle, 55080 Canik/Samsun",
+   "aciklama": "Samsun / Canik konumunda sosyal tesis."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "İlkadım",
+   "isim": "İlkadım Belediyesi Sosyal Tesisi",
+   "adres": "Fevzi Çakmak, Banaz Sk. No:12, 55070 İlkadım/Samsun",
+   "aciklama": "Samsun / İlkadım konumunda sosyal tesis."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "Atakum",
+   "isim": "Sosyal Tesisler",
+   "adres": "Esenevler, DSİ 71. Şube Md. No:171, 55200 Atakum/Samsun",
+   "aciklama": "Samsun / Atakum konumunda sosyal tesis."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "Atakum",
+   "isim": "Samsun Büyükşehir Belediyesi Spor Tesisleri",
+   "adres": "Denizevleri, Adnan Menderes Blv. no:27, 55200 Atakum/Samsun",
+   "aciklama": "Samsun / Atakum konumunda sosyal tesis."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "Canik",
+   "isim": "Canik Belediyesi Meşe Tesisleri",
+   "adres": "Toptepe, 234. Sk. No:7, 55080 Canik/Samsun",
+   "aciklama": "Samsun / Canik konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "Atakum",
+   "isim": "TCK Sosyal Tesisleri",
+   "adres": "Mimarsinan, 55200 Atakum/Samsun",
+   "aciklama": "Samsun / Atakum konumunda sosyal tesis."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "İlkadım",
+   "isim": "Derebahçe sosyal tesisleri spor salonu",
+   "adres": "Derebahçe, Kuşadası Sk. No:603, 55060 İlkadım/Samsun",
+   "aciklama": "Samsun / İlkadım konumunda sosyal tesis."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "Atakum",
+   "isim": "Petek Kafe (Samsun Büyükşehir Belediyesi)",
+   "adres": "Körfez, Belediye Cd. No:18 Kat:2, 55270 Atakum/Samsun",
+   "aciklama": "Samsun / Atakum konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Samsun",
+   "ilce": "İlkadım",
+   "isim": "Kafe İstiklal (Samsun Büyükşehir Belediyesi)",
+   "adres": "Kale, 19 Mayıs Blv. No:3, 55030 İlkadım/Samsun",
+   "aciklama": "Samsun / İlkadım konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Siirt",
+   "ilce": "",
+   "isim": "Siirt Belediyesi Sosyal tesisleri",
+   "adres": "Bahçelievler, Bahattin Danış Cd. No:26, 56100 Siirt Merkez/Siirt",
+   "aciklama": "Siirt konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Sinop",
+   "ilce": "",
+   "isim": "Belediye Yuvam Sosyal Tesisleri",
+   "adres": "Gelincik, Kampyolu Küme Evler Sk. no:1, 57000 Sinop Merkez/Sinop",
+   "aciklama": "Sinop konumunda sosyal tesis."
+  },
+  {
+   "il": "Sinop",
+   "ilce": "",
+   "isim": "Sinop Orman İşl. Sosyal Tesisleri",
+   "adres": "Gelincik, Plaj Yolu, 57000 Sinop Merkez/Sinop",
+   "aciklama": "Sinop konumunda sosyal tesis."
+  },
+  {
+   "il": "Sinop",
+   "ilce": "",
+   "isim": "Sinop İl Özel İdaresi Sosyal Tesisleri",
+   "adres": "Gelincik, Yeni Sk. İl Özel İdaresi Lojmanı, 57000 Sinop Merkez/Sinop",
+   "aciklama": "Sinop konumunda sosyal tesis."
+  },
+  {
+   "il": "Sinop",
+   "ilce": "",
+   "isim": "İl Özel İdaresi Karakum Sosyal Tesisleri",
+   "adres": "Zeytinlik, Enver Bahadır Cd. No:14, 57000 Sinop Merkez/Sinop",
+   "aciklama": "Sinop konumunda sosyal tesis."
+  },
+  {
+   "il": "Sinop",
+   "ilce": "",
+   "isim": "Tabyalar Sosyal Tesisleri",
+   "adres": "denizler mevkii, Korucuk, Korucuk Köyü Yolu 50/1, 57002 Sinop Merkez/Sinop",
+   "aciklama": "Sinop konumunda sosyal tesis."
+  },
+  {
+   "il": "Sinop",
+   "ilce": "",
+   "isim": "Sinop Spor Sosyal Tesisleri",
+   "adres": "Bostancılı, Fatih Cd., 57000 Sinop Merkez/Sinop",
+   "aciklama": "Sinop konumunda sosyal tesis."
+  },
+  {
+   "il": "Sinop",
+   "ilce": "Ayancık",
+   "isim": "YEŞİL AYANCIK ÇAMURCU SOSYAL TESİSLERİ CAFE RESTORANT",
+   "adres": "Yalı, Gazhane Cd., 57400 Ayancık/Sinop",
+   "aciklama": "Sinop / Ayancık konumunda sosyal tesis."
+  },
+  {
+   "il": "Sivas",
+   "ilce": "",
+   "isim": "Sivas Belediyesi Sosyal Tesisler",
+   "adres": "Eskikale, Cumhuriyet Meydanı Park İç Yolu, 58070 İmaret/Sivas Merkez/Sivas",
+   "aciklama": "Sivas konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Şanlıurfa",
+   "ilce": "Haliliye",
+   "isim": "Cumhuriyet Sosyal Tesisleri Beltur",
+   "adres": "Karsıyaka, 63290 Haliliye/Şanlıurfa",
+   "aciklama": "Şanlıurfa / Haliliye konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Şanlıurfa",
+   "ilce": "Haliliye",
+   "isim": "Gap Sosyal Tesisleri",
+   "adres": "Ertuğrul Gazi, 63300 Haliliye/Şanlıurfa",
+   "aciklama": "Şanlıurfa / Haliliye konumunda sosyal tesis."
+  },
+  {
+   "il": "Şanlıurfa",
+   "ilce": "Karaköprü",
+   "isim": "Karaköprü Belediyesi Sosyal Tesisleri",
+   "adres": "Şenevler, Orman Yolu Cd. No:97, 63320 Karaköprü/Şanlıurfa",
+   "aciklama": "Şanlıurfa / Karaköprü konumunda sosyal tesis."
+  },
+  {
+   "il": "Şanlıurfa",
+   "ilce": "Halfeti",
+   "isim": "Büyükşehir Belediyesi Halfeti Incisu Sosyal Tesisleri",
+   "adres": "Gürlüce, 63950 Halfeti/Şanlıurfa",
+   "aciklama": "Şanlıurfa / Halfeti konumunda sosyal tesis."
+  },
+  {
+   "il": "Şanlıurfa",
+   "ilce": "Karaköprü",
+   "isim": "Y.B Sosyal Tesisleri",
+   "adres": "Narkuyu mah. 113.cad, Narlıkuyu, Unnamed Road no:33, 63320 Karaköprü/Şanlıurfa",
+   "aciklama": "Şanlıurfa / Karaköprü konumunda sosyal tesis."
+  },
+  {
+   "il": "Şanlıurfa",
+   "ilce": "Haliliye",
+   "isim": "T. C. Harran Ũniversitesi Sosyal Tesisleri",
+   "adres": "Atatürk, 11. Sk., 63100 Haliliye/Şanlıurfa",
+   "aciklama": "Şanlıurfa / Haliliye konumunda sosyal tesis."
+  },
+  {
+   "il": "Tekirdağ",
+   "ilce": "",
+   "isim": "Tekirdağ Belediyesi Sosyal Tesisleri Cafe",
+   "adres": "Cumhuriyet, Atatürk Blv. No:35, 59100 Tekirdağ Merkez/Tekirdağ",
+   "aciklama": "Tekirdağ konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Tekirdağ",
+   "ilce": "Süleymanpaşa",
+   "isim": "Tekirdağspor Sosyal Tesisleri",
+   "adres": "Cumhuriyet, 59100 Süleymanpaşa/Tekirdağ",
+   "aciklama": "Tekirdağ / Süleymanpaşa konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Tokat",
+   "ilce": "",
+   "isim": "Tokat Belediyesi Hıdırlık Sosyal Tesisleri",
+   "adres": "Esentepe, Orhangazi Cd., 60200 Tokat Merkez/Tokat",
+   "aciklama": "Tokat konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "Ortahisar",
+   "isim": "Trabzon büyükşehir belediyesi ayasofya sosyal tesisleri",
+   "adres": "Fatih, E70, Fatih, 61040 Ortahisar/Trabzon",
+   "aciklama": "Trabzon / Ortahisar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "Ortahisar",
+   "isim": "Trabzon Büyükşehir Belediyesi Yalıncak Sosyal Tesisleri",
+   "adres": "Aile Plajı, Yalıncak, 61000 Ortahisar/Trabzon",
+   "aciklama": "Trabzon / Ortahisar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "Ortahisar",
+   "isim": "Trabzon büyükşehir belediyesi sosyal tesisleri",
+   "adres": "İskenderpaşa, Sahil Yolu Cd. NO:7 / A, 61100 Ortahisar/Trabzon",
+   "aciklama": "Trabzon / Ortahisar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "Ortahisar",
+   "isim": "TRABZON BÜYÜK ŞEHİR BELEDİYESİ SOSYÂL TESİSLERİ",
+   "adres": "Kalkınma, 61080 Ortahisar/Trabzon",
+   "aciklama": "Trabzon / Ortahisar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "Yomra",
+   "isim": "Yomra Belediyesi sosyal Tesisi",
+   "adres": "Namıkkemal, E70 Yomra/Trabzon",
+   "aciklama": "Trabzon / Yomra konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "Çaykara",
+   "isim": "Trabzon Büyükşehir Belediyesi Uzungöl Sosyal Tesisleri",
+   "adres": "Uzungöl, 61940 Çaykara/Trabzon",
+   "aciklama": "Trabzon / Çaykara konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "",
+   "isim": "Trabzon Büyükşehir Belediyesi Sosyal Tesisi Kanuni Çayevi",
+   "adres": "Ortahisar, Fatih Cami Sk. No:14, 61030 Trabzon Merkez/Trabzon",
+   "aciklama": "Trabzon konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "",
+   "isim": "Trabzon Büyükşehir Belediyesi Boztepe Sosyal Tesisi",
+   "adres": "Boztepe, Hastane Sk. No:81, 61000 Trabzon Merkez/Trabzon",
+   "aciklama": "Trabzon konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "",
+   "isim": "Ortahisar Belediyesi Sağlıkçılar Parkı Sosyal Tesisleri",
+   "adres": "3 Nolu Erdoğdu, Kuşburnu Sk. No:18, 61040 Trabzon Merkez/Trabzon",
+   "aciklama": "Trabzon konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Trabzon",
+   "ilce": "Ortahisar",
+   "isim": "Trabzon büyükşehir belediyesi seyir kafe",
+   "adres": "Pazarkapı, 61200 Ortahisar/Trabzon",
+   "aciklama": "Trabzon / Ortahisar konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Uşak",
+   "ilce": "",
+   "isim": "Uşak Belediyesi Dörtyol Sosyal Tesisleri",
+   "adres": "Kurtuluş, İsmet Paşa Cd. No:106, 64100 Uşak Merkez/Uşak",
+   "aciklama": "Uşak konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Uşak",
+   "ilce": "",
+   "isim": "Uşak Belediyesi Atapark Sosyal Tesisleri",
+   "adres": "Kemalöz, Atapark Park İçi Yolu, 64200 Uşak Merkez/Uşak",
+   "aciklama": "Uşak konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Uşak",
+   "ilce": "",
+   "isim": "Uşak Belediyesi Sosyal Tesis",
+   "adres": "Yeşil Karaağaç, Gediz Uluyolu Cd No:84, 64000 Uşak Merkez/Uşak",
+   "aciklama": "Uşak konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Yalova",
+   "ilce": "",
+   "isim": "Yalova Kadıköy Belediyesi Seyirtepe Sosyal Tesisleri",
+   "adres": "Gazi İshak, Merkez, Yavru Caddesi No:15, 77210 Kadıköy/Yalova Merkez/Yalova",
+   "aciklama": "Yalova konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Yalova",
+   "ilce": "Çiftlikköy",
+   "isim": "Çiftlikköy Belediyesi Bayraktepe Sosyal Tesisleri",
+   "adres": "Çiftlik, Güney Cd. No:76, 77600 Çiftlikköy/Yalova",
+   "aciklama": "Yalova / Çiftlikköy konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Yalova",
+   "ilce": "Çiftlikköy",
+   "isim": "Çiftlikköy Belediyesi Saklı Bahçe Sosyal Tesisleri",
+   "adres": "Siteler, Baran Sk. No:16, 77600 Çiftlikköy/Yalova",
+   "aciklama": "Yalova / Çiftlikköy konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Yalova",
+   "ilce": "",
+   "isim": "Taşköprü Belediyesi Sosyal Tesisi",
+   "adres": "Taşköprü Yeni, Mimar Sinan Cd. No:4, 77602 Taşköprü/Çiftlikköy/Yalova",
+   "aciklama": "Yalova konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Yozgat",
+   "ilce": "",
+   "isim": "Yozgat Belediye Restoran",
+   "adres": "Develik, 66000 Yozgat Merkez/Yozgat",
+   "aciklama": "Yozgat konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Yozgat",
+   "ilce": "",
+   "isim": "Sosyal Tesis",
+   "adres": "Bilal Şahin, 66100 Yozgat Merkez/Yozgat",
+   "aciklama": "Yozgat konumunda sosyal tesis."
+  },
+  {
+   "il": "Zonguldak",
+   "ilce": "",
+   "isim": "Zonguldak Belediyesi Pembe Köşk Sosyal Tesisleri",
+   "adres": "Çınartepe, Adnan Menderes Blv. No:103, 67100 Zonguldak Merkez/Zonguldak",
+   "aciklama": "Zonguldak konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Zonguldak",
+   "ilce": "",
+   "isim": "Radar Tepe Sosyal Tesis",
+   "adres": "Belediye Sitesi, Karahisar Küme Evler Sk., 67500 Zonguldak Merkez/Zonguldak",
+   "aciklama": "Zonguldak konumunda sosyal tesis. Yeme-içme hizmeti verir."
+  },
+  {
+   "il": "Zonguldak",
+   "ilce": "Kilimli",
+   "isim": "Gültekin Parlak Sosyal Tesisleri",
+   "adres": "Merkez, 67155 Kilimli/Zonguldak",
+   "aciklama": "Zonguldak / Kilimli konumunda sosyal tesis."
+  },
+  {
+   "il": "Zonguldak",
+   "ilce": "",
+   "isim": "ZONGULDAK BELEDİYESİ KAPUZ PLAJI SOSYAL TESİSLERİ OTOPARK",
+   "adres": "Yeşil, Kapuz Cd. No:168, 67030 Zonguldak Merkez/Zonguldak",
+   "aciklama": "Zonguldak konumunda sosyal tesis."
+  },
+  {
+   "il": "Zonguldak",
+   "ilce": "",
+   "isim": "Kılıç Kortu Sosyal Tesisleri",
+   "adres": "Kılıç, Nakış Sk. No:3, 67600 Kozlu/Zonguldak Merkez/Zonguldak",
+   "aciklama": "Zonguldak konumunda sosyal tesis."
+  },
+  {
+   "il": "Zonguldak",
+   "ilce": "Kilimli",
+   "isim": "Kilimli Belediyesi Paflagon Sosyal Tesisleri",
+   "adres": "Hacıoğlu, 67502 Kilimli/Zonguldak",
+   "aciklama": "Zonguldak / Kilimli konumunda sosyal tesis."
+  }
+ ],
+ "temp_closed": [
+  {
+   "il": "Aydın",
+   "isim": "Ada Modern Sanat Galerisi Kafe"
+  },
+  {
+   "il": "Bayburt",
+   "isim": "İmarettepe Sosyal Tesisi"
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Malta Köşkü Sosyal Tesisi"
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Mucur Yeraltı Şehri Sosyal Tesisi"
+  },
+  {
+   "il": "Konya",
+   "isim": "Sille Baraj Parkı Kafe",
+   "not": "kapalı görünüyor, eşleşme zayıf"
+  },
+  {
+   "il": "Ordu",
+   "isim": "Kordon Tepe Yaşam Merkezi",
+   "not": "kapalı görünüyor, eşleşme zayıf"
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Çatak Sosyal Tesisleri"
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Kızılırmak 2 Kıl Çadır Restaurant",
+   "not": "kapalı görünüyor, eşleşme zayıf"
+  }
+ ],
+ "not_found": [
+  {
+   "il": "Adana",
+   "isim": "Adana Büyükşehir Belediyesi Sosyal Tesisleri (ASKİ Atatürk Spor Kompleksi)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Adana",
+   "isim": "Adana Büyükşehir Belediyesi Marina Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Adana",
+   "isim": "Adana Büyükşehir Belediyesi Orman İşletmesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Adana",
+   "isim": "Yüreğir Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.54
+  },
+  {
+   "il": "Adana",
+   "isim": "Asım Savaş Kapalı Yüzme Havuzu ve Spor Kompleksi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Adıyaman",
+   "isim": "Adıyaman Belediyesi Kır Lokantası ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Adıyaman",
+   "isim": "Fortuna Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Adıyaman",
+   "isim": "Altınşehir Sosyal Tesisleri ve Yüzme Havuzu",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Afyonkarahisar",
+   "isim": "Emirdağ Belediyesi Kent Ormanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.54
+  },
+  {
+   "il": "Afyonkarahisar",
+   "isim": "Akdağ Tabiat Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Ağrı",
+   "isim": "Ağrı Belediyesi Kent Evi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Ağrı",
+   "isim": "Patnos Belediyesi Recep Tayyip Erdoğan Parkı Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.32
+  },
+  {
+   "il": "Ağrı",
+   "isim": "İshak Paşa Sarayı Kafeteryası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Ağrı",
+   "isim": "Eleşkirt Belediyesi Yüzen Ada Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Aksaray",
+   "isim": "Kılıçarslan Parkı Sosyal Tesisi (AKMEK)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Aksaray",
+   "isim": "Kent Park Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Aksaray",
+   "isim": "Aksaray Belediyesi Kadın Aktivite Merkezi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Aksaray",
+   "isim": "Terminal Yanı 7/24 Sosyal Tesis",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Aksaray",
+   "isim": "Ihlara Vadisi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Amasya",
+   "isim": "Elma Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Amasya",
+   "isim": "Amasya Belediyesi Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Amasya",
+   "isim": "Macit Zeren Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Amasya",
+   "isim": "Dörtmevsim Sosyal Tesisi (Ziyaret Gölet)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Amasya",
+   "isim": "Suluova Belediyesi Şeker Park Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Amasya",
+   "isim": "Suluova Kent Park Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.11
+  },
+  {
+   "il": "Amasya",
+   "isim": "Şehzade Mustafa Sosyal Tesisi ve Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Amasya",
+   "isim": "Cemil Meriç Engelsiz Hayat Merkezi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Amasya",
+   "isim": "Taşova Belediyesi Alpaslan Mesire Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Ankara",
+   "isim": "50. Yıl Parkı Mavi Göl Kafe ve Restoran",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Ankara",
+   "isim": "BelPa Cafe ve Restaurant (Gazi Park)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Ankara",
+   "isim": "Deniz Dünyası Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Ankara",
+   "isim": "Mavi Göl (Bayındır Barajı) Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Ankara",
+   "isim": "Göksu Parkı Restoran ve Kafeleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Antalya",
+   "isim": "Adalya Vakfı Sosyal Tesisi (Belediye Kamping)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Antalya",
+   "isim": "Atatürk Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.45
+  },
+  {
+   "il": "Antalya",
+   "isim": "Zıp Zıp Park Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.3
+  },
+  {
+   "il": "Antalya",
+   "isim": "Halk Et Restoranı ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Antalya",
+   "isim": "Serik Belediyesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Antalya",
+   "isim": "Alanya Belediyesi Düğün Salonu ve Emine Hacıkura Kütüphanesi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Antalya",
+   "isim": "Tepe Aile Çay Bahçesi ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Ardahan",
+   "isim": "Ardahan Belediyesi Kura Nehri Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.27
+  },
+  {
+   "il": "Ardahan",
+   "isim": "Çıldır Gölü Sosyal Tesisi (Akçakale Ada Restoran)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Ardahan",
+   "isim": "Göle Belediyesi Kent Ormanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.52
+  },
+  {
+   "il": "Ardahan",
+   "isim": "Posof Belediyesi Alabalık Vadisi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.46
+  },
+  {
+   "il": "Artvin",
+   "isim": "Kafkasör Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Artvin",
+   "isim": "Kültür Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Artvin",
+   "isim": "Arhavi Belediyesi Sahil Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Artvin",
+   "isim": "Naime - Servet Usta Sosyal Tesisleri Kitap Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Artvin",
+   "isim": "Efkar Tepesi 15 Temmuz Şehitler Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Aydın",
+   "isim": "Kemalpaşa Mahallesi Kafe ve Parkı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Aydın",
+   "isim": "Söke Belediyesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.15
+  },
+  {
+   "il": "Aydın",
+   "isim": "İsabeyli Sosyal Tesisleri ve Düğün Salonu",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Aydın",
+   "isim": "Didim Altınkum Plajı Halk Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Aydın",
+   "isim": "Amfi Tiyatro Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Aydın",
+   "isim": "2. Koy Halk Plajı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.37
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "BALBUCKS Çamlık",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "BALBUCKS Avlu Yaşam Merkezi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Seyirtepe Kafe Restaurant",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Güre Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.18
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Büyükşehir Belediyesi Sosyal Tesisleri Restoran",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Cunda (Alibey Adası) Arka Deniz Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Cennet Tepesi Sosyal Tesis",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Çamlık Kır Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Ören Plajı Halk Kafe (Burbel A.Ş.)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Gönen Belediyesi Yıldız Termal Otel Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Yağcıbedir Halı Müzesi ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Big Kafe Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "BALBUCKS Bandırma",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Marmara Adası Belediye Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "Marmara Adası Çay Bahçeleri Sahil Yolu",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Balıkesir",
+   "isim": "BALBUCKS Susurluk",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Bartın",
+   "isim": "Bartın Belediyesi Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Bartın",
+   "isim": "Gazhane Kültür Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Bartın",
+   "isim": "Bartın Belediyesi Yalı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Bartın",
+   "isim": "İnkumu Belediyesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.26
+  },
+  {
+   "il": "Bartın",
+   "isim": "Amasra Belediyesi Canlı Balık Restoranı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Bartın",
+   "isim": "Ulus Çayı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Bartın",
+   "isim": "Kurucaşile Belediyesi Liman Kafe ve Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Batman",
+   "isim": "Esentepe Sosyal Tesisi ve Kır Düğün Salonu",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Batman",
+   "isim": "Ahmedi Hani Parkı ve Kafe Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.46
+  },
+  {
+   "il": "Batman",
+   "isim": "Hasankeyf Seyir Terası Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.37
+  },
+  {
+   "il": "Batman",
+   "isim": "Kozluk Kalesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Batman",
+   "isim": "Sason Belediyesi Kanyon Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Bayburt",
+   "isim": "Bayburt Belediyesi Teras Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Bayburt",
+   "isim": "Millet Bahçesi Millet Kıraathanesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Bayburt",
+   "isim": "Kopuz Deresi Mesire Alanı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Bayburt",
+   "isim": "Aydıntepe Yeraltı Şehri Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Bayburt",
+   "isim": "Demirözü Barajı Sosyal Tesisleri ve Yüzen Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Çanakkale",
+   "isim": "Çanakkale Belediyesi Çayevi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Çanakkale",
+   "isim": "Seramik Müzesi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Çanakkale",
+   "isim": "Prof. Dr. Türkan Saylan Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Çanakkale",
+   "isim": "Dardanos Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.31
+  },
+  {
+   "il": "Çanakkale",
+   "isim": "Gelibolu Belediyesi Atatürk Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Çanakkale",
+   "isim": "Biga Belediyesi Ada Restoran ve Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Çanakkale",
+   "isim": "Gökçeada Belediyesi Kaleköy Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Çankırı",
+   "isim": "Çankırı Belediyesi Sosyal Tesisi ve Millet Kıraathanesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.37
+  },
+  {
+   "il": "Çankırı",
+   "isim": "Çankırı Kalesi Cam Teras ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Çankırı",
+   "isim": "Tuz Mağarası Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Çankırı",
+   "isim": "Eldivan Belediyesi Park Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Çankırı",
+   "isim": "Çerkeş Belediyesi Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Çankırı",
+   "isim": "Ilgaz Belediyesi Cendere Park Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Çankırı",
+   "isim": "Ilgaz Belediyesi Ilgaz Dağı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Çorum",
+   "isim": "Velipaşa Konağı Hanımeli Kafe ve Yöresel Mutfağı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.49
+  },
+  {
+   "il": "Çorum",
+   "isim": "Kentpark Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Çorum",
+   "isim": "Çorum Kalesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Çorum",
+   "isim": "Güngörmez Mesire Alanı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Çorum",
+   "isim": "İskilip Belediyesi Yakamoz Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Çorum",
+   "isim": "Boğazkale Belediyesi Hattuşa Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Çorum",
+   "isim": "Alacahöyük Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Çorum",
+   "isim": "Oğuzlar Belediyesi Altınkoz Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Denizli",
+   "isim": "Kent Lokantası - Kaleiçi Çarşısı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Denizli",
+   "isim": "Merkezefendi Kültür Merkezi ve Sanat Galerisi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Denizli",
+   "isim": "Aşağışamlı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Denizli",
+   "isim": "Emekli Evim",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.36
+  },
+  {
+   "il": "Denizli",
+   "isim": "Pamukkale Belediyesi Akpark Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Denizli",
+   "isim": "Kültür Kafeterya - Sosyal Yaşam ve Kültür Merkezi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Denizli",
+   "isim": "Akkale Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Denizli",
+   "isim": "Denizli Teleferik ve Bağbaşı Yaylası Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.68
+  },
+  {
+   "il": "Denizli",
+   "isim": "Acıpayam Belediyesi Gölet Parkı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Denizli",
+   "isim": "Buldan Belediyesi Gölbaşı Parkı Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Denizli",
+   "isim": "Bağlar Mesireliği Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.42
+  },
+  {
+   "il": "Denizli",
+   "isim": "Çardak Belediyesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Fiskaya Sosyal Tesisleri (Ben û Sen)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "DBB Halk Lokantası (Sur Şubesi)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.45
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "DBB Halk Lokantası (Sanat Sokağı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.51
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Bağ Evi Sosyal Tesisi ve Eğitim Merkezi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Zeytin Dalı Spor Kompleksi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Yenişehir Belediyesi Gölet Parkı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Bismil Belediyesi Halk Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Silvan Belediyesi Malabadi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Eğil Kalesi Tekne Turu ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Çermik Kaplıcaları Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Diyarbakır",
+   "isim": "Çüngüş Belediyesi Mağarabaşı Park ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.52
+  },
+  {
+   "il": "Edirne",
+   "isim": "Edirne Belediyesi Mor Ev Kadın Atölyesi ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Edirne",
+   "isim": "Edirne Belediyesi Kitap Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Edirne",
+   "isim": "Edirne Belediyesi Bel-Öğrenci Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Edirne",
+   "isim": "Edirne Belediyesi Sarayiçi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Edirne",
+   "isim": "Atatürk Kültür Merkezi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.52
+  },
+  {
+   "il": "Edirne",
+   "isim": "Bülbül Korusu Mesire Alanı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Edirne",
+   "isim": "İpsala Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.24
+  },
+  {
+   "il": "Edirne",
+   "isim": "Süloğlu Belediyesi Gölet Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.42
+  },
+  {
+   "il": "Edirne",
+   "isim": "Keşan Belediyesi Erikli Sahili Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Belediye Hayvan Hastanesi ve Geçici Bakımevi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Güneykent Sosyalhane Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Harput Cam Seyir Terası ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Cip Mesire Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Hazar Gölü Halk Plajı ve Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Baskil Belediyesi Vagon Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Palu Belediyesi Murat Nehri Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Elazığ",
+   "isim": "Maden Belediyesi Seyir Terası Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Erzincan",
+   "isim": "Esentepe Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Erzincan",
+   "isim": "Tercan Belediyesi Mamahatun Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Erzincan",
+   "isim": "Kemah Belediyesi Bungalov Evler ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Erzincan",
+   "isim": "Halk Lokantası İliç",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Erzincan",
+   "isim": "Kemaliye Belediyesi Kanyon Teras Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Erzurum",
+   "isim": "Erzurum Büyükşehir Belediyesi Sosyal Tesisleri (Tebrizkapı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Erzurum",
+   "isim": "Yakutiye Millet Konağı ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Erzurum",
+   "isim": "Ejder 3200 Dünya Kayak Merkezi Sosyal Tesisleri (Küre Kafe)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Erzurum",
+   "isim": "Palandöken Cafe 25",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Erzurum",
+   "isim": "Ilıca Termal Tesisleri ve Bungalov Evler",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Erzurum",
+   "isim": "Pasinler Belediyesi Kaplıca Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Erzurum",
+   "isim": "İspir Belediyesi Yedigöller Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Erzurum",
+   "isim": "Narman Peribacaları (Kırmızı Periler Diyarı) Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Emek Kafe Halkın Yeri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Kültür & Müze Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.38
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Tepebaşı Belediyesi İki Katlı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Tepebaşı Belediyesi Yaşam Köyü Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Kentpark Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Sazova Bilim, Sanat ve Kültür Parkı Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Sakaryabaşı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Eskişehir",
+   "isim": "Mihalıççık Belediyesi Mesire Alanı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.26
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Gaziantep Mutfak Sanatları Merkezi (MSM) ve Erikçe Mutfak Sanatları Merkezi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Kent Lokantası (Üniversite Hastanesi Karşısı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.39
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Kent Lokantası (Karşıyaka Merkez Camii yanı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.51
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Adil Özberk Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Hz. Yuşa Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Şahinbey Belediyesi Sosyal Tesislerimiz (Akkent, Aydınbaba, Barak, Beybahçe, Hatice Belgin vb.)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.41
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Nizip Karpuzatan Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "İslahiye Kaplıca Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Gaziantep",
+   "isim": "Araban Dumlupınar Mahallesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Giresun",
+   "isim": "Bulancak Belediyesi Sarayburnu Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Giresun",
+   "isim": "Bulancak Belediyesi Akademi Evi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Giresun",
+   "isim": "Şebinkarahisar Belediyesi Çamlı Bahçem Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.31
+  },
+  {
+   "il": "Giresun",
+   "isim": "Piraziz Belediyesi Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Gümüşhane",
+   "isim": "Otağ Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.11
+  },
+  {
+   "il": "Gümüşhane",
+   "isim": "Sema Doğan Yaşam Alanı (Gümüş Kafe)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Gümüşhane",
+   "isim": "Gümüşhane Belediyesi Kent Ormanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Gümüşhane",
+   "isim": "Karaca Mağarası Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Gümüşhane",
+   "isim": "Kürtün Belediyesi Baraj Gölü Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Gümüşhane",
+   "isim": "Kelkit Belediyesi Sosyal Tesisi ve Konukevi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Gümüşhane",
+   "isim": "Köse Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Hakkari",
+   "isim": "Kent Park Seyir Terası Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.68
+  },
+  {
+   "il": "Hakkari",
+   "isim": "Hakkari Belediyesi Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Hakkari",
+   "isim": "Yüksekova Kent Parkı ve Misafirhanesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Hakkari",
+   "isim": "Yüksekova Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Hakkari",
+   "isim": "Çukurca Belediyesi Kale Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.38
+  },
+  {
+   "il": "Hakkari",
+   "isim": "Zap Vadisi Seyir Terası Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Hakkari",
+   "isim": "Derecik Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Hatay",
+   "isim": "Millet Lokantası (Antakya Belediyesi)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Hatay",
+   "isim": "Habib-i Neccar Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Hatay",
+   "isim": "Defne Belediyesi Lions Sosyal Merkezi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Hatay",
+   "isim": "İskenderun Sahil Düzenleme Projesi Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Hatay",
+   "isim": "Dörtyol Belediyesi Karahasan Paşa Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Iğdır",
+   "isim": "Haydar Aliyev Parkı Hazar Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.46
+  },
+  {
+   "il": "Iğdır",
+   "isim": "Aralık Belediyesi Kent Park Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Isparta",
+   "isim": "Kirazlıdere Sosyal Tesisleri (Kirazlıtepe Kafe)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Isparta",
+   "isim": "Atatürk Parkı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Isparta",
+   "isim": "Pelitaltı Spor Alanı ve Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.46
+  },
+  {
+   "il": "Isparta",
+   "isim": "Yeşildere Mesirelik Alanı ve Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "İzmir",
+   "isim": "Kemeraltı Kent Lokantası / Balıkçılar Çarşısı Şubesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "İzmir",
+   "isim": "Kent Restoran",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "İzmir",
+   "isim": "Teleferik Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "İzmir",
+   "isim": "Çiğli Kent Lokantası (Maltepe Mahallesi)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "İzmir",
+   "isim": "Buca Kent Lokantaları",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "İzmir",
+   "isim": "Bayraklı Belediyesi Kent Lokantası / Soğukkuyu Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "İzmir",
+   "isim": "Karabağlar Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "İzmir",
+   "isim": "Tekke Plajı ve Restoranı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "İzmir",
+   "isim": "Güzellik Ilıcası Sosyal Tesisleri (Kleopatra Cafe)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "İzmir",
+   "isim": "Ürkmez Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Topkapı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Haliç Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Kalamış Parkı Khalkedon Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Zafer Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Hidiv Kasrı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Soğuksu Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.52
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Sultanbeyli Gölet Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "İstanbul",
+   "isim": "Büyükçekmece Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Kahramanmaraş",
+   "isim": "Çamlıca Restoran ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Kahramanmaraş",
+   "isim": "EXPO 2023 Rekreasyon Alanı Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Kahramanmaraş",
+   "isim": "Pınarbaşı Mesire Alanı Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Karabük",
+   "isim": "Öğlebeli Seyir Terası ve Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Karabük",
+   "isim": "Kılavuzlar Köyü Mesire Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Karabük",
+   "isim": "Safranbolu Belediye Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Bolu",
+   "isim": "Esentepe Millet Bahçesi Havuzlu Restoran ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Bolu",
+   "isim": "MB Konukevi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Bolu",
+   "isim": "Göynük Belediyesi Spor Kompleksi ve Sağlıklı Yaşam Kulübü",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Bolu",
+   "isim": "Seben Butik Oteli ve Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Karaman",
+   "isim": "Türk Dünyası Kültür Parkı (Seyir Terası)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.75
+  },
+  {
+   "il": "Karaman",
+   "isim": "Karaman Kalesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Karaman",
+   "isim": "İmaret Camii Külliyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Karaman",
+   "isim": "Karaman Mutfağı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Karaman",
+   "isim": "Kırbağı Mesire Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.33
+  },
+  {
+   "il": "Karaman",
+   "isim": "Sarıveliler Kır Düğün Salonu ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Karaman",
+   "isim": "Ermenek Belediyesi Turkuaz Gölü Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.32
+  },
+  {
+   "il": "Karaman",
+   "isim": "Ermenek Belediyesi Çamlıca Mesire Alanı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Kars",
+   "isim": "Kars Kalesi Etekleri Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Kars",
+   "isim": "Kars Belediyesi Kültür Cafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Kars",
+   "isim": "Akyaka Sosyal Tesisleri Restoranı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Kars",
+   "isim": "Selim Ata Sporları Turizm Destinasyon Merkezi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Kars",
+   "isim": "Kağızman Kent Parkı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Kars",
+   "isim": "Digor Mesire Alanı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kars",
+   "isim": "Sarıkamış Belediyesi Telesiyej Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kars",
+   "isim": "Cıbıltepe Kayak Merkezi Kütük Ev Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Kastamonu",
+   "isim": "Kuzeykent Engelsiz Yaşam Merkezi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Kastamonu",
+   "isim": "Karaçomak Mesire Alanı ve Konukevi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Kastamonu",
+   "isim": "Azdavay Belediyesi Cevat Taşkan Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kastamonu",
+   "isim": "Tosya Belediyesi Sosyal Tesisi (Cevizli Park)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Kastamonu",
+   "isim": "Küre Belediyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kastamonu",
+   "isim": "Taşköprü Belediyesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Kastamonu",
+   "isim": "Ilıca Şelalesi Park Ilıca Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Kırıkkale",
+   "isim": "Belediye Sosyal Tesisi (Şehir Kulübü)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.38
+  },
+  {
+   "il": "Kırıkkale",
+   "isim": "Mahalle Konakları ve Kafeleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Kırıkkale",
+   "isim": "Bahşılı Belediyesi Çadır Düğün Salonu ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Kırıkkale",
+   "isim": "Balışeyh Mesire Alanı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kırklareli",
+   "isim": "Kırklareli Belediyesi İktisadi ve Sosyal Tesis İşletmesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Kırklareli",
+   "isim": "Eski Scala Kafe / Sosyal Tesis Projesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.32
+  },
+  {
+   "il": "Kırklareli",
+   "isim": "Vize Kent Parkı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Kırklareli",
+   "isim": "Demirköy Mesire Alanı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.36
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Ağalar Konağı Kültür Evi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Tenis Cafe ve Restoran",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Akpınar Belediyesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Boztepe Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Çiçekdağı Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.68
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Kaman Belediyesi Hirfanlı Baraj Gölü Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Kırşehir",
+   "isim": "Japon Arkeoloji Enstitüsü Kalehöyük Müzesi ve Japon Bahçesi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kilis",
+   "isim": "Kilis Belediyesi İslambey Sosyal Tesisi ve Parkı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Kilis",
+   "isim": "Kilis Belediyesi Millet Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Kilis",
+   "isim": "Hıncal Uluç Dinlenme Evi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kilis",
+   "isim": "Dağ Cafe / 4 Nolu Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.32
+  },
+  {
+   "il": "Kilis",
+   "isim": "Kilis Belediyesi Sosyal Tesisleri (Oylum Köyü)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Kocaeli",
+   "isim": "Gülümse Kafe (Fevziye Kent Lokantası Dahil)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Kocaeli",
+   "isim": "İzmit Körfezi Teras Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.42
+  },
+  {
+   "il": "Kocaeli",
+   "isim": "Tersane Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kocaeli",
+   "isim": "Başiskele Sahil Restoran ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Kocaeli",
+   "isim": "Ormanya Doğal Yaşam Parkı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kocaeli",
+   "isim": "Derince Belediyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Kocaeli",
+   "isim": "Çayırova Belediyesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Konya",
+   "isim": "Ecdat Bahçesi (KAFEM)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Konya",
+   "isim": "Kyoto Japon Parkı (KAFEM)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.45
+  },
+  {
+   "il": "Konya",
+   "isim": "Selçuklu Kanyon Cafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Konya",
+   "isim": "Beyşehir Gölü Vuslat Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.46
+  },
+  {
+   "il": "Konya",
+   "isim": "Nasreddin Hoca Gülmece Parkı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.36
+  },
+  {
+   "il": "Konya",
+   "isim": "Kulu Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kütahya",
+   "isim": "Kütahya Belediyesi Kent Lokantası (Çamlıbahçe ve 30 Ağustos)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Kütahya",
+   "isim": "Germiyan Sokağı Kültür Evi ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Kütahya",
+   "isim": "Kent Ormanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Kütahya",
+   "isim": "Meteoroloji Cafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Kütahya",
+   "isim": "5 Eylül Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.34
+  },
+  {
+   "il": "Malatya",
+   "isim": "Dedekorkut Restaurant (BELSOS)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Malatya",
+   "isim": "Yeşilyurt Belediyesi Barguzu Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Malatya",
+   "isim": "Miğmilı Sosyal Tesisi ve Kahve Konağı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Malatya",
+   "isim": "Tarihi Silahtar Mustafa Paşa Kervansarayı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Malatya",
+   "isim": "Arguvan Belediyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Malatya",
+   "isim": "Kale Belediyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Malatya",
+   "isim": "Doğanyol Belediyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Manisa",
+   "isim": "Yunus Park Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Manisa",
+   "isim": "Millet Kıraathaneleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Manisa",
+   "isim": "Muradiye Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.51
+  },
+  {
+   "il": "Manisa",
+   "isim": "Spil Dağı At Alanı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Manisa",
+   "isim": "Kula Belediyesi Seyir Terası Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Manisa",
+   "isim": "Saruhanlı Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Manisa",
+   "isim": "Kırkağaç Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Mardin",
+   "isim": "Mardin Kalesi Kartal Yuvası Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Mardin",
+   "isim": "Dara Antik Kenti Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Mardin",
+   "isim": "Midyat Konuk Evi (Sıla Konağı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Mardin",
+   "isim": "Nusaybin Belediyesi Spor Kompleksi Kafeteryası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.68
+  },
+  {
+   "il": "Mardin",
+   "isim": "Derik Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.38
+  },
+  {
+   "il": "Mersin",
+   "isim": "Halkkent Çok Amaçlı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Mersin",
+   "isim": "Panayır Kafe ve Tatlılık Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Mersin",
+   "isim": "Mola Evi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Mersin",
+   "isim": "Mezitli Belediyesi Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Mersin",
+   "isim": "Gülbahar Özmen Aktif Yaş Alma Evi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Mersin",
+   "isim": "Erdemli Hal Tesisleri Restoranı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Mersin",
+   "isim": "Erdemli Belediye Lokantası (ERBEL)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Mersin",
+   "isim": "Karaekşi Tabiat Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Mersin",
+   "isim": "Gülnar Belediyesi Kır Düğün Alanı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Mersin",
+   "isim": "AYTUR Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Muğla",
+   "isim": "Menteşe Belediyesi Aşevi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Muğla",
+   "isim": "Köyceğiz Belediyesi Kordon Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Muğla",
+   "isim": "Bördübet Koyu Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Muğla",
+   "isim": "Ölüdeniz Halk Plajı (Belcekız) Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.38
+  },
+  {
+   "il": "Muğla",
+   "isim": "Milas Belediyesi Güllük Halk Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.52
+  },
+  {
+   "il": "Muğla",
+   "isim": "Bitez Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Muğla",
+   "isim": "Datça Belediyesi Kent Park Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Muğla",
+   "isim": "Kavaklıdere Belediyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Muş",
+   "isim": "Peynirci Baba Parkı Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Muş",
+   "isim": "Gündoğdu Mesire Alanı (Kent Ormanı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Muş",
+   "isim": "Aile Yaşam Merkezi ve Parkı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Muş",
+   "isim": "Hasköy Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.36
+  },
+  {
+   "il": "Muş",
+   "isim": "Korkut Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Niğde",
+   "isim": "Kayardı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Niğde",
+   "isim": "Niğde Kalesi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Niğde",
+   "isim": "Nar Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Niğde",
+   "isim": "Gümüşler Manastırı ve Yeraltı Şehri Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Niğde",
+   "isim": "Mehmet Cindemir Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Niğde",
+   "isim": "Tyana Antik Kenti (Kemerhisar) Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Niğde",
+   "isim": "Çiftlik Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Ordu",
+   "isim": "Rıhtım Park Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Ordu",
+   "isim": "Ters Ev Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Ordu",
+   "isim": "Akyazı Plajı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Ordu",
+   "isim": "Çamlıca Tepesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Ordu",
+   "isim": "Kertil Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Ordu",
+   "isim": "Şehit Emir İsmail Mesire Alanı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Ordu",
+   "isim": "Çamaş Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Ordu",
+   "isim": "Çatalpınar Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Ordu",
+   "isim": "İkizce Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Ordu",
+   "isim": "Kabataş Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Ordu",
+   "isim": "Korgan Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Ordu",
+   "isim": "Kumru Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Osmaniye",
+   "isim": "Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Osmaniye",
+   "isim": "Masal Park Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Osmaniye",
+   "isim": "Karaçay Mesire Alanı ve Doğa Park",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Osmaniye",
+   "isim": "Sumbas Çayı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Osmaniye",
+   "isim": "Kültür Merkezi ve Parkı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.35
+  },
+  {
+   "il": "Osmaniye",
+   "isim": "Sumbas Belediyesi Piknik ve Mesire Alanı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Rize",
+   "isim": "Ziraat Botanik Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Rize",
+   "isim": "Taş Konak Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Rize",
+   "isim": "İkizdere Florası Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Rize",
+   "isim": "Çayeli Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Rize",
+   "isim": "Pazar Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Rize",
+   "isim": "Hemşin Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Rize",
+   "isim": "Kalkandere Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Samsun",
+   "isim": "Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Samsun",
+   "isim": "Yeşilırmak Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Samsun",
+   "isim": "Havza Belediyesi Kaplıca Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Samsun",
+   "isim": "Vezirköprü Belediyesi Kunduz Yaylası Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Samsun",
+   "isim": "Alacam Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Samsun",
+   "isim": "Asarcık Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Samsun",
+   "isim": "Kavak Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Samsun",
+   "isim": "Yakakent Belediyesi Sahil Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Samsun",
+   "isim": "Ondokuzmayıs Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.54
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Orman Park",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.45
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Gölpark Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Sapanca Belediyesi Sosyal Tesisleri (Göl Kenarı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Muhammet Fatih Safitürk Sosyal Tesisleri (Seyir Terası)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.68
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Bayraktepe Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Gölpark Sosyal Tesisleri",
+   "ardisik": 2,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Hisar Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Akyazı Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Arifiye Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Sakarya",
+   "isim": "Ferizli Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Siirt",
+   "isim": "Rasıl Hacar (Delikli Taş) Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Siirt",
+   "isim": "Gökçebağ Mesire Alanı (Kent Ormanı) Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Siirt",
+   "isim": "Tillo Kalesi Cam Teras",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Siirt",
+   "isim": "İsmail Fakirullah ve İbrahim Hakkı Hazretleri Külliyesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Siirt",
+   "isim": "Kent Park Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Siirt",
+   "isim": "Baykan Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Siirt",
+   "isim": "Eruh Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Siirt",
+   "isim": "Şirvan Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Sinop",
+   "isim": "Tersane Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Sinop",
+   "isim": "Akliman Mesire Alanı Kır Kahvesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Sinop",
+   "isim": "Boyabat Kalesi Seyir Terası Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Sinop",
+   "isim": "Çamlık Aile Dinlenme Yeri ve Kafeteryası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.44
+  },
+  {
+   "il": "Sinop",
+   "isim": "Ayancık Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Sinop",
+   "isim": "Durağan Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Sivas",
+   "isim": "Millet Bahçesi Millet Kıraathanesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.49
+  },
+  {
+   "il": "Sivas",
+   "isim": "Çaltı Kanyonu Cam Seyir Terası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Sivas",
+   "isim": "Hafik Gölü Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Sivas",
+   "isim": "Aşık Veysel Rekreasyon Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Sivas",
+   "isim": "Suşehri Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Sivas",
+   "isim": "Gemerek Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Sivas",
+   "isim": "Ulaş Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Sivas",
+   "isim": "Altınyayla Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.33
+  },
+  {
+   "il": "Sivas",
+   "isim": "Gölova Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Sivas",
+   "isim": "İmranlı Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Balıklıgöl (Dergah) Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Millet Bahçesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Eski Cezaevi Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.38
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "İnci Su Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Sahil Park Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Siverek Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Suruç Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Şanlıurfa",
+   "isim": "Hilvan Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Millet Bahçesi (Gıtnok)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.46
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Cudi Dağı Sefine Bölgesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.44
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Dicle Sahil Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Mem û Zîn Parkı ve Kültür Evi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Sanat Sokağı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.27
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Park ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Millet Bahçesi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Konuk Evi ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Şırnak",
+   "isim": "İdil Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.51
+  },
+  {
+   "il": "Şırnak",
+   "isim": "Beytüşşebap Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Tekirdağ",
+   "isim": "Kitap Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Tekirdağ",
+   "isim": "Halk Plajı Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Tekirdağ",
+   "isim": "Rekreasyonel ve Sportif Tesis Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Tokat",
+   "isim": "Tokat Kalesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.54
+  },
+  {
+   "il": "Tokat",
+   "isim": "Gıj Gıj Tepesi Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Tokat",
+   "isim": "Tokat Belediyesi Sosyal Tesisleri (Restoran)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.53
+  },
+  {
+   "il": "Tokat",
+   "isim": "Almus Baraj Gölü Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.48
+  },
+  {
+   "il": "Tokat",
+   "isim": "Zinav Kaplıcaları Termal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Trabzon",
+   "isim": "Boztepe Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Trabzon",
+   "isim": "Botanik Parkı Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Trabzon",
+   "isim": "Ekopark Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Trabzon",
+   "isim": "Sümela Manastırı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Trabzon",
+   "isim": "Bayrak Kafe Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Trabzon",
+   "isim": "Arsin Belediyesi Sahil Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Tunceli",
+   "isim": "Tunceli Belediyesi Konuk Evi ve Restoranı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Tunceli",
+   "isim": "Yeraltı Çarşısı Üstü Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Tunceli",
+   "isim": "Göl Kenarı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Tunceli",
+   "isim": "Yüzen Ada Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Tunceli",
+   "isim": "Konukevi ve Sosyal Tesis",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Uşak",
+   "isim": "Atapark Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Uşak",
+   "isim": "Çamlık Mesire Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Uşak",
+   "isim": "Hamamboğazı Termal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.68
+  },
+  {
+   "il": "Uşak",
+   "isim": "Eşmespor Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.52
+  },
+  {
+   "il": "Uşak",
+   "isim": "Sivaslı Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Van",
+   "isim": "Van Kalesi Atatürk Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Van",
+   "isim": "Kız Kalesi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Van",
+   "isim": "Kent Meydanı ve Sahil Bandı Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Van",
+   "isim": "Van Sahil Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.72
+  },
+  {
+   "il": "Van",
+   "isim": "Bahçesaray Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Van",
+   "isim": "Çatak Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Van",
+   "isim": "Özalp Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Van",
+   "isim": "Saray Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Yalova",
+   "isim": "Mavi Yeşil Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Yalova",
+   "isim": "Hasanbaba Mesire Alanı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Yalova",
+   "isim": "Bayraktepe Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Yalova",
+   "isim": "Bayraktepe Sosyal Tesisleri",
+   "ardisik": 2,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Yalova",
+   "isim": "Atatürk Köşkü Sosyal Alanları",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Yalova",
+   "isim": "Hersek Lagünü Doğa Eğitim Merkezi ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.68
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Şahin Tepesi Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Çamlık Milli Parkı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Roma Hamamı (Basilica Therma) Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.49
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Lavanta Adası ve Rafting Parkuru Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Yerköy Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Çalılıtepe Mesire Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.11
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Çandır Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Yozgat",
+   "isim": "Yenifakılı Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.52
+  },
+  {
+   "il": "Mardin",
+   "isim": "Yeşilli Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Tarihi Kayseri Kalesi Kültür Sanat Merkezi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Sofra Melikgazi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Dört Mevsim Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Selçuklu Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.34
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Harikalar Diyarı Sukay Tesisleri Cafe & Restaurant",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Tarihi Kiçiköy Meydanı Kültür Evi ve Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.42
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Talas Paraşüt İniş Alanı Yamaç Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Gökkent Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Kayseri",
+   "isim": "İldem Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.5
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Kocasinan Sosyal Tesisleri Kuşçu Marina",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.58
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Kaytur Kafe (Fuar Kültür Parkı)",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.49
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Tınaztepe Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Kayseri",
+   "isim": "Bünyan Pınarbaşı Mesire Alanı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.56
+  },
+  {
+   "il": "Düzce",
+   "isim": "Hilal Tepe Mesire Alanı ve Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Düzce",
+   "isim": "Kültür Park Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "NevMekan Cafe-Restaurant",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.59
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Paşa Konağı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Nevşehir Belediyesi Kayaşehir Seyir Terası Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.66
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Ürgüp Belediyesi Şehir Hamamı Altı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Göreme Belediyesi Aşıklar Tepesi (Sunset Point) Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Cevizli Bağ Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.43
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Hacıbektaş Belediyesi Kültür Merkezi ve Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Sadabat Parkı Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Nevşehir",
+   "isim": "Derinkuyu Yeraltı Şehri Çıkışı Belediye Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.6
+  },
+  {
+   "il": "Düzce",
+   "isim": "Akçakoca Bey Konakları & Han Restoran",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.21
+  },
+  {
+   "il": "Düzce",
+   "isim": "Ceneviz Kalesi Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.7
+  },
+  {
+   "il": "Zonguldak",
+   "isim": "Anne Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.33
+  },
+  {
+   "il": "Zonguldak",
+   "isim": "Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.44
+  },
+  {
+   "il": "Zonguldak",
+   "isim": "Halk Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.32
+  },
+  {
+   "il": "Zonguldak",
+   "isim": "Filyos Ecopark Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.61
+  },
+  {
+   "il": "Zonguldak",
+   "isim": "Kilimli Belediyesi Aile Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  },
+  {
+   "il": "Muş",
+   "isim": "Muş Belediyesi Şehit Polis Murat Yılmaz Sosyal Tesis Kompleksi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.49
+  },
+  {
+   "il": "Muş",
+   "isim": "Bulanık Belediyesi Haçlı Gölü Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.71
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Kervansaray Halk Plajı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Glapsides Halk Plajı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Makenzi Halk Plajı Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Lefkoşa Belediye Pazarı (Bandabuliya) Kafe",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Kapalı Maraş Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Beylerbeyi (Bellapais) Köy Konağı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Güzelyurt Festival Parkı Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Kıbrıs",
+   "isim": "Gemikonağı Sahil Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Bilecik",
+   "isim": "Bilecik Belediyesi Atatürk Parkı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.65
+  },
+  {
+   "il": "Bilecik",
+   "isim": "Bilecik Belediyesi Soğuksu Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.47
+  },
+  {
+   "il": "Bilecik",
+   "isim": "Bilecik Belediyesi Vadipark Sosyal Tesisleri",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Bilecik",
+   "isim": "Bozüyük Belediyesi Halkın Sofrası Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.62
+  },
+  {
+   "il": "Bingöl",
+   "isim": "Bingöl Belediyesi Kentpark",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.0
+  },
+  {
+   "il": "Bingöl",
+   "isim": "Bingöl Belediyesi Sosyal Yaşam Merkezi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Burdur",
+   "isim": "Bucak Belediyesi Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Burdur",
+   "isim": "Bucak Belediyesi İncirhan Mesire ve Piknik Alanı",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.55
+  },
+  {
+   "il": "Burdur",
+   "isim": "Burdur Belediyesi Kent Lokantası Sanayi Şubesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Burdur",
+   "isim": "Burdur Belediyesi İstasyon Park Restoran ve Çay Bahçesi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Burdur",
+   "isim": "Burdur Belediyesi Şehir Kulübü Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.69
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ B Kafe Ataevler",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.11
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ B Kafe Balkan",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.73
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ B Kafe Emek",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.46
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ B Kafe Merinos AKM",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.28
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ BUSKİ Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ Doburca Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.57
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ Gölpark Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.67
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ Uludağ Sosyal Tesisi",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.63
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ B Kafe Yeşil",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.4
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ B Kafe Yiğitler",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.64
+  },
+  {
+   "il": "Bursa",
+   "isim": "BURFAŞ Vatan Kent Lokantası",
+   "ardisik": 1,
+   "en_iyi_benzerlik": 0.74
+  }
+ ]
+}
