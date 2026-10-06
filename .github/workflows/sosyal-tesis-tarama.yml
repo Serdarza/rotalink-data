@@ -1,0 +1,69 @@
+name: 3 aylık belediye sosyal tesis taraması
+
+on:
+  schedule:
+    - cron: "0 3 1 1,4,7,10 *"   # Ocak/Nisan/Temmuz/Ekim 1'i 03:00 UTC = 06:00 Türkiye
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY RUN (master_database_updated.json'a yazmaz)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rotalink-data-write
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+      GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıklar
+        run: pip install "requests>=2.31" "pytest>=8.0"
+
+      - name: Testler
+        run: python -m pytest sosyal_monitor/tests -q
+
+      - name: Tarama
+        run: python sosyal_monitor/monitor.py
+
+      - name: JSON sözdizimi
+        run: python -c "import json; d=json.load(open('master_database_updated.json', encoding='utf-8')); assert isinstance(d.get('sosyal'), list) and d['sosyal']"
+
+      - name: Rapor artefaktı
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sosyal-tesis-raporu-${{ github.run_number }}
+          path: sosyal_monitor/reports/
+          if-no-files-found: ignore
+
+      - name: Commit ve push (canlı modda ve değişiklik varsa)
+        if: env.DRY_RUN != 'true'
+        run: |
+          git config user.name "rotalink-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in master_database_updated.json sosyal_monitor/state.json sosyal_monitor/kaldirilanlar.json sosyal_monitor/reports; do
+            if [ -e "$p" ]; then git add "$p"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok, commit atılmadı."
+            exit 0
+          fi
+          git commit -m "chore: quarterly municipal social facility update"
+          git pull --rebase origin main
+          git push origin HEAD:main
