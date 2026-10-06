@@ -115,7 +115,21 @@ def canonical_ilce(il: str, raw: str) -> str:
 
 
 def ilce_from_address(il: str, address: str) -> str:
-    """'..., 01170 Çukurova/Adana, Türkiye' → 'Çukurova' (resmi listede varsa)."""
+    """'..., 01170 Çukurova/Adana, Türkiye' → 'Çukurova' (resmi listede varsa).
+
+    'Ihlara/Güzelyurt/Aksaray' → 'Güzelyurt'; 'Aksaray Merkez/Aksaray' → 'Merkez'
+    yalnız ilin resmi Merkez ilçesi varsa (Trabzon gibi illerde boş kalır).
+    """
+    for seg in (address or "").split(","):
+        parts = [p.strip() for p in seg.split("/")]
+        if len(parts) < 2 or fold(parts[-1]) != fold(il):
+            continue
+        cand = re.sub(r"^\d+\s*", "", parts[-2])
+        hit = canonical_ilce(il, cand)
+        if hit:
+            return hit
+        if fold(cand) == f"{fold(il)} merkez" and "Merkez" in (IL_ILCE.get(il) or []):
+            return "Merkez"
     for m in re.finditer(r"([^,/\d]+)/\s*([^,]+)", address or ""):
         if fold(m.group(2)) == fold(il):
             return canonical_ilce(il, m.group(1).strip())

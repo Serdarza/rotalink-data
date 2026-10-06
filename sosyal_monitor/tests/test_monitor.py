@@ -97,6 +97,16 @@ def test_ilce_from_address(monkeypatch):
     assert monitor.ilce_from_address("Adana", "Kurttepe, 01170 Adana") == ""
 
 
+def test_ilce_from_address_merkez_and_nested(monkeypatch):
+    monkeypatch.setattr(monitor, "IL_ILCE", {
+        "Aksaray": ["Güzelyurt", "Merkez"],
+        "Trabzon": ["Ortahisar"],
+    })
+    assert monitor.ilce_from_address("Aksaray", "Taşpazar, 68100 Aksaray Merkez/Aksaray") == "Merkez"
+    assert monitor.ilce_from_address("Aksaray", "Kayaardı, 68502 Ihlara/Güzelyurt/Aksaray") == "Güzelyurt"
+    assert monitor.ilce_from_address("Trabzon", "61030 Trabzon Merkez/Trabzon") == ""
+
+
 def test_only_municipal_names_are_added(monkeypatch):
     monkeypatch.setattr(monitor, "IL_ILCE", {"Ankara": ["Çankaya", "Gölbaşı"]})
     client = FakeClient({
