@@ -97,6 +97,44 @@ def test_ilce_from_address(monkeypatch):
     assert monitor.ilce_from_address("Adana", "Kurttepe, 01170 Adana") == ""
 
 
+def test_only_municipal_names_are_added(monkeypatch):
+    monkeypatch.setattr(monitor, "IL_ILCE", {"Ankara": ["Çankaya", "Gölbaşı"]})
+    client = FakeClient({
+        "Ankara belediyesi sosyal tesisleri": [
+            place("m", "ÇANKAYA BELEDİYESİ SOSYAL TESİSLERİ", "Çankaya/Ankara, Türkiye"),
+            place("r", "Eserkent Sosyal Tesisleri", "Çankaya/Ankara, Türkiye"),
+            place("x1", "TBMM Beşevler Sosyal Tesisleri", "Çankaya/Ankara, Türkiye"),
+            place("x2", "Teiaş Gölbaşı Sosyal Tesisleri İşletme Müdürlüğü", "Gölbaşı/Ankara, Türkiye"),
+            place("x3", "Altındağ belediyesi yüzme havuzu ve sosyal tesisleri", "Altındağ/Ankara, Türkiye"),
+        ],
+    })
+    plan = monitor.plan_changes([], {}, client)
+    assert [r["isim"] for r in plan["added"]] == ["ÇANKAYA BELEDİYESİ SOSYAL TESİSLERİ"]
+    assert [r["isim"] for r in plan["review"]] == ["Eserkent Sosyal Tesisleri"]
+
+
+def test_closed_entry_with_open_twin_is_not_removed(monkeypatch):
+    monkeypatch.setattr(monitor, "IL_ILCE", {"Düzce": ["Merkez"]})
+    client = FakeClient({
+        "Düzce Belediyesi Sosyal Tesisleri Düzce": [
+            place("old", "Düzce Belediyesi Sosyal Tesisleri", "Merkez/Düzce, Türkiye", "CLOSED_PERMANENTLY"),
+            place("new", "Düzce Belediyesi Sosyal Tesisi", "Merkez/Düzce, Türkiye"),
+        ],
+    })
+    plan = monitor.plan_changes(SOSYAL[:1], {}, client)
+    assert plan["remove"] == []
+    assert "açık tesis" in plan["temp_closed"][0]["not"]
+
+
+def test_first_run_allows_larger_initial_batch():
+    client = FakeClient({})
+    plan = {"remove": [], "added": [{}] * 300}
+    assert monitor.safety_check(plan, 1000, client) is not None
+    assert monitor.safety_check(plan, 1000, client, first_run=True) is None
+    plan = {"remove": [], "added": [{}] * (monitor.MAX_ADD_FIRST + 1)}
+    assert monitor.safety_check(plan, 1000, client, first_run=True) is not None
+
+
 def test_call_budget_monthly_and_per_run():
     assert monitor.call_budget({}, "2026-10") == (monitor.MAX_CALLS_PER_RUN, 0)
     state = {"aylik_cagri": {"2026-10": 3000}}

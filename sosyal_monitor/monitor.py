@@ -37,6 +37,8 @@ DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
 MAX_REMOVE_RATIO = 0.05
 MIN_REMOVE_CAP = 5
 MAX_ADD = 150
+# İlk başarılı taramada (state.json'da son_tarama yok) birikmiş eksikler bir defalık eklenir.
+MAX_ADD_FIRST = 600
 MAX_ERROR_RATIO = 0.2
 MATCH_MIN = 0.75
 REMOVE_MIN = 0.9
@@ -57,9 +59,16 @@ _NAME_OK = re.compile(r"sosyal tesis|belediye", re.I)
 _NAME_SERVICE = re.compile(r"sosyal tesis|kafe|cafe|restoran|lokanta|kır|çay bahçesi|tesis|mesire", re.I)
 # Kamu kurumlarının tesisleri belediye sosyal tesisi değildir; konaklama verisinde ayrı tutulur.
 _NAME_EXCLUDE = re.compile(
-    r"polis|emniyet|jandarma|ordu ?evi|asker|garnizon|öğretmen|ogretmen|dsi\b|tcdd|karayolları|"
-    r"ptt|valilik|üniversite|universite|hastane|okul|cami|belediye başkanlığı|belediyesi$|"
-    r"hizmet binası|zabıta|itfaiye",
+    r"polis|emniyet|jandarma|ordu ?evi|asker|garnizon|hava kuvvet|kara kuvvet|deniz kuvvet|"
+    r"öğretmen|ogretmen|dsi\b|dsİ\b|tcdd|karayolları|ptt|valilik|üniversite|universite|hastane|"
+    r"okul|cami|belediye başkanlığı|belediyesi$|hizmet binası|zabıta|itfaiye|müdürlüğü|"
+    r"tbmm|merkez bankas|iller bankas|teiaş|tedaş|botaş|tüpraş|tapu|takav|il özel idaresi|"
+    r"odası|\bjmo\b|vakf|sendika|kooperatif|spor|düğün|nikah|salon|havuz|tır ?park",
+    re.I,
+)
+# Otomatik ekleme yalnız belediyeye ait olduğu adından belli olan yerler için.
+_NAME_MUNICIPAL = re.compile(
+    r"belediye|büyükşehir|buyuksehir|\bbld\b|\bbel\.|\babb\b|\bibb\b|beltur|belpa|burfaş|buski|kaytur",
     re.I,
 )
 _TYPE_EXCLUDE = {"city_hall", "local_government_office", "courthouse", "police", "school", "mosque"}
@@ -172,6 +181,18 @@ def best_match(record: dict, places: list[dict]) -> tuple[dict | None, float]:
     return (best, best_score) if best_score >= MATCH_MIN else (None, best_score)
 
 
+def has_open_twin(record: dict, places: list[dict], closed: dict) -> bool:
+    """Aynı ilde aynı adla açık başka bir yer varsa kapanan kayıt eski bir Google girdisi olabilir."""
+    for p in places:
+        if p is closed or p.get("businessStatus") != "OPERATIONAL":
+            continue
+        if not address_has_il(p.get("formattedAddress", ""), record.get("il", "")):
+            continue
+        if similarity(record.get("isim", ""), display_name(p)) >= MATCH_MIN:
+            return True
+    return False
+
+
 def is_candidate(place: dict, il: str) -> bool:
     name = display_name(place)
     if place.get("businessStatus") not in (None, "OPERATIONAL"):
@@ -181,6 +202,10 @@ def is_candidate(place: dict, il: str) -> bool:
     if _NAME_EXCLUDE.search(name) or set(place.get("types") or []) & _TYPE_EXCLUDE:
         return False
     return bool(_NAME_OK.search(name) and _NAME_SERVICE.search(name))
+
+
+def is_municipal(place: dict) -> bool:
+    return bool(_NAME_MUNICIPAL.search(display_name(place)))
 
 
 def new_record(place: dict, il: str) -> dict:
@@ -204,7 +229,7 @@ def plan_changes(sosyal: list[dict], state: dict, client) -> dict:
     """Mevcut kayıtları kontrol eder, yeni adayları bulur; listeyi değiştirmez."""
     place_ids: dict = state.setdefault("place_ids", {})
     misses: dict = state.setdefault("misses", {})
-    remove, temp_closed, not_found, added = [], [], [], []
+    remove, temp_closed, not_found, added, review = [], [], [], [], []
 
     for i, rec in enumerate(sosyal, 1):
         il, isim = rec.get("il", ""), rec.get("isim", "")
@@ -225,6 +250,8 @@ def plan_changes(sosyal: list[dict], state: dict, client) -> dict:
         status = match.get("businessStatus")
         if status == "CLOSED_PERMANENTLY" and score < REMOVE_MIN:
             temp_closed.append({"il": il, "isim": isim, "not": "kapalı görünüyor, eşleşme zayıf"})
+        elif status == "CLOSED_PERMANENTLY" and has_open_twin(rec, places, match):
+            temp_closed.append({"il": il, "isim": isim, "not": "kapalı girdi var ama aynı adla açık tesis de var"})
         elif status == "CLOSED_PERMANENTLY":
             remove.append({"kayit": rec, "google_ad": display_name(match), "benzerlik": round(score, 2)})
         elif status == "CLOSED_TEMPORARILY":
@@ -255,24 +282,31 @@ def plan_changes(sosyal: list[dict], state: dict, client) -> dict:
                     if any(similarity(name, e) >= DUP_MIN for e in existing):
                         continue
                     rec = new_record(p, il)
-                    added.append(rec)
+                    (added if is_municipal(p) else review).append(rec)
                     existing.append(name)
                     known_ids.add(p["id"])
                     place_ids[record_key(il, name)] = p["id"]
                 if not token:
                     break
 
-    return {"remove": remove, "temp_closed": temp_closed, "not_found": not_found, "added": added}
+    return {
+        "remove": remove,
+        "temp_closed": temp_closed,
+        "not_found": not_found,
+        "added": added,
+        "review": review,
+    }
 
 
-def safety_check(plan: dict, total: int, client) -> str | None:
+def safety_check(plan: dict, total: int, client, first_run: bool = False) -> str | None:
     if client.calls and client.errors / client.calls > MAX_ERROR_RATIO:
         return f"API hata oranı yüksek ({client.errors}/{client.calls})"
     cap = max(MIN_REMOVE_CAP, int(total * MAX_REMOVE_RATIO))
     if len(plan["remove"]) > cap:
         return f"Çıkarılacak tesis sayısı güvenlik eşiğini aşıyor ({len(plan['remove'])} > {cap})"
-    if len(plan["added"]) > MAX_ADD:
-        return f"Eklenecek tesis sayısı güvenlik eşiğini aşıyor ({len(plan['added'])} > {MAX_ADD})"
+    max_add = MAX_ADD_FIRST if first_run else MAX_ADD
+    if len(plan["added"]) > max_add:
+        return f"Eklenecek tesis sayısı güvenlik eşiğini aşıyor ({len(plan['added'])} > {max_add})"
     return None
 
 
@@ -298,7 +332,7 @@ def write_report(today: str, plan: dict | None, applied: bool, note: str, calls:
         "uygulandi": applied,
         "not": note,
         "api_cagrisi": calls,
-        **({k: plan[k] for k in ("remove", "added", "temp_closed", "not_found")} if plan else {}),
+        **({k: plan.get(k, []) for k in ("remove", "added", "review", "temp_closed", "not_found")} if plan else {}),
     }
     write_json(REPORTS / f"{today}.json", report, indent=1)
     lines = [f"# Sosyal tesis taraması — {today}", "", f"- Uygulandı: {'evet' if applied else 'hayır'}", f"- Not: {note}"]
@@ -306,6 +340,7 @@ def write_report(today: str, plan: dict | None, applied: bool, note: str, calls:
         lines += [
             f"- Kalıcı kapandığı için çıkarılan: {len(plan['remove'])}",
             f"- Yeni eklenen: {len(plan['added'])}",
+            f"- Adında belediye geçmediği için eklenmeyen (incelenecek): {len(plan.get('review', []))}",
             f"- Geçici kapalı (dokunulmadı): {len(plan['temp_closed'])}",
             f"- Google'da bulunamayan (dokunulmadı): {len(plan['not_found'])}",
             "",
@@ -314,6 +349,8 @@ def write_report(today: str, plan: dict | None, applied: bool, note: str, calls:
             lines += ["## Çıkarılanlar", *[f"- {r['kayit']['il']} — {r['kayit']['isim']}" for r in plan["remove"]], ""]
         if plan["added"]:
             lines += ["## Eklenenler", *[f"- {r['il']} — {r['isim']} ({r['adres']})" for r in plan["added"]], ""]
+        if plan.get("review"):
+            lines += ["## İncelenecek (eklenmedi)", *[f"- {r['il']} — {r['isim']} ({r['adres']})" for r in plan["review"]], ""]
     (REPORTS / f"{today}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("\n".join(lines))
 
@@ -384,7 +421,7 @@ def main() -> int:
         record_usage_only(month, client.calls)
         raise
 
-    problem = safety_check(plan, len(sosyal), client)
+    problem = safety_check(plan, len(sosyal), client, first_run="son_tarama" not in state)
     if problem or DRY_RUN:
         record_usage_only(month, client.calls)
         write_report(today, plan, False, problem or "DRY RUN", client.calls)
