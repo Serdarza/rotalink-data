@@ -1,0 +1,78 @@
+name: Aylık sosyal tesis menü taraması
+
+on:
+  schedule:
+    - cron: "0 4 5 * *"   # her ayın 5'i 04:00 UTC = 07:00 Türkiye
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY RUN (sosyal_menuler.json'a yazmaz)"
+        type: boolean
+        default: true
+      only_il:
+        description: "Yalnız bu iller (virgülle; boş = hepsi)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rotalink-data-write
+  cancel-in-progress: false
+
+jobs:
+  tarama:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    env:
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+      # Kullanıcı girdisi yalnız ortam değişkeni olarak aktarılır; betik içine gömülmez.
+      MENU_ONLY_IL: ${{ github.event_name == 'workflow_dispatch' && inputs.only_il || '' }}
+      MENU_TIME_BUDGET_MIN: "290"
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: price_research/requirements.txt
+
+      - name: Bağımlılıklar
+        run: pip install -r price_research/requirements.txt pytest
+
+      - name: Testler
+        run: python -m pytest sosyal_menu/tests -q
+
+      - name: Resmî belediye sitelerinde menü taraması
+        run: python sosyal_menu/menu.py
+
+      - name: JSON sözdizimi
+        run: |
+          python -c "import json, pathlib; [json.loads(pathlib.Path(p).read_text(encoding='utf-8')) for p in ('sosyal_menuler.json', 'sosyal_menu/state.json') if pathlib.Path(p).exists()]"
+
+      - name: Rapor artefaktı
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sosyal-menu-raporu-${{ github.run_number }}
+          path: sosyal_menu/reports/
+          if-no-files-found: ignore
+
+      - name: Commit ve push (yalnızca canlı modda ve değişiklik varsa)
+        if: env.DRY_RUN != 'true'
+        run: |
+          git config user.name "rotalink-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in sosyal_menuler.json sosyal_menu/state.json; do
+            if [ -e "$p" ]; then git add "$p"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok, commit atılmadı."
+            exit 0
+          fi
+          git commit -m "chore: monthly social facility menu update"
+          git pull --rebase origin main
+          git push origin HEAD:main

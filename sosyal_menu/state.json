@@ -1,0 +1,94 @@
+{
+ "alanlar": {
+  "Ordu|": {
+   "alan": "ordu.bel.tr"
+  },
+  "Ordu|Akkuş": {
+   "alan": "akkus.bel.tr"
+  },
+  "Ordu|Altınordu": {
+   "alan": "altinordu.bel.tr"
+  },
+  "Ordu|Aybastı": {
+   "alan": "aybasti.bel.tr"
+  },
+  "Ordu|Fatsa": {
+   "alan": "fatsa.bel.tr"
+  },
+  "Ordu|Gölköy": {
+   "alan": "golkoy.bel.tr"
+  },
+  "Ordu|Gülyalı": {
+   "alan": "gulyali.bel.tr"
+  },
+  "Ordu|Gürgentepe": {
+   "alan": "gurgentepe.bel.tr"
+  },
+  "Ordu|Kabadüz": {
+   "alan": "kabaduz.bel.tr"
+  },
+  "Ordu|Kabataş": {
+   "alan": "kabatas.bel.tr"
+  },
+  "Ordu|Korgan": {
+   "alan": "korgan.bel.tr"
+  },
+  "Ordu|Kumru": {
+   "alan": "kumru.bel.tr"
+  },
+  "Ordu|Mesudiye": {
+   "alan": "mesudiye.bel.tr"
+  },
+  "Ordu|Perşembe": {
+   "alan": "persembe.bel.tr"
+  },
+  "Ordu|Çatalpınar": {
+   "alan": "catalpinar.bel.tr"
+  },
+  "Ordu|Çaybaşı": {
+   "alan": "caybasi.bel.tr"
+  },
+  "Ordu|Ünye": {
+   "alan": "unye.bel.tr"
+  },
+  "Ordu|İkizce": {
+   "alan": "ikizce.bel.tr"
+  },
+  "İstanbul|": {
+   "alan": "tesislerimiz.ibb.istanbul"
+  },
+  "İstanbul|Ataşehir": {
+   "alan": "atasehir.bel.tr"
+  },
+  "İstanbul|Avcılar": {
+   "alan": "avcilar.bel.tr"
+  },
+  "İstanbul|Beykoz": {
+   "alan": "beykoz.bel.tr"
+  },
+  "İstanbul|Fatih": {
+   "alan": "fatih.bel.tr"
+  },
+  "İstanbul|Kadıköy": {
+   "alan": "kadikoy.bel.tr"
+  },
+  "İstanbul|Kartal": {
+   "alan": "kartal.bel.tr"
+  },
+  "İstanbul|Küçükçekmece": {
+   "alan": "kucukcekmece.bel.tr"
+  },
+  "İstanbul|Sultangazi": {
+   "alan": "sultangazi.bel.tr"
+  },
+  "İstanbul|Çekmeköy": {
+   "alan": "cekmekoy.bel.tr"
+  },
+  "İstanbul|Ümraniye": {
+   "alan": "umraniye.bel.tr"
+  },
+  "İstanbul|Üsküdar": {
+   "alan": "uskudar.bel.tr"
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "not": "Belediye sosyal tesisi menü taraması ayarları. ek_resmi_alanlar: .bel.tr / .gov.tr dışındaki onaylı belediye alan adları. alan_adi: otomatik tahmin (ad.bel.tr) yerine kullanılacak siteler; anahtar 'il|' büyükşehir, 'il|ilçe' ilçe belediyesi. takma_adlar: tesis adında belediye adı yerine geçen kısaltmalar.",
+  "ek_resmi_alanlar": ["ibb.istanbul", "beltur.istanbul"],
+  "alan_adi": {
+    "İstanbul|": ["tesislerimiz.ibb.istanbul", "ibb.istanbul"]
+  },
+  "takma_adlar": {
+    "ibb": "İstanbul",
+    "beltur": "İstanbul",
+    "abb": "Ankara",
+    "belpa": "Ankara"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "not": "Belediye sosyal tesislerinin kendi resmî sitelerinde yayımlanan yeme-içme fiyatları. Aylık otomatik tarama (sosyal_menu/menu.py). kapsam: 'tesis' = tesisin kendi menüsü, 'belediye' = belediyenin sosyal tesisler için genel fiyat tarifesi.",
+  "guncelleme": "2026-10-07",
+  "items": [
+    {
+      "il": "Ordu",
+      "isim": "Ordu Büyükşehir Belediyesi İktisadi ve Sosyal Tesisler İşletmesi İktisadi İşletmesi",
+      "kapsam": "belediye",
+      "kaynak": "https://ordu.bel.tr/upload/files/2025-ucret-tarifesi/2025-ucret-tarifesi_8038.pdf",
+      "kaynak_adi": "Ordu Belediyesi",
+      "belge": "BÜTÇE İÇİ İKTİSADİ VE SOSYAL TESİSİ İŞLETMECİLİĞİ GELİR TARİFESİ Görüntüle",
+      "yil": 2026,
+      "kategoriler": [
+        {
+          "ad": "Kahvaltı",
+          "urunler": [
+            {
+              "ad": "Kahvaltı tabağı (tek kişilik )",
+              "fiyat": 350.0
+            },
+            {
+              "ad": "Serpme kahvaltı (2 pax)",
+              "fiyat": 750.0
+            },
+            {
+              "ad": "Menemen duble",
+              "fiyat": 180.0
+            },
+            {
+              "ad": "Menemen kaşarlı",
+              "fiyat": 150.0
+            },
+            {
+              "ad": "Menemen",
+              "fiyat": 130.0
+            },
+            {
+              "ad": "Kuymak",
+              "fiyat": 180.0
+            },
+            {
+              "ad": "Sahanda yumurta",
+              "fiyat": 50.0
+            },
+            {
+              "ad": "Sucuklu yumurta",
+              "fiyat": 125.0
+            },
+            {
+              "ad": "Omlet sade",
+              "fiyat": 130.0
+            },
+            {
+              "ad": "Omlet peynirli",
+              "fiyat": 150.0
+            },
+            {
+              "ad": "Omlet sebzeli",
+              "fiyat": 130.0
+            },
+            {
+              "ad": "Omlet sucuklu",
+              "fiyat": 150.0
+            },
+            {
+              "ad": "Omlet karışık",
+              "fiyat": 130.0
+            },
+            {
+              "ad": "Sahanda sucuk",
+              "fiyat": 90.0
+            },
+            {
+              "ad": "Tereyağlı karides",
+              "fiyat": 340.0
+            }
+          ]
+        },
+        {
+          "ad": "Çorbalar",
+          "urunler": [
+            {
+              "ad": "Balık çorbası",
+              "fiyat": 130.0
+            }
+          ]
+        },
+        {
+          "ad": "Ana yemekler",
+          "urunler": [
+            {
+              "ad": "Yemek menü 1",
+              "fiyat": 180.0
+            },
+            {
+              "ad": "Yemek menü 2",
+              "fiyat": 280.0
+            },
+            {
+              "ad": "Yemek menü 3",
+              "fiyat": 500.0
+            },
+            {
+              "ad": "Hellim ızgara",
+              "fiyat": 100.0
+            },
+            {
+              "ad": "Cajun tavuk",
+              "fiyat": 220.0
+            },
+            {
+              "ad": "Köfte ızgara",
+              "fiyat": 380.0
+            },
+            {
+              "ad": "Tavuk ızgara",
+              "fiyat": 360.0
+            },
+            {
+              "ad": "Hamburger",
+              "fiyat": 250.0
+            },
+            {
+              "ad": "Çizburger",
+              "fiyat": 250.0
+            },
+            {
+              "ad": "Balık şinitzel",
+              "fiyat": 320.0
+            },
+            {
+              "ad": "Levrek buğulama",
+              "fiyat": 360.0
+            },
+            {
+              "ad": "Çipura-levrek ızgara (1kg)",
+              "fiyat": 1300.0
+            },
+            {
+              "ad": "Balık heykeli-osc",
+              "fiyat": 119.0
+            },
+            {
+              "ad": "Büyük balık-osc",
+              "fiyat": 132.0
+            },
+            {
+              "ad": "Orta balık-osc",
+              "fiyat": 133.0
+            },
+            {
+              "ad": "Küçük balık-osc",
+              "fiyat": 134.0
+            },
+            {
+              "ad": "Kanatlı kuğu-osc",
+              "fiyat": 139.0
+            },
+            {
+              "ad": "Büyük balık-osc132 33x11x",
+              "fiyat": 875.0
+            },
+            {
+              "ad": "Orta balık-osc133 10x9x 3",
+              "fiyat": 550.0
+            },
+            {
+              "ad": "Küçük balık-osc134 7x8x 3",
+              "fiyat": 350.0
+            },
+            {
+              "ad": "Kanatlı kuğu-osc139 8x11x 6",
+              "fiyat": 250.0
+            }
+          ]
+        },
+        {
+          "ad": "Salatalar",
+          "urunler": [
+            {
+              "ad": "Söğüş tabağı",
+              "fiyat": 50.0
+            },
+            {
+              "ad": "Akdeniz salata",
+              "fiyat": 150.0
+            },
+            {
+              "ad": "Roka salata",
+              "fiyat": 150.0
+            },
+            {
+              "ad": "Çoban salata",
+              "fiyat": 150.0
+            }
+          ]
+        },
+        {
+          "ad": "Atıştırmalıklar",
+          "urunler": [
+            {
+              "ad": "Antep fıstığı 130g",
+              "fiyat": 190.0
+            },
+            {
+              "ad": "Beyaz leblebi 170g",
+              "fiyat": 60.0
+            },
+            {
+              "ad": "Çeşnili mısır 40g",
+              "fiyat": 20.0
+            },
+            {
+              "ad": "Çiğ bağdem içi 150g",
+              "fiyat": 150.0
+            },
+            {
+              "ad": "Fındık içi 150gr",
+              "fiyat": 180.0
+            },
+            {
+              "ad": "Fındık içi 70g",
+              "fiyat": 80.0
+            },
+            {
+              "ad": "Kabuklu yer fıstığı 400g",
+              "fiyat": 90.0
+            },
+            {
+              "ad": "Kaju 70g",
+              "fiyat": 90.0
+            },
+            {
+              "ad": "Kavrulmuş bağdem içi 70g",
+              "fiyat": 90.0
+            },
+            {
+              "ad": "Kavrulmuş karışık 70g",
+              "fiyat": 90.0
+            },
+            {
+              "ad": "Kuru incir 150g",
+              "fiyat": 140.0
+            },
+            {
+              "ad": "Kuru kayısı 150g",
+              "fiyat": 170.0
+            },
+            {
+              "ad": "Tuzlu antep fıstığı 70g",
+              "fiyat": 100.0
+            },
+            {
+              "ad": "Tuzlu çekirdek 600g",
+              "fiyat": 90.0
+            },
+            {
+              "ad": "Tuzlu sarı leblebi 170gr",
+              "fiyat": 55.0
+            },
+            {
+              "ad": "Tuzsuz çekirdek 125g",
+              "fiyat": 50.0
+            },
+            {
+              "ad": "Patates tava",
+              "fiyat": 100.0
+            },
+            {
+              "ad": "Külah patates",
+              "fiyat": 80.0
+            },
+            {
+              "ad": "Tost karışık",
+              "fiyat": 125.0
+            },
+            {
+              "ad": "Tost kaşarlı",
+              "fiyat": 100.0
+            }
+          ]
+        },
+        {
+          "ad": "Tatlılar",
+          "urunler": [
+            {
+              "ad": "YEMEK MENÜ 4 (kuru pasta -meyve suyu KG",
+              "fiyat": 550.0
+            },
+            {
+              "ad": "Fırın helva",
+              "fiyat": 100.0
+            },
+            {
+              "ad": "Çikolatalı sufle",
+              "fiyat": 180.0
+            },
+            {
+              "ad": "Kızarmış dondurma",
+              "fiyat": 180.0
+            },
+            {
+              "ad": "Dondurma top",
+              "fiyat": 35.0
+            },
+            {
+              "ad": "Kutu adet pasta",
+              "fiyat": 120.0
+            }
+          ]
+        },
+        {
+          "ad": "Sıcak içecekler",
+          "urunler": [
+            {
+              "ad": "Çay",
+              "fiyat": 10.0
+            },
+            {
+              "ad": "Sütlü kahve",
+              "fiyat": 40.0
+            },
+            {
+              "ad": "Sade kahve",
+              "fiyat": 40.0
+            },
+            {
+              "ad": "Türk kahvesi",
+              "fiyat": 50.0
+            }
+          ]
+        },
+        {
+          "ad": "Soğuk içecekler",
+          "urunler": [
+            {
+              "ad": "Desni 5lt. su",
+              "fiyat": 40.0
+            },
+            {
+              "ad": "Su etkili vazo-osc",
+              "fiyat": 11.0
+            },
+            {
+              "ad": "Churchill",
+              "fiyat": 50.0
+            },
+            {
+              "ad": "Soğuk kahve",
+              "fiyat": 75.0
+            },
+            {
+              "ad": "Limonata",
+              "fiyat": 90.0
+            },
+            {
+              "ad": "Limonata çilek simli",
+              "fiyat": 100.0
+            },
+            {
+              "ad": "Beypazarı gazoz",
+              "fiyat": 40.0
+            },
+            {
+              "ad": "Ordu ufuk gazoz",
+              "fiyat": 45.0
+            },
+            {
+              "ad": "Soğuk çay",
+              "fiyat": 55.0
+            },
+            {
+              "ad": "Sade soda",
+              "fiyat": 35.0
+            },
+            {
+              "ad": "Avşar soda",
+              "fiyat": 40.0
+            },
+            {
+              "ad": "Meyveli soda",
+              "fiyat": 40.0
+            },
+            {
+              "ad": "Meyve suyu",
+              "fiyat": 30.0
+            },
+            {
+              "ad": "Ayran küçük (180 ml)",
+              "fiyat": 20.0
+            },
+            {
+              "ad": "Ayran büyük (275 ml)",
+              "fiyat": 30.0
+            },
+            {
+              "ad": "19 ….......kola",
+              "fiyat": 40.0
+            },
+            {
+              "ad": "20 …...... kola 1 litre",
+              "fiyat": 55.0
+            },
+            {
+              "ad": "21 …...... kola 2,5 litre",
+              "fiyat": 95.0
+            },
+            {
+              "ad": "Renkli su damlası-osc",
+              "fiyat": 98.0
+            }
+          ]
+        }
+      ],
+      "kontrol": "2026-10-07"
+    }
+  ]
+}
