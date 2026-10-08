@@ -64,34 +64,35 @@ def save(data: dict) -> None:
     )
 
 
-def cmd_uret(args: argparse.Namespace) -> int:
-    if args.plan not in PLANS:
-        print("plan aylik veya yillik olmalı", file=sys.stderr)
-        return 2
-    if not 1 <= args.kullanim <= 1000:
-        print("kullanim 1-1000 arasında olmalı", file=sys.stderr)
-        return 2
+def uret(
+    plan: str,
+    adet: int = 1,
+    son: str | None = None,
+    kullanim: int = 1,
+    kod: str | None = None,
+) -> tuple[list[str], str]:
+    """Kodları üretip özetlerini `pro_kodlar.json`a ekler; (kodlar, son) döner."""
+    if plan not in PLANS:
+        raise ValueError("plan aylik veya yillik olmalı")
+    if not 1 <= kullanim <= 1000:
+        raise ValueError("kullanim 1-1000 arasında olmalı")
     today = dt.date.today()
-    son = args.son or (today + dt.timedelta(days=365)).isoformat()
+    son = son or (today + dt.timedelta(days=365)).isoformat()
     try:
-        if dt.date.fromisoformat(son) < today:
-            print("son kullanma tarihi geçmiş olamaz", file=sys.stderr)
-            return 2
+        son_date = dt.date.fromisoformat(son)
     except ValueError:
-        print("son tarihi YYYY-AA-GG biçiminde olmalı", file=sys.stderr)
-        return 2
+        raise ValueError("son tarihi YYYY-AA-GG biçiminde olmalı") from None
+    if son_date < today:
+        raise ValueError("son kullanma tarihi geçmiş olamaz")
 
-    if args.kod:
-        norm = normalize(args.kod)
-        if len(norm) < 6:
-            print("özel kod en az 6 harf/rakam olmalı", file=sys.stderr)
-            return 2
-        codes = [args.kod.strip().upper()]
+    if kod:
+        if len(normalize(kod)) < 6:
+            raise ValueError("özel kod en az 6 harf/rakam olmalı")
+        codes = [kod.strip().upper()]
     else:
-        if not 1 <= args.adet <= 500:
-            print("adet 1-500 arasında olmalı", file=sys.stderr)
-            return 2
-        codes = [new_code() for _ in range(args.adet)]
+        if not 1 <= adet <= 500:
+            raise ValueError("adet 1-500 arasında olmalı")
+        codes = [new_code() for _ in range(adet)]
 
     data = load()
     existing = {k["ozet"] for k in data["kodlar"]}
@@ -103,32 +104,47 @@ def cmd_uret(args: argparse.Namespace) -> int:
             continue
         entry = {
             "ozet": h,
-            "plan": args.plan,
+            "plan": plan,
             "son_kullanma": son,
             "eklenme": today.isoformat(),
         }
-        if args.kullanim > 1:
-            entry["kullanim"] = args.kullanim
+        if kullanim > 1:
+            entry["kullanim"] = kullanim
         data["kodlar"].append(entry)
         existing.add(h)
         added.append(code)
 
     if not added:
-        return 1
+        return [], son
     save(data)
 
     OUT_DIR.mkdir(exist_ok=True)
     stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
-    out = OUT_DIR / f"{stamp}-{args.plan}.txt"
-    label = "Aylık" if args.plan == "aylik" else "Yıllık"
+    out = OUT_DIR / f"{stamp}-{plan}.txt"
     lines = [
-        f"{label} hediye Pro kodu — son kullanma {son}"
-        + (f" — {args.kullanim} kullanım" if args.kullanim > 1 else ""),
+        f"{plan_label(plan)} hediye Pro kodu — son kullanma {son}"
+        + (f" — {kullanim} kullanım" if kullanim > 1 else ""),
         *added,
     ]
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print("\n".join(lines))
-    print(f"\nKodlar kaydedildi: {out.relative_to(ROOT)} (GitHub'a gönderilmez)")
+    return added, son
+
+
+def plan_label(plan: str) -> str:
+    return "Aylık" if plan == "aylik" else "Yıllık"
+
+
+def cmd_uret(args: argparse.Namespace) -> int:
+    try:
+        added, son = uret(args.plan, args.adet, args.son, args.kullanim, args.kod)
+    except ValueError as e:
+        print(e, file=sys.stderr)
+        return 2
+    if not added:
+        return 1
+    print(f"{plan_label(args.plan)} hediye Pro kodu — son kullanma {son}")
+    print("\n".join(added))
+    print(f"\nKodlar kaydedildi: {OUT_DIR.relative_to(ROOT)} (GitHub'a gönderilmez)")
     return 0
 
 

@@ -24,6 +24,25 @@ def test_new_code_format_and_entropy():
         assert re.fullmatch(r"RL-[2-9A-HJKMNP-Z]{4}-[2-9A-HJKMNP-Z]{4}-[2-9A-HJKMNP-Z]{4}", c)
 
 
+def test_kolay_uret_flow(tmp_path, monkeypatch):
+    import kolay_uret
+
+    monkeypatch.setattr(kod_uret, "DATA", tmp_path / "pro_kodlar.json")
+    monkeypatch.setattr(kod_uret, "OUT_DIR", tmp_path / "uretilen")
+    monkeypatch.setattr(kolay_uret, "NOTES", tmp_path / "notlar.txt")
+    calls = []
+    monkeypatch.setattr(kolay_uret, "git", lambda *a: calls.append(a) or True)
+    answers = iter(["3", "2", "abc", "4", "Yaz kampanyası"])
+    monkeypatch.setattr("builtins.input", lambda _="": next(answers))
+    assert kolay_uret.main() == 0
+    notes = (tmp_path / "notlar.txt").read_text(encoding="utf-8")
+    assert "YILLIK (365 gün Pro) — 4 adet" in notes and "Yaz kampanyası" in notes
+    assert notes.count("Verildi:") == 4
+    assert len(kod_uret.load()["kodlar"]) == 4
+    assert any(c[0] == "commit" and c[-1] == "pro_kodlar.json" for c in calls)
+    assert any(c[0] == "push" for c in calls)
+
+
 def test_generate_and_revoke(tmp_path, monkeypatch):
     monkeypatch.setattr(kod_uret, "DATA", tmp_path / "pro_kodlar.json")
     monkeypatch.setattr(kod_uret, "OUT_DIR", tmp_path / "uretilen")
