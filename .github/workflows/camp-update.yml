@@ -1,0 +1,70 @@
+name: Kamp alanları kontrolü (aylık)
+
+on:
+  schedule:
+    - cron: "0 3 12 * *"   # her ayın 12'si 03:00 UTC = 06:00 Türkiye
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY RUN (dosyaya yazmaz)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rotalink-data-write
+  cancel-in-progress: false
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      CAMP_MODE: update
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+      CAMP_TIME_BUDGET_MIN: "70"
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Test aracı
+        run: pip install pytest
+
+      - name: Testler
+        run: python -m pytest kamp/tests -q
+
+      - name: Kayıtlı kaynakları kontrol et
+        run: python kamp/discover.py
+
+      - name: JSON sözdizimi
+        run: python -c "import json,pathlib; [json.loads(p.read_text(encoding='utf-8')) for p in pathlib.Path('data').glob('camp_*.json')]"
+
+      - name: Rapor
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: kamp-kontrol-${{ github.run_number }}
+          path: kamp/reports/
+          if-no-files-found: ignore
+
+      - name: Commit ve push
+        if: env.DRY_RUN != 'true'
+        run: |
+          git config user.name "rotalink-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in data/camp_sites.json data/camp_sources.json data/camp_price_history.json data/camp_review_queue.json; do
+            if [ -e "$p" ]; then git add "$p"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok, commit atılmadı."
+            exit 0
+          fi
+          git commit -m "chore: monthly camp site source check"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -1,0 +1,82 @@
+[
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-11909304270",
+    "diger": "osm-node-10775586107",
+    "il": "Muğla",
+    "ad": "sign: camping strictly forbidden",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-14091402601",
+    "diger": "osm-node-14091391201",
+    "il": "Muğla",
+    "ad": "Limonata",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-14091402602",
+    "diger": "osm-node-14091395701",
+    "il": "Muğla",
+    "ad": "Göl Bahçe",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "belirsiz_mukerrer",
+    "id": "osm-node-11809286523",
+    "diger": "osm-node-11403857645",
+    "il": "Antalya",
+    "ad": "2 tents",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-12396409940",
+    "diger": "osm-node-12396409939",
+    "il": "Antalya",
+    "ad": "Orange Camping",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-13208392401",
+    "diger": "osm-node-13208392301",
+    "il": "Antalya",
+    "ad": "1 tent, not very good",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-way-462395164",
+    "diger": "osm-node-7037005187",
+    "il": "Antalya",
+    "ad": "Rido Camp",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-way-884318433",
+    "diger": "osm-node-8223979625",
+    "il": "Antalya",
+    "ad": "Arif's camp site",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "belirsiz_mukerrer",
+    "id": "osm-relation-16739331",
+    "diger": "osm-relation-16738594",
+    "il": "Antalya",
+    "ad": "JOSITO Camping",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "kamp_yasak",
+    "id": "osm-node-10775586107",
+    "il": "Muğla",
+    "ad": "sign: camping strictly forbidden",
+    "tarih": "2026-10-08",
+    "detay": "Kamp yasağı veya tabela kaydı yayımlanmadı."
+  }
+]
