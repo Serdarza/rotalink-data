@@ -198,5 +198,37 @@
     "ad": "Место под 5+ палаток",
     "tarih": "2026-10-08",
     "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "belirsiz_mukerrer",
+    "id": "osm-node-12335199419",
+    "diger": "osm-node-12335163647",
+    "il": "Adana",
+    "ad": "Small forest",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-1519694410",
+    "diger": "osm-node-1519694407",
+    "il": "Hatay",
+    "ad": "Orient Camping",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-relation-14405250",
+    "diger": "osm-node-3129627055",
+    "il": "Nevşehir",
+    "ad": "Panorama Camping",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-way-1565405693",
+    "diger": "osm-node-14230295973",
+    "il": "Sakarya",
+    "ad": "Kocaali Karavan Parkı",
+    "tarih": "2026-10-08"
   }
 ]
