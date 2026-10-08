@@ -34,7 +34,9 @@ REPORTS = HERE / "reports"
 OVERPASS_URLS = (
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
+    "https://overpass.private.coffee/api/interpreter",
 )
+RETRY_CODES = (429, 500, 502, 503, 504)
 UA = "RotalinkCampBot/1.0 (https://rotalink.tr)"
 MODE = os.environ.get("CAMP_MODE", "discover")
 DRY = os.environ.get("DRY_RUN", "").lower() in {"1", "true", "yes"}
@@ -57,18 +59,18 @@ def overpass(query: str) -> dict:
     body = urllib.parse.urlencode({"data": query}).encode()
     last = "bağlantı kurulamadı"
     for url in OVERPASS_URLS:
-        for attempt in range(2):
+        for attempt in range(3):
             req = urllib.request.Request(url, data=body, headers={"User-Agent": UA})
             try:
                 with urllib.request.urlopen(req, timeout=90) as res:
                     return json.loads(res.read().decode("utf-8"))
             except urllib.error.HTTPError as e:
                 last = f"HTTP {e.code}"
-                if e.code not in (429, 502, 503, 504):
+                if e.code not in RETRY_CODES:
                     break
             except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
                 last = type(e).__name__
-            time.sleep(4 * (attempt + 1))
+            time.sleep((5, 15, 30)[attempt])
     raise RuntimeError(last)
 
 
@@ -91,20 +93,31 @@ def query_ids(ids: list[tuple[str, str]]) -> str:
 
 def discover(provinces: list[tuple[str, str]], today: date, deadline: float):
     found, errors = [], {}
-    for il, iso in provinces:
-        if time.monotonic() > deadline:
-            errors[il] = "zaman sınırı"
-            continue
-        try:
-            payload = overpass(query_il(iso))
-        except RuntimeError as e:
-            errors[il] = str(e)
-            continue
-        for el in payload.get("elements") or []:
-            rec = from_osm(il, el, today)
-            if rec:
-                found.append(rec)
-        time.sleep(2)
+    pending = list(provinces)
+    for round_no in range(2):
+        if round_no and pending:
+            print(f"{len(pending)} il yeniden deneniyor…", flush=True)
+            time.sleep(60)
+        retry = []
+        for il, iso in pending:
+            if time.monotonic() > deadline:
+                errors[il] = "zaman sınırı"
+                continue
+            try:
+                payload = overpass(query_il(iso))
+            except RuntimeError as e:
+                errors[il] = str(e)
+                retry.append((il, iso))
+                continue
+            errors.pop(il, None)
+            for el in payload.get("elements") or []:
+                rec = from_osm(il, el, today)
+                if rec:
+                    found.append(rec)
+            time.sleep(2)
+        pending = retry
+    for il, err in errors.items():
+        print(f"hata: {il}: {err}", flush=True)
     return found, errors
 
 
