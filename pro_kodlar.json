@@ -1,0 +1,18 @@
+{
+  "surum": 1,
+  "not": "Hediye Pro kodlarının SHA-256 özetleri. Kodların kendisi burada tutulmaz. Kod üretmek/iptal etmek için: python pro_kod/kod_uret.py --help",
+  "kodlar": [
+    {
+      "ozet": "3c40445d008c9ef28c5a2c3b129148e5fe213ed37a27a97926720a8b653526c4",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "9698518c88ec284345ca7a0c55aeb0ef7016f5e10733a7cd7f786a14714af717",
+      "plan": "yillik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    }
+  ]
+}
