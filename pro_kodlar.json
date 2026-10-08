@@ -3,14 +3,164 @@
   "not": "Hediye Pro kodlarının SHA-256 özetleri. Kodların kendisi burada tutulmaz. Kod üretmek/iptal etmek için: python pro_kod/kod_uret.py --help",
   "kodlar": [
     {
+      "ozet": "07a1beec84d066e8c7498423e81bd2858690c414921e8b8d7e253127ef840171",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "0edbcfc2ad9d363b846c5fd452265552035dc8ca7832d7768899b274624232b9",
+      "plan": "yillik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "1933896d98240a5fcc3cc474929766fc1bbbe54d26fe48dcfb81d800372fa50f",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "1d59ba82d7b36b073e6853f88050b8eda1df407ec87e2e3c2de573e9e073ec3b",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "27f46b4ff768f152e3c6f3bc907113d5c8d7a20cfe22df16f826198d856eeb0a",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
       "ozet": "3c40445d008c9ef28c5a2c3b129148e5fe213ed37a27a97926720a8b653526c4",
       "plan": "aylik",
       "son_kullanma": "2027-10-08",
       "eklenme": "2026-10-08"
     },
     {
+      "ozet": "4b26a29c91de73f71e18d93d6b88308a5ca6c83b4bc8335b9f8e82ce471f847d",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "4b5f0783d6cb6aca04c59fdff5cbeac1fac10fe5c3721d4f6cefc17c1aa1639e",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "60bf7c1fb23e8f4f7a8a0ff000b1d87470475939fe7ace4207a43978f7bd0be2",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "731dfeb4147c2d9ed751b2234e5ade36f57d0ba92585855ca95dcfdce6b662e8",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "78b20fae19ad2a51fde7082e19d79eefa239d8722da32b73ac814e2423d1acd1",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "8698739b39a127baef33199f3c5eaf5f47b74d21e441c156fcf35040fbdf0aca",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "92c383eb313804885f656dcfb9653f61dc6912d5cdb52974f9618853cd2b8ad3",
+      "plan": "yillik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "9487f056a17cac88af06d5c0ca93dfb42c891f8d148d1d4a767a8e6de1c17d3a",
+      "plan": "yillik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
       "ozet": "9698518c88ec284345ca7a0c55aeb0ef7016f5e10733a7cd7f786a14714af717",
       "plan": "yillik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "9a0de175ba30dee28b19b178350c888a9b3b15b6dd9de707b5d710f322b80e42",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "a56e2fa1c6acc9e2a74590f10506f14bcd65a9420e3339b42f60ab23b2d68854",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "ab16132f72dbabf5db527b5146c7db9ece6b8a9f1480631ebf31ca80d957da65",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "ab6fe1f9530f48d980013617b6953b6a69c36f4c2c19c1722434afd851dc3ff4",
+      "plan": "yillik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "ae26eae4c9f32b78b0b899dcaea3b46f7d79e28732008ca8571bd421331ea45a",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "b46817ee7e110e557b50172dd52cdb2c4c87fff27622407292919bde115ef9cf",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "b96f960c0b6f11010899c575dcbd7144632ee447653cadde2c6eeb844c59ec04",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "bb3b43daf730c03333c82d26cdb78b1da88b18ee9a540117cb69580fc34da57c",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "c78eebb4cd52a652df1ab5e6c8caae29a044820b42bf59fdaf18cc74aef9d347",
+      "plan": "yillik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "cf6c52e5090d8e69858f7a197c4f85e772a5a64570e5104f3606187ccd4e69f5",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "deae2c4f64f893db3dc0ae90c433a7d083ebc7519073ae930a6376d63f7faf4b",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-08",
+      "eklenme": "2026-10-08"
+    },
+    {
+      "ozet": "f09372ff0e0bc5a9d310f98fe646bdcbecea2318ab32b02bb3f574810939ffa9",
+      "plan": "aylik",
       "son_kullanma": "2027-10-08",
       "eklenme": "2026-10-08"
     }
