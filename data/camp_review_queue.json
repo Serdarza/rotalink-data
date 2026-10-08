@@ -78,5 +78,125 @@
     "ad": "sign: camping strictly forbidden",
     "tarih": "2026-10-08",
     "detay": "Kamp yasağı veya tabela kaydı yayımlanmadı."
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-way-380778126",
+    "diger": "osm-node-5775290654",
+    "il": "Çanakkale",
+    "ad": "Kömür Limanı",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-6542325055",
+    "diger": "osm-node-4401406289",
+    "il": "Sinop",
+    "ad": "Martı Camping",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "mukerrer",
+    "id": "osm-node-14124562801",
+    "diger": "osm-node-14122351704",
+    "il": "Van",
+    "ad": "Alman Kampı",
+    "tarih": "2026-10-08"
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14064914526",
+    "il": "Muğla",
+    "ad": "Bükceğiz Kamp",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14214391201",
+    "il": "Muğla",
+    "ad": "Gökdeniz kamp",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14091395701",
+    "il": "Muğla",
+    "ad": "Göl Bahçe",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14064896083",
+    "il": "Muğla",
+    "ad": "Kargılıbük",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14091391201",
+    "il": "Muğla",
+    "ad": "Limonata",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14091402701",
+    "il": "Muğla",
+    "ad": "Mandalin",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14091391901",
+    "il": "Muğla",
+    "ad": "Mandalin camping",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-13977657901",
+    "il": "Muğla",
+    "ad": "Suitable ground for sleeping (big and flat concrete slab).",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14256069140",
+    "il": "Muğla",
+    "ad": "with bees",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-13953724100",
+    "il": "Muğla",
+    "ad": "Yazgülü Murdala Camping",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-13947261801",
+    "il": "Muğla",
+    "ad": "место для трех палаток",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
+  },
+  {
+    "tur": "kaynak_bulunamadi",
+    "id": "osm-node-14219808501",
+    "il": "Muğla",
+    "ad": "Место под 5+ палаток",
+    "tarih": "2026-10-08",
+    "detay": "Kayıt silinmedi; kaynak bu taramada yok."
   }
 ]

@@ -351,7 +351,7 @@
     "url": "https://www.openstreetmap.org/node/14064914526",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-10161726550": {
     "url": "https://www.openstreetmap.org/node/10161726550",
@@ -471,7 +471,7 @@
     "url": "https://www.openstreetmap.org/node/14214391201",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-4428806214": {
     "url": "https://www.openstreetmap.org/node/4428806214",
@@ -483,7 +483,7 @@
     "url": "https://www.openstreetmap.org/node/14091395701",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-way-588200729": {
     "url": "https://www.openstreetmap.org/way/588200729",
@@ -519,7 +519,7 @@
     "url": "https://www.openstreetmap.org/node/14064896083",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-3784814876": {
     "url": "https://www.openstreetmap.org/node/3784814876",
@@ -567,7 +567,7 @@
     "url": "https://www.openstreetmap.org/node/14091391201",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-6589624634": {
     "url": "https://www.openstreetmap.org/node/6589624634",
@@ -591,13 +591,13 @@
     "url": "https://www.openstreetmap.org/node/14091402701",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-14091391901": {
     "url": "https://www.openstreetmap.org/node/14091391901",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-1536429347": {
     "url": "https://www.openstreetmap.org/node/1536429347",
@@ -705,7 +705,7 @@
     "url": "https://www.openstreetmap.org/node/10775586107",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-8000939185": {
     "url": "https://www.openstreetmap.org/node/8000939185",
@@ -717,7 +717,7 @@
     "url": "https://www.openstreetmap.org/node/13977657901",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-9976133588": {
     "url": "https://www.openstreetmap.org/node/9976133588",
@@ -795,13 +795,13 @@
     "url": "https://www.openstreetmap.org/node/14256069140",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-13953724100": {
     "url": "https://www.openstreetmap.org/node/13953724100",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-13786429804": {
     "url": "https://www.openstreetmap.org/node/13786429804",
@@ -843,13 +843,13 @@
     "url": "https://www.openstreetmap.org/node/13947261801",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-14219808501": {
     "url": "https://www.openstreetmap.org/node/14219808501",
     "il": "Muğla",
     "gorulme": "2026-10-08",
-    "durum": "aktif"
+    "durum": "inceleme"
   },
   "osm-node-13724173501": {
     "url": "https://www.openstreetmap.org/node/13724173501",
@@ -1988,6 +1988,1218 @@
   "osm-node-7734771185": {
     "url": "https://www.openstreetmap.org/node/7734771185",
     "il": "İzmir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3254418465": {
+    "url": "https://www.openstreetmap.org/node/3254418465",
+    "il": "Adıyaman",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12182161588": {
+    "url": "https://www.openstreetmap.org/node/12182161588",
+    "il": "Adıyaman",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6411063593": {
+    "url": "https://www.openstreetmap.org/node/6411063593",
+    "il": "Adıyaman",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5353798648": {
+    "url": "https://www.openstreetmap.org/node/5353798648",
+    "il": "Afyonkarahisar",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10206908562": {
+    "url": "https://www.openstreetmap.org/node/10206908562",
+    "il": "Aksaray",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-339220751": {
+    "url": "https://www.openstreetmap.org/way/339220751",
+    "il": "Aksaray",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9752452570": {
+    "url": "https://www.openstreetmap.org/node/9752452570",
+    "il": "Aksaray",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12145383262": {
+    "url": "https://www.openstreetmap.org/node/12145383262",
+    "il": "Artvin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14077545403": {
+    "url": "https://www.openstreetmap.org/node/14077545403",
+    "il": "Artvin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3934438254": {
+    "url": "https://www.openstreetmap.org/node/3934438254",
+    "il": "Artvin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3884474503": {
+    "url": "https://www.openstreetmap.org/node/3884474503",
+    "il": "Artvin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3938202426": {
+    "url": "https://www.openstreetmap.org/node/3938202426",
+    "il": "Artvin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14128752201": {
+    "url": "https://www.openstreetmap.org/node/14128752201",
+    "il": "Artvin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3969385386": {
+    "url": "https://www.openstreetmap.org/node/3969385386",
+    "il": "Artvin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3299415693": {
+    "url": "https://www.openstreetmap.org/node/3299415693",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8984501901": {
+    "url": "https://www.openstreetmap.org/node/8984501901",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-26861216": {
+    "url": "https://www.openstreetmap.org/node/26861216",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1137050266": {
+    "url": "https://www.openstreetmap.org/way/1137050266",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9282102288": {
+    "url": "https://www.openstreetmap.org/node/9282102288",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7911869985": {
+    "url": "https://www.openstreetmap.org/node/7911869985",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10941594305": {
+    "url": "https://www.openstreetmap.org/node/10941594305",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8865866417": {
+    "url": "https://www.openstreetmap.org/node/8865866417",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4275624090": {
+    "url": "https://www.openstreetmap.org/node/4275624090",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1137056203": {
+    "url": "https://www.openstreetmap.org/way/1137056203",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9021551723": {
+    "url": "https://www.openstreetmap.org/node/9021551723",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13039176340": {
+    "url": "https://www.openstreetmap.org/node/13039176340",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10575938147": {
+    "url": "https://www.openstreetmap.org/node/10575938147",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4888327323": {
+    "url": "https://www.openstreetmap.org/node/4888327323",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8618898717": {
+    "url": "https://www.openstreetmap.org/node/8618898717",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7251418485": {
+    "url": "https://www.openstreetmap.org/node/7251418485",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12367623382": {
+    "url": "https://www.openstreetmap.org/node/12367623382",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4244682395": {
+    "url": "https://www.openstreetmap.org/node/4244682395",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13037201353": {
+    "url": "https://www.openstreetmap.org/node/13037201353",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9021551718": {
+    "url": "https://www.openstreetmap.org/node/9021551718",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-369915600": {
+    "url": "https://www.openstreetmap.org/way/369915600",
+    "il": "Balıkesir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6708172687": {
+    "url": "https://www.openstreetmap.org/node/6708172687",
+    "il": "Bartın",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6708172787": {
+    "url": "https://www.openstreetmap.org/node/6708172787",
+    "il": "Bartın",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7071409955": {
+    "url": "https://www.openstreetmap.org/node/7071409955",
+    "il": "Bartın",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5837075686": {
+    "url": "https://www.openstreetmap.org/node/5837075686",
+    "il": "Bilecik",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6989062391": {
+    "url": "https://www.openstreetmap.org/node/6989062391",
+    "il": "Bilecik",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10773706590": {
+    "url": "https://www.openstreetmap.org/node/10773706590",
+    "il": "Bilecik",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12860324516": {
+    "url": "https://www.openstreetmap.org/node/12860324516",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14129407607": {
+    "url": "https://www.openstreetmap.org/node/14129407607",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14129412806": {
+    "url": "https://www.openstreetmap.org/node/14129412806",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14129419701": {
+    "url": "https://www.openstreetmap.org/node/14129419701",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10860319905": {
+    "url": "https://www.openstreetmap.org/node/10860319905",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14129412808": {
+    "url": "https://www.openstreetmap.org/node/14129412808",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12956008665": {
+    "url": "https://www.openstreetmap.org/node/12956008665",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9798190502": {
+    "url": "https://www.openstreetmap.org/node/9798190502",
+    "il": "Bitlis",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13731696637": {
+    "url": "https://www.openstreetmap.org/node/13731696637",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6134956396": {
+    "url": "https://www.openstreetmap.org/node/6134956396",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11139295663": {
+    "url": "https://www.openstreetmap.org/node/11139295663",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3469061558": {
+    "url": "https://www.openstreetmap.org/node/3469061558",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5001081323": {
+    "url": "https://www.openstreetmap.org/node/5001081323",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13735954401": {
+    "url": "https://www.openstreetmap.org/node/13735954401",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1430976300": {
+    "url": "https://www.openstreetmap.org/way/1430976300",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4804377321": {
+    "url": "https://www.openstreetmap.org/node/4804377321",
+    "il": "Bursa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1189684552": {
+    "url": "https://www.openstreetmap.org/way/1189684552",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12081839743": {
+    "url": "https://www.openstreetmap.org/node/12081839743",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12384312750": {
+    "url": "https://www.openstreetmap.org/node/12384312750",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5755870921": {
+    "url": "https://www.openstreetmap.org/node/5755870921",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3784821999": {
+    "url": "https://www.openstreetmap.org/node/3784821999",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10008197812": {
+    "url": "https://www.openstreetmap.org/node/10008197812",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11054842783": {
+    "url": "https://www.openstreetmap.org/node/11054842783",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13886633101": {
+    "url": "https://www.openstreetmap.org/node/13886633101",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3114340426": {
+    "url": "https://www.openstreetmap.org/node/3114340426",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1547454662": {
+    "url": "https://www.openstreetmap.org/way/1547454662",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5775291553": {
+    "url": "https://www.openstreetmap.org/node/5775291553",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8244977517": {
+    "url": "https://www.openstreetmap.org/node/8244977517",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10777031907": {
+    "url": "https://www.openstreetmap.org/node/10777031907",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10855566543": {
+    "url": "https://www.openstreetmap.org/node/10855566543",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11428507518": {
+    "url": "https://www.openstreetmap.org/node/11428507518",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7885201201": {
+    "url": "https://www.openstreetmap.org/node/7885201201",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1154778118": {
+    "url": "https://www.openstreetmap.org/way/1154778118",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5747465206": {
+    "url": "https://www.openstreetmap.org/node/5747465206",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5775290654": {
+    "url": "https://www.openstreetmap.org/node/5775290654",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11054991473": {
+    "url": "https://www.openstreetmap.org/node/11054991473",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10008182478": {
+    "url": "https://www.openstreetmap.org/node/10008182478",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6037731368": {
+    "url": "https://www.openstreetmap.org/node/6037731368",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11055011406": {
+    "url": "https://www.openstreetmap.org/node/11055011406",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4321079162": {
+    "url": "https://www.openstreetmap.org/node/4321079162",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-461618199": {
+    "url": "https://www.openstreetmap.org/way/461618199",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3672373486": {
+    "url": "https://www.openstreetmap.org/node/3672373486",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5963350186": {
+    "url": "https://www.openstreetmap.org/node/5963350186",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1547454663": {
+    "url": "https://www.openstreetmap.org/way/1547454663",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4322875973": {
+    "url": "https://www.openstreetmap.org/node/4322875973",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9034971517": {
+    "url": "https://www.openstreetmap.org/node/9034971517",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11055046815": {
+    "url": "https://www.openstreetmap.org/node/11055046815",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11055046606": {
+    "url": "https://www.openstreetmap.org/node/11055046606",
+    "il": "Çanakkale",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8646725317": {
+    "url": "https://www.openstreetmap.org/node/8646725317",
+    "il": "Çorum",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6092745217": {
+    "url": "https://www.openstreetmap.org/node/6092745217",
+    "il": "Çorum",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4735743124": {
+    "url": "https://www.openstreetmap.org/node/4735743124",
+    "il": "Çorum",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4357415190": {
+    "url": "https://www.openstreetmap.org/node/4357415190",
+    "il": "Düzce",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8927315649": {
+    "url": "https://www.openstreetmap.org/node/8927315649",
+    "il": "Düzce",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5775101853": {
+    "url": "https://www.openstreetmap.org/node/5775101853",
+    "il": "Düzce",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7073599880": {
+    "url": "https://www.openstreetmap.org/node/7073599880",
+    "il": "Düzce",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14120686401": {
+    "url": "https://www.openstreetmap.org/node/14120686401",
+    "il": "Düzce",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4074066515": {
+    "url": "https://www.openstreetmap.org/node/4074066515",
+    "il": "Düzce",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13037223569": {
+    "url": "https://www.openstreetmap.org/node/13037223569",
+    "il": "Düzce",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-2385172018": {
+    "url": "https://www.openstreetmap.org/node/2385172018",
+    "il": "Edirne",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12864617019": {
+    "url": "https://www.openstreetmap.org/node/12864617019",
+    "il": "Edirne",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-2385170887": {
+    "url": "https://www.openstreetmap.org/node/2385170887",
+    "il": "Edirne",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-291564090": {
+    "url": "https://www.openstreetmap.org/way/291564090",
+    "il": "Edirne",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-414847678": {
+    "url": "https://www.openstreetmap.org/way/414847678",
+    "il": "Edirne",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9974694717": {
+    "url": "https://www.openstreetmap.org/node/9974694717",
+    "il": "Edirne",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4843519922": {
+    "url": "https://www.openstreetmap.org/node/4843519922",
+    "il": "Erzincan",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6482303685": {
+    "url": "https://www.openstreetmap.org/node/6482303685",
+    "il": "Erzincan",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9806209626": {
+    "url": "https://www.openstreetmap.org/node/9806209626",
+    "il": "Erzincan",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-1309356099": {
+    "url": "https://www.openstreetmap.org/node/1309356099",
+    "il": "Eskişehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9953649531": {
+    "url": "https://www.openstreetmap.org/node/9953649531",
+    "il": "Eskişehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-551724152": {
+    "url": "https://www.openstreetmap.org/way/551724152",
+    "il": "Eskişehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5030101635": {
+    "url": "https://www.openstreetmap.org/node/5030101635",
+    "il": "Eskişehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-445920830": {
+    "url": "https://www.openstreetmap.org/way/445920830",
+    "il": "Eskişehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11563820442": {
+    "url": "https://www.openstreetmap.org/node/11563820442",
+    "il": "Eskişehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12110501508": {
+    "url": "https://www.openstreetmap.org/node/12110501508",
+    "il": "Eskişehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1550132051": {
+    "url": "https://www.openstreetmap.org/way/1550132051",
+    "il": "Giresun",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4886105372": {
+    "url": "https://www.openstreetmap.org/node/4886105372",
+    "il": "Giresun",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-356956052": {
+    "url": "https://www.openstreetmap.org/way/356956052",
+    "il": "Giresun",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6417713785": {
+    "url": "https://www.openstreetmap.org/node/6417713785",
+    "il": "Giresun",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-841907977": {
+    "url": "https://www.openstreetmap.org/node/841907977",
+    "il": "Iğdır",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1191313015": {
+    "url": "https://www.openstreetmap.org/way/1191313015",
+    "il": "Iğdır",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4418360891": {
+    "url": "https://www.openstreetmap.org/node/4418360891",
+    "il": "Kahramanmaraş",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4418395089": {
+    "url": "https://www.openstreetmap.org/node/4418395089",
+    "il": "Kahramanmaraş",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-2423152159": {
+    "url": "https://www.openstreetmap.org/node/2423152159",
+    "il": "Karaman",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1524903820": {
+    "url": "https://www.openstreetmap.org/way/1524903820",
+    "il": "Kastamonu",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13390913619": {
+    "url": "https://www.openstreetmap.org/node/13390913619",
+    "il": "Kastamonu",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1524903822": {
+    "url": "https://www.openstreetmap.org/way/1524903822",
+    "il": "Kastamonu",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3784822000": {
+    "url": "https://www.openstreetmap.org/node/3784822000",
+    "il": "Kastamonu",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-343718564": {
+    "url": "https://www.openstreetmap.org/way/343718564",
+    "il": "Kastamonu",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6237353955": {
+    "url": "https://www.openstreetmap.org/node/6237353955",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6752889910": {
+    "url": "https://www.openstreetmap.org/node/6752889910",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6062798601": {
+    "url": "https://www.openstreetmap.org/node/6062798601",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5485650143": {
+    "url": "https://www.openstreetmap.org/node/5485650143",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9889592917": {
+    "url": "https://www.openstreetmap.org/node/9889592917",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5485650140": {
+    "url": "https://www.openstreetmap.org/node/5485650140",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5485650141": {
+    "url": "https://www.openstreetmap.org/node/5485650141",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10103624317": {
+    "url": "https://www.openstreetmap.org/node/10103624317",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13110391002": {
+    "url": "https://www.openstreetmap.org/node/13110391002",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6833446332": {
+    "url": "https://www.openstreetmap.org/node/6833446332",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7918376842": {
+    "url": "https://www.openstreetmap.org/node/7918376842",
+    "il": "Kırklareli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4397817389": {
+    "url": "https://www.openstreetmap.org/node/4397817389",
+    "il": "Kırşehir",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13002773469": {
+    "url": "https://www.openstreetmap.org/node/13002773469",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4387190656": {
+    "url": "https://www.openstreetmap.org/node/4387190656",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4680654390": {
+    "url": "https://www.openstreetmap.org/node/4680654390",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8301120685": {
+    "url": "https://www.openstreetmap.org/node/8301120685",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10790320897": {
+    "url": "https://www.openstreetmap.org/node/10790320897",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-1311690393": {
+    "url": "https://www.openstreetmap.org/way/1311690393",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12110477507": {
+    "url": "https://www.openstreetmap.org/node/12110477507",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5030238621": {
+    "url": "https://www.openstreetmap.org/node/5030238621",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4365935000": {
+    "url": "https://www.openstreetmap.org/node/4365935000",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11234424945": {
+    "url": "https://www.openstreetmap.org/node/11234424945",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7073599834": {
+    "url": "https://www.openstreetmap.org/node/7073599834",
+    "il": "Kocaeli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7276483792": {
+    "url": "https://www.openstreetmap.org/node/7276483792",
+    "il": "Konya",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5113036021": {
+    "url": "https://www.openstreetmap.org/node/5113036021",
+    "il": "Konya",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6875755085": {
+    "url": "https://www.openstreetmap.org/node/6875755085",
+    "il": "Konya",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-11758874200": {
+    "url": "https://www.openstreetmap.org/node/11758874200",
+    "il": "Konya",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4390838589": {
+    "url": "https://www.openstreetmap.org/node/4390838589",
+    "il": "Konya",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13072138753": {
+    "url": "https://www.openstreetmap.org/node/13072138753",
+    "il": "Konya",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13003850102": {
+    "url": "https://www.openstreetmap.org/node/13003850102",
+    "il": "Malatya",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10284504155": {
+    "url": "https://www.openstreetmap.org/node/10284504155",
+    "il": "Mardin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6440260786": {
+    "url": "https://www.openstreetmap.org/node/6440260786",
+    "il": "Mardin",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8477092513": {
+    "url": "https://www.openstreetmap.org/node/8477092513",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8050976032": {
+    "url": "https://www.openstreetmap.org/node/8050976032",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13838627401": {
+    "url": "https://www.openstreetmap.org/node/13838627401",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-1536430097": {
+    "url": "https://www.openstreetmap.org/node/1536430097",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12468783001": {
+    "url": "https://www.openstreetmap.org/node/12468783001",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13266978701": {
+    "url": "https://www.openstreetmap.org/node/13266978701",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-13760431403": {
+    "url": "https://www.openstreetmap.org/node/13760431403",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12483955501": {
+    "url": "https://www.openstreetmap.org/node/12483955501",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12537190901": {
+    "url": "https://www.openstreetmap.org/node/12537190901",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12468614401": {
+    "url": "https://www.openstreetmap.org/node/12468614401",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12479377701": {
+    "url": "https://www.openstreetmap.org/node/12479377701",
+    "il": "Muğla",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-888702983": {
+    "url": "https://www.openstreetmap.org/way/888702983",
+    "il": "Osmaniye",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6620300085": {
+    "url": "https://www.openstreetmap.org/node/6620300085",
+    "il": "Osmaniye",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7841083385": {
+    "url": "https://www.openstreetmap.org/node/7841083385",
+    "il": "Osmaniye",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-8046289768": {
+    "url": "https://www.openstreetmap.org/node/8046289768",
+    "il": "Samsun",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5073352725": {
+    "url": "https://www.openstreetmap.org/node/5073352725",
+    "il": "Samsun",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-10034672583": {
+    "url": "https://www.openstreetmap.org/node/10034672583",
+    "il": "Samsun",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12453002385": {
+    "url": "https://www.openstreetmap.org/node/12453002385",
+    "il": "Şanlıurfa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12368202861": {
+    "url": "https://www.openstreetmap.org/node/12368202861",
+    "il": "Şanlıurfa",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-207843173": {
+    "url": "https://www.openstreetmap.org/way/207843173",
+    "il": "Sinop",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6595571371": {
+    "url": "https://www.openstreetmap.org/node/6595571371",
+    "il": "Sinop",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4401406289": {
+    "url": "https://www.openstreetmap.org/node/4401406289",
+    "il": "Sinop",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6822679086": {
+    "url": "https://www.openstreetmap.org/node/6822679086",
+    "il": "Sivas",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3331760465": {
+    "url": "https://www.openstreetmap.org/node/3331760465",
+    "il": "Tokat",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3339661880": {
+    "url": "https://www.openstreetmap.org/node/3339661880",
+    "il": "Trabzon",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5078789723": {
+    "url": "https://www.openstreetmap.org/node/5078789723",
+    "il": "Trabzon",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6624714285": {
+    "url": "https://www.openstreetmap.org/node/6624714285",
+    "il": "Trabzon",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6485024720": {
+    "url": "https://www.openstreetmap.org/node/6485024720",
+    "il": "Trabzon",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6641663887": {
+    "url": "https://www.openstreetmap.org/node/6641663887",
+    "il": "Trabzon",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-7193164585": {
+    "url": "https://www.openstreetmap.org/node/7193164585",
+    "il": "Tunceli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-5661470024": {
+    "url": "https://www.openstreetmap.org/node/5661470024",
+    "il": "Tunceli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12782224009": {
+    "url": "https://www.openstreetmap.org/node/12782224009",
+    "il": "Tunceli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6356718686": {
+    "url": "https://www.openstreetmap.org/node/6356718686",
+    "il": "Tunceli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-6918671585": {
+    "url": "https://www.openstreetmap.org/node/6918671585",
+    "il": "Tunceli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-9832295917": {
+    "url": "https://www.openstreetmap.org/node/9832295917",
+    "il": "Tunceli",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14122351704": {
+    "url": "https://www.openstreetmap.org/node/14122351704",
+    "il": "Van",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-way-339772230": {
+    "url": "https://www.openstreetmap.org/way/339772230",
+    "il": "Van",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-4526786983": {
+    "url": "https://www.openstreetmap.org/node/4526786983",
+    "il": "Van",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-14137435401": {
+    "url": "https://www.openstreetmap.org/node/14137435401",
+    "il": "Van",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-12988266925": {
+    "url": "https://www.openstreetmap.org/node/12988266925",
+    "il": "Van",
+    "gorulme": "2026-10-08",
+    "durum": "aktif"
+  },
+  "osm-node-3260727093": {
+    "url": "https://www.openstreetmap.org/node/3260727093",
+    "il": "Zonguldak",
     "gorulme": "2026-10-08",
     "durum": "aktif"
   }
