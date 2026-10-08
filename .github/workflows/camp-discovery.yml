@@ -18,7 +18,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: rotalink-data-write
+  group: rotalink-camp-write
   cancel-in-progress: false
 
 jobs:
