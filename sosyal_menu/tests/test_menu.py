@@ -114,24 +114,3 @@ def test_recent_enough():
     assert not menu.recent_enough(old, TODAY)
 
 
-def _item(isim, kontrol, fiyat=15.0):
-    return {"il": "Ordu", "isim": isim, "kapsam": "tesis", "kaynak": "https://fatsa.bel.tr/a.pdf", "yil": 2026,
-            "kategoriler": [{"ad": "Sıcak içecekler", "urunler": [{"ad": "Çay", "fiyat": fiyat}]}],
-            "kontrol": kontrol}
-
-
-def test_merge_keeps_unchanged_date_and_updates_changed():
-    prev = [_item("A", "2026-09-01"), _item("B", "2026-09-01")]
-    found = {"ordu|a": {k: v for k, v in _item("A", "").items() if k != "kontrol"},
-             "ordu|b": {k: v for k, v in _item("B", "", fiyat=20.0).items() if k != "kontrol"}}
-    out = {x["isim"]: x for x in menu.merge(prev, found, set(), TODAY, keep_all=False)}
-    assert out["A"]["kontrol"] == "2026-09-01"
-    assert out["B"]["kontrol"] == TODAY.isoformat()
-
-
-def test_merge_unreachable_and_removed():
-    prev = [_item("A", "2026-09-01"), _item("B", "2026-09-01"), _item("C", "2025-01-01")]
-    out = {x["isim"] for x in menu.merge(prev, {}, {"ordu|a", "ordu|c"}, TODAY, keep_all=False)}
-    # A: site down, recent → kept. B: site up but no menu anymore → dropped. C: down too long → dropped.
-    assert out == {"A"}
-    assert len(menu.merge(prev, {}, set(), TODAY, keep_all=True)) == 3

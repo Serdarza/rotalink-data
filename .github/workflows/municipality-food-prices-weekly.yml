@@ -1,18 +1,17 @@
-name: Belediye tesisleri yemek fiyatları (aylık tam tarama)
+name: Belediye tesisleri yemek fiyatları (haftalık kaynak kontrolü)
 
+# Yalnız daha önce fiyat bulunan resmî kaynakları yeniden indirir; SHA256 aynıysa
+# yeniden ayrıştırmaz, değiştiyse fiyatları günceller, kaynak kaybolduysa
+# fiyatları silmeden "kaynak_bulunamadi" olarak işaretler.
 on:
   schedule:
-    - cron: "0 4 5 * *"   # her ayın 5'i 04:00 UTC = 07:00 Türkiye
+    - cron: "0 5 * * 1"   # her pazartesi 05:00 UTC = 08:00 Türkiye
   workflow_dispatch:
     inputs:
       dry_run:
         description: "DRY RUN (hiçbir dosyaya yazmaz)"
         type: boolean
         default: true
-      only_il:
-        description: "Yalnız bu iller (virgülle; boş = 81 il)"
-        type: string
-        default: ""
 
 permissions:
   contents: write
@@ -22,15 +21,13 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  tarama:
+  kontrol:
     runs-on: ubuntu-latest
-    timeout-minutes: 340
+    timeout-minutes: 60
     env:
-      MENU_MODE: full
+      MENU_MODE: known
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
-      # Kullanıcı girdisi yalnız ortam değişkeni olarak aktarılır; betik içine gömülmez.
-      MENU_ONLY_IL: ${{ github.event_name == 'workflow_dispatch' && inputs.only_il || '' }}
-      MENU_TIME_BUDGET_MIN: "290"
+      MENU_TIME_BUDGET_MIN: "45"
       PYTHONUTF8: "1"
     steps:
       - uses: actions/checkout@v4
@@ -47,7 +44,7 @@ jobs:
       - name: Testler
         run: python -m pytest sosyal_menu/tests -q
 
-      - name: Resmî belediye sitelerinde fiyat taraması
+      - name: Bilinen kaynakları kontrol et
         run: python sosyal_menu/menu.py
 
       - name: JSON sözdizimi
@@ -58,7 +55,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: yemek-fiyat-raporu-${{ github.run_number }}
+          name: yemek-fiyat-haftalik-${{ github.run_number }}
           path: sosyal_menu/reports/
           if-no-files-found: ignore
 
@@ -68,7 +65,7 @@ jobs:
         run: |
           git config user.name "rotalink-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for p in sosyal_menuler.json sosyal_menu/state.json sosyal_menu/kaynaklar.json \
+          for p in sosyal_menuler.json sosyal_menu/kaynaklar.json \
                    sosyal_menu/fiyat_gecmisi.json sosyal_menu/degisiklikler.json sosyal_menu/inceleme.json; do
             if [ -e "$p" ]; then git add "$p"; fi
           done
@@ -76,7 +73,7 @@ jobs:
             echo "Değişiklik yok, commit atılmadı."
             exit 0
           fi
-          git commit -m "chore: monthly municipal facility food price update"
+          git commit -m "chore: weekly municipal facility food price check"
           git pull --rebase origin main
           git push origin HEAD:main
           echo "pushed=true" >> "$GITHUB_OUTPUT"
