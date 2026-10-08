@@ -34,6 +34,63 @@ def uygunsuz_ad(ad: str) -> bool:
     return any(x in f for x in ("yasak", "forbidden", "kamp yapilmaz"))
 
 
+_YABANCI_YAZI = ("CYRILLIC", "GREEK", "ARABIC", "HEBREW", "ARMENIAN", "GEORGIAN", "CJK", "HANGUL", "HIRAGANA", "KATAKANA")
+_TR_HARF = set("çğışİÇĞŞ")
+# Türkçe tabelalarda da kullanılan genel kamp sözcükleri: tek başına Türkçe sayılmaz.
+_NOTR = {
+    "camping", "camp", "camper", "campers", "caravan", "park", "bungalow", "bungalows",
+    "club", "mocamp", "glamping", "pension", "pansion", "resort", "hostel", "motel",
+    "otel", "cafe", "café", "restaurant", "beach",
+}
+_YABANCI = {
+    # İngilizce
+    "a", "an", "the", "and", "or", "of", "on", "in", "at", "to", "for", "with", "by", "under",
+    "near", "top", "big", "small", "nice", "good", "very", "not", "no", "free", "wild", "place",
+    "places", "spot", "tent", "tents", "view", "views", "hill", "bay", "village", "square", "point",
+    "space", "lots", "possible", "make", "fire", "cars", "car", "grass", "water", "trees", "tree",
+    "stone", "oven", "cleaned", "working", "closed", "flat", "campground", "campsite", "site",
+    "kampsite", "house", "garden", "green", "star", "peak", "king", "pool", "windy", "flying",
+    "goat", "salt", "desert", "bees", "honey", "can", "be", "flooded", "rainy", "season",
+    "climbers", "bro", "gate", "woods", "sea", "lake", "river", "forest", "mountain", "one",
+    "caming", "caravans", "picnic", "tables", "private", "per", "vehicle", "tentspace", "perfect",
+    "overnight", "self", "organized", "open", "municipal", "phase", "stream", "sure", "that", "it",
+    "is", "accessible", "secret", "reflections", "front", "lagoon", "sugar",
+    # Almanca / Fransızca
+    "dort", "darf", "man", "nicht", "mehr", "übernachten", "geschlossen", "platz", "zelt",
+    "campingplatz", "zeltplatz", "sonntagmorgenmarkt",
+    "le", "la", "les", "de", "du", "des", "et",
+}
+
+
+def turkce_ad(ad: str) -> bool:
+    """Ad Türkçe mi: yabancı alfabe, sözcüksüz veya yalnız yabancı sözcüklü adlar değildir.
+
+    Türkçe harf (ç ğ ı ş İ) içeren ad Türkçedir. Yabancı sözcükler tanınmayan
+    sözcüklerin (Kekova, Olympos…) en az iki katıysa ad yabancı açıklama sayılır:
+    "Place for tent", "Кемпинг" yayımlanmaz, "Mustafa's Place" yayımlanır.
+    """
+    import re
+    import unicodedata
+
+    for ch in ad:
+        if ch.isalpha():
+            name = unicodedata.name(ch, "")
+            if any(s in name for s in _YABANCI_YAZI):
+                return False
+    words = [w for w in re.findall(r"[^\W\d_]+", ad.lower()) if len(w) > 1]
+    if not words:
+        return False
+    yabanci = diger = 0
+    for w in words:
+        if any(c in _TR_HARF for c in w):
+            return True
+        if w in _YABANCI:
+            yabanci += 1
+        elif w not in _NOTR:
+            diger += 1
+    return diger > 0 and yabanci < 2 * diger
+
+
 def yasak(tags: dict) -> bool:
     if fold(str(tags.get("abandoned") or "")) in {"yes", "true"}:
         return True
@@ -246,6 +303,14 @@ def birlestir(prev: list[dict], found: list[dict], scanned: set[str], failed: se
                 "tur": "kamp_yasak", "id": rec["id"], "il": rec.get("il"),
                 "ad": rec.get("ad"), "tarih": today.isoformat(),
                 "detay": "Kamp yasağı veya tabela kaydı yayımlanmadı.",
+            })
+        elif rec.get("durum") == "aktif" and not turkce_ad(rec.get("ad") or ""):
+            rec["durum"] = "inceleme"
+            rec["dogrulama"] = "inceleniyor"
+            reviews.append({
+                "tur": "turkce_olmayan_ad", "id": rec["id"], "il": rec.get("il"),
+                "ad": rec.get("ad"), "tarih": today.isoformat(),
+                "detay": "Türkçe adı olmayan kayıt yayımlanmadı.",
             })
 
     out.sort(key=lambda r: (fold(r.get("il", "")), fold(r.get("ad", ""))))

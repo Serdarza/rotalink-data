@@ -5,7 +5,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import iller  # noqa: E402
-from model import birlestir, cakisma, from_osm, kamp_turu, ucret  # noqa: E402
+from model import birlestir, cakisma, from_osm, kamp_turu, turkce_ad, ucret  # noqa: E402
 
 TODAY = date(2026, 10, 8)
 
@@ -39,6 +39,23 @@ def test_yasak_tabelasi_yayinlanmaz():
     items, reviews, stats = birlestir([old], [], set(), set(), TODAY, {})
     assert stats["aktif"] == 0
     assert reviews[0]["tur"] == "kamp_yasak"
+
+
+def test_turkce_olmayan_ad_yayinlanmaz_silinmez():
+    for ad in ("Kaş Camping", "Kekova camping", "Mustafa's Place", "Olympos Woods",
+               "Serbest kamp", "Nirvana Camping & Restaurant", "Ada Camping"):
+        assert turkce_ad(ad), ad
+    for ad in ("Место под палатку", "Кемпинг", "2 tents", "Place for tent", "Nice view",
+               "1", "Camping", "Dort darf man nicht mehr übernachten!!", "geschlossen",
+               "Camp, good place for tent and Hamak", "Wild camp"):
+        assert not turkce_ad(ad), ad
+    rec = from_osm("Muğla", _el(id=5, name="Place for tent"), TODAY)
+    items, reviews, stats = birlestir([], [rec], {"Muğla"}, set(), TODAY, {})
+    assert stats["aktif"] == 0 and len(items) == 1
+    assert items[0]["durum"] == "inceleme"
+    assert reviews[0]["tur"] == "turkce_olmayan_ad"
+    tr = from_osm("Muğla", _el(id=6, name="Place for tent", **{"name:tr": "Çadır Alanı"}), TODAY)
+    assert tr["ad"] == "Çadır Alanı"
 
 
 def test_yasak_ve_glamping():
