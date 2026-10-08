@@ -311,9 +311,12 @@ NONFOOD_HINT = re.compile(r"\b(mah|mahalle|cad|cadde|sok|sokak|no|tel|telefon|fa
 
 _PRICE_NUM = r"\d{1,3}(?:\.\d{3})+(?:,\d{1,2})?|\d+(?:[.,]\d{1,2})?"
 _LINE_RE = re.compile(
-    rf"^(?P<name>.*?[A-Za-zÇĞİÖŞÜçğıöşüâîû].*?)[\s:.\-–…]*"
-    rf"(?P<prices>(?:\s*(?:₺\s*)?(?:{_PRICE_NUM})\s*(?:₺|TL\.?|tl\.?|Tl\.?)?)+)\s*$"
+    rf"^(?P<name>[^A-Za-zÇĞİÖŞÜçğıöşüâîû]*[A-Za-zÇĞİÖŞÜçğıöşüâîû].*?)[\s:.\-–…]*"
+    rf"(?P<prices>(?>\s*(?:₺\s*)?(?:{_PRICE_NUM})(?!\d)(?![.,]\d)\s*(?:₺|TL\.?|tl\.?|Tl\.?)?)+)\s*$"
 )
+# Menü satırları kısadır; çok uzun satırlar (tablo dökümleri) geri izleme maliyeti nedeniyle atlanır.
+MAX_LINE_LEN = 160
+_LINE_END_RE = re.compile(r"(?:\d|₺|tl\.?)\s*$", re.I)
 _ONLY_PRICE_RE = re.compile(rf"^(?:₺\s*)?(?:{_PRICE_NUM})\s*(?:₺|TL\.?|tl\.?)?$")
 _NUM_RE = re.compile(_PRICE_NUM)
 _LAW_RE = re.compile(r"\b\d{3,4}\s*S\.?\s*K\.?\s*\d+\.?\s*(?:md|mad)\.?", re.I)
@@ -360,6 +363,8 @@ def split_item(line: str) -> tuple[str, float] | None:
     Satırda birden çok fiyat varsa (eski yıl / yeni yıl sütunu) sondaki alınır; küçük porsiyon
     sayıları (1, 1,5) ada eklenir. Üçten fazla fiyatlı satırlar (organizasyon tabloları) atlanır.
     """
+    if len(line) > MAX_LINE_LEN or not _LINE_END_RE.search(line):
+        return None
     m = _LINE_RE.match(line)
     if not m or m.group("name").rstrip().endswith("/"):
         return None
