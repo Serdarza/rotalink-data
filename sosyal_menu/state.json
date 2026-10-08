@@ -1,5 +1,1390 @@
 {
  "alanlar": {
+  "Adana|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Adana|Sarıçam": {
+   "alan": "saricam.bel.tr"
+  },
+  "Adana|Seyhan": {
+   "alan": "seyhan.bel.tr"
+  },
+  "Adana|Yüreğir": {
+   "alan": "yuregir.bel.tr"
+  },
+  "Adana|Çukurova": {
+   "alan": "cukurova.bel.tr"
+  },
+  "Adıyaman|": {
+   "alan": "adiyaman.bel.tr"
+  },
+  "Adıyaman|Kahta": {
+   "alan": "kahta.bel.tr"
+  },
+  "Afyonkarahisar|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Afyonkarahisar|Bolvadin": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Afyonkarahisar|Dinar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Afyonkarahisar|Emirdağ": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Afyonkarahisar|Sandıklı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Afyonkarahisar|Sinanpaşa": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Afyonkarahisar|Çobanlar": {
+   "alan": "cobanlar.bel.tr"
+  },
+  "Aksaray|": {
+   "alan": "aksaray.bel.tr"
+  },
+  "Aksaray|Gülağaç": {
+   "alan": "gulagac.bel.tr"
+  },
+  "Aksaray|Güzelyurt": {
+   "alan": "guzelyurt.bel.tr"
+  },
+  "Aksaray|Ortaköy": {
+   "alan": "ortakoy.bel.tr"
+  },
+  "Amasya|": {
+   "alan": "amasya.bel.tr"
+  },
+  "Amasya|Merzifon": {
+   "alan": "merzifon.bel.tr"
+  },
+  "Amasya|Suluova": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Amasya|Taşova": {
+   "alan": "tasova.bel.tr"
+  },
+  "Ankara|": {
+   "alan": "ankara.bel.tr"
+  },
+  "Ankara|Altındağ": {
+   "alan": "altindag.bel.tr"
+  },
+  "Ankara|Etimesgut": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Ankara|Gölbaşı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Ankara|Keçiören": {
+   "alan": "kecioren.bel.tr"
+  },
+  "Ankara|Mamak": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Ankara|Sincan": {
+   "alan": "sincan.bel.tr"
+  },
+  "Ankara|Yenimahalle": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Ankara|Çankaya": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Antalya|": {
+   "alan": "antalya.bel.tr"
+  },
+  "Antalya|Aksu": {
+   "alan": "aksu.bel.tr"
+  },
+  "Antalya|Alanya": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Antalya|Döşemealtı": {
+   "alan": "dosemealti.bel.tr"
+  },
+  "Antalya|Kepez": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Antalya|Konyaaltı": {
+   "alan": "konyaalti.bel.tr"
+  },
+  "Antalya|Muratpaşa": {
+   "alan": "muratpasa.bel.tr"
+  },
+  "Antalya|Serik": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Ardahan|": {
+   "alan": "ardahan.bel.tr"
+  },
+  "Ardahan|Göle": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Ardahan|Posof": {
+   "alan": "posof.bel.tr"
+  },
+  "Ardahan|Çıldır": {
+   "alan": "cildir.bel.tr"
+  },
+  "Artvin|": {
+   "alan": "artvin.bel.tr"
+  },
+  "Artvin|Ardanuç": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Artvin|Arhavi": {
+   "alan": "arhavi.bel.tr"
+  },
+  "Artvin|Borçka": {
+   "alan": "borcka.bel.tr"
+  },
+  "Artvin|Hopa": {
+   "alan": "hopa.bel.tr"
+  },
+  "Artvin|Yusufeli": {
+   "alan": "yusufeli.bel.tr"
+  },
+  "Artvin|Şavşat": {
+   "alan": "savsat.bel.tr"
+  },
+  "Aydın|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Aydın|Didim": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Aydın|Efeler": {
+   "alan": "efeler.bel.tr"
+  },
+  "Aydın|Kuşadası": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Aydın|Nazilli": {
+   "alan": "nazilli.bel.tr"
+  },
+  "Aydın|Söke": {
+   "alan": "soke.bel.tr"
+  },
+  "Ağrı|": {
+   "alan": "agri.bel.tr"
+  },
+  "Ağrı|Doğubayazıt": {
+   "alan": "dogubayazit.bel.tr"
+  },
+  "Ağrı|Eleşkirt": {
+   "alan": "eleskirt.bel.tr"
+  },
+  "Ağrı|Patnos": {
+   "alan": "patnos.bel.tr"
+  },
+  "Balıkesir|": {
+   "alan": "balikesir.bel.tr"
+  },
+  "Balıkesir|Altıeylül": {
+   "alan": "altieylul.bel.tr"
+  },
+  "Balıkesir|Ayvalık": {
+   "alan": "ayvalik.bel.tr"
+  },
+  "Balıkesir|Bandırma": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Balıkesir|Bigadiç": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Balıkesir|Burhaniye": {
+   "alan": "burhaniye.bel.tr"
+  },
+  "Balıkesir|Edremit": {
+   "alan": "edremit.bel.tr"
+  },
+  "Balıkesir|Erdek": {
+   "alan": "erdek.bel.tr"
+  },
+  "Balıkesir|Gönen": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Balıkesir|Karesi": {
+   "alan": "karesi.bel.tr"
+  },
+  "Balıkesir|Marmara": {
+   "alan": "marmara.bel.tr"
+  },
+  "Balıkesir|Susurluk": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Balıkesir|Sındırgı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Bartın|": {
+   "alan": "bartin.bel.tr"
+  },
+  "Bartın|Amasra": {
+   "alan": "amasra.bel.tr"
+  },
+  "Bartın|Kurucaşile": {
+   "alan": "kurucasile.bel.tr"
+  },
+  "Bartın|Ulus": {
+   "alan": "ulus.bel.tr"
+  },
+  "Batman|": {
+   "alan": "batman.bel.tr"
+  },
+  "Batman|Hasankeyf": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Batman|Kozluk": {
+   "alan": "kozluk.bel.tr"
+  },
+  "Batman|Sason": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Bayburt|": {
+   "alan": "bayburt.bel.tr"
+  },
+  "Bayburt|Aydıntepe": {
+   "alan": "aydintepe.bel.tr"
+  },
+  "Bayburt|Demirözü": {
+   "alan": "demirozu.bel.tr"
+  },
+  "Bilecik|": {
+   "alan": "bilecik.bel.tr"
+  },
+  "Bilecik|Bozüyük": {
+   "alan": "bozuyuk.bel.tr"
+  },
+  "Bingöl|": {
+   "alan": "bingol.bel.tr"
+  },
+  "Bitlis|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Bitlis|Ahlat": {
+   "alan": "ahlat.bel.tr"
+  },
+  "Bitlis|Tatvan": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Bolu|": {
+   "alan": "bolu.bel.tr"
+  },
+  "Bolu|Gerede": {
+   "alan": "gerede.bel.tr"
+  },
+  "Bolu|Göynük": {
+   "alan": "goynuk.bel.tr"
+  },
+  "Bolu|Mengen": {
+   "alan": "mengen.bel.tr"
+  },
+  "Bolu|Seben": {
+   "alan": "seben.bel.tr"
+  },
+  "Bolu|Yeniçağa": {
+   "alan": "yenicaga.bel.tr"
+  },
+  "Burdur|": {
+   "alan": "burdur.bel.tr"
+  },
+  "Burdur|Bucak": {
+   "alan": "bucak.bel.tr"
+  },
+  "Bursa|": {
+   "alan": "bursa.bel.tr"
+  },
+  "Bursa|Gemlik": {
+   "alan": "gemlik.bel.tr"
+  },
+  "Bursa|Mudanya": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Bursa|Nilüfer": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Bursa|Orhangazi": {
+   "alan": "orhangazi.bel.tr"
+  },
+  "Bursa|Osmangazi": {
+   "alan": "osmangazi.bel.tr"
+  },
+  "Bursa|Yıldırım": {
+   "alan": "yildirim.bel.tr"
+  },
+  "Denizli|": {
+   "alan": "denizli.bel.tr"
+  },
+  "Denizli|Acıpayam": {
+   "alan": "acipayam.bel.tr"
+  },
+  "Denizli|Buldan": {
+   "alan": "buldan.bel.tr"
+  },
+  "Denizli|Honaz": {
+   "alan": "honaz.bel.tr"
+  },
+  "Denizli|Merkezefendi": {
+   "alan": "merkezefendi.bel.tr"
+  },
+  "Denizli|Pamukkale": {
+   "alan": "pamukkale.bel.tr"
+  },
+  "Denizli|Serinhisar": {
+   "alan": "serinhisar.bel.tr"
+  },
+  "Denizli|Tavas": {
+   "alan": "tavas.bel.tr"
+  },
+  "Denizli|Çardak": {
+   "alan": "cardak.bel.tr"
+  },
+  "Denizli|Çivril": {
+   "alan": "civril.bel.tr"
+  },
+  "Diyarbakır|": {
+   "alan": "diyarbakir.bel.tr"
+  },
+  "Diyarbakır|Bağlar": {
+   "alan": "baglar.bel.tr"
+  },
+  "Diyarbakır|Bismil": {
+   "alan": "bismil.bel.tr"
+  },
+  "Diyarbakır|Ergani": {
+   "alan": "ergani.bel.tr"
+  },
+  "Diyarbakır|Eğil": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Diyarbakır|Kayapınar": {
+   "alan": "kayapinar.bel.tr"
+  },
+  "Diyarbakır|Silvan": {
+   "alan": "silvan.bel.tr"
+  },
+  "Diyarbakır|Sur": {
+   "alan": "sur.bel.tr"
+  },
+  "Diyarbakır|Yenişehir": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Diyarbakır|Çermik": {
+   "alan": "cermik.bel.tr"
+  },
+  "Diyarbakır|Çüngüş": {
+   "alan": "cungus.bel.tr"
+  },
+  "Düzce|": {
+   "alan": "duzce.bel.tr"
+  },
+  "Düzce|Akçakoca": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Düzce|Cumayeri": {
+   "alan": "cumayeri.bel.tr"
+  },
+  "Düzce|Gölyaka": {
+   "alan": "golyaka.bel.tr"
+  },
+  "Düzce|Gümüşova": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Düzce|Çilimli": {
+   "alan": "cilimli.bel.tr"
+  },
+  "Edirne|": {
+   "alan": "edirne.bel.tr"
+  },
+  "Edirne|Enez": {
+   "alan": "enez.bel.tr"
+  },
+  "Edirne|Havsa": {
+   "alan": "havsa.bel.tr"
+  },
+  "Edirne|Keşan": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Edirne|Süloğlu": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Edirne|Uzunköprü": {
+   "alan": "uzunkopru.bel.tr"
+  },
+  "Edirne|İpsala": {
+   "alan": "ipsala.bel.tr"
+  },
+  "Elazığ|": {
+   "alan": "elazig.bel.tr"
+  },
+  "Elazığ|Baskil": {
+   "alan": "baskil.bel.tr"
+  },
+  "Elazığ|Karakoçan": {
+   "alan": "karakocan.bel.tr"
+  },
+  "Elazığ|Keban": {
+   "alan": "keban.bel.tr"
+  },
+  "Elazığ|Kovancılar": {
+   "alan": "kovancilar.bel.tr"
+  },
+  "Elazığ|Maden": {
+   "alan": "maden.bel.tr"
+  },
+  "Elazığ|Palu": {
+   "alan": "palu.bel.tr"
+  },
+  "Elazığ|Sivrice": {
+   "alan": "sivrice.bel.tr"
+  },
+  "Erzincan|": {
+   "alan": "erzincan.bel.tr"
+  },
+  "Erzincan|Kemah": {
+   "alan": "kemah.bel.tr"
+  },
+  "Erzincan|Kemaliye": {
+   "alan": "kemaliye.bel.tr"
+  },
+  "Erzincan|Refahiye": {
+   "alan": "refahiye.bel.tr"
+  },
+  "Erzincan|Tercan": {
+   "alan": "tercan.bel.tr"
+  },
+  "Erzincan|Çayırlı": {
+   "alan": "cayirli.bel.tr"
+  },
+  "Erzincan|Üzümlü": {
+   "alan": "uzumlu.bel.tr"
+  },
+  "Erzincan|İliç": {
+   "alan": "ilic.bel.tr"
+  },
+  "Erzurum|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Erzurum|Aziziye": {
+   "alan": "aziziye.bel.tr"
+  },
+  "Erzurum|Hınıs": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Erzurum|Karaçoban": {
+   "alan": "karacoban.bel.tr"
+  },
+  "Erzurum|Narman": {
+   "alan": "narman.bel.tr"
+  },
+  "Erzurum|Oltu": {
+   "alan": "oltu.bel.tr"
+  },
+  "Erzurum|Palandöken": {
+   "alan": "palandoken.bel.tr"
+  },
+  "Erzurum|Pasinler": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Erzurum|Uzundere": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Erzurum|Yakutiye": {
+   "alan": "yakutiye.bel.tr"
+  },
+  "Erzurum|İspir": {
+   "alan": "ispir.bel.tr"
+  },
+  "Eskişehir|": {
+   "alan": "eskisehir.bel.tr"
+  },
+  "Eskişehir|Beylikova": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Eskişehir|Mihalıççık": {
+   "alan": "mihaliccik.bel.tr"
+  },
+  "Eskişehir|Odunpazarı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Eskişehir|Seyitgazi": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Eskişehir|Sivrihisar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Eskişehir|Tepebaşı": {
+   "alan": "tepebasi.bel.tr"
+  },
+  "Eskişehir|Çifteler": {
+   "alan": "cifteler.bel.tr"
+  },
+  "Gaziantep|": {
+   "alan": "gaziantep.bel.tr"
+  },
+  "Gaziantep|Araban": {
+   "alan": "araban.bel.tr"
+  },
+  "Gaziantep|Nizip": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Gaziantep|Yavuzeli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Gaziantep|İslahiye": {
+   "alan": "islahiye.bel.tr"
+  },
+  "Gaziantep|Şahinbey": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Gaziantep|Şehitkamil": {
+   "alan": "sehitkamil.bel.tr"
+  },
+  "Giresun|": {
+   "alan": "giresun.bel.tr"
+  },
+  "Giresun|Bulancak": {
+   "alan": "bulancak.bel.tr"
+  },
+  "Giresun|Dereli": {
+   "alan": "dereli.bel.tr"
+  },
+  "Giresun|Espiye": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Giresun|Görele": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Giresun|Piraziz": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Giresun|Tirebolu": {
+   "alan": "tirebolu.bel.tr"
+  },
+  "Giresun|Çanakçı": {
+   "alan": "canakci.bel.tr"
+  },
+  "Giresun|Şebinkarahisar": {
+   "alan": "sebinkarahisar.bel.tr"
+  },
+  "Gümüşhane|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Gümüşhane|Kelkit": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Gümüşhane|Köse": {
+   "alan": "kose.bel.tr"
+  },
+  "Gümüşhane|Kürtün": {
+   "alan": "kurtun.bel.tr"
+  },
+  "Gümüşhane|Torul": {
+   "alan": "torul.bel.tr"
+  },
+  "Gümüşhane|Şiran": {
+   "alan": "siran.bel.tr"
+  },
+  "Hakkari|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Hakkari|Derecik": {
+   "alan": "derecik.bel.tr"
+  },
+  "Hakkari|Yüksekova": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Hakkari|Çukurca": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Hakkari|Şemdinli": {
+   "alan": "semdinli.bel.tr"
+  },
+  "Hatay|": {
+   "alan": "hatay.bel.tr"
+  },
+  "Hatay|Altınözü": {
+   "alan": "altinozu.bel.tr"
+  },
+  "Hatay|Antakya": {
+   "alan": "antakya.bel.tr"
+  },
+  "Hatay|Arsuz": {
+   "alan": "arsuz.bel.tr"
+  },
+  "Hatay|Belen": {
+   "alan": "belen.bel.tr"
+  },
+  "Hatay|Defne": {
+   "alan": "defne.bel.tr"
+  },
+  "Hatay|Dörtyol": {
+   "alan": "dortyol.bel.tr"
+  },
+  "Hatay|Reyhanlı": {
+   "alan": "reyhanli.bel.tr"
+  },
+  "Hatay|Yayladağı": {
+   "alan": "yayladagi.bel.tr"
+  },
+  "Hatay|İskenderun": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Isparta|": {
+   "alan": "isparta.bel.tr"
+  },
+  "Isparta|Eğirdir": {
+   "alan": "egirdir.bel.tr"
+  },
+  "Isparta|Senirkent": {
+   "alan": "senirkent.bel.tr"
+  },
+  "Isparta|Sütçüler": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Isparta|Yalvaç": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Isparta|Yenişarbademli": {
+   "alan": "yenisarbademli.bel.tr"
+  },
+  "Iğdır|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Iğdır|Aralık": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Iğdır|Karakoyunlu": {
+   "alan": "karakoyunlu.bel.tr"
+  },
+  "Iğdır|Tuzluca": {
+   "alan": "tuzluca.bel.tr"
+  },
+  "Kahramanmaraş|": {
+   "alan": "kahramanmaras.bel.tr"
+  },
+  "Kahramanmaraş|Afşin": {
+   "alan": "afsin.bel.tr"
+  },
+  "Kahramanmaraş|Andırın": {
+   "alan": "andirin.bel.tr"
+  },
+  "Kahramanmaraş|Elbistan": {
+   "alan": "elbistan.bel.tr"
+  },
+  "Kahramanmaraş|Göksun": {
+   "alan": "goksun.bel.tr"
+  },
+  "Kahramanmaraş|Onikişubat": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kahramanmaraş|Pazarcık": {
+   "alan": "pazarcik.bel.tr"
+  },
+  "Kahramanmaraş|Çağlayancerit": {
+   "alan": "caglayancerit.bel.tr"
+  },
+  "Karabük|": {
+   "alan": "karabuk.bel.tr"
+  },
+  "Karabük|Eskipazar": {
+   "alan": "eskipazar.bel.tr"
+  },
+  "Karabük|Safranbolu": {
+   "alan": "safranbolu.bel.tr"
+  },
+  "Karabük|Yenice": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Karaman|": {
+   "alan": "karaman.bel.tr"
+  },
+  "Karaman|Ayrancı": {
+   "alan": "ayranci.bel.tr"
+  },
+  "Karaman|Ermenek": {
+   "alan": "ermenek.bel.tr"
+  },
+  "Karaman|Sarıveliler": {
+   "alan": "sariveliler.bel.tr"
+  },
+  "Kars|": {
+   "alan": "kars.bel.tr"
+  },
+  "Kars|Akyaka": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kars|Arpaçay": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kars|Digor": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kars|Kağızman": {
+   "alan": "kagizman.bel.tr"
+  },
+  "Kars|Sarıkamış": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kars|Selim": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kastamonu|": {
+   "alan": "kastamonu.bel.tr"
+  },
+  "Kastamonu|Abana": {
+   "alan": "abana.bel.tr"
+  },
+  "Kastamonu|Azdavay": {
+   "alan": "azdavay.bel.tr"
+  },
+  "Kastamonu|Cide": {
+   "alan": "cide.bel.tr"
+  },
+  "Kastamonu|Daday": {
+   "alan": "daday.bel.tr"
+  },
+  "Kastamonu|Küre": {
+   "alan": "kure.bel.tr"
+  },
+  "Kastamonu|Pınarbaşı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kastamonu|Taşköprü": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kastamonu|Tosya": {
+   "alan": "tosya.bel.tr"
+  },
+  "Kastamonu|İnebolu": {
+   "alan": "inebolu.bel.tr"
+  },
+  "Kayseri|": {
+   "alan": "kayseri.bel.tr"
+  },
+  "Kayseri|Bünyan": {
+   "alan": "bunyan.bel.tr"
+  },
+  "Kayseri|Develi": {
+   "alan": "develi.bel.tr"
+  },
+  "Kayseri|Hacılar": {
+   "alan": "hacilar.bel.tr"
+  },
+  "Kayseri|Kocasinan": {
+   "alan": "kocasinan.bel.tr"
+  },
+  "Kayseri|Melikgazi": {
+   "alan": "melikgazi.bel.tr"
+  },
+  "Kayseri|Talas": {
+   "alan": "talas.bel.tr"
+  },
+  "Kayseri|Yahyalı": {
+   "alan": "yahyali.bel.tr"
+  },
+  "Kayseri|İncesu": {
+   "alan": "incesu.bel.tr"
+  },
+  "Kilis|": {
+   "alan": "kilis.bel.tr"
+  },
+  "Kilis|Musabeyli": {
+   "alan": "musabeyli.bel.tr"
+  },
+  "Kilis|Polateli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kocaeli|": {
+   "alan": "kocaeli.bel.tr"
+  },
+  "Kocaeli|Başiskele": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kocaeli|Darıca": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kocaeli|Derince": {
+   "alan": "derince.bel.tr"
+  },
+  "Kocaeli|Dilovası": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kocaeli|Gebze": {
+   "alan": "gebze.bel.tr"
+  },
+  "Kocaeli|Gölcük": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kocaeli|Kandıra": {
+   "alan": "kandira.bel.tr"
+  },
+  "Kocaeli|Karamürsel": {
+   "alan": "karamursel.bel.tr"
+  },
+  "Kocaeli|Kartepe": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kocaeli|Körfez": {
+   "alan": "korfez.bel.tr"
+  },
+  "Kocaeli|Çayırova": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kocaeli|İzmit": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Konya|": {
+   "alan": "konya.bel.tr"
+  },
+  "Konya|Akşehir": {
+   "alan": "aksehir.bel.tr"
+  },
+  "Konya|Altınekin": {
+   "alan": "altinekin.bel.tr"
+  },
+  "Konya|Beyşehir": {
+   "alan": "beysehir.bel.tr"
+  },
+  "Konya|Cihanbeyli": {
+   "alan": "cihanbeyli.bel.tr"
+  },
+  "Konya|Derbent": {
+   "alan": "derbent.bel.tr"
+  },
+  "Konya|Ereğli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Konya|Ilgın": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Konya|Kadınhanı": {
+   "alan": "kadinhani.bel.tr"
+  },
+  "Konya|Karapınar": {
+   "alan": "karapinar.bel.tr"
+  },
+  "Konya|Karatay": {
+   "alan": "karatay.bel.tr"
+  },
+  "Konya|Kulu": {
+   "alan": "kulu.bel.tr"
+  },
+  "Konya|Meram": {
+   "alan": "meram.bel.tr"
+  },
+  "Konya|Selçuklu": {
+   "alan": "selcuklu.bel.tr"
+  },
+  "Konya|Seydişehir": {
+   "alan": "seydisehir.bel.tr"
+  },
+  "Konya|Çumra": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kütahya|": {
+   "alan": "kutahya.bel.tr"
+  },
+  "Kütahya|Altıntaş": {
+   "alan": "altintas.bel.tr"
+  },
+  "Kütahya|Aslanapa": {
+   "alan": "aslanapa.bel.tr"
+  },
+  "Kütahya|Domaniç": {
+   "alan": "domanic.bel.tr"
+  },
+  "Kütahya|Dumlupınar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kütahya|Emet": {
+   "alan": "emet.bel.tr"
+  },
+  "Kütahya|Gediz": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kütahya|Hisarcık": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kütahya|Pazarlar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kütahya|Simav": {
+   "alan": "simav.bel.tr"
+  },
+  "Kütahya|Tavşanlı": {
+   "alan": "tavsanli.bel.tr"
+  },
+  "Kütahya|Çavdarhisar": {
+   "alan": "cavdarhisar.bel.tr"
+  },
+  "Kütahya|Şaphane": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kıbrıs|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kıbrıs|Gazimağusa": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kıbrıs|Girne": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kıbrıs|Güzelyurt": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kıbrıs|Lefke": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kıbrıs|Lefkoşa": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kıbrıs|İskele": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kırklareli|": {
+   "alan": "kirklareli.bel.tr"
+  },
+  "Kırklareli|Babaeski": {
+   "alan": "babaeski.bel.tr"
+  },
+  "Kırklareli|Demirköy": {
+   "alan": "demirkoy.bel.tr"
+  },
+  "Kırklareli|Lüleburgaz": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kırklareli|Pınarhisar": {
+   "alan": "pinarhisar.bel.tr"
+  },
+  "Kırklareli|Vize": {
+   "alan": "vize.bel.tr"
+  },
+  "Kırıkkale|": {
+   "alan": "kirikkale.bel.tr"
+  },
+  "Kırıkkale|Bahşılı": {
+   "alan": "bahsili.bel.tr"
+  },
+  "Kırıkkale|Balışeyh": {
+   "alan": "baliseyh.bel.tr"
+  },
+  "Kırıkkale|Delice": {
+   "alan": "delice.bel.tr"
+  },
+  "Kırıkkale|Keskin": {
+   "alan": "keskin.bel.tr"
+  },
+  "Kırıkkale|Yahşihan": {
+   "alan": "yahsihan.bel.tr"
+  },
+  "Kırşehir|": {
+   "alan": "kirsehir.bel.tr"
+  },
+  "Kırşehir|Akpınar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kırşehir|Boztepe": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kırşehir|Kaman": {
+   "alan": "kaman.bel.tr"
+  },
+  "Kırşehir|Mucur": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Kırşehir|Çiçekdağı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Malatya|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Malatya|Akçadağ": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Malatya|Arapgir": {
+   "alan": "arapgir.bel.tr"
+  },
+  "Malatya|Arguvan": {
+   "alan": "arguvan.bel.tr"
+  },
+  "Malatya|Battalgazi": {
+   "alan": "battalgazi.bel.tr"
+  },
+  "Malatya|Darende": {
+   "alan": "darende.bel.tr"
+  },
+  "Malatya|Doğanyol": {
+   "alan": "doganyol.bel.tr"
+  },
+  "Malatya|Doğanşehir": {
+   "alan": "dogansehir.bel.tr"
+  },
+  "Malatya|Hekimhan": {
+   "alan": "hekimhan.bel.tr"
+  },
+  "Malatya|Kale": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Malatya|Kuluncak": {
+   "alan": "kuluncak.bel.tr"
+  },
+  "Malatya|Pütürge": {
+   "alan": "puturge.bel.tr"
+  },
+  "Malatya|Yazıhan": {
+   "alan": "yazihan.bel.tr"
+  },
+  "Malatya|Yeşilyurt": {
+   "alan": "yesilyurt.bel.tr"
+  },
+  "Manisa|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Manisa|Ahmetli": {
+   "alan": "ahmetli.bel.tr"
+  },
+  "Manisa|Akhisar": {
+   "alan": "akhisar.bel.tr"
+  },
+  "Manisa|Alaşehir": {
+   "alan": "alasehir.bel.tr"
+  },
+  "Manisa|Demirci": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Manisa|Gölmarmara": {
+   "alan": "golmarmara.bel.tr"
+  },
+  "Manisa|Gördes": {
+   "alan": "gordes.bel.tr"
+  },
+  "Manisa|Kula": {
+   "alan": "kula.bel.tr"
+  },
+  "Manisa|Kırkağaç": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Manisa|Salihli": {
+   "alan": "salihli.bel.tr"
+  },
+  "Manisa|Saruhanlı": {
+   "alan": "saruhanli.bel.tr"
+  },
+  "Manisa|Sarıgöl": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Manisa|Soma": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Manisa|Turgutlu": {
+   "alan": "turgutlu.bel.tr"
+  },
+  "Manisa|Yunusemre": {
+   "alan": "yunusemre.bel.tr"
+  },
+  "Manisa|Şehzadeler": {
+   "alan": "sehzadeler.bel.tr"
+  },
+  "Mardin|": {
+   "alan": "mardin.bel.tr"
+  },
+  "Mardin|Artuklu": {
+   "alan": "artuklu.bel.tr"
+  },
+  "Mardin|Dargeçit": {
+   "alan": "dargecit.bel.tr"
+  },
+  "Mardin|Derik": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Mardin|Kızıltepe": {
+   "alan": "kiziltepe.bel.tr"
+  },
+  "Mardin|Mazıdağı": {
+   "alan": "mazidagi.bel.tr"
+  },
+  "Mardin|Midyat": {
+   "alan": "midyat.bel.tr"
+  },
+  "Mardin|Nusaybin": {
+   "alan": "nusaybin.bel.tr"
+  },
+  "Mardin|Savur": {
+   "alan": "savur.bel.tr"
+  },
+  "Mardin|Yeşilli": {
+   "alan": "yesilli.bel.tr"
+  },
+  "Mardin|Ömerli": {
+   "alan": "omerli.bel.tr"
+  },
+  "Mersin|": {
+   "alan": "mersin.bel.tr"
+  },
+  "Mersin|Akdeniz": {
+   "alan": "akdeniz.bel.tr"
+  },
+  "Mersin|Anamur": {
+   "alan": "anamur.bel.tr"
+  },
+  "Mersin|Aydıncık": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Mersin|Bozyazı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Mersin|Erdemli": {
+   "alan": "erdemli.bel.tr"
+  },
+  "Mersin|Gülnar": {
+   "alan": "gulnar.bel.tr"
+  },
+  "Mersin|Mezitli": {
+   "alan": "mezitli.bel.tr"
+  },
+  "Mersin|Mut": {
+   "alan": "mut.bel.tr"
+  },
+  "Mersin|Silifke": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Mersin|Tarsus": {
+   "alan": "tarsus.bel.tr"
+  },
+  "Mersin|Toroslar": {
+   "alan": "toroslar.bel.tr"
+  },
+  "Mersin|Yenişehir": {
+   "alan": "yenisehir.bel.tr"
+  },
+  "Mersin|Çamlıyayla": {
+   "alan": "camliyayla.bel.tr"
+  },
+  "Muğla|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Muğla|Bodrum": {
+   "alan": "bodrum.bel.tr"
+  },
+  "Muğla|Dalaman": {
+   "alan": "dalaman.bel.tr"
+  },
+  "Muğla|Datça": {
+   "alan": "datca.bel.tr"
+  },
+  "Muğla|Fethiye": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Muğla|Kavaklıdere": {
+   "alan": "kavaklidere.bel.tr"
+  },
+  "Muğla|Köyceğiz": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Muğla|Marmaris": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Muğla|Menteşe": {
+   "alan": "mentese.bel.tr"
+  },
+  "Muğla|Milas": {
+   "alan": "milas.bel.tr"
+  },
+  "Muğla|Ortaca": {
+   "alan": "ortaca.bel.tr"
+  },
+  "Muğla|Seydikemer": {
+   "alan": "seydikemer.bel.tr"
+  },
+  "Muğla|Ula": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Muğla|Yatağan": {
+   "alan": "yatagan.bel.tr"
+  },
+  "Muş|": {
+   "alan": "mus.bel.tr"
+  },
+  "Muş|Bulanık": {
+   "alan": "bulanik.bel.tr"
+  },
+  "Muş|Hasköy": {
+   "alan": "haskoy.bel.tr"
+  },
+  "Muş|Korkut": {
+   "alan": "korkut.bel.tr"
+  },
+  "Muş|Malazgirt": {
+   "alan": "malazgirt.bel.tr"
+  },
+  "Muş|Varto": {
+   "alan": "varto.bel.tr"
+  },
+  "Nevşehir|": {
+   "alan": "nevsehir.bel.tr"
+  },
+  "Nevşehir|Avanos": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Nevşehir|Derinkuyu": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Nevşehir|Gülşehir": {
+   "alan": "gulsehir.bel.tr"
+  },
+  "Nevşehir|Hacıbektaş": {
+   "alan": "hacibektas.bel.tr"
+  },
+  "Nevşehir|Kozaklı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Nevşehir|Ürgüp": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Niğde|": {
+   "alan": "nigde.bel.tr"
+  },
+  "Niğde|Altunhisar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Niğde|Bor": {
+   "alan": "bor.bel.tr"
+  },
+  "Niğde|Ulukışla": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Niğde|Çamardı": {
+   "alan": "camardi.bel.tr"
+  },
+  "Niğde|Çiftlik": {
+   "alan": "ciftlik.bel.tr"
+  },
   "Ordu|": {
    "alan": "ordu.bel.tr"
   },
@@ -42,6 +1427,14 @@
   "Ordu|Perşembe": {
    "alan": "persembe.bel.tr"
   },
+  "Ordu|Ulubey": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Ordu|Çamaş": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
   "Ordu|Çatalpınar": {
    "alan": "catalpinar.bel.tr"
   },
@@ -54,6 +1447,613 @@
   "Ordu|İkizce": {
    "alan": "ikizce.bel.tr"
   },
+  "Osmaniye|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Osmaniye|Bahçe": {
+   "alan": "bahce.bel.tr"
+  },
+  "Osmaniye|Düziçi": {
+   "alan": "duzici.bel.tr"
+  },
+  "Osmaniye|Hasanbeyli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Osmaniye|Kadirli": {
+   "alan": "kadirli.bel.tr"
+  },
+  "Osmaniye|Sumbas": {
+   "alan": "sumbas.bel.tr"
+  },
+  "Osmaniye|Toprakkale": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Rize|": {
+   "alan": "rize.bel.tr"
+  },
+  "Rize|Ardeşen": {
+   "alan": "ardesen.bel.tr"
+  },
+  "Rize|Derepazarı": {
+   "alan": "derepazari.bel.tr"
+  },
+  "Rize|Fındıklı": {
+   "alan": "findikli.bel.tr"
+  },
+  "Rize|Güneysu": {
+   "alan": "guneysu.bel.tr"
+  },
+  "Rize|Hemşin": {
+   "alan": "hemsin.bel.tr"
+  },
+  "Rize|Kalkandere": {
+   "alan": "kalkandere.bel.tr"
+  },
+  "Rize|Pazar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Rize|Çamlıhemşin": {
+   "alan": "camlihemsin.bel.tr"
+  },
+  "Rize|Çayeli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Rize|İkizdere": {
+   "alan": "ikizdere.bel.tr"
+  },
+  "Rize|İyidere": {
+   "alan": "iyidere.bel.tr"
+  },
+  "Sakarya|": {
+   "alan": "sakarya.bel.tr"
+  },
+  "Sakarya|Adapazarı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Sakarya|Akyazı": {
+   "alan": "akyazi.bel.tr"
+  },
+  "Sakarya|Arifiye": {
+   "alan": "arifiye.bel.tr"
+  },
+  "Sakarya|Erenler": {
+   "alan": "erenler.bel.tr"
+  },
+  "Sakarya|Ferizli": {
+   "alan": "ferizli.bel.tr"
+  },
+  "Sakarya|Geyve": {
+   "alan": "geyve.bel.tr"
+  },
+  "Sakarya|Hendek": {
+   "alan": "hendek.bel.tr"
+  },
+  "Sakarya|Karapürçek": {
+   "alan": "karapurcek.bel.tr"
+  },
+  "Sakarya|Karasu": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Sakarya|Kaynarca": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Sakarya|Kocaali": {
+   "alan": "kocaali.bel.tr"
+  },
+  "Sakarya|Pamukova": {
+   "alan": "pamukova.bel.tr"
+  },
+  "Sakarya|Sapanca": {
+   "alan": "sapanca.bel.tr"
+  },
+  "Sakarya|Serdivan": {
+   "alan": "serdivan.bel.tr"
+  },
+  "Sakarya|Söğütlü": {
+   "alan": "sogutlu.bel.tr"
+  },
+  "Sakarya|Taraklı": {
+   "alan": "tarakli.bel.tr"
+  },
+  "Samsun|": {
+   "alan": "samsun.bel.tr"
+  },
+  "Samsun|Alaçam": {
+   "alan": "alacam.bel.tr"
+  },
+  "Samsun|Asarcık": {
+   "alan": "asarcik.bel.tr"
+  },
+  "Samsun|Atakum": {
+   "alan": "atakum.bel.tr"
+  },
+  "Samsun|Ayvacık": {
+   "alan": "ayvacik.bel.tr"
+  },
+  "Samsun|Bafra": {
+   "alan": "bafra.bel.tr"
+  },
+  "Samsun|Canik": {
+   "alan": "canik.bel.tr"
+  },
+  "Samsun|Havza": {
+   "alan": "havza.bel.tr"
+  },
+  "Samsun|Kavak": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Samsun|Ladik": {
+   "alan": "ladik.bel.tr"
+  },
+  "Samsun|Salıpazarı": {
+   "alan": "salipazari.bel.tr"
+  },
+  "Samsun|Tekkeköy": {
+   "alan": "tekkekoy.bel.tr"
+  },
+  "Samsun|Terme": {
+   "alan": "terme.bel.tr"
+  },
+  "Samsun|Vezirköprü": {
+   "alan": "vezirkopru.bel.tr"
+  },
+  "Samsun|Yakakent": {
+   "alan": "yakakent.bel.tr"
+  },
+  "Samsun|Çarşamba": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Samsun|İlkadım": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Siirt|": {
+   "alan": "siirt.bel.tr"
+  },
+  "Siirt|Baykan": {
+   "alan": "baykan.bel.tr"
+  },
+  "Siirt|Eruh": {
+   "alan": "eruh.bel.tr"
+  },
+  "Siirt|Kurtalan": {
+   "alan": "kurtalan.bel.tr"
+  },
+  "Siirt|Pervari": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Siirt|Tillo": {
+   "alan": "tillo.bel.tr"
+  },
+  "Siirt|Şirvan": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Sinop|": {
+   "alan": "sinop.bel.tr"
+  },
+  "Sinop|Ayancık": {
+   "alan": "ayancik.bel.tr"
+  },
+  "Sinop|Boyabat": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Sinop|Dikmen": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Sinop|Durağan": {
+   "alan": "duragan.bel.tr"
+  },
+  "Sinop|Erfelek": {
+   "alan": "erfelek.bel.tr"
+  },
+  "Sinop|Gerze": {
+   "alan": "gerze.bel.tr"
+  },
+  "Sinop|Saraydüzü": {
+   "alan": "sarayduzu.bel.tr"
+  },
+  "Sinop|Türkeli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Sivas|": {
+   "alan": "sivas.bel.tr"
+  },
+  "Sivas|Altınyayla": {
+   "alan": "altinyayla.bel.tr"
+  },
+  "Sivas|Divriği": {
+   "alan": "divrigi.bel.tr"
+  },
+  "Sivas|Doğanşar": {
+   "alan": "dogansar.bel.tr"
+  },
+  "Sivas|Gemerek": {
+   "alan": "gemerek.bel.tr"
+  },
+  "Sivas|Gölova": {
+   "alan": "golova.bel.tr"
+  },
+  "Sivas|Gürün": {
+   "alan": "gurun.bel.tr"
+  },
+  "Sivas|Hafik": {
+   "alan": "hafik.bel.tr"
+  },
+  "Sivas|Kangal": {
+   "alan": "kangal.bel.tr"
+  },
+  "Sivas|Koyulhisar": {
+   "alan": "koyulhisar.bel.tr"
+  },
+  "Sivas|Suşehri": {
+   "alan": "susehri.bel.tr"
+  },
+  "Sivas|Ulaş": {
+   "alan": "ulas.bel.tr"
+  },
+  "Sivas|Yıldızeli": {
+   "alan": "yildizeli.bel.tr"
+  },
+  "Sivas|Zara": {
+   "alan": "zara.bel.tr"
+  },
+  "Sivas|İmranlı": {
+   "alan": "imranli.bel.tr"
+  },
+  "Sivas|Şarkışla": {
+   "alan": "sarkisla.bel.tr"
+  },
+  "Tekirdağ|": {
+   "alan": "tekirdag.bel.tr"
+  },
+  "Tekirdağ|Ergene": {
+   "alan": "ergene.bel.tr"
+  },
+  "Tekirdağ|Hayrabolu": {
+   "alan": "hayrabolu.bel.tr"
+  },
+  "Tekirdağ|Kapaklı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Tekirdağ|Malkara": {
+   "alan": "malkara.bel.tr"
+  },
+  "Tekirdağ|Marmaraereğlisi": {
+   "alan": "marmaraereglisi.bel.tr"
+  },
+  "Tekirdağ|Muratlı": {
+   "alan": "muratli.bel.tr"
+  },
+  "Tekirdağ|Saray": {
+   "alan": "saray.bel.tr"
+  },
+  "Tekirdağ|Süleymanpaşa": {
+   "alan": "suleymanpasa.bel.tr"
+  },
+  "Tekirdağ|Çerkezköy": {
+   "alan": "cerkezkoy.bel.tr"
+  },
+  "Tekirdağ|Çorlu": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Tekirdağ|Şarköy": {
+   "alan": "sarkoy.bel.tr"
+  },
+  "Tokat|": {
+   "alan": "tokat.bel.tr"
+  },
+  "Tokat|Almus": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Tokat|Erbaa": {
+   "alan": "erbaa.bel.tr"
+  },
+  "Tokat|Niksar": {
+   "alan": "niksar.bel.tr"
+  },
+  "Tokat|Pazar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Tokat|Reşadiye": {
+   "alan": "resadiye.bel.tr"
+  },
+  "Tokat|Zile": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Trabzon|": {
+   "alan": "trabzon.bel.tr"
+  },
+  "Trabzon|Akçaabat": {
+   "alan": "akcaabat.bel.tr"
+  },
+  "Trabzon|Araklı": {
+   "alan": "arakli.bel.tr"
+  },
+  "Trabzon|Arsin": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Trabzon|Maçka": {
+   "alan": "macka.bel.tr"
+  },
+  "Trabzon|Ortahisar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Trabzon|Yomra": {
+   "alan": "yomra.bel.tr"
+  },
+  "Trabzon|Çaykara": {
+   "alan": "caykara.bel.tr"
+  },
+  "Tunceli|": {
+   "alan": "tunceli.bel.tr"
+  },
+  "Tunceli|Ovacık": {
+   "alan": "ovacik.bel.tr"
+  },
+  "Tunceli|Pertek": {
+   "alan": "pertek.bel.tr"
+  },
+  "Tunceli|Pülümür": {
+   "alan": "pulumur.bel.tr"
+  },
+  "Tunceli|Çemişgezek": {
+   "alan": "cemisgezek.bel.tr"
+  },
+  "Uşak|": {
+   "alan": "usak.bel.tr"
+  },
+  "Uşak|Banaz": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Uşak|Eşme": {
+   "alan": "esme.bel.tr"
+  },
+  "Uşak|Karahallı": {
+   "alan": "karahalli.bel.tr"
+  },
+  "Uşak|Sivaslı": {
+   "alan": "sivasli.bel.tr"
+  },
+  "Uşak|Ulubey": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|Bahçesaray": {
+   "alan": "bahcesaray.bel.tr"
+  },
+  "Van|Başkale": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|Edremit": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|Erciş": {
+   "alan": "ercis.bel.tr"
+  },
+  "Van|Gevaş": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|Gürpınar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|Muradiye": {
+   "alan": "muradiye.bel.tr"
+  },
+  "Van|Saray": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|Tuşba": {
+   "alan": "tusba.bel.tr"
+  },
+  "Van|Çaldıran": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Van|Çatak": {
+   "alan": "catak.bel.tr"
+  },
+  "Van|Özalp": {
+   "alan": "ozalp.bel.tr"
+  },
+  "Van|İpekyolu": {
+   "alan": "ipekyolu.bel.tr"
+  },
+  "Yalova|": {
+   "alan": "yalova.bel.tr"
+  },
+  "Yalova|Altınova": {
+   "alan": "altinova.bel.tr"
+  },
+  "Yalova|Armutlu": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yalova|Termal": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yalova|Çiftlikköy": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yalova|Çınarcık": {
+   "alan": "cinarcik.bel.tr"
+  },
+  "Yozgat|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yozgat|Akdağmadeni": {
+   "alan": "akdagmadeni.bel.tr"
+  },
+  "Yozgat|Aydıncık": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yozgat|Boğazlıyan": {
+   "alan": "bogazliyan.bel.tr"
+  },
+  "Yozgat|Kadışehri": {
+   "alan": "kadisehri.bel.tr"
+  },
+  "Yozgat|Saraykent": {
+   "alan": "saraykent.bel.tr"
+  },
+  "Yozgat|Sarıkaya": {
+   "alan": "sarikaya.bel.tr"
+  },
+  "Yozgat|Yenifakılı": {
+   "alan": "yenifakili.bel.tr"
+  },
+  "Yozgat|Yerköy": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yozgat|Çandır": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yozgat|Çayıralan": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Yozgat|Çekerek": {
+   "alan": "cekerek.bel.tr"
+  },
+  "Yozgat|Şefaatli": {
+   "alan": "sefaatli.bel.tr"
+  },
+  "Zonguldak|": {
+   "alan": "zonguldak.bel.tr"
+  },
+  "Zonguldak|Devrek": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Zonguldak|Ereğli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Zonguldak|Gökçebey": {
+   "alan": "gokcebey.bel.tr"
+  },
+  "Zonguldak|Kilimli": {
+   "alan": "kilimli.bel.tr"
+  },
+  "Zonguldak|Kozlu": {
+   "alan": "kozlu.bel.tr"
+  },
+  "Zonguldak|Çaycuma": {
+   "alan": "caycuma.bel.tr"
+  },
+  "Çanakkale|": {
+   "alan": "canakkale.bel.tr"
+  },
+  "Çanakkale|Ayvacık": {
+   "alan": "ayvacik.bel.tr"
+  },
+  "Çanakkale|Biga": {
+   "alan": "biga.bel.tr"
+  },
+  "Çanakkale|Bozcaada": {
+   "alan": "bozcaada.bel.tr"
+  },
+  "Çanakkale|Eceabat": {
+   "alan": "eceabat.bel.tr"
+  },
+  "Çanakkale|Ezine": {
+   "alan": "ezine.bel.tr"
+  },
+  "Çanakkale|Gelibolu": {
+   "alan": "gelibolu.bel.tr"
+  },
+  "Çanakkale|Gökçeada": {
+   "alan": "gokceada.bel.tr"
+  },
+  "Çanakkale|Lapseki": {
+   "alan": "lapseki.bel.tr"
+  },
+  "Çanakkale|Çan": {
+   "alan": "can.bel.tr"
+  },
+  "Çankırı|": {
+   "alan": "cankiri.bel.tr"
+  },
+  "Çankırı|Eldivan": {
+   "alan": "eldivan.bel.tr"
+  },
+  "Çankırı|Ilgaz": {
+   "alan": "ilgaz.bel.tr"
+  },
+  "Çankırı|Kurşunlu": {
+   "alan": "kursunlu.bel.tr"
+  },
+  "Çankırı|Yapraklı": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Çankırı|Çerkeş": {
+   "alan": "cerkes.bel.tr"
+  },
+  "Çorum|": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Çorum|Alaca": {
+   "alan": "alaca.bel.tr"
+  },
+  "Çorum|Boğazkale": {
+   "alan": "bogazkale.bel.tr"
+  },
+  "Çorum|Kargı": {
+   "alan": "kargi.bel.tr"
+  },
+  "Çorum|Osmancık": {
+   "alan": "osmancik.bel.tr"
+  },
+  "Çorum|Oğuzlar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Çorum|Sungurlu": {
+   "alan": "sungurlu.bel.tr"
+  },
+  "Çorum|İskilip": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
   "İstanbul|": {
    "alan": "tesislerimiz.ibb.istanbul"
   },
@@ -63,8 +2063,32 @@
   "İstanbul|Avcılar": {
    "alan": "avcilar.bel.tr"
   },
+  "İstanbul|Bahçelievler": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
   "İstanbul|Beykoz": {
    "alan": "beykoz.bel.tr"
+  },
+  "İstanbul|Beylikdüzü": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İstanbul|Beyoğlu": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İstanbul|Beşiktaş": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İstanbul|Büyükçekmece": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İstanbul|Eyüpsultan": {
+   "alan": null,
+   "denendi": "2026-10-08"
   },
   "İstanbul|Fatih": {
    "alan": "fatih.bel.tr"
@@ -75,11 +2099,23 @@
   "İstanbul|Kartal": {
    "alan": "kartal.bel.tr"
   },
+  "İstanbul|Kağıthane": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
   "İstanbul|Küçükçekmece": {
    "alan": "kucukcekmece.bel.tr"
   },
+  "İstanbul|Sultanbeyli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
   "İstanbul|Sultangazi": {
    "alan": "sultangazi.bel.tr"
+  },
+  "İstanbul|Zeytinburnu": {
+   "alan": null,
+   "denendi": "2026-10-08"
   },
   "İstanbul|Çekmeköy": {
    "alan": "cekmekoy.bel.tr"
@@ -89,6 +2125,121 @@
   },
   "İstanbul|Üsküdar": {
    "alan": "uskudar.bel.tr"
+  },
+  "İzmir|": {
+   "alan": "izmir.bel.tr"
+  },
+  "İzmir|Balçova": {
+   "alan": "balcova.bel.tr"
+  },
+  "İzmir|Bayraklı": {
+   "alan": "bayrakli.bel.tr"
+  },
+  "İzmir|Bergama": {
+   "alan": "bergama.bel.tr"
+  },
+  "İzmir|Bornova": {
+   "alan": "bornova.bel.tr"
+  },
+  "İzmir|Buca": {
+   "alan": "buca.bel.tr"
+  },
+  "İzmir|Dikili": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İzmir|Foça": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İzmir|Karabağlar": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İzmir|Karşıyaka": {
+   "alan": "karsiyaka.bel.tr"
+  },
+  "İzmir|Konak": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İzmir|Seferihisar": {
+   "alan": "seferihisar.bel.tr"
+  },
+  "İzmir|Çeşme": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "İzmir|Çiğli": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Şanlıurfa|": {
+   "alan": "sanliurfa.bel.tr"
+  },
+  "Şanlıurfa|Akçakale": {
+   "alan": "akcakale.bel.tr"
+  },
+  "Şanlıurfa|Birecik": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Şanlıurfa|Bozova": {
+   "alan": "bozova.bel.tr"
+  },
+  "Şanlıurfa|Ceylanpınar": {
+   "alan": "ceylanpinar.bel.tr"
+  },
+  "Şanlıurfa|Eyyübiye": {
+   "alan": "eyyubiye.bel.tr"
+  },
+  "Şanlıurfa|Halfeti": {
+   "alan": "halfeti.bel.tr"
+  },
+  "Şanlıurfa|Haliliye": {
+   "alan": "haliliye.bel.tr"
+  },
+  "Şanlıurfa|Harran": {
+   "alan": "harran.bel.tr"
+  },
+  "Şanlıurfa|Hilvan": {
+   "alan": "hilvan.bel.tr"
+  },
+  "Şanlıurfa|Karaköprü": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Şanlıurfa|Siverek": {
+   "alan": "siverek.bel.tr"
+  },
+  "Şanlıurfa|Suruç": {
+   "alan": "suruc.bel.tr"
+  },
+  "Şanlıurfa|Viranşehir": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Şırnak|": {
+   "alan": "sirnak.bel.tr"
+  },
+  "Şırnak|Beytüşşebap": {
+   "alan": "beytussebap.bel.tr"
+  },
+  "Şırnak|Cizre": {
+   "alan": "cizre.bel.tr"
+  },
+  "Şırnak|Güçlükonak": {
+   "alan": "guclukonak.bel.tr"
+  },
+  "Şırnak|Silopi": {
+   "alan": "silopi.bel.tr"
+  },
+  "Şırnak|Uludere": {
+   "alan": null,
+   "denendi": "2026-10-08"
+  },
+  "Şırnak|İdil": {
+   "alan": "idil.bel.tr"
   }
  }
 }

@@ -1,0 +1,77 @@
+[
+ {
+  "tur": "belirsiz_eslesme",
+  "il": "Balıkesir",
+  "isim": "Paşa Limanı Kafe & Restoran",
+  "kaynak": "https://balikesir.bel.tr/Dosyalar/DosyaListe/AF_btr_LimanUcretTarife_file_Dosya_A25D1466-FFC9-4E53-9C84-427FA754048E/saraylar_belediye_limani_tyer_turkce.pdf.pdf",
+  "belge": "Saraylar Belediye Limanı TYER (Türkçe)",
+  "benzerlik": 0.5,
+  "onay_anahtari": "balikesir|pasa limani kafe & restoran|https://balikesir.bel.tr/Dosyalar/DosyaListe/AF_btr_LimanUcretTarife_file_Dosya_A25D1466-FFC9-4E53-9C84-427FA754048E/saraylar_belediye_limani_tyer_turkce.pdf.pdf"
+ },
+ {
+  "tur": "belirsiz_eslesme",
+  "il": "İstanbul",
+  "isim": "Safa Tepesi Sosyal Tesisleri",
+  "kaynak": "https://tesislerimiz.ibb.istanbul/uploads/tesisler/ekler/1783759189_t00m7vpp6vjksm7ywnkiat1xllbmf7ktlat9pi5j.pdf",
+  "belge": "Tesis Yemek Menüsü",
+  "benzerlik": 0.5,
+  "onay_anahtari": "istanbul|safa tepesi sosyal tesisleri|https://tesislerimiz.ibb.istanbul/uploads/tesisler/ekler/1783759189_t00m7vpp6vjksm7ywnkiat1xllbmf7ktlat9pi5j.pdf"
+ },
+ {
+  "tur": "celiskili_kaynak",
+  "il": "Konya",
+  "isim": "Bizim Meram Kafe",
+  "kaynak": "https://www.meram.bel.tr/kurumsal/meclis-karar-ozetleri",
+  "diger_kaynak": "https://www.meram.bel.tr/meclis-karar-ozetleri",
+  "detay": "Aynı ürün iki resmî belgede farklı fiyatlı ve belgelerin tarihi ayırt edilemiyor."
+ },
+ {
+  "tur": "belirsiz_eslesme",
+  "il": "Zonguldak",
+  "isim": "Çaycuma Kent Ormanı Sosyal Tesisi",
+  "kaynak": "https://caycuma.bel.tr/avlu-kafe-kskkm/",
+  "belge": "Avlu Kafe (KSKKM) – Çaycuma Belediyesi",
+  "benzerlik": 0.5,
+  "onay_anahtari": "zonguldak|caycuma kent ormani sosyal tesisi|https://caycuma.bel.tr/avlu-kafe-kskkm/"
+ },
+ {
+  "tur": "celiskili_kaynak",
+  "il": "Konya",
+  "isim": "Meram Belediyesi Sosyal Tesisleri",
+  "kaynak": "https://www.meram.bel.tr/kurumsal/meclis-karar-ozetleri",
+  "diger_kaynak": "https://www.meram.bel.tr/meclis-karar-ozetleri",
+  "detay": "Aynı ürün iki resmî belgede farklı fiyatlı ve belgelerin tarihi ayırt edilemiyor."
+ },
+ {
+  "tur": "celiskili_kaynak",
+  "il": "Konya",
+  "isim": "Meram Belediyesi Osman Gazi Sosyal Tesisi",
+  "kaynak": "https://www.meram.bel.tr/kurumsal/meclis-karar-ozetleri",
+  "diger_kaynak": "https://www.meram.bel.tr/meclis-karar-ozetleri",
+  "detay": "Aynı ürün iki resmî belgede farklı fiyatlı ve belgelerin tarihi ayırt edilemiyor."
+ },
+ {
+  "tur": "celiskili_kaynak",
+  "il": "Konya",
+  "isim": "Meram Belediyesi Çandır Sosyal Tesisleri Ve So",
+  "kaynak": "https://www.meram.bel.tr/kurumsal/meclis-karar-ozetleri",
+  "diger_kaynak": "https://www.meram.bel.tr/meclis-karar-ozetleri",
+  "detay": "Aynı ürün iki resmî belgede farklı fiyatlı ve belgelerin tarihi ayırt edilemiyor."
+ },
+ {
+  "tur": "celiskili_kaynak",
+  "il": "Konya",
+  "isim": "Meram Belediyesi Ertuğrul Gazi Sosyal Tesisleri",
+  "kaynak": "https://www.meram.bel.tr/kurumsal/meclis-karar-ozetleri",
+  "diger_kaynak": "https://www.meram.bel.tr/meclis-karar-ozetleri",
+  "detay": "Aynı ürün iki resmî belgede farklı fiyatlı ve belgelerin tarihi ayırt edilemiyor."
+ },
+ {
+  "tur": "celiskili_kaynak",
+  "il": "Konya",
+  "isim": "Meram Belediyesi Çomaklı Mahallesi Sosyal Tesisi",
+  "kaynak": "https://www.meram.bel.tr/kurumsal/meclis-karar-ozetleri",
+  "diger_kaynak": "https://www.meram.bel.tr/meclis-karar-ozetleri",
+  "detay": "Aynı ürün iki resmî belgede farklı fiyatlı ve belgelerin tarihi ayırt edilemiyor."
+ }
+]
