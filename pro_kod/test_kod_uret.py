@@ -8,12 +8,12 @@ import kod_uret  # noqa: E402
 
 
 def test_normalize_and_hash_match_app():
-    assert kod_uret.normalize("rl-ab2c 3d4e-fghj") == "RLAB2C3D4EFGHJ"
-    assert kod_uret.code_hash("RL-AB2C-3D4E-FGHJ") == kod_uret.code_hash("rlab2c3d4efghj")
+    assert kod_uret.normalize("ab2c-3d4e fghj-kmnp") == "AB2C3D4EFGHJKMNP"
+    assert kod_uret.code_hash("AB2C-3D4E-FGHJ-KMNP") == kod_uret.code_hash("ab2c3d4efghjkmnp")
     # Uygulamadaki test/pro_gift_code_test.dart ile aynı değer.
     assert (
-        kod_uret.code_hash("RL-AB2C-3D4E-FGHJ")
-        == "c5df1eb90b02ab60c362a34e3aa9efdccc3889ed84ca6caff5e1247e4bff6d25"
+        kod_uret.code_hash("AB2C-3D4E-FGHJ-KMNP")
+        == "2b3024260e20333fb79a0d7865feefd823576e2b74683935982e10034ae280ec"
     )
 
 
@@ -21,7 +21,7 @@ def test_new_code_format_and_entropy():
     codes = {kod_uret.new_code() for _ in range(200)}
     assert len(codes) == 200
     for c in codes:
-        assert re.fullmatch(r"RL-[2-9A-HJKMNP-Z]{4}-[2-9A-HJKMNP-Z]{4}-[2-9A-HJKMNP-Z]{4}", c)
+        assert re.fullmatch(r"[2-9A-HJKMNP-Z]{4}(-[2-9A-HJKMNP-Z]{4}){3}", c)
 
 
 def test_kolay_uret_flow(tmp_path, monkeypatch):

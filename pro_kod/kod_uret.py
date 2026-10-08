@@ -7,7 +7,7 @@ kendisi depoya yazılmaz, `pro_kod/uretilen/` altına (git dışı) kaydedilir.
   python pro_kod/kod_uret.py uret --plan aylik --adet 3
   python pro_kod/kod_uret.py uret --plan yillik --adet 1 --son 2027-01-31
   python pro_kod/kod_uret.py uret --plan aylik --kod YAZ2026 --kullanim 100
-  python pro_kod/kod_uret.py iptal --kod RL-ABCD-EFGH-JKMN
+  python pro_kod/kod_uret.py iptal --kod ABCD-EFGH-JKMN-PQRS
   python pro_kod/kod_uret.py liste
 """
 
@@ -44,8 +44,8 @@ def code_hash(raw: str) -> str:
 
 
 def new_code() -> str:
-    body = "".join(secrets.choice(ALPHABET) for _ in range(12))
-    return f"RL-{body[0:4]}-{body[4:8]}-{body[8:12]}"
+    body = "".join(secrets.choice(ALPHABET) for _ in range(16))
+    return "-".join(body[i : i + 4] for i in range(0, 16, 4))
 
 
 def load() -> dict:
