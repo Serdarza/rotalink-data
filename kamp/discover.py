@@ -1,7 +1,8 @@
 """Kamp alanı keşfi ve kayıtlı OSM kaynaklarının kontrolü.
 
-Kaynak sırası: resmî bakanlık/belediye sayfaları bu sürümde fiyat yazmaz;
-konum keşfi lisanslı açık veri (OpenStreetMap, ODbL) ile yapılır.
+Kaynak sırası: resmî OGM orman parkı sayfaları (kamp imkânı olanlar), ardından
+lisanslı açık veri (OpenStreetMap, ODbL). KTB belgeli kamping listesi eşleşen
+kayda belge no ekler. Resmî kaynaklar fiyat yazmaz.
 Resmî fiyat uydurulmaz. Google Maps ve sosyal medya kullanılmaz.
 
 Ortam: CAMP_MODE=discover|update, CAMP_ONLY_IL, DRY_RUN, CAMP_TIME_BUDGET_MIN.
@@ -23,6 +24,7 @@ ROOT = HERE.parent
 sys.path.insert(0, str(HERE))
 
 import iller as iller_mod  # noqa: E402
+import resmi  # noqa: E402
 from model import birlestir, from_osm  # noqa: E402
 
 DATA = ROOT / "data"
@@ -188,11 +190,28 @@ def main() -> int:
             old = next((r for r in prev if r["id"] == rid), None)
             if old and old.get("il"):
                 failed.add(old["il"])
-    else:
+    tamam: frozenset[str] = frozenset()
+    if MODE != "update":
+        ogm_deadline = min(deadline, time.monotonic() + 30 * 60)
+        ogm, ogm_ok = resmi.ogm_kamplari(today, ogm_deadline)
+        if only:
+            secili = {il for il, _ in provinces}
+            ogm = [r for r in ogm if r["il"] in secili]
+        elif ogm_ok:
+            tamam = frozenset({"ogm-"})
         found, errors = discover(provinces, today, deadline)
+        found = ogm + found
         scanned = {il for il, _ in provinces}
         failed = set(errors)
-    items, reviews, stats = birlestir(prev, found, scanned, failed, today, history)
+    items, reviews, stats = birlestir(prev, found, scanned, failed, today, history, tamam)
+    if MODE != "update":
+        try:
+            belgeli = resmi.ktb_kampingler(resmi.fetch(resmi.KTB_URL, timeout=90))
+            eslesen, ktb_reviews = resmi.ktb_esle(items, belgeli, today)
+            reviews += ktb_reviews
+            print(f"KTB: {len(belgeli)} belgeli kamping, {eslesen} kayıtla eşleşti", flush=True)
+        except RuntimeError as e:
+            print(f"hata: KTB: {e}", flush=True)
     report_rows = il_raporu(items, provinces if MODE == "discover" else [(il, "") for il in sorted(scanned)], errors, today)
     summary = {
         "tarih": today.isoformat(),
@@ -209,8 +228,9 @@ def main() -> int:
         json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if not DRY:
         save(SITES, {
-            "not": "Çadır, karavan ve kamping alanları. Konumlar OpenStreetMap açık verisinden "
-                   "(ODbL) gelir; resmî fiyat değildir. Bilinmeyen alanlar null'dır. "
+            "not": "Çadır, karavan ve kamping alanları. Konumlar OGM resmî orman parkı sayfalarından "
+                   "ve OpenStreetMap açık verisinden (ODbL) gelir; resmî fiyat değildir. "
+                   "Kayıt bazında kaynak 'atif' alanındadır. Bilinmeyen alanlar null'dır. "
                    "durum=inceleme olan kayıt uygulamada gösterilmez, silinmez.",
             "atif": "© OpenStreetMap katkıları (ODbL)",
             "guncelleme": today.isoformat(),

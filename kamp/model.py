@@ -223,7 +223,8 @@ def cakisma(a: dict, b: dict) -> str | None:
         return "ayni" if a["id"] == b["id"] else None
     dist = hav(a, b)
     same = fold(a["ad"]) == fold(b["ad"])
-    similar = _ratio(a["ad"], b["ad"]) >= 0.82
+    fa, fb = fold(a["ad"]), fold(b["ad"])
+    similar = _ratio(a["ad"], b["ad"]) >= 0.82 or (min(len(fa), len(fb)) >= 5 and (fa in fb or fb in fa))
     if dist <= NEAR_M and (same or similar):
         return "ayni"
     if same and NEAR_M < dist <= FAR_M:
@@ -245,8 +246,13 @@ def _keep_price(old: dict, new: dict, history: dict, today: date, changes: list)
 
 
 def birlestir(prev: list[dict], found: list[dict], scanned: set[str], failed: set[str],
-              today: date, history: dict) -> tuple[list[dict], list[dict], dict]:
-    """Dönen: yayımlanacak kayıtlar (inceleme dahil, silinmez), yeni inceleme kayıtları, sayaçlar."""
+              today: date, history: dict, tamam_onekler: frozenset[str] = frozenset(),
+              ) -> tuple[list[dict], list[dict], dict]:
+    """Dönen: yayımlanacak kayıtlar (inceleme dahil, silinmez), yeni inceleme kayıtları, sayaçlar.
+
+    tamam_onekler: eksiksiz taranan resmî kaynakların id önekleri (ör. "ogm-");
+    bu kaynaklarda artık bulunmayan kayıt incelemeye alınır.
+    """
     reviews: list[dict] = []
     kept: list[dict] = []
     seen_ids: set[str] = set()
@@ -284,7 +290,9 @@ def birlestir(prev: list[dict], found: list[dict], scanned: set[str], failed: se
         if old["id"] in seen_ids:
             continue
         item = dict(old)
-        if fold(old.get("il", "")) in scanned_ok and str(old.get("id", "")).startswith("osm-"):
+        oid = str(old.get("id", ""))
+        osm_kayip = fold(old.get("il", "")) in scanned_ok and oid.startswith("osm-")
+        if osm_kayip or any(oid.startswith(p) for p in tamam_onekler):
             if item.get("durum") != "inceleme":
                 item["durum"] = "inceleme"
                 item["son_kontrol"] = today.isoformat()

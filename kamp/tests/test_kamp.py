@@ -5,6 +5,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import iller  # noqa: E402
+import resmi  # noqa: E402
 from model import birlestir, cakisma, from_osm, kamp_turu, turkce_ad, ucret  # noqa: E402
 
 TODAY = date(2026, 10, 8)
@@ -56,6 +57,59 @@ def test_turkce_olmayan_ad_yayinlanmaz_silinmez():
     assert reviews[0]["tur"] == "turkce_olmayan_ad"
     tr = from_osm("Muğla", _el(id=6, name="Place for tent", **{"name:tr": "Çadır Alanı"}), TODAY)
     assert tr["ad"] == "Çadır Alanı"
+
+
+_OGM_SAYFA = """
+<h1>Kefe Yaylası Orman Parkı</h1>
+<h3 class="subtitle mb-4" id="ozellikler">Özellikler</h3>
+<div class="feature-item"><img alt="Çadırlı Kamp " /><span>Çadırlı Kamp </span></div>
+<div class="feature-item"><span>Otopark</span></div>
+<h3 class="subtitle mb-4" id="aktiviteler">Aktiviteler</h3>
+<div class="feature-item"><span>Piknik</span></div>
+<h3 class="subtitle mb-4" id="harita">Haritada Göster</h3>
+<iframe src="https://maps.google.com/maps?q=37.625326197038,29.382593929768&hl=tr-TR"></iframe>
+<h3 class="subtitle mb-4" id="iletisim-bilgileri">İletişim Bilgileri</h3>
+<strong>Adres</strong> <span>Kocapınar Mah. 20430 Serinhisar / DENİZLİ</span>
+<strong>Telefon</strong> <span>(444) 852 0_ __</span>
+"""
+
+
+def test_ogm_kamp_sayfasi_resmi_kayit():
+    rec = resmi.ogm_kayit(_OGM_SAYFA, "https://benimormanim.ogm.gov.tr/orman-parklari/kefe-306", "306", TODAY)
+    assert rec["id"] == "ogm-306" and rec["il"] == "Denizli" and rec["ilce"] == "Serinhisar"
+    assert rec["enlem"] == 37.625326 and rec["cadir"] is True and rec["otopark"] is True
+    assert rec["telefon"] is None and rec["fiyat"] is None and rec["tuvalet"] is None
+    assert rec["dogrulama"] == "resmi" and "Orman Genel" in rec["atif"]
+    piknik = _OGM_SAYFA.replace("Çadırlı Kamp", "Kameriye")
+    assert resmi.ogm_kayit(piknik, "u", "1", TODAY) is None
+    assert resmi._telefon("(053) 030 86 51") is None
+    assert resmi._telefon("0 (232) 617 19 17") == "0232 617 19 17"
+    aliaga = _OGM_SAYFA.replace("Kocapınar Mah. 20430 Serinhisar / DENİZLİ", "Çamlık Mevkii /Aliağa / İZMİR")
+    assert resmi.ogm_kayit(aliaga, "u", "2", TODAY)["ilce"] == "Aliağa"
+
+
+def test_ogm_kaybolursa_incelemeye_alinir_osm_tekrari_elenir():
+    rec = resmi.ogm_kayit(_OGM_SAYFA, "u", "306", TODAY)
+    osm = from_osm("Denizli", _el(id=7, name="Kefe Yaylası", lat=37.6254, lon=29.3826), TODAY)
+    items, reviews, stats = birlestir([], [rec, osm], {"Denizli"}, set(), TODAY, {})
+    assert stats["aktif"] == 1 and items[0]["id"] == "ogm-306"
+    items2, reviews2, _ = birlestir([rec], [], set(), set(), TODAY, {}, frozenset({"ogm-"}))
+    assert items2[0]["durum"] == "inceleme" and reviews2[0]["tur"] == "kaynak_bulunamadi"
+    items3, _, _ = birlestir([rec], [], set(), set(), TODAY, {})
+    assert items3[0]["durum"] == "aktif"
+
+
+def test_ktb_belgeli_eslesme():
+    doc = ('[{"belgeNo":"20972","tesisAdi":"KELES GÖL KAMP","belgeTuru":"x","belgeDurumu":"Belgeli Tesisler",'
+           '"tesisTuru":"Kamping","tesisSinifi":null,"sehir":"BURSA","ilce":"KELES"},'
+           '{"belgeNo":"1","tesisAdi":"YOK KAMP","belgeTuru":"x","belgeDurumu":"Belgeli Tesisler",'
+           '"tesisTuru":"Kamping","tesisSinifi":null,"sehir":"İZMİR","ilce":"SELÇUK"}]')
+    belgeli = resmi.ktb_kampingler(doc)
+    assert [b["il"] for b in belgeli] == ["Bursa", "İzmir"]
+    rec = from_osm("Bursa", _el(id=8, name="Keles Göl Camping"), TODAY)
+    n, reviews = resmi.ktb_esle([rec], belgeli, TODAY)
+    assert n == 1 and rec["bakanlik_belge_no"] == "20972"
+    assert reviews[0]["tur"] == "ktb_konum_yok"
 
 
 def test_yasak_ve_glamping():
