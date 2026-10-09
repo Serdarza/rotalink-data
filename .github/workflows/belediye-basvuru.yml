@@ -1,0 +1,85 @@
+name: Belediye fiyat tarifesi başvurusu (6 ayda bir)
+
+# Haziran ve Aralık 1'de belediye e-posta adresleri yenilenir;
+# Ocak ve Temmuz'da hafta içi her gün en fazla GUNLUK_LIMIT başvuru gönderilir.
+# Her belediyeye 6 ayda en fazla bir başvuru gider (gonderim.json).
+on:
+  schedule:
+    - cron: "0 3 1 6,12 *"     # adres taraması
+    - cron: "0 6 * 1,7 1-5"    # gönderim: Ocak/Temmuz hafta içi 09:00 Türkiye
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: "adres (adres taraması) veya gonder"
+        type: choice
+        options: [gonder, adres]
+        default: gonder
+      dry_run:
+        description: "DRY RUN (mail göndermez, dosya yazmaz)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rotalink-belediye-basvuru
+  cancel-in-progress: false
+
+jobs:
+  calis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    env:
+      PYTHONUTF8: "1"
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+      ISLEM: ${{ github.event_name == 'workflow_dispatch' && inputs.islem || (github.event.schedule == '0 3 1 6,12 *' && 'adres' || 'gonder') }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Testler
+        run: |
+          pip install pytest
+          python -m pytest belediye_iletisim -q
+
+      - name: Belediye e-posta adreslerini yenile
+        if: env.ISLEM == 'adres'
+        env:
+          ILETISIM_TIME_BUDGET_MIN: "150"
+        run: python belediye_iletisim/bul.py
+
+      - name: Başvuruları gönder
+        if: env.ISLEM == 'gonder'
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          GONDEREN: ${{ secrets.GONDEREN }}
+          BASVURU_AD: ${{ secrets.BASVURU_AD }}
+          BASVURU_TC: ${{ secrets.BASVURU_TC }}
+          BASVURU_ADRES: ${{ secrets.BASVURU_ADRES }}
+          BASVURU_EPOSTA: ${{ secrets.BASVURU_EPOSTA }}
+          BASVURU_TELEFON: ${{ secrets.BASVURU_TELEFON }}
+          GUNLUK_LIMIT: "30"
+        run: python belediye_iletisim/gonder.py
+
+      - name: Commit ve push
+        if: env.DRY_RUN != 'true'
+        run: |
+          git config user.name "rotalink-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in belediye_iletisim/belediyeler.json belediye_iletisim/gonderim.json; do
+            if [ -e "$p" ]; then git add "$p"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok, commit atılmadı."
+            exit 0
+          fi
+          git commit -m "chore: belediye başvuru ($ISLEM)"
+          git pull --rebase origin main
+          git push origin HEAD:main
