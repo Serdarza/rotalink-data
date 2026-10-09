@@ -1190,5 +1190,382 @@
     "ad": "under trees, cleaned 2025.07",
     "tarih": "2026-10-09",
     "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "mukerrer",
+    "id": "ogm-198",
+    "diger": "osm-node-4428806214",
+    "il": "Muğla",
+    "ad": "Gökova Orman Parkı",
+    "tarih": "2026-10-09"
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "GARDEN KAMPİNG RESTAURANT",
+    "ilce": "SELÇUK",
+    "belge_no": "10578",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İstanbul",
+    "ad": "FAVA CAMP",
+    "ilce": "BEYKOZ",
+    "belge_no": "20835",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Kocaeli",
+    "ad": "İPEK YOLU KARAVAN PARK",
+    "ilce": "GÖLCÜK",
+    "belge_no": "21208",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İstanbul",
+    "ad": "BAHAR BAHÇESİ KAMPİNG",
+    "ilce": "BEYKOZ",
+    "belge_no": "23557",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İstanbul",
+    "ad": "GÖLLÜ KARAVAN PARK",
+    "ilce": "BEYKOZ",
+    "belge_no": "25208",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "REACH BEACH KAMPİNG",
+    "ilce": "SEFERİHİSAR",
+    "belge_no": "23390",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Bursa",
+    "ad": "GÖÇEBE KAMP & BUNGALOV",
+    "ilce": "İZNİK",
+    "belge_no": "23362",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Balıkesir",
+    "ad": "AJLAN EOS",
+    "ilce": "AYVALIK",
+    "belge_no": "23728",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İstanbul",
+    "ad": "ADRİA RİVA KAMP",
+    "ilce": "BEYKOZ",
+    "belge_no": "20819",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "CRYSTAL COVE CAMPING",
+    "ilce": "FETHİYE",
+    "belge_no": "23402",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Balıkesir",
+    "ad": "SİNCAP CAMPİNG",
+    "ilce": "EDREMİT",
+    "belge_no": "20902",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "DEREKÖY KAMPİNG",
+    "ilce": "BODRUM",
+    "belge_no": "24560",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "EKREM",
+    "ilce": "ÖDEMİŞ",
+    "belge_no": "23012",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Kocaeli",
+    "ad": "VAGE KARAVAN KAMP",
+    "ilce": "GÖLCÜK",
+    "belge_no": "24580",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "RUİNA KAMPİNG",
+    "ilce": "MİLAS",
+    "belge_no": "25190",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Tekirdağ",
+    "ad": "BAĞTUR CAMPİNG",
+    "ilce": "SÜLEYMANPAŞA",
+    "belge_no": "24091",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "PERYA KAMP",
+    "ilce": "DİKİLİ",
+    "belge_no": "25421",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_belirsiz",
+    "il": "İstanbul",
+    "ad": "PERA KARAVAN KAMPI",
+    "ilce": "BEYKOZ",
+    "belge_no": "24506",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İstanbul",
+    "ad": "NEVA KAMPİNG BEYKOZ",
+    "ilce": "BEYKOZ",
+    "belge_no": "26645",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "MOR DOĞA KAMP",
+    "ilce": "KARABURUN",
+    "belge_no": "24066",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "KARABURUN YARIMADA CAMPING",
+    "ilce": "KARABURUN",
+    "belge_no": "26079",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "KIYIDA CAMPİNG",
+    "ilce": "KÖYCEĞİZ",
+    "belge_no": "24566",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "HAKKI MACİN MERLİN KAMPİNG",
+    "ilce": "FETHİYE",
+    "belge_no": "25936",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "TURDOMES",
+    "ilce": "FETHİYE",
+    "belge_no": "26942",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "SWEET KARAVAN KAMPİNG",
+    "ilce": "KARABURUN",
+    "belge_no": "25385",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İstanbul",
+    "ad": "CÜCE KARAVAN KAMPİNG",
+    "ilce": "BEYKOZ",
+    "belge_no": "25062",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "HAYAL TADINDA",
+    "ilce": "ÖDEMİŞ",
+    "belge_no": "23268",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_belirsiz",
+    "il": "Muğla",
+    "ad": "ASTIPALYA LİKYA VADİSİ",
+    "ilce": "FETHİYE",
+    "belge_no": "24437",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "GÖLPARK",
+    "ilce": "ÖDEMİŞ",
+    "belge_no": "24011",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Antalya",
+    "ad": "DERMAN BAHÇESİ KAMPİNG",
+    "ilce": "KUMLUCA",
+    "belge_no": "26956",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "FAMOUS CAMPİNG",
+    "ilce": "FETHİYE",
+    "belge_no": "24021",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Balıkesir",
+    "ad": "ROAD HOUSE",
+    "ilce": "MARMARA",
+    "belge_no": "26827",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "MANDİ CAMPİNG",
+    "ilce": "BODRUM",
+    "belge_no": "24161",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Kocaeli",
+    "ad": "ASİRİS CAMPİNG",
+    "ilce": "KANDIRA",
+    "belge_no": "26814",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Antalya",
+    "ad": "FOREST CAMPING-2",
+    "ilce": "KUMLUCA",
+    "belge_no": "27163",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İzmir",
+    "ad": "MORSİDE",
+    "ilce": "KARABURUN",
+    "belge_no": "24441",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Trabzon",
+    "ad": "DEREİÇİ CAMPİNG",
+    "ilce": "MAÇKA",
+    "belge_no": "25957",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Kırklareli",
+    "ad": "AYLAK MEŞE",
+    "ilce": "DEMİRKÖY",
+    "belge_no": "25271",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "İstanbul",
+    "ad": "BEYAZKÖY KARAVANPARK",
+    "ilce": "BEYKOZ",
+    "belge_no": "25198",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_belirsiz",
+    "il": "Muğla",
+    "ad": "YEŞİL VADİ DOĞA PARK",
+    "ilce": "FETHİYE",
+    "belge_no": "27469",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
+  },
+  {
+    "tur": "ktb_konum_yok",
+    "il": "Muğla",
+    "ad": "VERANO KAMPİNG",
+    "ilce": "MİLAS",
+    "belge_no": "27210",
+    "tarih": "2026-10-09",
+    "detay": "Bakanlık belgeli kamping; konum kaynağı yok, eklenmedi."
   }
 ]
