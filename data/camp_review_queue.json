@@ -230,5 +230,965 @@
     "il": "Sakarya",
     "ad": "Kocaali Karavan Parkı",
     "tarih": "2026-10-08"
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12335209001",
+    "il": "Adana",
+    "ad": "Forest",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12335139860",
+    "il": "Adana",
+    "ad": "small forest",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12335163647",
+    "il": "Adana",
+    "ad": "Small forest",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12182161588",
+    "il": "Adıyaman",
+    "ad": "Dort darf man nicht mehr übernachten!!",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-5353798648",
+    "il": "Afyonkarahisar",
+    "ad": "5tents",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10206908562",
+    "il": "Aksaray",
+    "ad": "Salt Desert Camp",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-way-339220751",
+    "il": "Aksaray",
+    "ad": "Star Pension/Camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-6681265486",
+    "il": "Ankara",
+    "ad": "بيت امين",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12797222901",
+    "il": "Ankara",
+    "ad": "بيت فارس",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12797223001",
+    "il": "Ankara",
+    "ad": "بيت فارس1",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-9220963593",
+    "il": "Antalya",
+    "ad": "1",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11809286524",
+    "il": "Antalya",
+    "ad": "1 tent",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13208392301",
+    "il": "Antalya",
+    "ad": "1 tent, not very good",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11403857645",
+    "il": "Antalya",
+    "ad": "2 tents",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12416837763",
+    "il": "Antalya",
+    "ad": "2 tents",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12426018911",
+    "il": "Antalya",
+    "ad": "2 tents",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13748590302",
+    "il": "Antalya",
+    "ad": "2-3 места",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13343041788",
+    "il": "Antalya",
+    "ad": "3 tents",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-9722107717",
+    "il": "Antalya",
+    "ad": "5 tents",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14228237301",
+    "il": "Antalya",
+    "ad": "Beach camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11395481977",
+    "il": "Antalya",
+    "ad": "Bees honey place",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11049586014",
+    "il": "Antalya",
+    "ad": "Bro's Camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10801084105",
+    "il": "Antalya",
+    "ad": "Camp, good place for tent and Hamak",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-way-855243645",
+    "il": "Antalya",
+    "ad": "Camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10128595512",
+    "il": "Antalya",
+    "ad": "Camping place big",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-relation-16742100",
+    "il": "Antalya",
+    "ad": "Climbers' Garden",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13305916301",
+    "il": "Antalya",
+    "ad": "Flat spot for small tent at the top of the hill",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-way-544622048",
+    "il": "Antalya",
+    "ad": "Flying Goat Camp",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13983466402",
+    "il": "Antalya",
+    "ad": "Garden Camping - Kamp Alani 500 лир",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10929273805",
+    "il": "Antalya",
+    "ad": "geschlossen",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13428485201",
+    "il": "Antalya",
+    "ad": "Kampsite",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13359175493",
+    "il": "Antalya",
+    "ad": "King pool 2",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10139433117",
+    "il": "Antalya",
+    "ad": "La Tortuga Camping(not working 05.25)",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11984881969",
+    "il": "Antalya",
+    "ad": "Lots of space for camping, can be flooded in rainy season",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12452788738",
+    "il": "Antalya",
+    "ad": "Nice view",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-way-463069677",
+    "il": "Antalya",
+    "ad": "Peak Camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12465503248",
+    "il": "Antalya",
+    "ad": "Place for 1 tent with nice view",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12318704425",
+    "il": "Antalya",
+    "ad": "Place for 2 tents, possible to make fire",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13979635201",
+    "il": "Antalya",
+    "ad": "Place for caravans, tents and cars",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13789531601",
+    "il": "Antalya",
+    "ad": "Place for tent",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13979635601",
+    "il": "Antalya",
+    "ad": "place for tents on grass",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-9847593784",
+    "il": "Antalya",
+    "ad": "Star Beach Park Caming",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-3778304935",
+    "il": "Antalya",
+    "ad": "Star Beach Park Camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-relation-16741749",
+    "il": "Antalya",
+    "ad": "The Green House",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-6520925001",
+    "il": "Antalya",
+    "ad": "View point campsite",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13230268701",
+    "il": "Antalya",
+    "ad": "Большая ровная площадка под двумя оливковыми деревьями. Заброшенная деревня. Места очень много.",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12715878501",
+    "il": "Antalya",
+    "ad": "Кемпинг",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13238915601",
+    "il": "Antalya",
+    "ad": "Кемпинг (3 палатки)",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13230590501",
+    "il": "Antalya",
+    "ad": "Кемпинг (бесплатно). Душ, туалет, стиральная машина.",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13236434701",
+    "il": "Antalya",
+    "ad": "Кемпинг 6 палаток",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13236379901",
+    "il": "Antalya",
+    "ad": "Кемпинг на 2 палатки",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13234549701",
+    "il": "Antalya",
+    "ad": "Кемпинг на 6 палаток под деревьями с видом на озеро.",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11893245570",
+    "il": "Antalya",
+    "ad": "Кемпинг на возвышенности",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13200011601",
+    "il": "Antalya",
+    "ad": "Кемпинг на две палатки. Видовое место. Костровище.",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13781626701",
+    "il": "Antalya",
+    "ad": "маленькое место для одной палатки",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13760899989",
+    "il": "Antalya",
+    "ad": "Место для лагеря",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13800447996",
+    "il": "Antalya",
+    "ad": "Место для лагеря",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14226636502",
+    "il": "Antalya",
+    "ad": "Место под одну палатку в кустах",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10803265105",
+    "il": "Antalya",
+    "ad": "ночью приходят Кабаны",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13795688301",
+    "il": "Antalya",
+    "ad": "огромная поляна с колодцем посередине",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13729344201",
+    "il": "Antalya",
+    "ad": "Поляна",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12437253601",
+    "il": "Antalya",
+    "ad": "Ровное место под две палатки",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14077545403",
+    "il": "Artvin",
+    "ad": "Campground",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14128752201",
+    "il": "Artvin",
+    "ad": "picnic tables",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14129407607",
+    "il": "Bitlis",
+    "ad": "Campground place",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14129412806",
+    "il": "Bitlis",
+    "ad": "Campground with a nice view under trees with a stone oven",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14129419701",
+    "il": "Bitlis",
+    "ad": "Campground with a nice view, cleaned 2026.08",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-14129412808",
+    "il": "Bitlis",
+    "ad": "Private camp 400 per vehicle",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12956008665",
+    "il": "Bitlis",
+    "ad": "Tentspace by the river",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-9798190502",
+    "il": "Bitlis",
+    "ad": "The perfect overnight site",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-4357415190",
+    "il": "Düzce",
+    "ad": "Bungalows",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-2385172018",
+    "il": "Edirne",
+    "ad": "1500",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12864617019",
+    "il": "Edirne",
+    "ad": "Camping self organized",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-841907977",
+    "il": "Iğdır",
+    "ad": "Camp 2",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13359198742",
+    "il": "Isparta",
+    "ad": "1 tent",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13359234107",
+    "il": "Isparta",
+    "ad": "Big!",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13359209439",
+    "il": "Isparta",
+    "ad": "One tent",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-4258250897",
+    "il": "İstanbul",
+    "ad": "Green Park Camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11123621721",
+    "il": "İzmir",
+    "ad": "Elit Campingplatz/Zeltplatz",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12542543681",
+    "il": "İzmir",
+    "ad": "Free camp",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-way-96155826",
+    "il": "İzmir",
+    "ad": "Garden Camp",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13460454737",
+    "il": "İzmir",
+    "ad": "Open forest",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-6062798601",
+    "il": "Kırklareli",
+    "ad": "Camping municipal",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10103624317",
+    "il": "Kırklareli",
+    "ad": "Phase 1",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-7073599834",
+    "il": "Kocaeli",
+    "ad": "wild camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11659749823",
+    "il": "Muğla",
+    "ad": "1 tent",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-6480591091",
+    "il": "Muğla",
+    "ad": "3tents",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13785167100",
+    "il": "Muğla",
+    "ad": "Camp",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-1536425127",
+    "il": "Muğla",
+    "ad": "Front Lagoon Beach",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13767475672",
+    "il": "Muğla",
+    "ad": "Near stream 20260416",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10776552234",
+    "il": "Muğla",
+    "ad": "Not sure that it is accessible",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12237340001",
+    "il": "Muğla",
+    "ad": "Place for one tent with view on a bay",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-8725199028",
+    "il": "Muğla",
+    "ad": "Reflections camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-2494714785",
+    "il": "Muğla",
+    "ad": "Secret Garden",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-8000939185",
+    "il": "Muğla",
+    "ad": "Sonntagmorgenmarkt",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-1536430097",
+    "il": "Muğla",
+    "ad": "Sugar Beach Club",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-8626619217",
+    "il": "Muğla",
+    "ad": "Tents place",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12160912864",
+    "il": "Muğla",
+    "ad": "Village square (wild camp)",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12160753190",
+    "il": "Muğla",
+    "ad": "Wild camp",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-11659755810",
+    "il": "Muğla",
+    "ad": "Windy",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12468783001",
+    "il": "Muğla",
+    "ad": "Большая площадка по палатку рядом река",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12461078801",
+    "il": "Muğla",
+    "ad": "Есть место под палатку",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13266978701",
+    "il": "Muğla",
+    "ad": "Кемпинг (2 палатки)",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13270280801",
+    "il": "Muğla",
+    "ad": "Кемпинг (платный) / Camping (for a fee)",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13724173501",
+    "il": "Muğla",
+    "ad": "Место под палатку (LTE, рядом вода)",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12733999301",
+    "il": "Muğla",
+    "ad": "Место под палатку с видом на море, но утром могут пасти коз",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12733998401",
+    "il": "Muğla",
+    "ad": "Место под палатку, рядом колодец",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13760431403",
+    "il": "Muğla",
+    "ad": "можно ставить палатку, вас никто не тронет",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10755422705",
+    "il": "Muğla",
+    "ad": "Не оставляйте вещи без присмотра",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12483955501",
+    "il": "Muğla",
+    "ad": "Огромное ровное место под палатку",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12537190901",
+    "il": "Muğla",
+    "ad": "Отличное место под палатку с видами wildfreeway",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12509667801",
+    "il": "Muğla",
+    "ad": "Площадка с видом на озеро и город. Wildfreeway",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-9711941899",
+    "il": "Muğla",
+    "ad": "Пляж и место для палаток",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12468614401",
+    "il": "Muğla",
+    "ad": "Ровное место под палатку",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12479377701",
+    "il": "Muğla",
+    "ad": "Ровное место под палатку",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-10657501165",
+    "il": "Muğla",
+    "ad": "Стоянка на песке",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-13040683906",
+    "il": "Nevşehir",
+    "ad": "free camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12793934201",
+    "il": "Sakarya",
+    "ad": "Forest Lake Caravan Camping",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12368202861",
+    "il": "Şanlıurfa",
+    "ad": "Small forest",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
+  },
+  {
+    "tur": "turkce_olmayan_ad",
+    "id": "osm-node-12988266925",
+    "il": "Van",
+    "ad": "under trees, cleaned 2025.07",
+    "tarih": "2026-10-09",
+    "detay": "Türkçe adı olmayan kayıt yayımlanmadı."
   }
 ]
