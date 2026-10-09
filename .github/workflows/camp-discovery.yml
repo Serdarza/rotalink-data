@@ -1,8 +1,8 @@
-name: Kamp alanları keşfi (haftalık)
+name: Kamp alanları keşfi (6 ayda bir)
 
 on:
   schedule:
-    - cron: "0 2 * * 3"   # çarşamba 02:00 UTC = 05:00 Türkiye
+    - cron: "0 2 1 1,7 *"   # 1 Ocak ve 1 Temmuz 02:00 UTC = 05:00 Türkiye
   workflow_dispatch:
     inputs:
       dry_run:
@@ -70,6 +70,6 @@ jobs:
             echo "Değişiklik yok, commit atılmadı."
             exit 0
           fi
-          git commit -m "chore: weekly camp site discovery"
+          git commit -m "chore: camp site discovery (6 ayda bir)"
           git pull --rebase origin main
           git push origin HEAD:main
