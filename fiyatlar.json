@@ -41907,6 +41907,47 @@
       }
     },
     {
+      "il": "Van",
+      "isim": "Van Karayolları 11. Bölge",
+      "fiyat_sivil": "1.200 TL",
+      "fiyat_kamu_personeli": "700 TL",
+      "fiyat_kurum_personeli": null,
+      "kaynak": "https://www.kgm.gov.tr (Bilgi Edinme başvurusu #76652 cevabı, 06.10.2026)",
+      "gecerlilik": "KGM resmi cevap (06.10.2026): kamu 700 TL, sivil/misafir 1.200 TL; kahvaltı ve yemek dahil değil",
+      "tarife": {
+        "baslik": "Karayolları 11. Bölge Müdürlüğü (Van) Konaklama Ücretleri",
+        "birim": "gecelik",
+        "guncelleme": "2026-10-06",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu Personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil / Misafir"
+          }
+        ],
+        "satirlar": [
+          {
+            "ad": "Konaklama",
+            "birim": "gece",
+            "fiyatlar": {
+              "kamu": 700,
+              "sivil": 1200
+            }
+          }
+        ],
+        "dahil": [],
+        "notlar": [
+          "Kahvaltı ve yemek dahil değildir.",
+          "İletişim / santral: 0 432 485 70 88",
+          "Kaynak: Karayolları Genel Müdürlüğü Bilgi Edinme başvurusu #76652 cevabı (06.10.2026)."
+        ]
+      }
+    },
+    {
       "il": "Yozgat",
       "isim": "Akdağmadeni Öğretmenevi",
       "fiyat_sivil": "1.250 – 2.550 TL",
