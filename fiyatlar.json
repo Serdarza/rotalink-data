@@ -35352,21 +35352,21 @@
                 "ad": "2 veya Daha Fazla Yataklı Odada Tek Yatak",
                 "fiyatlar": {
                   "konaklama": 707,
-                  "misafir": "1,414,00"
+                  "misafir": 1414
                 }
               },
               {
                 "ad": "Çift Kişilik (Double) Yatak Bulunan Oda",
                 "fiyatlar": {
                   "konaklama": 1414,
-                  "misafir": "2,828,00"
+                  "misafir": 2828
                 }
               },
               {
                 "ad": "2 Kişilik Suit (Yatak Odası, Salon) Oda",
                 "fiyatlar": {
                   "konaklama": 1767.5,
-                  "misafir": "3,535,00"
+                  "misafir": 3535
                 }
               }
             ]
@@ -35385,7 +35385,9 @@
           "Onaylı misafir tutarları kaynakta \"1,414,00 TL\" biçiminde yazıldığı için kaynaktaki gibi metin olarak aktarılmıştır."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.414 – 3.535 TL",
+      "fiyat_kurum_personeli": "707 – 1.768 TL"
     },
     {
       "il": "İzmir",
@@ -37838,7 +37840,8 @@
           "Fiyatlar 23/03/2026 tarihinden itibaren geçerlidir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.500 – 4.950 TL"
     },
     {
       "il": "Amasya",
@@ -37909,7 +37912,8 @@
           "Konaklama ücretleri 01.02.2026 tarihi itibarı ile güncellenmiştir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.500 – 3.500 TL"
     },
     {
       "il": "Ankara",
@@ -38002,7 +38006,8 @@
           "Okulun resmi web sitesi dışında yayınlanan fiyatlar geçerli değildir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.125 – 1.875 TL"
     },
     {
       "il": "Balıkesir",
@@ -38129,7 +38134,8 @@
           "10 kişi ve üzeri gruplarda %10 indirim uygulanır (yüksek sezon hariç)."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "2.600 – 4.200 TL"
     },
     {
       "il": "Bayburt",
@@ -38217,7 +38223,8 @@
           "Konaklama fiyatı kişi başınadır."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "700 – 4.040 TL"
     },
     {
       "il": "Çanakkale",
@@ -38375,7 +38382,8 @@
           "Okulun web sitesi dışında yayınlanan fiyatlar geçerli değildir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.500 – 4.050 TL"
     },
     {
       "il": "Çorum",
@@ -38442,7 +38450,9 @@
           "Bu fiyatlar bir günlük olup, set menü sabah kahvaltısı dâhildir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_kamu_personeli": "1.500 – 2.000 TL",
+      "fiyat_kurum_personeli": "1.100 – 1.500 TL"
     },
     {
       "il": "Denizli",
@@ -38504,7 +38514,8 @@
           "Kahvaltı (07.30-10.00)"
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "2.250 – 5.000 TL"
     },
     {
       "il": "Tekirdağ",
@@ -38552,7 +38563,8 @@
           "Ekstra kahvaltı: 300 TL."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.250 – 2.100 TL"
     },
     {
       "il": "Iğdır",
@@ -38654,7 +38666,8 @@
           "Kahvaltı: 300 TL."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_kamu_personeli": "900 – 3.000 TL"
     },
     {
       "il": "İstanbul",
@@ -38734,7 +38747,9 @@
           "Okulun resmî sitesi dışında yayımlanan fiyatlar geçerli değildir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "2.900 – 6.000 TL",
+      "fiyat_kamu_personeli": "2.200 – 5.500 TL"
     },
     {
       "il": "İstanbul",
@@ -38795,7 +38810,8 @@
           "Site İstanbul Asım Kibar Meslek Lisesi'ne aittir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "2.000 – 4.500 TL"
     },
     {
       "il": "Karaman",
@@ -38905,7 +38921,10 @@
           "Aynı sayfa (2252) eski uygulamaoteli adresinde HTTP 500 veriyor; konukevi adresindeki liste aynı odaları içeriyor."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.000 – 1.200 TL",
+      "fiyat_kamu_personeli": "850 – 2.400 TL",
+      "fiyat_kurum_personeli": "800 – 2.200 TL"
     },
     {
       "il": "Kayseri",
@@ -38971,7 +38990,8 @@
           "Site T.C. Melikgazi Kaymakamlığı Erciyes Mesleki ve Teknik Anadolu Lisesi Müdürlüğü adına yayımlanıyor."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "2.100 – 5.500 TL"
     },
     {
       "il": "Kırıkkale",
@@ -39108,7 +39128,8 @@
           "Fiyatlar PDF içindeki görselden okunmuştur."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.500 – 4.000 TL"
     },
     {
       "il": "Kırklareli",
@@ -39187,7 +39208,8 @@
           "Vergiler"
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.400 – 3.192 TL"
     },
     {
       "il": "Nevşehir",
@@ -39257,7 +39279,8 @@
           "Dört kişiden fazla konaklamada her ek kişi için 1250 TL."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.500 – 5.000 TL"
     },
     {
       "il": "Osmaniye",
@@ -39342,7 +39365,8 @@
           "Okulun resmî sitesi dışında yayımlanan fiyatlar geçerli değildir."
         ],
         "guncelleme": "2026-09-27"
-      }
+      },
+      "fiyat_sivil": "1.250 – 3.500 TL"
     },
     {
       "il": "Afyonkarahisar",
@@ -43369,6 +43393,61 @@
           "Konaklayan misafirlere çamaşır yıkama ve kurutma hizmeti (konaklama dışı ücretli hizmet) verilmektedir."
         ],
         "guncelleme": "2026-09-27"
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Konukevi (Anadolu Üniversitesi)",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": null,
+      "fiyat_kurum_personeli": "1.300 – 3.000 TL",
+      "kaynak": "https://cdn.anadolu.edu.tr/files/anadolu-cms/JBe0pe8P/uploads/anadolu-universitesi-ankara-konukevi-33a42ba787fb4b71-2-c1161b9b1bb3d79a-64fe488f12cb2dbb.pdf",
+      "gecerlilik": "Resmî CDN PDF: kurum personeli günlük ücret; Konaklama Vergisi dahil değildir; son kontrol 11.10.2026",
+      "tarife": {
+        "not": "Kurum personeli günlük ücret bedelleri. Konaklama Vergisi dahil değildir.",
+        "tablolar": [
+          {
+            "baslik": "Günlük Ücret Bedelleri (TL)",
+            "satirlar": [
+              {
+                "ad": "Bir Kişilik Oda",
+                "fiyatlar": {
+                  "kurum": 1300
+                }
+              },
+              {
+                "ad": "İki Kişilik Oda",
+                "fiyatlar": {
+                  "kurum": 2000
+                }
+              },
+              {
+                "ad": "Üç Kişilik Oda",
+                "fiyatlar": {
+                  "kurum": 2500
+                }
+              },
+              {
+                "ad": "Suit Oda Bir Kişilik",
+                "fiyatlar": {
+                  "kurum": 1800
+                }
+              },
+              {
+                "ad": "Suit Oda İki Kişilik",
+                "fiyatlar": {
+                  "kurum": 2500
+                }
+              },
+              {
+                "ad": "Suit Oda Üç Kişilik",
+                "fiyatlar": {
+                  "kurum": 3000
+                }
+              }
+            ]
+          }
+        ]
       }
     }
   ]
