@@ -13785,6 +13785,66 @@
       }
     },
     {
+      "il": "Eskişehir",
+      "isim": "Eskişehir Büyükşehir Belediyesi Porsuk Konuk Evi",
+      "fiyat_sivil": "2.000 – 4.500 TL",
+      "fiyat_kamu_personeli": null,
+      "fiyat_kurum_personeli": null,
+      "kaynak": "Bildirilen fiyat bilgisi (tesis e-posta: porsukkonukevi@gmail.com)",
+      "gecerlilik": "Tesis e-posta tarifesi (08.10.2026): Single 2.000 TL, Double/Twin 3.500 TL, Triple 4.500 TL (kahvaltı tabağı dahil)",
+      "tarife": {
+        "baslik": "Porsuk Konukevi Konaklama Ücretleri",
+        "birim": "gecelik / oda",
+        "guncelleme": "2026-10-08",
+        "dogrulama": "tesis_dogruladi",
+        "kategoriler": [
+          {
+            "id": "genel",
+            "ad": "Fiyat"
+          }
+        ],
+        "satirlar": [
+          {
+            "ad": "Single Oda",
+            "kisi": 1,
+            "birim": "oda / gece",
+            "fiyatlar": {
+              "genel": 2000
+            }
+          },
+          {
+            "ad": "Double / Twin Oda",
+            "kisi": 2,
+            "birim": "oda / gece",
+            "fiyatlar": {
+              "genel": 3500
+            }
+          },
+          {
+            "ad": "Triple Oda",
+            "kisi": 3,
+            "birim": "oda / gece",
+            "fiyatlar": {
+              "genel": 4500
+            }
+          }
+        ],
+        "dahil": [
+          "Kahvaltı tabağı"
+        ],
+        "ek_ucretler": [
+          "Tesis otoparkı yok; ~150 m ileride katlı otopark — 24 saat giriş-çıkış yapılmazsa 400 TL."
+        ],
+        "kurallar": [
+          "Rezervasyonlar 1,5 ay öncesinden telefonla alınmaya başlanır."
+        ],
+        "notlar": [
+          "İletişim: 0 222 221 66 30 / 0 222 221 66 24",
+          "Fiyatlar tesis e-posta bildirimine dayanır; rezervasyon öncesi tesisle teyit ediniz."
+        ]
+      }
+    },
+    {
       "il": "Konya",
       "isim": "Cihanbeyli Öğretmenevi",
       "fiyat_sivil": "1.000 TL",
