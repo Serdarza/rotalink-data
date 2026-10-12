@@ -4070,15 +4070,6 @@
     },
     {
       "il": "Batman",
-      "isim": "Batman DSİ Misafirhanesi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/batman/batman-batman-dsi-misafirhanesi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/batman/batman-batman-dsi-misafirhanesi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/batman/batman-batman-dsi-misafirhanesi-3.jpg"
-      ]
-    },
-    {
-      "il": "Batman",
       "isim": "Tüpraş Batman Rafinerisi Sosyal Tesisleri",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/batman/batman-tüpraş-batman-rafinerisi-sosyal-tesisleri-1.jpg",
@@ -4990,29 +4981,11 @@
     },
     {
       "il": "Çanakkale",
-      "isim": "Gelibolu Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-gelibolu-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-gelibolu-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-gelibolu-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Çanakkale",
       "isim": "Lapseki Öğretmenevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-lapseki-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-lapseki-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-lapseki-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Çanakkale",
-      "isim": "Yenice Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-yenice-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-yenice-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/çanakkale/çanakkale-yenice-öğretmenevi-3.jpg"
       ]
     },
     {

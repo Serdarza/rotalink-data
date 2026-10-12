@@ -1323,12 +1323,6 @@
     },
     {
       "il": "Aydın",
-      "isim": "Karacasu Öğretmenevi",
-      "adres": "Yaylalı, Karacasu/Aydın",
-      "ilce": "Karacasu"
-    },
-    {
-      "il": "Aydın",
       "isim": "Kuyucak Öğretmenevi",
       "adres": "Yakuppaşa, Prof. Hazım Atıf Cd. No:12, 09930 Kuyucak/Aydın",
       "ilce": "Kuyucak"
@@ -1659,12 +1653,6 @@
     },
     {
       "il": "Batman",
-      "isim": "Batman DSİ Misafirhanesi",
-      "adres": "Belde, 3216. Sk. No:3, 72070 Batman Merkez/Batman",
-      "ilce": "Merkez"
-    },
-    {
-      "il": "Batman",
       "isim": "Tüpraş Batman Rafinerisi Sosyal Tesisleri",
       "adres": "Site, 72040 Merkez/Batman Merkez/Batman",
       "ilce": "Merkez"
@@ -1950,12 +1938,6 @@
       "isim": "Göynük Öğretmenevi",
       "adres": "Yenice, Selim Çapar Cd., 14780 Göynük/Bolu",
       "ilce": "Göynük"
-    },
-    {
-      "il": "Bolu",
-      "isim": "Seben Öğretmenevi",
-      "adres": "Çarşı, İstiklal Cd., 14750 Seben/Bolu",
-      "ilce": "Seben"
     },
     {
       "il": "Bolu",
@@ -2301,21 +2283,9 @@
     },
     {
       "il": "Çanakkale",
-      "isim": "Gelibolu Öğretmenevi",
-      "adres": "Tuğsavul caddesi No:48/, Hoca Hamza, 17500 Gelibolu Öğretmen Evi/Gelibolu/Çanakkale",
-      "ilce": "Gelibolu"
-    },
-    {
-      "il": "Çanakkale",
       "isim": "Lapseki Öğretmenevi",
       "adres": "Cumhuriyet, Atatürk Cd. No:13, 17800 Lapseki/Çanakkale",
       "ilce": "Lapseki"
-    },
-    {
-      "il": "Çanakkale",
-      "isim": "Yenice Öğretmenevi",
-      "adres": "Yeni, Orta Okul Sk. No:7, 17550 Yenice/Çanakkale",
-      "ilce": "Yenice"
     },
     {
       "il": "Çankırı",
@@ -14552,12 +14522,6 @@
       "ilce": "Çeşme"
     },
     {
-      "il": "Aydın",
-      "isim": "Aydın Kuşadası Güvercinada Uygulama Oteli",
-      "adres": "",
-      "ilce": "Kuşadası"
-    },
-    {
       "il": "Muğla",
       "isim": "Muğla Fethiye Şehit Yüzbaşı Özgür Özekin Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
       "adres": "",
@@ -16426,12 +16390,6 @@
     {
       "il": "Karaman",
       "isim": "Karaman İl Sağlık Md.lüğü Eğitim ve Konaklama Tesisi",
-      "adres": "",
-      "ilce": "Merkez"
-    },
-    {
-      "il": "Batman",
-      "isim": "Batman Belediyesi Konukevi",
       "adres": "",
       "ilce": "Merkez"
     },
