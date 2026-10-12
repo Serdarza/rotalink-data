@@ -1708,75 +1708,74 @@
       "isim": "Artvin Polisevi",
       "fiyat_sivil": "1.400 – 6.000 TL",
       "fiyat_kamu_personeli": "700 – 3.000 TL",
-      "kaynak": "https://www.artvin.pol.tr/polisevi",
-      "gecerlilik": "2026 tarifesi; Kaynak: resmî web sayfası “Artvin Emniyet Müdürlüğü - Polis Evi Fiyat Listesi” (2026 Yılı Oda ve Yatak Ücretleri); son kontrol 27.09.2026",
+      "gecerlilik": "2026 yılı (görsel tarife; rezervasyonda teyit edilmeli)",
       "tarife": {
-        "baslik": "2026 Yılı Oda ve Yatak Ücretleri",
+        "baslik": "Artvin Polisevi 2026 Oda ve Yatak Ücretleri",
         "donem": "2026",
         "birim": "gecelik",
-        "dogrulama": "resmi_kaynak",
+        "dogrulama": "tesis_dogruladi",
+        "guncelleme": "2026-10-12",
         "kategoriler": [
           {
             "id": "kamu",
-            "ad": "Kamu Personeli"
+            "ad": "Kamu personeli"
           },
           {
-            "id": "onayli",
-            "ad": "Onaylı Misafirler"
+            "id": "sivil",
+            "ad": "Onaylı misafirler"
           }
         ],
         "tablolar": [
           {
             "satirlar": [
               {
-                "ad": "Çift Kişilik Odadaki Yatak Ücreti",
-                "birim": "yatak",
+                "ad": "Çift kişilik odadaki yatak ücreti",
+                "birim": "kişi başı",
                 "fiyatlar": {
                   "kamu": 700,
-                  "onayli": 1400
+                  "sivil": 1400
                 }
               },
               {
-                "ad": "Çift Kişilik Yataklı Oda Ücreti",
+                "ad": "Çift kişilik yataklı oda ücreti",
                 "birim": "oda",
                 "fiyatlar": {
                   "kamu": 1400,
-                  "onayli": 2800
+                  "sivil": 2800
                 }
               },
               {
-                "ad": "Aile Odası",
+                "ad": "Aile odası",
                 "birim": "oda",
                 "fiyatlar": {
                   "kamu": 2100,
-                  "onayli": 4200
+                  "sivil": 4200
                 }
               },
               {
-                "ad": "Suit Oda",
+                "ad": "Suit oda",
                 "birim": "oda",
                 "fiyatlar": {
                   "kamu": 2450,
-                  "onayli": 4900
+                  "sivil": 4900
                 }
               },
               {
-                "ad": "Ultra VİP Oda",
+                "ad": "Ultra VIP oda",
                 "birim": "oda",
                 "fiyatlar": {
                   "kamu": 3000,
-                  "onayli": 6000
+                  "sivil": 6000
                 }
               }
             ]
           }
         ],
         "notlar": [
-          "Toplam 32 oda: 2 Ultra VIP, 2 Suit, 4 Aile Odası, 3 çift kişilik yataklı oda, 21 tek kişilik 2 yataklı oda.",
-          "Kahvaltı 08:00–09:30.",
-          "Spor salonu, sauna, restoran ve toplantı salonu hizmeti vardır."
-        ],
-        "guncelleme": "2026-09-27"
+          "Toplam 32 oda.",
+          "Spor salonu, sauna, restoran ve toplantı salonu hizmeti vardır.",
+          "Kahvaltı 08:00–09:30."
+        ]
       }
     },
     {
@@ -12425,21 +12424,21 @@
       "fiyat_sivil": "800 TL",
       "fiyat_kamu_personeli": "600 TL",
       "fiyat_kurum_personeli": "400 TL",
-      "kaynak": "https://borckaogretmenevi.meb.k12.tr/icerikler/borçka-öğretmenevi-2026yılı-konaklama-ücretleri_13673945.html",
-      "gecerlilik": "2026 tarifesi; Kaynak: resmî web sayfası “Borçka Öğretmenevi 2026 Yılı Konaklama Ücretleri” (Yayın 22.01.2023 – Güncelleme 15.08.2026); son kontrol 27.09.2026",
+      "gecerlilik": "2026 yılı (görsel tarife; rezervasyonda teyit edilmeli)",
       "tarife": {
-        "baslik": "Borçka Öğretmenevi 2026 Yılı Kişibaşı Günlük Konaklama Ücretleri",
+        "baslik": "Borçka Öğretmenevi 2026 Gecelik Ücret Tarifesi",
         "donem": "2026",
         "birim": "kişi başı / gece",
-        "dogrulama": "resmi_kaynak",
+        "dogrulama": "tesis_dogruladi",
+        "guncelleme": "2026-10-12",
         "kategoriler": [
           {
             "id": "ogretmen",
-            "ad": "Öğretmen ve MEB Çalışanları"
+            "ad": "Öğretmen ve MEB çalışanları"
           },
           {
             "id": "kamu",
-            "ad": "Diğer Kamu Görevlileri"
+            "ad": "Diğer kamu görevlileri"
           },
           {
             "id": "sivil",
@@ -12450,7 +12449,7 @@
           {
             "satirlar": [
               {
-                "ad": "Gecelik Konaklama Ücreti",
+                "ad": "Gecelik konaklama",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "ogretmen": 400,
@@ -12461,17 +12460,12 @@
             ]
           }
         ],
-        "kurallar": [
-          "Konaklama yapılacak gün en geç saat 18:00'e kadar rezervasyonların teyit edilmesi zorunludur; aksi takdirde rezervasyonlar iptal edilir."
-        ],
         "indirimler": [
-          "6-12 yaş aralığındaki çocuklar belirlenen ücretin %50'si"
+          "6–12 yaş çocuklar belirlenen ücretin %50’si."
         ],
         "notlar": [
-          "Altı adet iki yataklı otel odası (toplam on iki yatak) bulunmaktadır.",
           "Rezervasyon: 0466 415 24 11."
-        ],
-        "guncelleme": "2026-09-27"
+        ]
       }
     },
     {
@@ -29824,108 +29818,96 @@
       "isim": "Aydın İLKSAN Didim Sosyal Tesisi",
       "fiyat_sivil": "2.750 – 4.500 TL",
       "fiyat_kurum_personeli": "2.000 – 3.500 TL",
-      "kaynak": "https://www.ilkyatirimgrupdidim.com/Content/assets/basvuru_pdf/didim_2026_basvuru_formu.pdf",
-      "gecerlilik": "04.05.2026 tarihinden itibaren geçerli; Kaynak: resmî PDF “İLKSAN Didim Tesis Şubesi 2026 Yılı Müracaat Formu” (2026 yılı müracaat formu); son kontrol 27.09.2026",
+      "gecerlilik": "2026 yılı yarım pansiyon, 7 günlük dönemler (görsel tarife; kahvaltı + akşam yemeği, KDV ve konaklama vergisi dahil)",
       "tarife": {
-        "baslik": "Tarihlere Göre Konaklama Dönemleri ve Fiyatları – Yarım Pansiyon Kişi Başı",
-        "donem": "04.05.2026 – 12.10.2026 (7 günlük dönemler)",
-        "birim": "kişi başı / günlük",
-        "dogrulama": "resmi_kaynak",
+        "baslik": "İLKSAN Didim Tesis Şubesi 2026 Yarım Pansiyon Kişi Başı",
+        "donem": "04.05.2026 – 12.10.2026",
+        "birim": "kişi başı / gün (7 günlük dönem)",
+        "dogrulama": "tesis_dogruladi",
+        "guncelleme": "2026-10-12",
         "kategoriler": [
           {
             "id": "uye",
-            "ad": "Üye Fiyatı (TL)"
+            "ad": "Üye fiyatı"
           },
           {
-            "id": "munferit",
-            "ad": "Münferit Fiyatı (TL)"
+            "id": "sivil",
+            "ad": "Münferit / sivil fiyatı"
           }
         ],
         "tablolar": [
           {
             "satirlar": [
               {
-                "ad": "1-2. dönem (04.05.2026 – 18.05.2026)",
+                "ad": "1–2. dönem (04.05–18.05.2026)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "uye": 2000,
-                  "munferit": 2750
+                  "sivil": 2750
                 }
               },
               {
-                "ad": "3-5. dönem (18.05.2026 – 08.06.2026)",
+                "ad": "3–5. dönem (18.05–08.06.2026)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "uye": 2500,
-                  "munferit": 3250
+                  "sivil": 3250
                 }
               },
               {
-                "ad": "6-8. dönem (08.06.2026 – 29.06.2026)",
+                "ad": "6–9. dönem (08.06–06.07.2026)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "uye": 3000,
-                  "munferit": 4000
+                  "sivil": 4000
                 }
               },
               {
-                "ad": "9-13. dönem (29.06.2026 – 03.08.2026)",
+                "ad": "10–13. dönem (06.07–03.08.2026)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "uye": 3500,
-                  "munferit": 4500
+                  "sivil": 4500
                 }
               },
               {
-                "ad": "14-17. dönem (03.08.2026 – 31.08.2026)",
+                "ad": "14–18. dönem (03.08–07.09.2026)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "uye": 3500,
-                  "munferit": 4500
+                  "sivil": 4500
                 }
               },
               {
-                "ad": "18-21. dönem (31.08.2026 – 28.09.2026)",
+                "ad": "19–21. dönem (07.09–28.09.2026)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "uye": 3000,
-                  "munferit": 4000
+                  "sivil": 4000
                 }
               },
               {
-                "ad": "22-23. dönem (28.09.2026 – 12.10.2026)",
+                "ad": "22–23. dönem (28.09–12.10.2026)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "uye": 2500,
-                  "munferit": 3250
+                  "sivil": 3250
                 }
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tesis 7 gece, yarım pansiyon (konaklama + açık büfe sabah kahvaltısı + self servis akşam yemeği) şeklindedir; ekstra yiyecek ve içecekler ücrete tabidir.",
-          "Üye fiyatı İLKSAN üyeleri, İLK Yatırım Grup A.Ş. çalışanları ve 1. derece yakınları, eşleri ile emekli İLKSAN üyeleri ve eşleri için geçerlidir; 25 yaşını dolduran erkek ve evlenmiş kız çocukları ile beraberindekilere münferit fiyat uygulanır.",
-          "Çağrı yazısının tesliminden itibaren 7 gün içinde toplam konaklama tutarının %20'si ön peşinat olarak yatırılır; kalan tutar girişte ödenir.",
-          "İptaller girişten en az 7 takvim günü önce yazılı yapılmalıdır; aksi halde en az 1 günlük konaklama bedeli ceza olarak kesilir."
-        ],
-        "giris_saati": "17:00",
-        "cikis_saati": "10:00",
         "dahil": [
-          "Sabah kahvaltısı",
+          "Kahvaltı",
           "Akşam yemeği",
           "KDV",
           "Konaklama vergisi"
         ],
-        "indirimler": [
-          "0-5,99 yaş grubu bir çocuk ücretsiz, aynı yaş grubundan ikinci çocuk %50 ücretli.",
-          "06-11,99 yaş arası çocuklar %50 ücrete tabidir.",
-          "Aynı odaya ilave konulacak her yatak için yatak fiyatından %20 indirimli fiyat uygulanır."
-        ],
-        "ek_ucretler": [
-          "Tek kişilik oda konaklamalarında kişi fiyatına %50 ilave ücret uygulanır."
-        ],
-        "guncelleme": "2026-09-27"
+        "notlar": [
+          "42 oda, 121 yatak kapasiteli.",
+          "Denize sıfır, plajı vardır.",
+          "Yarım pansiyon; 7 günlük dönemler, kişi başı."
+        ]
       }
     },
     {
@@ -31799,92 +31781,52 @@
       "fiyat_sivil": "1.600 – 6.400 TL",
       "fiyat_kamu_personeli": "1.200 – 4.800 TL",
       "fiyat_kurum_personeli": "1.000 – 4.000 TL",
-      "kaynak": "https://hopaogretmenevi.meb.k12.tr/icerikler/2026-yili-konaklama-ücretleri_1618710.html",
-      "gecerlilik": "01.06.2026 tarihinden itibaren geçerli; Kaynak: resmî web sayfası “2026 Yılı Konaklama Ücretleri” (Metin: 01.06.2026'dan itibaren geçerli); son kontrol 27.09.2026",
+      "gecerlilik": "2026 yılı (görsel tarife; rezervasyonda teyit edilmeli)",
       "tarife": {
-        "baslik": "Hopa Öğretmenevi 2026 Yılı Konaklama Ücretleri",
-        "birim": "gecelik",
-        "dogrulama": "resmi_kaynak",
+        "baslik": "Hopa Öğretmenevi 2026 Konaklama Ücretleri",
+        "donem": "2026",
+        "dogrulama": "tesis_dogruladi",
+        "guncelleme": "2026-10-12",
         "kategoriler": [
           {
             "id": "ogretmen",
             "ad": "Öğretmen"
           },
           {
-            "id": "uye_kamu",
-            "ad": "Üye-Kamu"
+            "id": "kamu",
+            "ad": "Üye-kamu / öğrenci / gazi / şehit yakını"
           },
           {
-            "id": "ogrenci",
-            "ad": "Öğrenci/Gazi/Şehit Yakını"
-          },
-          {
-            "id": "misafir",
-            "ad": "Misafir"
+            "id": "sivil",
+            "ad": "Misafir (sivil)"
           }
         ],
         "tablolar": [
           {
             "satirlar": [
               {
-                "ad": "Paylaşımlı oda yatak",
+                "ad": "Paylaşımlı oda",
+                "birim": "kişi başı",
                 "fiyatlar": {
                   "ogretmen": 1000,
-                  "uye_kamu": 1200,
-                  "ogrenci": 1200,
-                  "misafir": 1600
-                }
-              },
-              {
-                "ad": "2 yataklı oda",
-                "fiyatlar": {
-                  "ogretmen": 2000,
-                  "uye_kamu": 2400,
-                  "ogrenci": 2400,
-                  "misafir": 3200
-                }
-              },
-              {
-                "ad": "3 yataklı oda",
-                "fiyatlar": {
-                  "ogretmen": 3000,
-                  "uye_kamu": 3600,
-                  "ogrenci": 3600,
-                  "misafir": 4800
-                }
-              },
-              {
-                "ad": "Duble oda",
-                "fiyatlar": {
-                  "ogretmen": 2000,
-                  "uye_kamu": 2400,
-                  "ogrenci": 2400,
-                  "misafir": 3200
+                  "kamu": 1200,
+                  "sivil": 1600
                 }
               },
               {
                 "ad": "Aile odası",
                 "fiyatlar": {
                   "ogretmen": 4000,
-                  "uye_kamu": 4800,
-                  "ogrenci": 4800,
-                  "misafir": 6400
+                  "kamu": 4800,
+                  "sivil": 6400
                 }
               }
             ]
           }
         ],
-        "kurallar": [
-          "Ödeme peşin alınır."
-        ],
-        "dahil": [
-          "Kahvaltı",
-          "KDV"
-        ],
         "notlar": [
-          "Öğretmen konaklama 800,00 + 200,00 kahvaltı."
-        ],
-        "guncelleme": "2026-09-27"
+          "Aile odası ve diğer oda paketleri paylaşımlı yatak ücretine göre değişir."
+        ]
       }
     },
     {
@@ -33658,41 +33600,44 @@
       "isim": "Aydın Söke Zirai Üretim İşletmesi Tarımsal Yayım ve Hizmetiçi Eğitim Merkezi Md.lüğü Misafirhanesi",
       "fiyat_sivil": "1.305 TL",
       "fiyat_kamu_personeli": "867 TL",
-      "kaynak": "https://egitim.tarimorman.gov.tr/aydin/Menu/42/Misafirhane-Soke",
-      "gecerlilik": "2026 tarifesi; Kaynak: resmî web sayfası “Misafirhane-Söke” (Misafirhane Konaklama Ücretleri (2026)); son kontrol 27.09.2026",
+      "gecerlilik": "2026 yılı (görsel tarife; konaklama vergisi dahil, kahvaltı hariç; rezervasyonda teyit edilmeli)",
       "tarife": {
-        "baslik": "Misafirhane Konaklama Ücretleri (2026)",
+        "baslik": "Söke Zirai Üretim İşletmesi Misafirhane Konaklama Ücretleri 2026",
         "donem": "2026",
         "birim": "günlük",
-        "dogrulama": "resmi_kaynak",
+        "dogrulama": "tesis_dogruladi",
+        "guncelleme": "2026-10-12",
+        "giris_saati": "12:00",
+        "cikis_saati": "10:00",
         "kategoriler": [
           {
             "id": "kamu",
-            "ad": "Tüm Kamu Personeli, Emekliler ve Ailesi"
+            "ad": "Tüm kamu personeli, emekliler ve ailesi"
           },
           {
             "id": "sivil",
-            "ad": "Kamu Personeli Olmayan Kişiler"
+            "ad": "Kamu personeli olmayan kişiler"
           },
           {
             "id": "kursiyer",
-            "ad": "Proje Kapsamında Oluşturulan Çiftçi Kursiyerler"
+            "ad": "Proje kapsamında oluşturulan çiftçi kursiyerler"
           },
           {
             "id": "stajyer",
-            "ad": "Stajyer Öğrenciler"
+            "ad": "Stajyer öğrenciler"
           },
           {
             "id": "gorevli",
-            "ad": "Görevli Personel"
+            "ad": "Görevli personel"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhane Konaklama Ücretleri (2026)",
+            "baslik": "Misafirhane konaklama ücretleri",
             "satirlar": [
               {
-                "ad": "Günlük Konaklama Bedeli",
+                "ad": "Günlük konaklama",
+                "birim": "kişi başı",
                 "fiyatlar": {
                   "kamu": 867,
                   "sivil": 1305,
@@ -33703,22 +33648,25 @@
             ]
           },
           {
-            "baslik": "Görevli Personel Konaklama Ücretleri",
+            "baslik": "Görevli personel konaklama ücretleri",
             "satirlar": [
               {
-                "ad": "Ek Gösterge 3000 dâhil – 5800 hariç",
+                "ad": "Ek gösterge 3000 dahil – 5800 hariç",
+                "birim": "kişi başı",
                 "fiyatlar": {
                   "gorevli": 1360
                 }
               },
               {
-                "ad": "Aylık Kadro Derecesi 1–4 Arası",
+                "ad": "Aylık kadro derecesi 1–4 arası",
+                "birim": "kişi başı",
                 "fiyatlar": {
                   "gorevli": 1360
                 }
               },
               {
-                "ad": "Aylık Kadro Derecesi 5–15 Arası",
+                "ad": "Aylık kadro derecesi 5–15 arası",
+                "birim": "kişi başı",
                 "fiyatlar": {
                   "gorevli": 1360
                 }
@@ -33727,21 +33675,16 @@
           }
         ],
         "kurallar": [
-          "Misafirhane ücretleri girişte peşin olarak alınır.",
-          "Kimlik gösterilmesi zorunludur.",
-          "Evcil hayvan kabul edilmez.",
-          "Saat 10:00'dan sonra odayı boşaltmayanlardan oda ücreti tahsil edilir."
+          "Ücretler peşin alınır.",
+          "Evcil hayvan kabul edilmez."
         ],
-        "giris_saati": "12:00",
-        "cikis_saati": "10:00",
         "dahil": [
-          "Konaklama vergisi dahildir.",
-          "Kahvaltı dahil değildir (kurs olduğu zaman verilir)."
+          "Konaklama vergisi"
         ],
-        "guncelleme": "2026-09-27",
         "notlar": [
           "Kapasite: 76 kişi.",
-          "Odalarda tuvalet-banyo, mini buzdolabı, klima ve televizyon vardır."
+          "Odalarda tuvalet-banyo, mini buzdolabı, klima ve televizyon vardır.",
+          "Kahvaltı dahil değildir (kurs olduğu zaman verilir)."
         ]
       }
     },
@@ -43278,13 +43221,15 @@
       "fiyat_sivil": "1.500 – 3.000 TL",
       "fiyat_kamu_personeli": "1.000 – 2.000 TL",
       "fiyat_kurum_personeli": "750 – 1.500 TL",
-      "kaynak": "https://777103.meb.k12.tr/meb_iys_dosyalar/75/02/777103/resimler/2026_06/19ac4097ecb36dfbae0b5fbd626493c8.jpg",
-      "gecerlilik": "01.07.2026 tarihinden itibaren geçerli; Kaynak: resmî sitedeki tarife görseli “Prof. Dr. Esfender Korkmaz Öğretmenevi Fiyat Listemiz Güncellenmiştir” (Yayın 18.06.2026 – Güncelleme 29.06.2026; görsel dosya klasörü 2026_06); son kontrol 27.09.2026",
+      "gecerlilik": "01.07.2026’dan itibaren (görsel tarife; rezervasyonda teyit edilmeli)",
       "tarife": {
-        "baslik": "Çıldır Prof. Dr. Esfender Korkmaz Öğretmenevi ve ASO Konaklama Fiyatları",
-        "donem": "Fiyat listesi 01.07.2026 tarihinden itibaren geçerlidir",
+        "baslik": "Çıldır Prof. Dr. Esfender Korkmaz Öğretmenevi ve ASO",
+        "donem": "01.07.2026’dan itibaren",
         "birim": "gecelik",
-        "dogrulama": "resmi_kaynak",
+        "dogrulama": "tesis_dogruladi",
+        "guncelleme": "2026-10-12",
+        "giris_saati": "11:00",
+        "cikis_saati": "10:00",
         "kategoriler": [
           {
             "id": "ogretmen",
@@ -43303,7 +43248,8 @@
           {
             "satirlar": [
               {
-                "ad": "Tek Kişilik Oda (Paylaşımlı)",
+                "ad": "Tek kişilik oda (paylaşımlı)",
+                "birim": "kişi başı",
                 "fiyatlar": {
                   "ogretmen": 750,
                   "kamu": 1000,
@@ -43311,7 +43257,8 @@
                 }
               },
               {
-                "ad": "İki Kişilik Oda",
+                "ad": "İki kişilik oda",
+                "kisi": 2,
                 "fiyatlar": {
                   "ogretmen": 1300,
                   "kamu": 1600,
@@ -43319,7 +43266,7 @@
                 }
               },
               {
-                "ad": "Suit Oda",
+                "ad": "Suit oda",
                 "fiyatlar": {
                   "ogretmen": 1500,
                   "kamu": 2000,
@@ -43329,23 +43276,17 @@
             ]
           }
         ],
-        "kurallar": [
-          "Odalara ilave yatak eklenmemektedir."
-        ],
-        "giris_saati": "11:00-24:00",
-        "cikis_saati": "10:00",
         "dahil": [
-          "Fiyatlarımıza K.D.V. dahildir.",
-          "Fiyatlara kahvaltı dahil değildir."
+          "KDV"
         ],
         "indirimler": [
-          "Öğrencilere %10, özel gereksinimli bireylere %40 oranında fiyat indirimi uygulanacaktır.",
-          "Kamu emeklileri kamu tarifesinden yararlanabilirler."
+          "Öğrencilere %10, özel gereksinimli bireylere %40 indirim.",
+          "Kamu emeklileri kamu tarifesinden yararlanır."
         ],
         "notlar": [
-          "Tesis, Çıldır'da eski öğretmenevinin yerine yapılarak 2025'te hizmete açılan Prof. Dr. Esfender Korkmaz Öğretmenevi ve ASO'dur (resmî site 777103.meb.k12.tr)."
-        ],
-        "guncelleme": "2026-09-27"
+          "Kahvaltı dahil değildir.",
+          "Giriş 11:00–24:00."
+        ]
       }
     },
     {
