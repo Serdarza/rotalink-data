@@ -29819,11 +29819,11 @@
       "isim": "Aydın İLKSAN Didim Sosyal Tesisi",
       "fiyat_sivil": "2.750 – 4.500 TL",
       "fiyat_kurum_personeli": "2.000 – 3.500 TL",
-      "gecerlilik": "2026 yılı yarım pansiyon, 7 günlük dönemler (görsel tarife; kahvaltı + akşam yemeği, KDV ve konaklama vergisi dahil)",
+      "gecerlilik": "2026 yılı; yarım pansiyon, 7 günlük dönem, kişi başı (kahvaltı + akşam yemeği + konaklama; KDV ve konaklama vergisi dahil)",
       "tarife": {
-        "baslik": "İLKSAN Didim Tesis Şubesi 2026 Yarım Pansiyon Kişi Başı",
+        "baslik": "İLKSAN Didim Tesis Şubesi 2026",
         "donem": "04.05.2026 – 12.10.2026",
-        "birim": "kişi başı / gün (7 günlük dönem)",
+        "birim": "7 gecelik dönem / kişi",
         "dogrulama": "tesis_dogruladi",
         "guncelleme": "2026-10-12",
         "kategoriler": [
@@ -29832,67 +29832,68 @@
             "ad": "Üye fiyatı"
           },
           {
-            "id": "sivil",
-            "ad": "Münferit / sivil fiyatı"
+            "id": "munferit",
+            "ad": "Münferit fiyatı"
           }
         ],
         "tablolar": [
           {
+            "aciklama": "Yarım pansiyon (kahvaltı + akşam yemeği + konaklama, KDV ve konaklama vergisi dahil). 7 günlük dönemler için kişi başı fiyatlar.",
             "satirlar": [
               {
-                "ad": "1–2. dönem (04.05–18.05.2026)",
-                "birim": "kişi başı",
+                "ad": "1–2. dönem",
+                "aciklama": "04.05–18.05.2026",
                 "fiyatlar": {
                   "uye": 2000,
-                  "sivil": 2750
+                  "munferit": 2750
                 }
               },
               {
-                "ad": "3–5. dönem (18.05–08.06.2026)",
-                "birim": "kişi başı",
+                "ad": "3–5. dönem",
+                "aciklama": "18.05–08.06.2026",
                 "fiyatlar": {
                   "uye": 2500,
-                  "sivil": 3250
+                  "munferit": 3250
                 }
               },
               {
-                "ad": "6–9. dönem (08.06–06.07.2026)",
-                "birim": "kişi başı",
+                "ad": "6–9. dönem",
+                "aciklama": "08.06–06.07.2026",
                 "fiyatlar": {
                   "uye": 3000,
-                  "sivil": 4000
+                  "munferit": 4000
                 }
               },
               {
-                "ad": "10–13. dönem (06.07–03.08.2026)",
-                "birim": "kişi başı",
+                "ad": "10–13. dönem",
+                "aciklama": "06.07–03.08.2026",
                 "fiyatlar": {
                   "uye": 3500,
-                  "sivil": 4500
+                  "munferit": 4500
                 }
               },
               {
-                "ad": "14–18. dönem (03.08–07.09.2026)",
-                "birim": "kişi başı",
+                "ad": "14–18. dönem",
+                "aciklama": "03.08–07.09.2026",
                 "fiyatlar": {
                   "uye": 3500,
-                  "sivil": 4500
+                  "munferit": 4500
                 }
               },
               {
-                "ad": "19–21. dönem (07.09–28.09.2026)",
-                "birim": "kişi başı",
+                "ad": "19–21. dönem",
+                "aciklama": "07.09–28.09.2026",
                 "fiyatlar": {
                   "uye": 3000,
-                  "sivil": 4000
+                  "munferit": 4000
                 }
               },
               {
-                "ad": "22–23. dönem (28.09–12.10.2026)",
-                "birim": "kişi başı",
+                "ad": "22–23. dönem",
+                "aciklama": "28.09–12.10.2026",
                 "fiyatlar": {
                   "uye": 2500,
-                  "sivil": 3250
+                  "munferit": 3250
                 }
               }
             ]
@@ -29903,11 +29904,6 @@
           "Akşam yemeği",
           "KDV",
           "Konaklama vergisi"
-        ],
-        "notlar": [
-          "42 oda, 121 yatak kapasiteli.",
-          "Denize sıfır, plajı vardır.",
-          "Yarım pansiyon; 7 günlük dönemler, kişi başı."
         ]
       }
     },
@@ -43222,14 +43218,14 @@
       "fiyat_sivil": "1.500 – 3.000 TL",
       "fiyat_kamu_personeli": "1.000 – 2.000 TL",
       "fiyat_kurum_personeli": "750 – 1.500 TL",
-      "gecerlilik": "01.07.2026’dan itibaren (görsel tarife; rezervasyonda teyit edilmeli)",
+      "gecerlilik": "01.07.2026’dan itibaren (görsel tarife; KDV dahil, kahvaltı hariç)",
       "tarife": {
         "baslik": "Çıldır Prof. Dr. Esfender Korkmaz Öğretmenevi ve ASO",
         "donem": "01.07.2026’dan itibaren",
         "birim": "gecelik",
         "dogrulama": "tesis_dogruladi",
         "guncelleme": "2026-10-12",
-        "giris_saati": "11:00",
+        "giris_saati": "11:00–24:00",
         "cikis_saati": "10:00",
         "kategoriler": [
           {
@@ -43249,7 +43245,7 @@
           {
             "satirlar": [
               {
-                "ad": "Tek kişilik oda (paylaşımlı)",
+                "ad": "Tek Kişilik Oda (Paylaşımlı)",
                 "birim": "kişi başı",
                 "fiyatlar": {
                   "ogretmen": 750,
@@ -43258,8 +43254,7 @@
                 }
               },
               {
-                "ad": "İki kişilik oda",
-                "kisi": 2,
+                "ad": "İki Kişilik Oda",
                 "fiyatlar": {
                   "ogretmen": 1300,
                   "kamu": 1600,
@@ -43267,7 +43262,7 @@
                 }
               },
               {
-                "ad": "Suit oda",
+                "ad": "Suit Oda",
                 "fiyatlar": {
                   "ogretmen": 1500,
                   "kamu": 2000,
@@ -43285,8 +43280,7 @@
           "Kamu emeklileri kamu tarifesinden yararlanır."
         ],
         "notlar": [
-          "Kahvaltı dahil değildir.",
-          "Giriş 11:00–24:00."
+          "Kahvaltı dahil değildir."
         ]
       }
     },
