@@ -29000,15 +29000,6 @@
       "longitude": 40.20525978723471
     },
     {
-      "isim": "Diyarbakır Karayolları Misafirhanesi",
-      "tip": "Karayolları Misafirhanesi",
-      "il": "Diyarbakır",
-      "adres": "Büyükalp Caddesi. Yenişehir – DİYARBAKIR",
-      "telefon": "0412 241 02 00",
-      "latitude": 37.919089092325336,
-      "longitude": 40.22809073316534
-    },
-    {
       "isim": "Diyarbakır Öğretmenevi ASO",
       "tip": "Öğretmenevi",
       "il": "Diyarbakır",
@@ -29493,15 +29484,6 @@
       "telefon": "(0446) 226 02 26",
       "latitude": 39.74630366124183,
       "longitude": 39.49535024230636
-    },
-    {
-      "isim": "İliç Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Erzincan",
-      "adres": "Abdullah Paşa Mahallesi. Hükümet caddesi. No 8. İliç – ERZİNCAN",
-      "telefon": "(0446) 711 20 29",
-      "latitude": 39.45658033168499,
-      "longitude": 38.56503455166155
     },
     {
       "isim": "Kemah Öğretmenevi",
@@ -40365,15 +40347,6 @@
       "telefon": "(0412) 229 60 76",
       "latitude": 37.921376,
       "longitude": 40.2229424
-    },
-    {
-      "isim": "Diyarbakır TCDD Misafirhanesi",
-      "tip": "TCDD Misafirhanesi",
-      "il": "Diyarbakır",
-      "adres": "Kooperatifler Mah.-Yenişehir/DİYARBAKIR",
-      "telefon": "(0412) 226 63 92",
-      "latitude": 37.9237142,
-      "longitude": 40.2198213
     },
     {
       "isim": "Türkiye Diyanet Vakfı Diyarbakır Konukevi",

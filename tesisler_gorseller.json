@@ -5266,15 +5266,6 @@
     },
     {
       "il": "Diyarbakır",
-      "isim": "Diyarbakır Karayolları Misafirhanesi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/diyarbakır/diyarbakır-diyarbakır-karayolları-misafirhanesi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/diyarbakır/diyarbakır-diyarbakır-karayolları-misafirhanesi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/diyarbakır/diyarbakır-diyarbakır-karayolları-misafirhanesi-3.jpg"
-      ]
-    },
-    {
-      "il": "Diyarbakır",
       "isim": "GAP Uluslararası Tarımsal Araştırma Ve Eğitim Merkezi Konukevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/diyarbakır/diyarbakır-gap-uluslararası-tarımsal-araştırma-ve-eğitim-merkezi-konukevi-1.jpg",
@@ -5627,15 +5618,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/erzincan/erzincan-dsi-erzincan-misafirhanesi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/erzincan/erzincan-dsi-erzincan-misafirhanesi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/erzincan/erzincan-dsi-erzincan-misafirhanesi-3.jpg"
-      ]
-    },
-    {
-      "il": "Erzincan",
-      "isim": "İliç Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/erzincan/erzincan-i-liç-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/erzincan/erzincan-i-liç-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/erzincan/erzincan-i-liç-öğretmenevi-3.jpg"
       ]
     },
     {

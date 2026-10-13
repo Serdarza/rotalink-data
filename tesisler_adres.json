@@ -2505,12 +2505,6 @@
     },
     {
       "il": "Diyarbakır",
-      "isim": "Diyarbakır Karayolları Misafirhanesi",
-      "adres": "Yenişehir, Büyük Alp Cd. No:9, 21100 Yenişehir/Diyarbakır",
-      "ilce": "Yenişehir"
-    },
-    {
-      "il": "Diyarbakır",
       "isim": "GAP Uluslararası Tarımsal Araştırma Ve Eğitim Merkezi Konukevi",
       "adres": "Fetih, 21280 Sur/Diyarbakır",
       "ilce": ""
@@ -2778,12 +2772,6 @@
       "isim": "Çayırlı Öğretmenevi",
       "adres": "Fatih, 717. Sk. No:2, 24100 Erzincan Merkez/Erzincan",
       "ilce": "Çayırlı"
-    },
-    {
-      "il": "Erzincan",
-      "isim": "İliç Öğretmenevi",
-      "adres": "Kazım Karabekir, 24700 İliç/Erzincan",
-      "ilce": "İliç"
     },
     {
       "il": "Erzincan",
@@ -15148,12 +15136,6 @@
     {
       "il": "Diyarbakır",
       "isim": "Diyarbakır İl Tarım ve Orman Md.lüğü Misafirhanesi",
-      "adres": "",
-      "ilce": "Yenişehir"
-    },
-    {
-      "il": "Diyarbakır",
-      "isim": "Diyarbakır TCDD Misafirhanesi",
       "adres": "",
       "ilce": "Yenişehir"
     },
