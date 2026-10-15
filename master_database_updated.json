@@ -28184,7 +28184,7 @@
       "isim": "Bolu Polisevi",
       "tip": "Polisevi",
       "il": "Bolu",
-      "adres": "İstanbul Karayolu Üzeri. Seymenler Mevkii. Bolu Dağı. BOLU",
+      "adres": "D-100 Karayolu üzeri, Boludağı mevkii, Yeşilköy Köyü, Otel Sokak No:49, Bolu",
       "telefon": "(0374) 225 22 22",
       "latitude": 40.73562685123897,
       "longitude": 31.426779011395546
@@ -28373,7 +28373,7 @@
       "isim": "Bursa Merkez Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Bursa",
-      "adres": "Şehreküstü Mahallesi. Okul Caddesi. No:4. Osmangazi – Bursa",
+      "adres": "Şehreküstü Mah. 18. Okul Sk. No:4, Osmangazi/Bursa",
       "telefon": "(0224) 224 21 62",
       "latitude": 40.18769909040595,
       "longitude": 29.05995624020263
@@ -28389,9 +28389,9 @@
     },
     {
       "isim": "Bursa Muradiye Uygulama Oteli",
-      "tip": "Okul Misafirhanesi",
+      "tip": "Uygulama Oteli",
       "il": "Bursa",
-      "adres": "Muradiye Mahallesi.Okul Sokak. No:16. Osmangazi-BURSA",
+      "adres": "Kocanaip Mah. Dr. Ekrem Paksoy Sk. No:16, 16050 Osmangazi/Bursa",
       "telefon": "0 224 221 38 25",
       "latitude": 40.188929259314804,
       "longitude": 29.04470768595699
@@ -30020,8 +30020,8 @@
       "isim": "Gaziantep Öğretmenevi ve Akşam Sanat Okulu",
       "tip": "Öğretmenevi",
       "il": "Gaziantep",
-      "adres": 37.0005,
-      "telefon": "4449127",
+      "adres": "15 Temmuz Mahallesi, Davut Gül Caddesi No:5, Şehitkamil/Gaziantep",
+      "telefon": "444 91 27",
       "latitude": 37.08669839000064,
       "longitude": 37.3027150528918
     },
@@ -30087,15 +30087,6 @@
       "telefon": "03423214777",
       "latitude": 37.08518510473854,
       "longitude": 37.352708273676875
-    },
-    {
-      "isim": "Şahinbey Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Gaziantep",
-      "adres": "Bey Mahallesi. Atatürk Bulvarı. No:23. Şahinbey – GAZİANTEP",
-      "telefon": "(0342) 231 3110",
-      "latitude": 37.062805915202254,
-      "longitude": 37.37524822083364
     },
     {
       "isim": "Alucra Öğretmenevi",
@@ -30168,24 +30159,6 @@
       "telefon": "(0454) 216 22 16",
       "latitude": 40.91816524445664,
       "longitude": 38.390898688258495
-    },
-    {
-      "isim": "Giresun Polisevi",
-      "tip": "Polisevi",
-      "il": "Giresun",
-      "adres": "Çıtlakkale Mahallesi. Atatürk Bulvarı. No: 109. GİRESUN",
-      "telefon": "04542150219",
-      "latitude": 40.913683004311316,
-      "longitude": 38.345680765241774
-    },
-    {
-      "isim": "Giresun Üniversitesi Gazipaşa Misafirhanesi",
-      "tip": "Üniversite Misafirhanesi",
-      "il": "Giresun",
-      "adres": "Gazipaşa Yerleşkesi /Debboy Mevki/ Merkez- GİRESUN",
-      "telefon": "04543101000",
-      "latitude": 40.91793288461295,
-      "longitude": 38.38989186932173
     },
     {
       "isim": "Giresun Üniversitesi Sahil Sosyal Eğitim Tesisleri Misafirhanesi",
@@ -30384,15 +30357,6 @@
       "telefon": "(0326) 221 93 40",
       "latitude": 36.209379636841085,
       "longitude": 36.172271906041374
-    },
-    {
-      "isim": "Belen Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Hatay",
-      "adres": "Güzelyayla Köyü. No:4. Belen – HATAY",
-      "telefon": "03264412424",
-      "latitude": 36.509104258485344,
-      "longitude": 36.17648698032704
     },
     {
       "isim": "Çevlik Öğretmen Evi",
@@ -35480,15 +35444,6 @@
       "longitude": 37.92048053906384
     },
     {
-      "isim": "Ordu Merkez Öğretmenevi ve Akşam Sanat Okulu",
-      "tip": "Öğretmenevi",
-      "il": "Ordu",
-      "adres": "Düz, Süleyman Felek Cd. No:33, 52100 Ordu Merkez/Ordu",
-      "telefon": "0452 225 43 58",
-      "latitude": 40.986893426892394,
-      "longitude": 37.87731936469133
-    },
-    {
       "isim": "Ordu Öğretmenevi ve Akşam Sanat Okulu",
       "tip": "Öğretmenevi",
       "il": "Ordu",
@@ -36146,15 +36101,6 @@
       "longitude": 38.947598367695406
     },
     {
-      "isim": "Birecik Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Şanlıurfa",
-      "adres": "Meydan Mh. Ferit Aydın Mirkelam Cd. No:31 Birecik",
-      "telefon": "0414 652 26 73",
-      "latitude": 37.015509939186465,
-      "longitude": 37.97103682167394
-    },
-    {
       "isim": "Ceylanpınar Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Şanlıurfa",
@@ -36245,15 +36191,6 @@
       "longitude": 38.795234384914735
     },
     {
-      "isim": "Şanlıurfa Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Şanlıurfa",
-      "adres": "Abdulkadir Karahan Cd. Şanlıurfa",
-      "telefon": "0414 315 78 73",
-      "latitude": 37.176414990910686,
-      "longitude": 38.801131854225204
-    },
-    {
       "isim": "Şanlıurfa Polisevi",
       "tip": "Polisevi",
       "il": "Şanlıurfa",
@@ -36266,8 +36203,8 @@
       "isim": "Şanlıurfa Tarım Bakanlığı Esentepe Misafirhanesi",
       "tip": "Tarım İl Müdürlüğü Misafirhanesi",
       "il": "Şanlıurfa",
-      "adres": "Urfa City AVM Yanı Eski Reform İl Binası",
-      "telefon": "0414 313 13 11",
+      "adres": "Necip Fazıl Kısakürek Caddesi, Esentepe Mahallesi, Karaköprü/Şanlıurfa",
+      "telefon": "(0414) 316 66 46",
       "latitude": 37.18152892893037,
       "longitude": 38.8063047385841
     },
@@ -36785,15 +36722,6 @@
       "longitude": 37.75726031017365
     },
     {
-      "isim": "Çorlu Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Tekirdağ",
-      "adres": "Muhittin Mahallesi. Şinasi Kurşun Caddesi. No:5/1. Çorlu – TEKİRDAĞ",
-      "telefon": "0282 651 95 14",
-      "latitude": 41.161564885026955,
-      "longitude": 27.789837939072893
-    },
-    {
       "isim": "Hayrabolu Öğretmenevi",
       "tip": "Öğretmenevi",
       "il": "Tekirdağ",
@@ -36801,15 +36729,6 @@
       "telefon": "0282 315 13 33",
       "latitude": 41.221265029790445,
       "longitude": 27.111688385110916
-    },
-    {
-      "isim": "Malkara Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Tekirdağ",
-      "adres": "Camiatik Mahallesi. Otogar Arakası Sokak. No:4 Malkara – TEKİRDAĞ",
-      "telefon": "0282 427 44 12",
-      "latitude": 40.89275233980776,
-      "longitude": 26.90767346974936
     },
     {
       "isim": "Marmara Ereğlisi TSK Özel Eğitim Merkezi",
@@ -36848,24 +36767,6 @@
       "longitude": 27.527805952159323
     },
     {
-      "isim": "Tekirdağ Kumbağ Polis Kampı",
-      "tip": "Polisevi",
-      "il": "Tekirdağ",
-      "adres": "İnönü Caddesi. No: 65. Kumbağ  – Tekirdağ",
-      "telefon": "0282 283 49 95",
-      "latitude": 40.87809465305443,
-      "longitude": 27.458429266041243
-    },
-    {
-      "isim": "Tekirdağ Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Tekirdağ",
-      "adres": "Ertuğrul, İskele Cd. No : 18, 59100 Tekirdağ Merkez/Tekirdağ",
-      "telefon": "0282 261 08 35",
-      "latitude": 40.97759279599547,
-      "longitude": 27.516737950077538
-    },
-    {
       "isim": "Tekirdağ Orduevi",
       "tip": "Orduevi",
       "il": "Tekirdağ",
@@ -36900,15 +36801,6 @@
       "telefon": "0356 611 24 11",
       "latitude": 40.11335255608024,
       "longitude": 36.299351196435666
-    },
-    {
-      "isim": "Başçiftlik Öğretmenevi",
-      "tip": "Öğretmenevi",
-      "il": "Tokat",
-      "adres": "Cumhuriyet Mahallesi. Öğretmen Ahmet Yüce Caddesi. Başçiftlik – Tokat",
-      "telefon": "0356 451 20 13",
-      "latitude": 40.54721156439448,
-      "longitude": 37.16775125438702
     },
     {
       "isim": "Erbaa Öğretmenevi",
@@ -37622,24 +37514,6 @@
       "longitude": 43.34807713524763
     },
     {
-      "isim": "Van Refakatçi Misafirhanesi",
-      "tip": "Sağlık Müdürlüğü Misafirhanesi / Hekimevi",
-      "il": "Van",
-      "adres": "Şerefiye Mah. Veteriner Sok. İpekyolu, Van",
-      "telefon": "4444465",
-      "latitude": 38.50204363154504,
-      "longitude": 43.38111739611251
-    },
-    {
-      "isim": "Van Tcdd Misafirhane",
-      "tip": "Sağlık Müdürlüğü Misafirhanesi / Hekimevi",
-      "il": "Van",
-      "adres": "Şerefiye Mah. Veteriner Sok. İpekyolu, Van",
-      "telefon": "4448233",
-      "latitude": 38.52005180354777,
-      "longitude": 43.38178482731759
-    },
-    {
       "isim": "Van Uygulama Oteli (Edremit-Evliya Çelebi MTAL)",
       "tip": "Sağlık Müdürlüğü Misafirhanesi / Hekimevi",
       "il": "Van",
@@ -37836,15 +37710,6 @@
       "telefon": "0354 516 24 11",
       "latitude": 39.63716941879,
       "longitude": 34.469231665979805
-    },
-    {
-      "isim": "Yozgat Bozok Konuk Evi",
-      "tip": "TEDAŞ Misafirhanesi",
-      "il": "Yozgat",
-      "adres": "Erdogan akdag mh. Esentepe Mevkii",
-      "telefon": "0354 502 00 46",
-      "latitude": 39.825243994076956,
-      "longitude": 34.81447678833102
     },
     {
       "isim": "Yozgat Bozok Üniversitesi Uygulama Oteli",
@@ -39069,6 +38934,15 @@
       "telefon": "(0454) 215 52 82",
       "latitude": 40.9050311,
       "longitude": 38.362219
+    },
+    {
+      "isim": "Giresun Polisevi",
+      "tip": "Sosyal Tesis",
+      "il": "Giresun",
+      "adres": "Teyyaredüzü Mahallesi, Atatürk Bulvarı No:46, Giresun",
+      "telefon": "(0454) 215 02 19 / (0505) 318 28 21",
+      "latitude": 40.913683004311316,
+      "longitude": 38.345680765241774
     },
     {
       "isim": "Hakkari Karayolları Misafirhanesi",
@@ -40826,15 +40700,6 @@
       "longitude": 35.8915782
     },
     {
-      "isim": "Hatay Mustafa Kemal Üniversitesi Misafirhanesi",
-      "tip": "Üniversite Konukevi",
-      "il": "Hatay",
-      "adres": "Ürgen Paşa Mah., Atatürk Cad.-Antakya/HATAY",
-      "telefon": "(0326) 221 33 17",
-      "latitude": 36.2191808,
-      "longitude": 36.161562
-    },
-    {
       "isim": "PTT Hatay Misafirhanesi",
       "tip": "PTT Misafirhanesi",
       "il": "Hatay",
@@ -42336,15 +42201,6 @@
       "telefon": "(0476) 227 67 05",
       "latitude": 39.93003849999999,
       "longitude": 44.02231159999999
-    },
-    {
-      "isim": "Iğdır Meteoroloji 16. Bölge Md.lüğü Misafirhanesi",
-      "tip": "Meteoroloji Misafirhanesi",
-      "il": "Iğdır",
-      "adres": "14 Kasım Mah., 744. Sk., No.: 6-Merkez/IĞDIR",
-      "telefon": "(0476) 227 59 40",
-      "latitude": 39.9320656,
-      "longitude": 44.0660956
     },
     {
       "isim": "Iğdır Askeri Gazino Md.lüğü",

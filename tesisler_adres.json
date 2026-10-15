@@ -1948,7 +1948,7 @@
     {
       "il": "Bolu",
       "isim": "Bolu Polisevi",
-      "adres": "Bolu Düzce Yolu, 14030 Yeşilköy/Bolu Merkez/Bolu",
+      "adres": "D-100 Karayolu üzeri, Boludağı mevkii, Yeşilköy Köyü, Otel Sokak No:49, Bolu",
       "ilce": "Merkez"
     },
     {
@@ -2038,7 +2038,7 @@
     {
       "il": "Bursa",
       "isim": "Bursa Muradiye Uygulama Oteli",
-      "adres": "Kocanaip, Dr. Ekrem Paksoy Sk No:16, 16050 Osmangazi/Bursa",
+      "adres": "Kocanaip Mah. Dr. Ekrem Paksoy Sk. No:16, 16050 Osmangazi/Bursa",
       "ilce": "Osmangazi"
     },
     {
@@ -2104,7 +2104,7 @@
     {
       "il": "Bursa",
       "isim": "Bursa Merkez Öğretmenevi",
-      "adres": "Şehreküstü, 18. Okul Sok. No:4, 16050 Osmangazi/Bursa",
+      "adres": "Şehreküstü Mah. 18. Okul Sk. No:4, Osmangazi/Bursa",
       "ilce": "Osmangazi"
     },
     {
@@ -3099,12 +3099,6 @@
     },
     {
       "il": "Gaziantep",
-      "isim": "Şahinbey Öğretmenevi",
-      "adres": "15 Temmuz, DAVUT GÜL CADDESİ NO:5, 27010 Şahinbey/Gaziantep",
-      "ilce": "Şahinbey"
-    },
-    {
-      "il": "Gaziantep",
       "isim": "Gaziantep Polisevi",
       "adres": "15 Temmuz, 56062. Cd. No:23, 27080 Şehitkamil/Gaziantep",
       "ilce": "Şehitkamil"
@@ -3154,8 +3148,8 @@
     {
       "il": "Gaziantep",
       "isim": "Gaziantep Öğretmenevi ve Akşam Sanat Okulu",
-      "adres": "15 Temmuz, DAVUT GÜL CADDESİ NO:5, 27010 Şahinbey/Gaziantep",
-      "ilce": "Şahinbey"
+      "adres": "15 Temmuz Mahallesi, Davut Gül Caddesi No:5, Şehitkamil/Gaziantep",
+      "ilce": "Şehitkamil"
     },
     {
       "il": "Gaziantep",
@@ -3185,12 +3179,6 @@
       "il": "Giresun",
       "isim": "Giresun Üniversitesi Sahil Sosyal Eğitim Tesisleri Misafirhanesi",
       "adres": "Teyyaredüzü, 28200 Giresun Merkez/Giresun",
-      "ilce": "Merkez"
-    },
-    {
-      "il": "Giresun",
-      "isim": "Giresun Üniversitesi Gazipaşa Misafirhanesi",
-      "adres": "Nizamiye, Yüzbaşı Suyu Cd., 28200 Giresun Merkez/Giresun",
       "ilce": "Merkez"
     },
     {
@@ -3258,12 +3246,6 @@
       "isim": "Yağlıdere Öğretmenevi",
       "adres": "Cumhuriyet Caddesi. Yağlıdere – GİRESUN",
       "ilce": "Yağlıdere"
-    },
-    {
-      "il": "Giresun",
-      "isim": "Giresun Polisevi",
-      "adres": "Çıtlakkale Mahallesi. Atatürk Bulvarı. No: 109. GİRESUN",
-      "ilce": "Merkez"
     },
     {
       "il": "Gümüşhane",
@@ -3378,12 +3360,6 @@
       "isim": "Hatay Çevre Şehircilik İl Müdürlüğü Misafirhanesi",
       "adres": "Atatürk Caddesi, General Şükrü Kanatlı Mahallesi, Hatay, Antakya, Hatay, Akdeniz Bölgesi, 31040, Türkiye",
       "ilce": "Antakya"
-    },
-    {
-      "il": "Hatay",
-      "isim": "Belen Öğretmenevi",
-      "adres": "Güzelyayla Köyü. No:4. Belen – HATAY",
-      "ilce": "Belen"
     },
     {
       "il": "Hatay",
@@ -6471,12 +6447,6 @@
     },
     {
       "il": "Ordu",
-      "isim": "Ordu Merkez Öğretmenevi ve Akşam Sanat Okulu",
-      "adres": "Düz, Süleyman Felek Cd. No:33, 52100 Ordu Merkez/Ordu",
-      "ilce": "Altınordu"
-    },
-    {
-      "il": "Ordu",
       "isim": "Ordu Orman İşletme Müdürlüğü Misafirhanesi",
       "adres": "Eskipazar, 52000 Altınordu/Ordu",
       "ilce": "Altınordu"
@@ -6946,19 +6916,13 @@
     {
       "il": "Şanlıurfa",
       "isim": "Şanlıurfa Tarım Bakanlığı Esentepe Misafirhanesi",
-      "adres": "Esentepe, 63330 Karaköprü/Şanlıurfa",
+      "adres": "Necip Fazıl Kısakürek Caddesi, Esentepe Mahallesi, Karaköprü/Şanlıurfa",
       "ilce": "Karaköprü"
     },
     {
       "il": "Şanlıurfa",
       "isim": "Şanlıurfa İl Sağlık Müdürlüğü Misafirhanesi",
       "adres": "Bağlarbaşı, 63050 Haliliye/Şanlıurfa",
-      "ilce": "Haliliye"
-    },
-    {
-      "il": "Şanlıurfa",
-      "isim": "Şanlıurfa Öğretmenevi",
-      "adres": "Hamidiye, Prof. Abdulkadir Karahan Cad., 63300 Merkez/Haliliye/Şanlıurfa",
       "ilce": "Haliliye"
     },
     {
@@ -6972,12 +6936,6 @@
       "isim": "Akçakale Öğretmenevi",
       "adres": "Fatih Sultan Mehmet Yeni Şehir Caddesi, Mega Sokak No:1, Yenişehir, 63500 Akçakale/Şanlıurfa",
       "ilce": "Akçakale"
-    },
-    {
-      "il": "Şanlıurfa",
-      "isim": "Birecik Öğretmenevi",
-      "adres": "Meydan, Ferit Aydın Mirkelam Cd No:31, 63400 Birecik/Şanlıurfa",
-      "ilce": "Birecik"
     },
     {
       "il": "Şanlıurfa",
@@ -7347,12 +7305,6 @@
     },
     {
       "il": "Tekirdağ",
-      "isim": "Tekirdağ Öğretmenevi",
-      "adres": "Karadeniz, XFQV+J2, 59200 Süleymanpaşa/Tekirdağ",
-      "ilce": "Süleymanpaşa"
-    },
-    {
-      "il": "Tekirdağ",
       "isim": "Tekirdağ Polisevi",
       "adres": "Ertuğrul, Yalı Sk. No:19, 59100 Tekirdağ Merkez/Tekirdağ",
       "ilce": "Süleymanpaşa"
@@ -7371,33 +7323,15 @@
     },
     {
       "il": "Tekirdağ",
-      "isim": "Tekirdağ Kumbağ Polis Kampı",
-      "adres": "Kumbağ, 59060 Tekirdağ Merkez/Tekirdağ",
-      "ilce": "Süleymanpaşa"
-    },
-    {
-      "il": "Tekirdağ",
       "isim": "Tekirdağ Karayolları 18. Şube Şefliği",
       "adres": "Cumhuriyet, 59030 Tekirdağ Merkez/Tekirdağ",
       "ilce": "Süleymanpaşa"
     },
     {
       "il": "Tekirdağ",
-      "isim": "Çorlu Öğretmenevi",
-      "adres": "Şeyh Sinan, Kantarcı Sk. No:16, 59850 Çorlu/Tekirdağ",
-      "ilce": "Çorlu"
-    },
-    {
-      "il": "Tekirdağ",
       "isim": "Hayrabolu Öğretmenevi",
       "adres": "İlyas, Alpullu Cd. No:75, 59400 Hayrabolu/Tekirdağ",
       "ilce": "Hayrabolu"
-    },
-    {
-      "il": "Tekirdağ",
-      "isim": "Malkara Öğretmenevi",
-      "adres": "Gazibey, Otogar Arka Sk. No:4, 59310 Malkara/Tekirdağ",
-      "ilce": "Malkara"
     },
     {
       "il": "Tokat",
@@ -7440,12 +7374,6 @@
       "isim": "Artova Öğretmenevi İstasyon",
       "adres": "Alpaslan, Milli Egemenlik Sk. No:5, 60670 Artova/Tokat",
       "ilce": "Artova"
-    },
-    {
-      "il": "Tokat",
-      "isim": "Başçiftlik Öğretmenevi",
-      "adres": "Cumhuriyet, 60625 Başçiftlik/Tokat",
-      "ilce": "Başçiftlik"
     },
     {
       "il": "Tokat",
@@ -7869,21 +7797,9 @@
     },
     {
       "il": "Van",
-      "isim": "Van Tcdd Misafirhane",
-      "adres": "İstasyon, İstasyon Cd. No:67, 65030 Van Merkez/Van",
-      "ilce": "Tuşba"
-    },
-    {
-      "il": "Van",
       "isim": "Gümrük Misafirhanesi Van",
       "adres": "Beyüzümü, Bey Üzümü Cd. No:1B, 65040 Tuşba/Van",
       "ilce": "Tuşba"
-    },
-    {
-      "il": "Van",
-      "isim": "Van Refakatçi Misafirhanesi",
-      "adres": "Şerefiye, Veteriner Cd. 29-7, 65140 İpekyolu/Van",
-      "ilce": "İpekyolu"
     },
     {
       "il": "Van",
@@ -8069,12 +7985,6 @@
       "il": "Yozgat",
       "isim": "Yozgat Hekimevi",
       "adres": "Tekke, Şeyhzade Cd. No:2, 66100 Yozgat Merkez/Yozgat",
-      "ilce": "Merkez"
-    },
-    {
-      "il": "Yozgat",
-      "isim": "Yozgat Bozok Konuk Evi",
-      "adres": "Yeni Cami, Söğütlüdere Cd. No:15, 66100 Yozgat Merkez/Yozgat",
       "ilce": "Merkez"
     },
     {
@@ -15453,12 +15363,6 @@
     },
     {
       "il": "Hatay",
-      "isim": "Hatay Mustafa Kemal Üniversitesi Misafirhanesi",
-      "adres": "",
-      "ilce": "Antakya"
-    },
-    {
-      "il": "Hatay",
       "isim": "PTT Hatay Misafirhanesi",
       "adres": "",
       "ilce": "Antakya"
@@ -16461,12 +16365,6 @@
     },
     {
       "il": "Iğdır",
-      "isim": "Iğdır Meteoroloji 16. Bölge Md.lüğü Misafirhanesi",
-      "adres": "",
-      "ilce": "Merkez"
-    },
-    {
-      "il": "Iğdır",
       "isim": "Iğdır Askeri Gazino Md.lüğü",
       "adres": "",
       "ilce": "Merkez"
@@ -16524,6 +16422,12 @@
       "isim": "6.Ana Jet Üs K.lığı Kışla Gazino Md.lüğü",
       "adres": "",
       "ilce": "Bandırma"
+    },
+    {
+      "il": "Giresun",
+      "isim": "Giresun Polisevi",
+      "adres": "Teyyaredüzü Mahallesi, Atatürk Bulvarı No:46, Giresun",
+      "ilce": "Merkez"
     }
   ]
 }

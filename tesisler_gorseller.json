@@ -6082,15 +6082,6 @@
     },
     {
       "il": "Gaziantep",
-      "isim": "Şahinbey Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/gaziantep/gaziantep-şahinbey-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/gaziantep/gaziantep-şahinbey-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/gaziantep/gaziantep-şahinbey-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Gaziantep",
       "isim": "Gaziantep Polisevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/gaziantep/gaziantep-gaziantep-polisevi-1.jpg",
@@ -6200,15 +6191,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/giresun/giresun-giresun-üniversitesi-sahil-sosyal-eğitim-tesisleri-misafirhanesi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/giresun/giresun-giresun-üniversitesi-sahil-sosyal-eğitim-tesisleri-misafirhanesi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/giresun/giresun-giresun-üniversitesi-sahil-sosyal-eğitim-tesisleri-misafirhanesi-3.jpg"
-      ]
-    },
-    {
-      "il": "Giresun",
-      "isim": "Giresun Üniversitesi Gazipaşa Misafirhanesi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/giresun/giresun-giresun-üniversitesi-gazipaşa-misafirhanesi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/giresun/giresun-giresun-üniversitesi-gazipaşa-misafirhanesi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/giresun/giresun-giresun-üniversitesi-gazipaşa-misafirhanesi-3.jpg"
       ]
     },
     {
@@ -8564,15 +8546,6 @@
     },
     {
       "il": "Ordu",
-      "isim": "Ordu Merkez Öğretmenevi ve Akşam Sanat Okulu",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/ordu/ordu-ordu-merkez-öğretmenevi-ve-akşam-sanat-okulu-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/ordu/ordu-ordu-merkez-öğretmenevi-ve-akşam-sanat-okulu-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/ordu/ordu-ordu-merkez-öğretmenevi-ve-akşam-sanat-okulu-3.jpg"
-      ]
-    },
-    {
-      "il": "Ordu",
       "isim": "Ordu Orman İşletme Müdürlüğü Misafirhanesi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/ordu/ordu-ordu-orman-i-şletme-müdürlüğü-misafirhanesi-1.jpg",
@@ -9243,15 +9216,6 @@
     },
     {
       "il": "Şanlıurfa",
-      "isim": "Şanlıurfa Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-şanlıurfa-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-şanlıurfa-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-şanlıurfa-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Şanlıurfa",
       "isim": "Şanlıurfa Polisevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-şanlıurfa-polisevi-1.jpg",
@@ -9266,15 +9230,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-akçakale-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-akçakale-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-akçakale-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Şanlıurfa",
-      "isim": "Birecik Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-birecik-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-birecik-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/şanlıurfa/şanlıurfa-birecik-öğretmenevi-3.jpg"
       ]
     },
     {
@@ -9794,15 +9749,6 @@
     },
     {
       "il": "Tekirdağ",
-      "isim": "Tekirdağ Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Tekirdağ",
       "isim": "Tekirdağ Polisevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-polisevi-1.jpg",
@@ -9830,15 +9776,6 @@
     },
     {
       "il": "Tekirdağ",
-      "isim": "Tekirdağ Kumbağ Polis Kampı",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-kumbağ-polis-kampı-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-kumbağ-polis-kampı-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-kumbağ-polis-kampı-3.jpg"
-      ]
-    },
-    {
-      "il": "Tekirdağ",
       "isim": "Tekirdağ Karayolları 18. Şube Şefliği",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-tekirdağ-karayolları-18-şube-şefliği-1.jpg",
@@ -9853,15 +9790,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-hayrabolu-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-hayrabolu-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-hayrabolu-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Tekirdağ",
-      "isim": "Malkara Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-malkara-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-malkara-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tekirdağ/tekirdağ-malkara-öğretmenevi-3.jpg"
       ]
     },
     {
@@ -9915,15 +9843,6 @@
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/tokat/tokat-tokat-tarım-ve-orman-i-l-müdürlüğü-misafirhanesi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/tokat/tokat-tokat-tarım-ve-orman-i-l-müdürlüğü-misafirhanesi-2.jpg"
-      ]
-    },
-    {
-      "il": "Tokat",
-      "isim": "Başçiftlik Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/tokat/tokat-başçiftlik-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tokat/tokat-başçiftlik-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/tokat/tokat-başçiftlik-öğretmenevi-3.jpg"
       ]
     },
     {
@@ -10505,29 +10424,11 @@
     },
     {
       "il": "Van",
-      "isim": "Van Tcdd Misafirhane",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/van/van-van-tcdd-misafirhane-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/van/van-van-tcdd-misafirhane-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/van/van-van-tcdd-misafirhane-3.jpg"
-      ]
-    },
-    {
-      "il": "Van",
       "isim": "Gümrük Misafirhanesi Van",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/van/van-gümrük-misafirhanesi-van-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/van/van-gümrük-misafirhanesi-van-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/van/van-gümrük-misafirhanesi-van-3.jpg"
-      ]
-    },
-    {
-      "il": "Van",
-      "isim": "Van Refakatçi Misafirhanesi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/van/van-van-refakatçi-misafirhanesi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/van/van-van-refakatçi-misafirhanesi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/van/van-van-refakatçi-misafirhanesi-3.jpg"
       ]
     },
     {
@@ -10771,15 +10672,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/yozgat/yozgat-yozgat-hekimevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/yozgat/yozgat-yozgat-hekimevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/yozgat/yozgat-yozgat-hekimevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Yozgat",
-      "isim": "Yozgat Bozok Konuk Evi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/yozgat/yozgat-yozgat-bozok-konuk-evi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/yozgat/yozgat-yozgat-bozok-konuk-evi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/yozgat/yozgat-yozgat-bozok-konuk-evi-3.jpg"
       ]
     },
     {
