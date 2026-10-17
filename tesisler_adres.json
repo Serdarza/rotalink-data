@@ -4551,12 +4551,6 @@
     },
     {
       "il": "Kahramanmaraş",
-      "isim": "Kahramanmaraş Merkez Öğretmenevi",
-      "adres": "İsmet Paşa, Zübeyde Hanım Blv. No:22, 46100 Dulkadiroğlu/Kahramanmaraş",
-      "ilce": "Dulkadiroğlu"
-    },
-    {
-      "il": "Kahramanmaraş",
       "isim": "Afşin Öğretmenevi",
       "adres": "Kale, Vatan Cd., 46500 Afşin/Kahramanmaraş",
       "ilce": "Afşin"
@@ -4566,12 +4560,6 @@
       "isim": "Andırın Öğretmenevi",
       "adres": "Tufan Paşa, H9H6+V9, 46400 Andırın/Kahramanmaraş",
       "ilce": "Andırın"
-    },
-    {
-      "il": "Kahramanmaraş",
-      "isim": "Çağlayancerit Öğretmenevi",
-      "adres": "Fatih, Atatürk Cd., 46720 Çağlayancerit/Kahramanmaraş",
-      "ilce": "Çağlayancerit"
     },
     {
       "il": "Kahramanmaraş",
@@ -4590,12 +4578,6 @@
       "isim": "Nurhak Öğretmenevi",
       "adres": "Kıyılar Mahallesi Cumhuriyet Bulvarı No :147, Kıyılar, 46370 Nurhak/Kahramanmaraş",
       "ilce": "Nurhak"
-    },
-    {
-      "il": "Kahramanmaraş",
-      "isim": "Türkoğlu Öğretmenevi",
-      "adres": "İstasyon, Namık Kemal Sk., 46800 Türkoğlu/Kahramanmaraş",
-      "ilce": "Türkoğlu"
     },
     {
       "il": "Kahramanmaraş",
@@ -4817,7 +4799,8 @@
       "il": "Kastamonu",
       "isim": "Ankara Üniversitesi Örsem Kayak Evi",
       "adres": "37210 Bostan/Kastamonu Merkez/Kastamonu",
-      "ilce": "Merkez"
+      "ilce": "Merkez",
+      "telefon": "(0312) 215 55 62 / (0366) 239 10 61"
     },
     {
       "il": "Kastamonu",
@@ -4888,7 +4871,7 @@
     {
       "il": "Kastamonu",
       "isim": "Tosya Öğretmenevi",
-      "adres": "Cumhuriyet, Atatürk Cd. D:No:5A/A, 37300 Tosya/Kastamonu",
+      "adres": "Bahçelievler Mahallesi, Aşağı Tekke Sokak No:16, Tosya / Kastamonu",
       "ilce": "Tosya"
     },
     {
@@ -4978,8 +4961,11 @@
     {
       "il": "Kayseri",
       "isim": "Kayseri Öğretmenevi",
-      "adres": "Kiçiköy, Sağlık Cd. No:18, 38280 Talas/Kayseri",
-      "ilce": "Kocasinan"
+      "adres": "Kiçiköy Mah. Sağlık Cad. No:20, Talas / Kayseri",
+      "ilce": "Talas",
+      "telefon": "(0352) 222 26 06 / 0531 104 37 64",
+      "latitude": 38.691525,
+      "longitude": 35.55576
     },
     {
       "il": "Kayseri",
@@ -5016,12 +5002,6 @@
       "isim": "Bünyan Sabancı Öğretmenevi",
       "adres": "Bayramlı, Ş. Enes Bediz Cd. No:15, 38600 Bünyan/Kayseri",
       "ilce": "Bünyan"
-    },
-    {
-      "il": "Kayseri",
-      "isim": "Felahiye İstikbal Öğretmenevi",
-      "adres": "Metin Balkaya Cad. No1 38750 Felahiye Kayseri, Kale, 38100 Felahiye/Kayseri",
-      "ilce": "Felahiye"
     },
     {
       "il": "Kayseri",
@@ -6700,20 +6680,14 @@
     {
       "il": "Sakarya",
       "isim": "Akyazı Öğretmenevi",
-      "adres": "Cumhuriyet, Yıldırım Beyazıt Cd. No:30, 54400 Akyazı/Sakarya",
+      "adres": "Cumhuriyet Mahallesi, Yıldırım Beyazıt Caddesi No:30/1, Akyazı / Sakarya",
       "ilce": "Akyazı"
     },
     {
       "il": "Sakarya",
       "isim": "Geyve Öğretmenevi",
-      "adres": "Camikebir, Uzun Çarşı Sk. NO:34, 54700 Geyve/Sakarya",
+      "adres": "Camikebir Mah. Uzunçarşı Sk. No:36 İç Kapı No:1, Geyve / Sakarya",
       "ilce": "Geyve"
-    },
-    {
-      "il": "Sakarya",
-      "isim": "Hendek Öğretmenevi",
-      "adres": "Kemaliye, Şehit Ali Gaffar Okkan Caddesi No: 41/A, 54300 Hendek/Sakarya",
-      "ilce": "Hendek"
     },
     {
       "il": "Sakarya",
@@ -6762,12 +6736,6 @@
       "isim": "DSİ Samsun Atakum Tesisleri",
       "adres": "Esenevler, Atatürk Bl. No:205, 55200 Atakum/Samsun",
       "ilce": "Atakum"
-    },
-    {
-      "il": "Samsun",
-      "isim": "Samsun Polisevi",
-      "adres": "Zafer, Cumhuriyet Cd. No:27, 55060 İlkadım/Samsun",
-      "ilce": "İlkadım"
     },
     {
       "il": "Samsun",
@@ -12564,12 +12532,6 @@
       "isim": "Jandarma Piknik Alanı",
       "adres": "Uzunkum, Sakarya Cd., 54600 Sapanca/Sakarya",
       "ilce": "Sapanca"
-    },
-    {
-      "il": "Samsun",
-      "isim": "Samsun Polis Evi",
-      "adres": "Zafer, Samsun Polis Evi, 55060 İlkadım/Samsun",
-      "ilce": "İlkadım"
     },
     {
       "il": "Samsun",

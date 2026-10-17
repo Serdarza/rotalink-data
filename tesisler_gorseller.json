@@ -6284,15 +6284,6 @@
     },
     {
       "il": "Kahramanmaraş",
-      "isim": "Kahramanmaraş Merkez Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-kahramanmaraş-merkez-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-kahramanmaraş-merkez-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-kahramanmaraş-merkez-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Kahramanmaraş",
       "isim": "Afşin Öğretmenevi",
       "image_urls": [
         "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-afşin-öğretmenevi-1.jpg",
@@ -6307,15 +6298,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-andırın-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-andırın-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-andırın-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Kahramanmaraş",
-      "isim": "Çağlayancerit Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-çağlayancerit-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-çağlayancerit-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/kahramanmaraş/kahramanmaraş-çağlayancerit-öğretmenevi-3.jpg"
       ]
     },
     {
@@ -6763,7 +6745,8 @@
         "https://rotalink-media.b-cdn.net/konaklama/kastamonu/kastamonu-tosya-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/kastamonu/kastamonu-tosya-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/kastamonu/kastamonu-tosya-öğretmenevi-3.jpg"
-      ]
+      ],
+      "ilce": "Tosya"
     },
     {
       "il": "Kastamonu",
@@ -6934,14 +6917,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/kayseri/kayseri-bünyan-sabancı-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/kayseri/kayseri-bünyan-sabancı-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/kayseri/kayseri-bünyan-sabancı-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Kayseri",
-      "isim": "Felahiye İstikbal Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/kayseri/kayseri-felahiye-i-stikbal-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/kayseri/kayseri-felahiye-i-stikbal-öğretmenevi-2.jpg"
       ]
     },
     {
@@ -8918,7 +8893,8 @@
         "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-akyazı-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-akyazı-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-akyazı-öğretmenevi-3.jpg"
-      ]
+      ],
+      "ilce": "Akyazı"
     },
     {
       "il": "Sakarya",
@@ -8927,16 +8903,8 @@
         "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-geyve-öğretmenevi-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-geyve-öğretmenevi-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-geyve-öğretmenevi-3.jpg"
-      ]
-    },
-    {
-      "il": "Sakarya",
-      "isim": "Hendek Öğretmenevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-hendek-öğretmenevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-hendek-öğretmenevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/sakarya/sakarya-hendek-öğretmenevi-3.jpg"
-      ]
+      ],
+      "ilce": "Geyve"
     },
     {
       "il": "Sakarya",
@@ -8998,15 +8966,6 @@
         "https://rotalink-media.b-cdn.net/konaklama/samsun/samsun-dsi-samsun-atakum-tesisleri-1.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/samsun/samsun-dsi-samsun-atakum-tesisleri-2.jpg",
         "https://rotalink-media.b-cdn.net/konaklama/samsun/samsun-dsi-samsun-atakum-tesisleri-3.jpg"
-      ]
-    },
-    {
-      "il": "Samsun",
-      "isim": "Samsun Polisevi",
-      "image_urls": [
-        "https://rotalink-media.b-cdn.net/konaklama/samsun/samsun-samsun-polisevi-1.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/samsun/samsun-samsun-polisevi-2.jpg",
-        "https://rotalink-media.b-cdn.net/konaklama/samsun/samsun-samsun-polisevi-3.jpg"
       ]
     },
     {
