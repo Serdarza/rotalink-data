@@ -49954,6 +49954,493 @@
         ],
         "dogrulama": "resmi_kaynak"
       }
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Pınarbaşı Öğretmenevi İnönü",
+      "gecerlilik": "01.02.2026 – 6 ay geçerli; KDV, konaklama vergisi ve kahvaltı dahil",
+      "fiyat_sivil": "1.150 – 3.900 TL",
+      "fiyat_kamu_personeli": "950 – 3.400 TL",
+      "fiyat_kurum_personeli": "700 – 2.700 TL",
+      "tarife": {
+        "donem": "01.02.2026 – (6 ay)",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "Giriş 13:00, çıkış 11:00; geç çıkışta gün ücreti alınır.",
+          "Kimlik / evlilik cüzdanı / kurum kimliği istenebilir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 750,
+                  "kamu": 1100,
+                  "sivil": 1250
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2–3 kişilik oda (kişi başı)",
+                "fiyatlar": {
+                  "meb": 700,
+                  "kamu": 950,
+                  "sivil": 1150
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Çift kişilik odada tek konaklama",
+                "fiyatlar": {
+                  "meb": 950,
+                  "kamu": 1250,
+                  "sivil": 1650
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda (toplam)",
+                "fiyatlar": {
+                  "meb": 2700,
+                  "kamu": 3400,
+                  "sivil": 3900
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Erciyes Üniversitesi Turizm Fakültesi Uygulama Oteli",
+      "gecerlilik": "Hiziroğlu uygulama oteli konaklama tarifesi",
+      "kaynak": "https://otel.erciyes.edu.tr/tr/",
+      "fiyat_sivil": "2.520 – 5.040 TL",
+      "fiyat_kamu_personeli": "1.680 – 3.360 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "referans",
+            "ad": "Referanslı konaklama"
+          }
+        ],
+        "notlar": [
+          "Üniversite personeli, öğrenci, emekli ve yakın aile bireyleri kurum personeli tarifesinden yararlanır."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Bir kişi",
+                "fiyatlar": {
+                  "kamu": 1680,
+                  "referans": 2520
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişi",
+                "fiyatlar": {
+                  "kamu": 2240,
+                  "referans": 3360
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişi",
+                "fiyatlar": {
+                  "kamu": 3360,
+                  "referans": 5040
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Erciyes Üniversitesi Kızılay Konukevi ve Uygulama Oteli",
+      "gecerlilik": "Gecelik konaklama (Av. Ahmet Ulucan Kızılay Konuk Evi)",
+      "fiyat_sivil": "2.527 TL",
+      "fiyat_kamu_personeli": "1.680 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama (gece)",
+                "fiyatlar": {
+                  "kamu": 1680,
+                  "sivil": 2527
+                }
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Bünyan Sabancı Öğretmenevi",
+      "gecerlilik": "Gecelik konaklama",
+      "fiyat_sivil": "1.200 TL",
+      "fiyat_kamu_personeli": "900 TL",
+      "fiyat_kurum_personeli": "600 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "meb": 600,
+                  "kamu": 900,
+                  "sivil": 1200
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Polisevi",
+      "gecerlilik": "Osmaniye Polisevi konaklama listesi",
+      "kaynak": "https://osmaniye.pol.tr/polisevi",
+      "fiyat_sivil": "1.288 – 4.772 TL",
+      "fiyat_kamu_personeli": "644 – 2.386 TL",
+      "fiyat_kurum_personeli": "644 – 2.386 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "mensup",
+            "ad": "Teşkilat mensubu / kamu"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Çift/tek yataklı oda",
+                "fiyatlar": {
+                  "mensup": 644,
+                  "onayli": 1288
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Aile odası",
+                "fiyatlar": {
+                  "mensup": 1933,
+                  "onayli": 3866
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "mensup": 2386,
+                  "onayli": 4772
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Osmaniye",
+      "isim": "Osmaniye Korkut Ata Üniversitesi Sosyal Tesisleri",
+      "gecerlilik": "Misafirhane oda tarifesi (SKS)",
+      "kaynak": "https://osmaniye.edu.tr/tr/sks",
+      "fiyat_sivil": "1.050 – 3.000 TL",
+      "fiyat_kamu_personeli": "700 – 2.000 TL",
+      "fiyat_kurum_personeli": "700 – 2.000 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "oku_kamu",
+            "ad": "OKÜ personeli ve kamu / emekli / yakınları"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer misafirler"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Misafirhane",
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı tek kişilik oda",
+                "fiyatlar": {
+                  "oku_kamu": 700,
+                  "diger": 1050
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "oku_kamu": 1000,
+                  "diger": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "oku_kamu": 1200,
+                  "diger": 1800
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "VIP oda",
+                "fiyatlar": {
+                  "oku_kamu": 2000,
+                  "diger": 3000
+                },
+                "kisi": 2
+              }
+            ]
+          },
+          {
+            "baslik": "Kapalı yüzme havuzu (1 kişi)",
+            "satirlar": [
+              {
+                "ad": "Seans",
+                "fiyatlar": {
+                  "oku_kamu": 60,
+                  "diger": 150
+                },
+                "birim": "seans"
+              },
+              {
+                "ad": "Havuz kartı",
+                "fiyatlar": {
+                  "oku_kamu": 100,
+                  "diger": 100
+                }
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Yalova",
+      "isim": "Yalova Uygulama Oteli",
+      "gecerlilik": "Kişi başı konaklama",
+      "fiyat_sivil": "1.900 TL",
+      "fiyat_kamu_personeli": "1.900 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Kişi başı konaklama",
+                "fiyatlar": {
+                  "konaklama": 1900
+                },
+                "birim": "gece / kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Yalova",
+      "isim": "Yalova Harb-iş Dinlenme Tesisleri",
+      "gecerlilik": "Yalova Harb-İş sosyal tesisleri",
+      "fiyat_sivil": "2.000 TL",
+      "fiyat_kamu_personeli": "2.000 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "notlar": [
+          "Yalnızca aile odası bulunmaktadır."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Aile odası",
+                "fiyatlar": {
+                  "konaklama": 2000
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Kars",
+      "isim": "Selim Öğretmenevi",
+      "gecerlilik": "07.09.2026 güncelleme",
+      "kaynak": "https://selimogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "800 TL",
+      "fiyat_kamu_personeli": "600 TL",
+      "fiyat_kurum_personeli": "400 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "meb": 400,
+                  "kamu": 600,
+                  "sivil": 800
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Kars",
+      "isim": "Digor Öğretmenevi",
+      "gecerlilik": "Tek kişilik oda tarifeleri",
+      "fiyat_sivil": "700 – 800 TL",
+      "fiyat_kamu_personeli": "525 – 600 TL",
+      "fiyat_kurum_personeli": "350 – 400 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "Giriş 14:00, çıkış 12:00.",
+          "Kimlik zorunludur."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 400,
+                  "kamu": 600,
+                  "sivil": 800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişilik oda (ek yataklı)",
+                "fiyatlar": {
+                  "meb": 350,
+                  "kamu": 525,
+                  "sivil": 700
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
     }
   ]
 }

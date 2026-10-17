@@ -20354,6 +20354,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "selimcelalarasogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://selimogretmenevi.meb.k12.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "selimogretmenevi.meb.k12.tr"
         }
       ],
       "ocr_eksik": [],
@@ -21316,6 +21322,12 @@
           "rol": "fiyat",
           "alan_adi": "otel.erciyes.edu.tr",
           "baslik": "DBL Room"
+        },
+        {
+          "url": "https://otel.erciyes.edu.tr/tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "otel.erciyes.edu.tr"
         }
       ],
       "ocr_eksik": [],
@@ -30457,10 +30469,17 @@
       "isim": "Osmaniye Korkut Ata Üniversitesi Sosyal Tesisleri",
       "kurum": "Üniversite Sosyal Tesisi",
       "telefon": "0328 827 13 45",
-      "durum": "C",
-      "aktif": false,
+      "durum": "B",
+      "aktif": true,
       "kontrol_yontemi": "pasif",
-      "kaynaklar": [],
+      "kaynaklar": [
+        {
+          "url": "https://osmaniye.edu.tr/tr/sks",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "osmaniye.edu.tr"
+        }
+      ],
       "ocr_eksik": [],
       "neden": "Resmî sitede konaklama ücret tarifesi bulunamadı.",
       "son_kontrol": null,
@@ -30522,6 +30541,12 @@
           "alan_adi": "www.osmaniye.pol.tr",
           "baslik": "Osmaniye Polisevi Tarafından Sunulan Hizmetler – Oda Fiyatları",
           "tarih": "Tarih belirtilmemiş"
+        },
+        {
+          "url": "https://osmaniye.pol.tr/polisevi",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "osmaniye.pol.tr"
         }
       ],
       "ocr_eksik": [],
