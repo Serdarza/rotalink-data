@@ -8302,16 +8302,100 @@
     {
       "il": "Ordu",
       "isim": "Ordu Öğretmenevi ve Akşam Sanat Okulu",
-      "fiyat_sivil": "3.800 TL",
-      "fiyat_kamu_personeli": "3.400 TL",
-      "fiyat_kurum_personeli": "2.800 TL",
-      "gecerlilik": "2026 yılı (görsel kaynaklı tarife; rezervasyonda teyit edilmeli)",
+      "gecerlilik": "Günlük konaklama fiyat listesi",
+      "kaynak": "https://orduogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "950 – 5.850 TL",
+      "fiyat_kamu_personeli": "1.400 – 5.850 TL",
+      "fiyat_kurum_personeli": "1.250 – 5.700 TL",
       "tarife": {
-        "dogrulama": "teyit_gerekli",
-        "guncelleme": "2026-09-27",
-        "notlar": [
-          "Bu fiyat 27.09.2026 kontrolünde resmî kaynakta güncel olarak doğrulanamadı; rezervasyon öncesi tesisle teyit ediniz."
-        ]
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB personeli"
+          },
+          {
+            "id": "kamu_sivil",
+            "ad": "Kamu personeli / sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi yatak",
+                "fiyatlar": {
+                  "meb": 1250,
+                  "kamu_sivil": 1400
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 1650,
+                  "kamu_sivil": 2000
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik oda",
+                "fiyatlar": {
+                  "meb": 2500,
+                  "kamu_sivil": 2800
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik oda",
+                "fiyatlar": {
+                  "meb": 3400,
+                  "kamu_sivil": 3800
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Dört kişilik oda",
+                "fiyatlar": {
+                  "meb": 4300,
+                  "kamu_sivil": 4600
+                },
+                "kisi": 4
+              },
+              {
+                "ad": "Aile odası 1 (5 kişi)",
+                "fiyatlar": {
+                  "meb": 4850,
+                  "kamu_sivil": 5000
+                },
+                "kisi": 5
+              },
+              {
+                "ad": "Aile odası 2 (6 kişi)",
+                "fiyatlar": {
+                  "meb": 5700,
+                  "kamu_sivil": 5850
+                },
+                "kisi": 6
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "meb": 3850,
+                  "kamu_sivil": 4250
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "İlave yatak",
+                "fiyatlar": {
+                  "meb": 950,
+                  "kamu_sivil": 950
+                }
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
       }
     },
     {
@@ -49300,6 +49384,570 @@
                   "sivil": 1600
                 },
                 "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Samsun",
+      "isim": "Terme Öğretmenevi Aso",
+      "gecerlilik": "Kişi başı; kahvaltı dahil",
+      "kaynak": "https://termeogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "1.900 TL",
+      "fiyat_kamu_personeli": "1.500 TL",
+      "fiyat_kurum_personeli": "1.100 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu ve emekli (indirimli)"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "Fiyatlar kişi başıdır; kahvaltı dahildir.",
+          "Suit odalar 1+1, 65 m², en fazla 5 kişi.",
+          "Oda kapatmada diğer yatakların %50'si tahsil edilir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama (kişi başı)",
+                "fiyatlar": {
+                  "meb": 1100,
+                  "kamu": 1500,
+                  "sivil": 1900
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Samsun",
+      "isim": "Samsun Ayvacık Öğretmenevi",
+      "gecerlilik": "Kişi başı ve tek kişi oda tarifeleri",
+      "fiyat_sivil": "1.600 – 3.200 TL",
+      "fiyat_kamu_personeli": "1.200 – 2.400 TL",
+      "fiyat_kurum_personeli": "800 – 1.600 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Kişi başı",
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "meb": 800,
+                  "kamu": 1200,
+                  "sivil": 1600
+                },
+                "birim": "kişi başı"
+              }
+            ]
+          },
+          {
+            "baslik": "Tek kişi oda",
+            "satirlar": [
+              {
+                "ad": "Oda kapama",
+                "fiyatlar": {
+                  "meb": 1600,
+                  "kamu": 2400,
+                  "sivil": 3200
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Trabzon",
+      "isim": "Tonya Öğretmenevi",
+      "gecerlilik": "Oda tipi ve doluluk bazlı gecelik ücretler",
+      "fiyat_sivil": "600 – 1.200 TL",
+      "fiyat_kamu_personeli": "450 – 900 TL",
+      "fiyat_kurum_personeli": "300 – 600 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek yataklı oda (1 kişi)",
+                "fiyatlar": {
+                  "meb": 300,
+                  "kamu": 450,
+                  "sivil": 600
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift yataklı oda (1 kişi)",
+                "fiyatlar": {
+                  "meb": 450,
+                  "kamu": 675,
+                  "sivil": 900
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift yataklı oda (2 kişi)",
+                "fiyatlar": {
+                  "meb": 600,
+                  "kamu": 900,
+                  "sivil": 1200
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Trabzon",
+      "isim": "KTÜ Koru Tesisleri Üniversite",
+      "gecerlilik": "Oda başına; kahvaltı, otopark ve Wi‑Fi dahil",
+      "fiyat_sivil": "4.008 – 5.260 TL",
+      "fiyat_kamu_personeli": "4.008 – 5.260 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Oda (vergiler dahil)"
+          }
+        ],
+        "notlar": [
+          "Fiyatlar 1 oda içindir; vergiler ve ücretler dahildir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Standard oda (2 tek yatak, bahçe)",
+                "fiyatlar": {
+                  "oda": 4008
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Deluxe oda (2 tek yatak, deniz)",
+                "fiyatlar": {
+                  "oda": 4258
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Standard üç kişilik (3 tek yatak)",
+                "fiyatlar": {
+                  "oda": 4709
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Junior süit (3 kişi)",
+                "fiyatlar": {
+                  "oda": 4709
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Family süit (3 kişi)",
+                "fiyatlar": {
+                  "oda": 5260
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Deluxe süit (3 kişi, deniz)",
+                "fiyatlar": {
+                  "oda": 5260
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ünye Turizm Otelcilik Uygulama Oteli",
+      "gecerlilik": "2026 BB (oda + kahvaltı) — dönemsel tarife",
+      "fiyat_sivil": "1.500 – 3.400 TL",
+      "fiyat_kamu_personeli": "1.500 – 3.400 TL",
+      "tarife": {
+        "donem": "2026",
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "notlar": [
+          "Suit / King Suit: standart oda fiyatları üzerinden artırılır.",
+          "11 kişi ve üzeri grup için tesise başvurun."
+        ],
+        "tablolar": [
+          {
+            "baslik": "Ocak – Nisan & Ekim – Aralık",
+            "satirlar": [
+              {
+                "ad": "SNG (tek kişi)",
+                "fiyatlar": {
+                  "konaklama": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "DBL (iki kişi)",
+                "fiyatlar": {
+                  "konaklama": 2200
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "TRP (üç kişi)",
+                "fiyatlar": {
+                  "konaklama": 3000
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Ek yatak",
+                "fiyatlar": {
+                  "konaklama": 500
+                }
+              }
+            ]
+          },
+          {
+            "baslik": "Mayıs – Eylül",
+            "satirlar": [
+              {
+                "ad": "SNG (tek kişi)",
+                "fiyatlar": {
+                  "konaklama": 1700
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "DBL (iki kişi)",
+                "fiyatlar": {
+                  "konaklama": 2500
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "TRP (üç kişi)",
+                "fiyatlar": {
+                  "konaklama": 3400
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Ek yatak",
+                "fiyatlar": {
+                  "konaklama": 600
+                }
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Ordu",
+      "isim": "Perşembe Turizm Otelcilik Uygulama Oteli",
+      "gecerlilik": "Yatak + kahvaltı ve kahvaltı seçenekleri",
+      "fiyat_sivil": "250 – 1.100 TL",
+      "fiyat_kamu_personeli": "250 – 1.100 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi banyolu oda (yatak + kahvaltı)",
+                "fiyatlar": {
+                  "konaklama": 1100
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişi banyosuz oda (yatak + kahvaltı)",
+                "fiyatlar": {
+                  "konaklama": 900
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Kahvaltı serpme",
+                "fiyatlar": {
+                  "konaklama": 750
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Kahvaltı açık büfe",
+                "fiyatlar": {
+                  "konaklama": 350
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Kahvaltı tabağı",
+                "fiyatlar": {
+                  "konaklama": 250
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu Üniversitesi Misafirhanesi ve Konukevi",
+      "gecerlilik": "2026 günlük konaklama; KV (%2) dahil",
+      "kaynak": "https://sksdb.odu.edu.tr/",
+      "fiyat_sivil": "1.200 – 2.000 TL",
+      "fiyat_kamu_personeli": "1.200 – 2.000 TL",
+      "fiyat_kurum_personeli": "1.200 – 2.000 TL",
+      "tarife": {
+        "donem": "2026",
+        "kategoriler": [
+          {
+            "id": "universite_kamu",
+            "ad": "Üniversite personeli, öğrenci, kamu ve onaylı ziyaretçi"
+          }
+        ],
+        "notlar": [
+          "1.1.2023 sonrası doğan çocuklardan konaklama bedeli alınmaz.",
+          "1.1.2020 – 1.1.2023 arası doğan çocuklarda bedelin yarısı alınır.",
+          "Doluluk durumuna göre paylaşımlı oda verilebilir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik konaklama",
+                "fiyatlar": {
+                  "universite_kamu": 1200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik konaklama",
+                "fiyatlar": {
+                  "universite_kamu": 2000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Ek yatak",
+                "fiyatlar": {
+                  "universite_kamu": 500
+                }
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Ordu",
+      "isim": "Ordu Orman Fidanlık Müdürlüğü Misafirhanesi",
+      "gecerlilik": "Gecelik konaklama",
+      "fiyat_sivil": "1.000 TL",
+      "fiyat_kamu_personeli": "710 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "kamu": 710,
+                  "sivil": 1000
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Ordu",
+      "isim": "Korgan Öğretmenevi",
+      "gecerlilik": "2026 konaklama; kahvaltı dahil (04.10.2026 güncelleme)",
+      "kaynak": "https://ogretmenevine.com/",
+      "fiyat_sivil": "1.000 – 3.300 TL",
+      "fiyat_kamu_personeli": "800 – 2.700 TL",
+      "fiyat_kurum_personeli": "650 – 2.100 TL",
+      "tarife": {
+        "donem": "2026",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "Çiftlerden evlilik cüzdanı istenir."
+        ],
+        "tablolar": [
+          {
+            "baslik": "Kişi başı",
+            "satirlar": [
+              {
+                "ad": "2 kişilik standart (double yatak)",
+                "fiyatlar": {
+                  "meb": 650,
+                  "kamu": 800,
+                  "sivil": 1000
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "2 kişilik standart oda",
+                "fiyatlar": {
+                  "meb": 700,
+                  "kamu": 900,
+                  "sivil": 1100
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "3 kişilik standart oda",
+                "fiyatlar": {
+                  "meb": 700,
+                  "kamu": 900,
+                  "sivil": 1100
+                },
+                "birim": "kişi"
+              }
+            ]
+          },
+          {
+            "baslik": "Oda fiyatı",
+            "satirlar": [
+              {
+                "ad": "2 kişilik standart (double)",
+                "fiyatlar": {
+                  "meb": 1300,
+                  "kamu": 1600,
+                  "sivil": 2000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "2 kişilik standart (2 kişi)",
+                "fiyatlar": {
+                  "meb": 1400,
+                  "kamu": 1800,
+                  "sivil": 2200
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "3 kişilik standart (3 kişi)",
+                "fiyatlar": {
+                  "meb": 2100,
+                  "kamu": 2700,
+                  "sivil": 3300
+                },
+                "kisi": 3
+              }
+            ]
+          },
+          {
+            "baslik": "Oda kapatma (2 kişilik, 1 kişi)",
+            "satirlar": [
+              {
+                "ad": "Tek kişi konaklama",
+                "fiyatlar": {
+                  "meb": 800,
+                  "kamu": 1000,
+                  "sivil": 1250
+                },
+                "kisi": 1
               }
             ]
           }

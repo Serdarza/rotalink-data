@@ -29922,6 +29922,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "korganogretmeneviaso.meb.k12.tr"
+        },
+        {
+          "url": "https://ogretmenevine.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "ogretmenevine.com"
         }
       ],
       "ocr_eksik": [],
@@ -30204,10 +30210,17 @@
       "isim": "Ordu Üniversitesi Misafirhanesi ve Konukevi",
       "kurum": "Uygulama Oteli",
       "telefon": "04522230452",
-      "durum": "C",
-      "aktif": false,
+      "durum": "B",
+      "aktif": true,
       "kontrol_yontemi": "pasif",
-      "kaynaklar": [],
+      "kaynaklar": [
+        {
+          "url": "https://sksdb.odu.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "sksdb.odu.edu.tr"
+        }
+      ],
       "ocr_eksik": [],
       "neden": "Üniversitenin sitesinde konukevi ücret tarifesi bulunamadı.",
       "son_kontrol": null,
@@ -32461,6 +32474,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "termeogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://terme.mebogretmenevi.com/booking/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "terme.mebogretmenevi.com"
         }
       ],
       "ocr_eksik": [],
