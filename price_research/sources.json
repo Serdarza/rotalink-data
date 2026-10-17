@@ -26688,7 +26688,7 @@
       "isim": "Mardin Nahıl Misafirevi",
       "kurum": "Karayolları Misafirhanesi",
       "telefon": "05071984502",
-      "durum": "D",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -26697,6 +26697,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "www.nahilmisafirevi.com"
+        },
+        {
+          "url": "https://ibe.sabeeapp.com/v3/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "ibe.sabeeapp.com"
         }
       ],
       "ocr_eksik": [],
@@ -33340,7 +33346,7 @@
       "isim": "Sinop Prof. Dr. Necmettin Erbakan Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
       "kurum": "Polisevi",
       "telefon": "03682847022",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -33349,6 +33355,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "www.sinop.pol.tr"
+        },
+        {
+          "url": "https://sinopurkanmtal.meb.k12.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "sinopurkanmtal.meb.k12.tr"
         }
       ],
       "ocr_eksik": [],

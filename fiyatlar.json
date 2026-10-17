@@ -51938,6 +51938,574 @@
         ],
         "dogrulama": "kullanici_bildirimi"
       }
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Artuklu Üniversitesi Sosyal Tesisleri ve Uygulama Oteli",
+      "gecerlilik": "Standart ve suit oda gecelik ücretleri",
+      "fiyat_sivil": "5.500 – 7.500 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Standart oda",
+                "fiyatlar": {
+                  "konaklama": 5500
+                },
+                "birim": "gece"
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "konaklama": 7500
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Mardin",
+      "isim": "Derik Öğretmenevi",
+      "gecerlilik": "Standart oda; yetişkin ve çocuk (6–10 yaş) tarifesi",
+      "fiyat_sivil": "350 – 1.400 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "notlar": [
+          "11 yaş ve üzeri yetişkin; 6–10 yaş çocuk ücretleri ayrı satırlarda."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "1 yetişkin (11+ yaş)",
+                "fiyatlar": {
+                  "konaklama": 700
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2 yetişkin",
+                "fiyatlar": {
+                  "konaklama": 1400
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Çocuk (6–10 yaş) — 1 yetişkinli oda",
+                "fiyatlar": {
+                  "konaklama": 350
+                }
+              },
+              {
+                "ad": "Çocuk (6–10 yaş) — 2 yetişkinli oda",
+                "fiyatlar": {
+                  "konaklama": 700
+                }
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Prof. Dr. Necmettin Erbakan Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "gecerlilik": "01 Haziran 2026 tarihinden itibaren; kahvaltı, KDV ve konaklama vergisi dahil",
+      "kaynak": "https://sinopurkanmtal.meb.k12.tr/",
+      "fiyat_sivil": "2.700 – 5.400 TL",
+      "fiyat_kamu_personeli": "2.700 – 5.400 TL",
+      "tarife": {
+        "donem": "01.06.2026 –",
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "notlar": [
+          "Standart odada iki veya daha fazla kişide kişi başı 1.800 TL.",
+          "0–3 yaş ücretsiz; 3–7 yaş %50; 7 yaş ve üzeri tam ücret."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Standart oda tek kişi",
+                "fiyatlar": {
+                  "konaklama": 2700
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Standart oda çift kişi",
+                "fiyatlar": {
+                  "konaklama": 3600
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Standart oda üç kişi",
+                "fiyatlar": {
+                  "konaklama": 5400
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "konaklama": 5400
+                },
+                "birim": "oda"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Sinop",
+      "isim": "Sinop Merkez Öğretmenevi",
+      "gecerlilik": "Kahvaltı dahil; tek kalan diğer yatakların %50 ücreti alınır",
+      "kaynak": "https://sinopogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "2.550 TL",
+      "fiyat_kamu_personeli": "2.000 TL",
+      "fiyat_kurum_personeli": "1.450 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB personeli"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          },
+          {
+            "id": "ozel",
+            "ad": "Engelli ve şehit yakını"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Günlük konaklama",
+                "fiyatlar": {
+                  "meb": 1450,
+                  "kamu": 2000,
+                  "sivil": 2550,
+                  "ozel": 1450
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Sinop",
+      "isim": "Ahmet Muhip Dıranas Uygulama Oteli",
+      "gecerlilik": "2026 oda fiyatları; kategori bazlı tarife",
+      "fiyat_sivil": "2.400 – 6.600 TL",
+      "fiyat_kamu_personeli": "2.300 – 6.500 TL",
+      "fiyat_kurum_personeli": "2.200 – 6.400 TL",
+      "tarife": {
+        "donem": "2026",
+        "kategoriler": [
+          {
+            "id": "universite",
+            "ad": "Yükseköğretim personeli, gazi ve şehit yakını"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Normal"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Çift kişilik oda (tek kişilik konaklama)",
+                "fiyatlar": {
+                  "sivil": 2400,
+                  "kamu": 2300,
+                  "universite": 2200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Double oda (çift kişilik konaklama)",
+                "fiyatlar": {
+                  "sivil": 3500,
+                  "kamu": 3400,
+                  "universite": 3300
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Double oda (deniz manzaralı)",
+                "fiyatlar": {
+                  "sivil": 3800,
+                  "kamu": 3700,
+                  "universite": 3600
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Triple oda",
+                "fiyatlar": {
+                  "sivil": 4500,
+                  "kamu": 4400,
+                  "universite": 4300
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Triple oda (deniz manzaralı)",
+                "fiyatlar": {
+                  "sivil": 4800,
+                  "kamu": 4700,
+                  "universite": 4600
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit oda (deniz manzaralı)",
+                "fiyatlar": {
+                  "sivil": 6600,
+                  "kamu": 6500,
+                  "universite": 6400
+                },
+                "birim": "oda"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Nahıl Misafirevi",
+      "gecerlilik": "Comfort oda; gece başına TRY",
+      "kaynak": "https://ibe.sabeeapp.com/v3/",
+      "fiyat_sivil": "2.900 – 3.100 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Comfort oda (en fazla 2 konuk; örn. oda 108)",
+                "fiyatlar": {
+                  "konaklama": 2900
+                },
+                "birim": "gece"
+              },
+              {
+                "ad": "Comfort oda (en fazla 1 konuk; örn. oda 106)",
+                "fiyatlar": {
+                  "konaklama": 3100
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Comfort oda (en fazla 2 konuk; örn. oda 107)",
+                "fiyatlar": {
+                  "konaklama": 3100
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Mardin",
+      "isim": "Mardin Ömerli Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "gecerlilik": "Günlük konaklama tarifesi",
+      "kaynak": "https://omerliogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "900 – 1.800 TL",
+      "fiyat_kamu_personeli": "675 – 1.200 TL",
+      "fiyat_kurum_personeli": "450 – 900 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "uye",
+            "ad": "Üye"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "misafir",
+            "ad": "Misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Yatak ücreti",
+                "fiyatlar": {
+                  "uye": 450,
+                  "kamu": 675,
+                  "misafir": 900
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek kişilik oda (tek yatak)",
+                "fiyatlar": {
+                  "uye": 500,
+                  "kamu": 750,
+                  "misafir": 1000
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişilik oda (double yatak)",
+                "fiyatlar": {
+                  "uye": 600,
+                  "kamu": 900,
+                  "misafir": 1200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda (kişi başı)",
+                "fiyatlar": {
+                  "uye": 900,
+                  "kamu": 1200,
+                  "misafir": 1800
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Yatak ücreti klimalı (kişi başı)",
+                "fiyatlar": {
+                  "uye": 575,
+                  "kamu": 800,
+                  "misafir": 1025
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek kişilik klimalı oda (tek yatak)",
+                "fiyatlar": {
+                  "uye": 750,
+                  "kamu": 1000,
+                  "misafir": 1250
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişilik klimalı oda (double yatak)",
+                "fiyatlar": {
+                  "uye": 850,
+                  "kamu": 1150,
+                  "misafir": 1450
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Mardin",
+      "isim": "Savur Öğretmenevi",
+      "gecerlilik": "Günlük konaklama; KDV ve kahvaltı dahil",
+      "kaynak": "https://savurogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "950 – 2.475 TL",
+      "fiyat_kamu_personeli": "750 – 1.912,50 TL",
+      "fiyat_kurum_personeli": "550 – 1.350 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB"
+          },
+          {
+            "id": "kamu",
+            "ad": "Üye / kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Misafir"
+          }
+        ],
+        "notlar": [
+          "Suit veya duble odada 3. yatak (kanepe): 300 TL."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı oda",
+                "fiyatlar": {
+                  "meb": 550,
+                  "kamu": 750,
+                  "sivil": 950
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 600,
+                  "kamu": 825,
+                  "sivil": 1050
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik oda kapatma",
+                "fiyatlar": {
+                  "meb": 825,
+                  "kamu": 1125,
+                  "sivil": 1375
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Duble yatak tek kişi",
+                "fiyatlar": {
+                  "meb": 800,
+                  "kamu": 1125,
+                  "sivil": 1450
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Duble yatak çift kişi",
+                "fiyatlar": {
+                  "meb": 1200,
+                  "kamu": 1687.5,
+                  "sivil": 2175
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit oda tek kişi",
+                "fiyatlar": {
+                  "meb": 900,
+                  "kamu": 1275,
+                  "sivil": 1650
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda çift kişi",
+                "fiyatlar": {
+                  "meb": 1350,
+                  "kamu": 1912.5,
+                  "sivil": 2475
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Siirt",
+      "isim": "Pervari Öğretmenevi",
+      "gecerlilik": "Günlük konaklama tarifesi",
+      "kaynak": "https://pervariogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "800 – 1.300 TL",
+      "fiyat_kamu_personeli": "500 – 850 TL",
+      "fiyat_kurum_personeli": "400 – 650 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / üye"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 400,
+                  "kamu": 500,
+                  "sivil": 800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik mutfaklı oda",
+                "fiyatlar": {
+                  "meb": 550,
+                  "kamu": 700,
+                  "sivil": 1000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "meb": 650,
+                  "kamu": 850,
+                  "sivil": 1300
+                },
+                "birim": "oda"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
     }
   ]
 }
