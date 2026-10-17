@@ -58,7 +58,7 @@ def append_notes(plan: str, codes: list[str], son: str, note: str) -> None:
 
 def push(plan: str, count: int) -> bool:
     msg = f"feat: {count} {kod_uret.plan_label(plan).lower()} hediye Pro kodu (özet)"
-    if not git("commit", "-q", "-m", msg, "--", "pro_kodlar.json"):
+    if not git("commit", "-q", "-m", msg, "--", kod_uret.GIT_DATA_PATH):
         return False
     for _ in range(2):
         if git("push", "-q"):
@@ -104,7 +104,7 @@ def main() -> int:
 def resend_pending() -> None:
     """Önceki çalıştırmada gönderilemeyen kodları gönderir."""
     status = subprocess.run(
-        ["git", "status", "--porcelain", "--", "pro_kodlar.json"],
+        ["git", "status", "--porcelain", "--", kod_uret.GIT_DATA_PATH],
         cwd=REPO, capture_output=True, text=True,
     ).stdout.strip()
     ahead = subprocess.run(
@@ -112,7 +112,7 @@ def resend_pending() -> None:
         cwd=REPO, capture_output=True, text=True,
     ).stdout.strip()
     if status:
-        git("commit", "-q", "-m", "feat: hediye Pro kodu (özet)", "--", "pro_kodlar.json")
+        git("commit", "-q", "-m", "feat: hediye Pro kodu (özet)", "--", kod_uret.GIT_DATA_PATH)
     if status or (ahead.isdigit() and int(ahead) > 0):
         print("Önceden gönderilemeyen kodlar gönderiliyor…")
         if git("push", "-q") or (git("pull", "--rebase", "-q", "--autostash") and git("push", "-q")):

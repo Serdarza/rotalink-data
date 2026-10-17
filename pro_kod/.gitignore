@@ -1,2 +1,5 @@
-uretilen/
+# Gerçek kodlar (.txt) repoya gitmez; özet ve örnekler gider.
+uretilen/*
+!uretilen/pro_kodlar.json
+!uretilen/ORNEK_*
 __pycache__/

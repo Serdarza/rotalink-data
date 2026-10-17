@@ -1,0 +1,19 @@
+{
+  "surum": 1,
+  "not": "ÖRNEK dosya — gerçek özet değildir. Canlı liste: pro_kodlar.json",
+  "kodlar": [
+    {
+      "ozet": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "plan": "aylik",
+      "son_kullanma": "2027-12-31",
+      "eklenme": "2026-01-01"
+    },
+    {
+      "ozet": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "plan": "yillik",
+      "son_kullanma": "2027-12-31",
+      "eklenme": "2026-01-01",
+      "kullanim": 10
+    }
+  ]
+}

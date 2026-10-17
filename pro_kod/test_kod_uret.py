@@ -39,7 +39,7 @@ def test_kolay_uret_flow(tmp_path, monkeypatch):
     assert "YILLIK (365 gün Pro) — 4 adet" in notes and "Yaz kampanyası" in notes
     assert notes.count("Verildi:") == 4
     assert len(kod_uret.load()["kodlar"]) == 4
-    assert any(c[0] == "commit" and c[-1] == "pro_kodlar.json" for c in calls)
+    assert any(c[0] == "commit" and c[-1] == kod_uret.GIT_DATA_PATH for c in calls)
     assert any(c[0] == "push" for c in calls)
 
 

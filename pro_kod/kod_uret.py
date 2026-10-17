@@ -1,7 +1,8 @@
 """Rotalink hediye Pro kodları.
 
-GitHub'daki `pro_kodlar.json` yalnızca kodların SHA-256 özetini tutar; kodların
-kendisi depoya yazılmaz, `pro_kod/uretilen/` altına (git dışı) kaydedilir.
+`pro_kod/uretilen/pro_kodlar.json` yalnızca kodların SHA-256 özetini tutar (GitHub).
+Düz kod metinleri aynı klasördeki `.txt` dosyalarına yazılır (git dışı).
+Örnek format: `pro_kod/uretilen/ORNEK_*`
 
 Örnekler:
   python pro_kod/kod_uret.py uret --plan aylik --adet 3
@@ -23,8 +24,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "pro_kodlar.json"
 OUT_DIR = Path(__file__).resolve().parent / "uretilen"
+DATA = OUT_DIR / "pro_kodlar.json"
+GIT_DATA_PATH = "pro_kod/uretilen/pro_kodlar.json"
 
 ALPHABET = "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
 PLANS = ("aylik", "yillik")
@@ -144,7 +146,10 @@ def cmd_uret(args: argparse.Namespace) -> int:
         return 1
     print(f"{plan_label(args.plan)} hediye Pro kodu — son kullanma {son}")
     print("\n".join(added))
-    print(f"\nKodlar kaydedildi: {OUT_DIR.relative_to(ROOT)} (GitHub'a gönderilmez)")
+    print(
+        f"\nÖzet: {GIT_DATA_PATH} | düz kodlar: "
+        f"{OUT_DIR.relative_to(ROOT)}/*.txt (git dışı)"
+    )
     return 0
 
 

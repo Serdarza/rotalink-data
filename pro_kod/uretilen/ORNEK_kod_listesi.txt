@@ -1,0 +1,9 @@
+# ÖRNEK — gerçek kod değildir, uygulamada çalışmaz.
+# Üretim sonrası oluşan .txt dosyası böyle görünür (GitHub'a gitmez):
+
+Aylık hediye Pro kodu — son kullanma 2027-12-31
+AB2C-3D4E-FGHJ-KMNP
+AB2C-3D4E-FGHJ-KMNP   Verildi: Ahmet
+
+Yıllık hediye Pro kodu — son kullanma 2027-12-31 — 10 kullanım
+WXYZ-2345-6789-ABCD

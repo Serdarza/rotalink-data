@@ -1,0 +1,42 @@
+{
+  "surum": 1,
+  "kodlar": [
+    {
+      "ozet": "2c2754488788134fe9a9f5c90e45f1ad37acd0047e5dea30a865a184af80a943",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-18",
+      "eklenme": "2026-10-18"
+    },
+    {
+      "ozet": "70d55ee165955db619d9b663a7ac866af5881f61d79e4d10e6d1a31307c431ba",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-18",
+      "eklenme": "2026-10-18"
+    },
+    {
+      "ozet": "b93909c042dadf3b53ac348210eb0170c8007e85cfd6c3b87ee12c82641e22fc",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-18",
+      "eklenme": "2026-10-18"
+    },
+    {
+      "ozet": "cdd9f4250c445346ba26aae7d8da4410cab03ef051b5b47773371e279527792d",
+      "plan": "yillik",
+      "son_kullanma": "2027-10-18",
+      "eklenme": "2026-10-18"
+    },
+    {
+      "ozet": "f6f7d8abe036098d5ecebb7f2a4e5a688b99191c3cf9b8a3796cd5b828226e7e",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-18",
+      "eklenme": "2026-10-18"
+    },
+    {
+      "ozet": "fd6fbfddf394881a8de76a379b4909b3044f584a2d87c6ed60a6e0bac22230c3",
+      "plan": "aylik",
+      "son_kullanma": "2027-10-18",
+      "eklenme": "2026-10-18"
+    }
+  ],
+  "not": "Hediye Pro kodlarının SHA-256 özetleri. Kodların kendisi burada tutulmaz. Kod üretmek/iptal etmek için: python pro_kod/kod_uret.py --help"
+}
