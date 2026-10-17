@@ -48744,16 +48744,15 @@
     {
       "il": "Samsun",
       "isim": "Alaçam Öğretmenevi",
-      "kaynak": "https://alacamogretmenevi.meb.k12.tr/",
-      "gecerlilik": "Merkez bina ve Karşıyaka şubesi; kahvaltı koşulları tabloda",
-      "fiyat_sivil": "1.200 – 3.600 TL",
-      "fiyat_kamu_personeli": "900 – 2.800 TL",
-      "fiyat_kurum_personeli": "600 – 1.600 TL",
+      "gecerlilik": "Double paylaşımlı oda; MEB kahvaltı hariç, kamu/sivil kahvaltı dahil",
+      "fiyat_sivil": "2.700 – 3.600 TL",
+      "fiyat_kamu_personeli": "2.100 – 2.800 TL",
+      "fiyat_kurum_personeli": "1.200 – 1.600 TL",
       "tarife": {
         "kategoriler": [
           {
             "id": "meb",
-            "ad": "MEB / Öğretmen"
+            "ad": "MEB / öğretmen"
           },
           {
             "id": "kamu",
@@ -48764,15 +48763,11 @@
             "ad": "Sivil"
           }
         ],
-        "notlar": [
-          "MEB personeli fiyatlarına kahvaltı hariç; kamu ve sivil fiyatlarına kahvaltı dahil."
-        ],
         "tablolar": [
           {
-            "baslik": "Merkez bina (double – paylaşımlı)",
             "satirlar": [
               {
-                "ad": "1 kişi",
+                "ad": "Double paylaşımlı (1 kişi)",
                 "fiyatlar": {
                   "meb": 1200,
                   "kamu": 2100,
@@ -48781,7 +48776,7 @@
                 "kisi": 1
               },
               {
-                "ad": "2 kişi (oda toplam)",
+                "ad": "Double paylaşımlı (2 kişi, oda)",
                 "fiyatlar": {
                   "meb": 1600,
                   "kamu": 2800,
@@ -48790,32 +48785,9 @@
                 "kisi": 2
               }
             ]
-          },
-          {
-            "baslik": "Karşıyaka şubesi",
-            "satirlar": [
-              {
-                "ad": "1 kişi",
-                "fiyatlar": {
-                  "meb": 600,
-                  "kamu": 900,
-                  "sivil": 1200
-                },
-                "kisi": 1
-              },
-              {
-                "ad": "2 kişi (oda toplam)",
-                "fiyatlar": {
-                  "meb": 800,
-                  "kamu": 1200,
-                  "sivil": 1600
-                },
-                "kisi": 2
-              }
-            ]
           }
         ],
-        "dogrulama": "resmi_kaynak"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -48840,11 +48812,6 @@
             "id": "sivil",
             "ad": "Sivil"
           }
-        ],
-        "notlar": [
-          "Fiyatlar kişi başıdır; kahvaltı dahildir.",
-          "Suit odalar 1+1, 65 m², en fazla 5 kişi.",
-          "Oda kapatmada diğer yatakların %50'si tahsil edilir."
         ],
         "tablolar": [
           {
@@ -48875,7 +48842,7 @@
         "kategoriler": [
           {
             "id": "meb",
-            "ad": "MEB / Öğretmen"
+            "ad": "MEB / öğretmen"
           },
           {
             "id": "kamu",
@@ -53078,6 +53045,409 @@
                   "kurum": 5200
                 },
                 "birim": "oda"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Beykoz Sabancı Öğretmenevi (ASO)",
+      "gecerlilik": "03.06.2026 güncel konaklama fiyatları",
+      "kaynak": "https://beykozsabanciogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "3.700 – 11.100 TL",
+      "fiyat_kamu_personeli": "2.775 – 8.325 TL",
+      "fiyat_kurum_personeli": "1.850 – 5.550 TL",
+      "tarife": {
+        "donem": "03.06.2026",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "Öğretmen / MEB personeli"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Kişi başı",
+                "fiyatlar": {
+                  "meb": 1850,
+                  "kamu": 2775,
+                  "sivil": 3700
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 2775,
+                  "kamu": 4160,
+                  "sivil": 5550
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik oda",
+                "fiyatlar": {
+                  "meb": 3700,
+                  "kamu": 5550,
+                  "sivil": 7400
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik oda",
+                "fiyatlar": {
+                  "meb": 5550,
+                  "kamu": 8325,
+                  "sivil": 11100
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Baltalimanı Polisevi",
+      "gecerlilik": "Baltalimanı Polisevi konaklama ücretleri",
+      "kaynak": "https://istanbul.pol.tr/",
+      "fiyat_sivil": "1.600 – 6.200 TL",
+      "fiyat_kurum_personeli": "800 – 3.100 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kurum",
+            "ad": "Mensup ve kamu personeli"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek yatak",
+                "fiyatlar": {
+                  "kurum": 800,
+                  "onayli": 1600
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek yatak (deniz gören)",
+                "fiyatlar": {
+                  "kurum": 840,
+                  "onayli": 1680
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Double yataklı oda",
+                "fiyatlar": {
+                  "kurum": 1600,
+                  "onayli": 3200
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Double yataklı oda (deniz gören)",
+                "fiyatlar": {
+                  "kurum": 1680,
+                  "onayli": 3360
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Double + tek yataklı oda",
+                "fiyatlar": {
+                  "kurum": 2400,
+                  "onayli": 4800
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Double + tek yataklı oda (deniz gören)",
+                "fiyatlar": {
+                  "kurum": 2520,
+                  "onayli": 5040
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Double + 3 tek yataklı oda (5 kişilik aile)",
+                "fiyatlar": {
+                  "kurum": 3100,
+                  "onayli": 6200
+                },
+                "kisi": 5
+              },
+              {
+                "ad": "Aile odası (double + 2 yatak) veya müstakil",
+                "fiyatlar": {
+                  "kurum": 2900,
+                  "onayli": 5800
+                },
+                "birim": "oda"
+              },
+              {
+                "ad": "2 kişilik suit oda (yatak odası, salon)",
+                "fiyatlar": {
+                  "kurum": 2200,
+                  "onayli": 4400
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Anadolu Üniversitesi Aksaray Konukevi",
+      "gecerlilik": "Günlük ücret; %1 konaklama vergisi fiyatlara dahil değil",
+      "kaynak": "https://cdn.anadolu.edu.tr/",
+      "fiyat_sivil": "1.500 – 3.600 TL",
+      "fiyat_kamu_personeli": "1.500 – 3.600 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "notlar": [
+          "Tablo kurum personeli günlük ücret bedelleridir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Bir kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 2250
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 3000
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit oda (1 kişi)",
+                "fiyatlar": {
+                  "konaklama": 2000
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda (2 kişi)",
+                "fiyatlar": {
+                  "konaklama": 3000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit oda (3 kişi)",
+                "fiyatlar": {
+                  "konaklama": 3600
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Mehmet İhsan Mercerci Uygulama Oteli",
+      "gecerlilik": "Kahvaltı dahil konaklama",
+      "fiyat_sivil": "2.200 – 5.500 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi",
+                "fiyatlar": {
+                  "konaklama": 2200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişi",
+                "fiyatlar": {
+                  "konaklama": 4000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişi",
+                "fiyatlar": {
+                  "konaklama": 5500
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Çeşme Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "gecerlilik": "Ekonomik ve standart oda; standart fiyat döneme göre değişir",
+      "fiyat_sivil": "1.250 – 3.500 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Ekonomik oda balkonsuz (tek kişilik)",
+                "fiyatlar": {
+                  "konaklama": 1750
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Ekonomik oda balkonsuz (büyük)",
+                "fiyatlar": {
+                  "konaklama": 2250
+                },
+                "birim": "oda"
+              },
+              {
+                "ad": "Standart oda balkonlu (dönemsel tek/çift kişi)",
+                "fiyatlar": {
+                  "konaklama": 1250
+                },
+                "birim": "gece",
+                "aciklama": "1.250 – 3.500 TL aralığı"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Aydın",
+      "isim": "Selçuk Şehit Er Mehmet Yüce İMKB Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "gecerlilik": "Kişi başı konaklama ücretleri",
+      "fiyat_sivil": "1.800 – 3.600 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik",
+                "fiyatlar": {
+                  "konaklama": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik",
+                "fiyatlar": {
+                  "konaklama": 3000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik",
+                "fiyatlar": {
+                  "konaklama": 3600
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "İzmir",
+      "isim": "İzmir Balçova Termal Otel ve Sosyal Tesisleri",
+      "gecerlilik": "Kahvaltı dahil konaklama",
+      "kaynak": "https://balcovatermal.com/",
+      "fiyat_sivil": "4.350 – 6.800 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "notlar": [
+          "0–6 yaş ücretsiz; 7–12 yaş ek yatakla %50.",
+          "12 yaş altı termal havuz kullanamaz."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik konaklama",
+                "fiyatlar": {
+                  "konaklama": 4350
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik konaklama",
+                "fiyatlar": {
+                  "konaklama": 6800
+                },
+                "kisi": 2
               }
             ]
           }

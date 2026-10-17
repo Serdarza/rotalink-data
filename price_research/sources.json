@@ -32560,6 +32560,12 @@
           "tur": "web",
           "rol": "fiyat",
           "alan_adi": "terme.mebogretmenevi.com"
+        },
+        {
+          "url": "https://terme.mebogretmenevi.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "terme.mebogretmenevi.com"
         }
       ],
       "ocr_eksik": [],
@@ -40119,10 +40125,17 @@
       "isim": "Anadolu Üniversitesi Aksaray Konukevi",
       "kurum": "Öğretmenevi",
       "telefon": "02125896044",
-      "durum": "C",
-      "aktif": false,
+      "durum": "B",
+      "aktif": true,
       "kontrol_yontemi": "pasif",
-      "kaynaklar": [],
+      "kaynaklar": [
+        {
+          "url": "https://cdn.anadolu.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "cdn.anadolu.edu.tr"
+        }
+      ],
       "ocr_eksik": [],
       "neden": "Resmî kaynakta bu konukeve ait fiyat bulunamadı (anadolu.edu.tr'deki 2026 fiyat listesi kurum dışı duyuru, başka tesise ait).",
       "son_kontrol": null,
@@ -40293,6 +40306,12 @@
           "alan_adi": "www.istanbul.pol.tr",
           "baslik": "Sosyal Tesisler – Baltalimanı Polis Evi Sosyal Tesisleri",
           "tarih": "Tarih belirtilmemiş"
+        },
+        {
+          "url": "https://istanbul.pol.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "istanbul.pol.tr"
         }
       ],
       "ocr_eksik": [],
@@ -40359,6 +40378,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "sabanciogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://beykozsabanciogretmenevi.meb.k12.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "beykozsabanciogretmenevi.meb.k12.tr"
         }
       ],
       "ocr_eksik": [],
@@ -43745,7 +43770,7 @@
       "isim": "İzmir Balçova Termal Otel ve Sosyal Tesisleri",
       "kurum": "Kamu Misafirhanesi",
       "telefon": null,
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -43754,6 +43779,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "www.balcovatermal.com"
+        },
+        {
+          "url": "https://balcovatermal.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "balcovatermal.com"
         }
       ],
       "ocr_eksik": [],
