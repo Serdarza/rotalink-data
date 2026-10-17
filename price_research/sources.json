@@ -19568,6 +19568,12 @@
           "alan_adi": "safranbolukmluygulamaoteli.meb.gov.tr",
           "baslik": "Uygulama Oteli Konaklama Ücretlerimiz",
           "tarih": "Güncelleme 23.03.2026"
+        },
+        {
+          "url": "https://safranbolukmluygulamaoteli.meb.gov.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "safranbolukmluygulamaoteli.meb.gov.tr"
         }
       ],
       "ocr_eksik": [],
@@ -19618,7 +19624,7 @@
       "isim": "Karabük Üniversitesi Üniversite Evi",
       "kurum": "Üniversite Uygulama Konukevi",
       "telefon": "03704188200",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -19626,6 +19632,12 @@
           "url": "https://universiteevi.karabuk.edu.tr/icerikGoster.aspx?K=S&id=3&BA=index.aspx",
           "tur": "web",
           "rol": "sayfa",
+          "alan_adi": "universiteevi.karabuk.edu.tr"
+        },
+        {
+          "url": "https://universiteevi.karabuk.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
           "alan_adi": "universiteevi.karabuk.edu.tr"
         }
       ],
@@ -29280,6 +29292,18 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "nevsehirogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://nevsehirogretmenevi.com.tr/",
+          "tur": "web",
+          "rol": "ana_sayfa",
+          "alan_adi": "nevsehirogretmenevi.com.tr"
+        },
+        {
+          "url": "https://nevsehirogretmenevi.com.tr/fiyatlar",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "nevsehirogretmenevi.com.tr"
         }
       ],
       "ocr_eksik": [],
@@ -29334,6 +29358,12 @@
           "alan_adi": "www.nevsehir.pol.tr",
           "baslik": "Nevşehir Polisevi 19.01.2026 Tarihi İtibariyle Konaklama Fiyat Listesi",
           "tarih": "EGM'nin 28.07.2026 tarihli yazısı ve 31.07.2026 tarihli Olur ile 03.08.2026 itibarıyla uygulanır"
+        },
+        {
+          "url": "https://nevsehir.pol.tr/polis-evi",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "nevsehir.pol.tr"
         }
       ],
       "ocr_eksik": [],
@@ -34928,10 +34958,23 @@
       "isim": "Tokat Öğretmenevi Gülbaharhatun",
       "kurum": "Öğretmenevi",
       "telefon": "0356 214 27 05",
-      "durum": "C",
-      "aktif": false,
+      "durum": "B",
+      "aktif": true,
       "kontrol_yontemi": "pasif",
-      "kaynaklar": [],
+      "kaynaklar": [
+        {
+          "url": "https://www.tokatogretmenevi.com.tr/",
+          "tur": "web",
+          "rol": "ana_sayfa",
+          "alan_adi": "www.tokatogretmenevi.com.tr"
+        },
+        {
+          "url": "https://www.tokatogretmenevi.com.tr/konaklama-hizmetleri",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "www.tokatogretmenevi.com.tr"
+        }
+      ],
       "ocr_eksik": [],
       "neden": "MEB E-Destek listesinde yok; resmî kaynakta konaklama fiyatı bulunamadı.",
       "son_kontrol": null,
@@ -35033,6 +35076,12 @@
           "url": "https://zileogretmenevi.meb.k12.tr/",
           "tur": "web",
           "rol": "ana_sayfa",
+          "alan_adi": "zileogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://zileogretmenevi.meb.k12.tr/tema/icerikler/",
+          "tur": "web",
+          "rol": "fiyat",
           "alan_adi": "zileogretmenevi.meb.k12.tr"
         }
       ],
@@ -45428,6 +45477,33 @@
           "alan_adi": "dhmi.gov.tr",
           "baslik": "DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)",
           "tarih": "PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”"
+        }
+      ],
+      "ocr_eksik": [],
+      "neden": null,
+      "son_kontrol": null,
+      "son_basarili_kontrol": null,
+      "son_sonuc": null
+    },
+    {
+      "il": "Karaman",
+      "isim": "Ermenek Konukevi",
+      "kurum": "Kamu Misafirhanesi",
+      "durum": "B",
+      "aktif": true,
+      "kontrol_yontemi": "rakam_dogrulama",
+      "kaynaklar": [
+        {
+          "url": "https://ermenekotel.com/",
+          "tur": "web",
+          "rol": "ana_sayfa",
+          "alan_adi": "ermenekotel.com"
+        },
+        {
+          "url": "https://www.ermenekturkuaz.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "www.ermenekturkuaz.com"
         }
       ],
       "ocr_eksik": [],

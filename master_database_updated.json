@@ -42241,6 +42241,15 @@
       "telefon": "(0266) 718 66 67",
       "latitude": 40.353707,
       "longitude": 27.971405
+    },
+    {
+      "isim": "Ermenek Konukevi",
+      "tip": "Konukevi",
+      "il": "Karaman",
+      "adres": "Seyran Mah. Hastane Sok. No:1, Ermenek / Karaman",
+      "telefon": "0338 716 34 46",
+      "latitude": 36.633949,
+      "longitude": 32.906778
     }
   ],
   "sosyal": [
