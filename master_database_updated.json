@@ -42295,6 +42295,15 @@
       "telefon": "",
       "latitude": 40.8438,
       "longitude": 31.1565
+    },
+    {
+      "isim": "İstanbul Üniversitesi Sosyal Tesisleri Baltalimanı",
+      "tip": "Üniversite Sosyal Tesisi",
+      "il": "İstanbul",
+      "adres": "Baltalimanı, Sarıyer/İstanbul",
+      "telefon": "",
+      "latitude": 41.1655,
+      "longitude": 29.055
     }
   ],
   "sosyal": [

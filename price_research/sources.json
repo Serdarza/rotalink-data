@@ -18519,6 +18519,12 @@
           "alan_adi": "www.isparta.pol.tr",
           "baslik": "Isparta Polis Evi – konaklama fiyat tablosu",
           "tarih": "Tabloda yıl/geçerlilik tarihi yok"
+        },
+        {
+          "url": "https://isparta.pol.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "isparta.pol.tr"
         }
       ],
       "ocr_eksik": [],
@@ -28825,6 +28831,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "konukevimaun.alparslan.edu.tr"
+        },
+        {
+          "url": "https://maun.alparslan.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "maun.alparslan.edu.tr"
         }
       ],
       "ocr_eksik": [],
@@ -42549,6 +42561,12 @@
           "alan_adi": "itusosyaltesisleri.com",
           "baslik": "İTÜ Maçka Oteli Fiyat Listesi",
           "tarih": "tarih belirtilmemiş"
+        },
+        {
+          "url": "https://itusosyaltesisleri.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "itusosyaltesisleri.com"
         }
       ],
       "ocr_eksik": [],
