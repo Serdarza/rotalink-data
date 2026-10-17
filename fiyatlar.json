@@ -50441,6 +50441,483 @@
         ],
         "dogrulama": "kullanici_bildirimi"
       }
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Uludere Öğretmenevi",
+      "gecerlilik": "2 tek yataklı oda; kişi/oda doluluk tarifesi",
+      "kaynak": "https://mebogretmenevi.com/",
+      "fiyat_sivil": "900 – 1.000 TL",
+      "fiyat_kamu_personeli": "750 – 800 TL",
+      "fiyat_kurum_personeli": "550 – 600 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "1 yetişkin (tek kişi)",
+                "fiyatlar": {
+                  "meb": 550,
+                  "kamu": 750,
+                  "sivil": 900
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2 yetişkin (iki kişi)",
+                "fiyatlar": {
+                  "meb": 600,
+                  "kamu": 800,
+                  "sivil": 1000
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak İdil Öğretmenevi",
+      "gecerlilik": "Standart oda (2 yetişkin, 2 ayrı tek yatak)",
+      "kaynak": "https://mebogretmenevi.com/",
+      "fiyat_kurum_personeli": "1.300 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB personeli"
+          }
+        ],
+        "notlar": [
+          "Listede yalnızca MEB tarifesi verilmiştir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Standart oda (2 yetişkin)",
+                "fiyatlar": {
+                  "meb": 1300
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Şırnak Polisevi",
+      "gecerlilik": "Gecelik konaklama",
+      "fiyat_sivil": "454 TL",
+      "fiyat_kamu_personeli": "454 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "konaklama": 454
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Güçlükonak Öğretmenevi ve ASO Müdürlüğü",
+      "gecerlilik": "Standart oda, paylaşımsız (1 yetişkin)",
+      "kaynak": "https://mebogretmenevi.com/",
+      "fiyat_sivil": "800 TL",
+      "fiyat_kamu_personeli": "600 TL",
+      "fiyat_kurum_personeli": "500 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Standart oda (2 tek yatak, paylaşımsız)",
+                "fiyatlar": {
+                  "meb": 500,
+                  "kamu": 600,
+                  "sivil": 800
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Şırnak",
+      "isim": "Cizre Öğretmenevi",
+      "gecerlilik": "Gecelik konaklama",
+      "fiyat_sivil": "1.500 TL",
+      "fiyat_kamu_personeli": "1.300 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "kamu": 1300,
+                  "sivil": 1500
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Niğde",
+      "isim": "Ulukışla Öğretmenevi",
+      "gecerlilik": "Oda tipi bazlı; üye fiyatına kahvaltı (140 TL) dahil toplamlar",
+      "fiyat_sivil": "750 – 800 TL",
+      "fiyat_kamu_personeli": "650 – 680 TL",
+      "fiyat_kurum_personeli": "515 – 540 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "MEB/üye sütununda kahvaltı dahil toplam gösterilmiştir (540 / 515 TL)."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik banyolu (106–107)",
+                "fiyatlar": {
+                  "meb": 540,
+                  "kamu": 680,
+                  "sivil": 800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişilik banyosuz (108)",
+                "fiyatlar": {
+                  "meb": 515,
+                  "kamu": 650,
+                  "sivil": 750
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik banyolu (101–102–104)",
+                "fiyatlar": {
+                  "meb": 540,
+                  "kamu": 680,
+                  "sivil": 800
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "İki kişilik banyosuz (112–113)",
+                "fiyatlar": {
+                  "meb": 515,
+                  "kamu": 650,
+                  "sivil": 750
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Üç kişilik banyosuz (110)",
+                "fiyatlar": {
+                  "meb": 515,
+                  "kamu": 650,
+                  "sivil": 750
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Niğde",
+      "isim": "Niğde Polisevi",
+      "gecerlilik": "Niğde Polisevi konaklama tarifesi",
+      "fiyat_sivil": "1.212 – 4.848 TL",
+      "fiyat_kamu_personeli": "606 – 2.424 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "mensup",
+            "ad": "Mensup / mensup yakını / kamu personeli"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı oda",
+                "fiyatlar": {
+                  "mensup": 606,
+                  "onayli": 1212
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Müstakil tek yataklı oda",
+                "fiyatlar": {
+                  "mensup": 757,
+                  "onayli": 1515
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik (double) oda",
+                "fiyatlar": {
+                  "mensup": 1212,
+                  "onayli": 2424
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Aile odası (double + 1 yatak)",
+                "fiyatlar": {
+                  "mensup": 1818,
+                  "onayli": 3636
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Aile odası (double + 3 yatak)",
+                "fiyatlar": {
+                  "mensup": 2424,
+                  "onayli": 4848
+                },
+                "kisi": 4
+              },
+              {
+                "ad": "İki kişilik suit (yatak odası + salon)",
+                "fiyatlar": {
+                  "mensup": 1515,
+                  "onayli": 3030
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Niğde",
+      "isim": "Çiftlik Öğretmenevi",
+      "gecerlilik": "Günlük konaklama listesi",
+      "kaynak": "https://ciftlikaso.meb.k12.tr/",
+      "fiyat_sivil": "700 – 900 TL",
+      "fiyat_kamu_personeli": "600 – 800 TL",
+      "fiyat_kurum_personeli": "350 – 550 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "2 kişilik oda",
+                "fiyatlar": {
+                  "meb": 350,
+                  "kamu": 600,
+                  "sivil": 700
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "meb": 550,
+                  "kamu": 800,
+                  "sivil": 900
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Aile odası",
+                "fiyatlar": {
+                  "meb": 550,
+                  "kamu": 800,
+                  "sivil": 900
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Niğde",
+      "isim": "Altunhisar Öğretmenevi",
+      "gecerlilik": "2026 konaklama (27.09.2026 güncelleme)",
+      "kaynak": "https://ogretmenevine.com/",
+      "fiyat_sivil": "800 – 2.400 TL",
+      "fiyat_kamu_personeli": "600 – 1.800 TL",
+      "fiyat_kurum_personeli": "400 – 1.200 TL",
+      "tarife": {
+        "donem": "2026",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "Çiftlerden evlilik cüzdanı istenir.",
+          "0–3 yaş ücretsiz; 3–6 yaş %50; 7+ tam ücret."
+        ],
+        "tablolar": [
+          {
+            "baslik": "Kişi başı",
+            "satirlar": [
+              {
+                "ad": "2 kişilik standart",
+                "fiyatlar": {
+                  "meb": 400,
+                  "kamu": 600,
+                  "sivil": 800
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "3 kişilik standart",
+                "fiyatlar": {
+                  "meb": 400,
+                  "kamu": 600,
+                  "sivil": 800
+                },
+                "birim": "kişi"
+              }
+            ]
+          },
+          {
+            "baslik": "Oda fiyatı",
+            "satirlar": [
+              {
+                "ad": "2 kişilik standart",
+                "fiyatlar": {
+                  "meb": 800,
+                  "kamu": 1200,
+                  "sivil": 1600
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "3 kişilik standart",
+                "fiyatlar": {
+                  "meb": 1200,
+                  "kamu": 1800,
+                  "sivil": 2400
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
     }
   ]
 }

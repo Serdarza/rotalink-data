@@ -29495,6 +29495,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "altunhisarogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://ogretmenevine.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "ogretmenevine.com"
         }
       ],
       "ocr_eksik": [],
@@ -45127,7 +45133,7 @@
       "isim": "Güçlükonak Öğretmenevi ve ASO Müdürlüğü",
       "kurum": "Öğretmenevi",
       "telefon": "0486 681 30 06",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -45136,6 +45142,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "guclukonakogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://mebogretmenevi.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "mebogretmenevi.com"
         }
       ],
       "ocr_eksik": [],
@@ -45414,7 +45426,7 @@
       "isim": "Şırnak Uludere Öğretmenevi",
       "kurum": "Öğretmenevi",
       "telefon": "(0486) 351 22 23",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -45423,6 +45435,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "uludereogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://mebogretmenevi.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "mebogretmenevi.com"
         }
       ],
       "ocr_eksik": [],
@@ -45466,7 +45484,7 @@
       "isim": "Şırnak İdil Öğretmenevi",
       "kurum": "Öğretmenevi",
       "telefon": "(0486) 551 21 94",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -45475,6 +45493,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "idilogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://mebogretmenevi.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "mebogretmenevi.com"
         }
       ],
       "ocr_eksik": [],
