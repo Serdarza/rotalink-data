@@ -48567,6 +48567,70 @@
         ],
         "dogrulama": "resmi_kaynak"
       }
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Andırın Şehit Hakan Taşgıt Öğretmenevi ve Akşam Sanat Okulu",
+      "kaynak": "https://andirinogretmenevi.meb.k12.tr/",
+      "gecerlilik": "Resmî öğretmenevi fiyat listesi (kahvaltı ve KDV dahil)",
+      "fiyat_sivil": "1.500 – 2.600 TL",
+      "fiyat_kamu_personeli": "1.250 – 2.000 TL",
+      "fiyat_kurum_personeli": "900 – 1.300 TL",
+      "tarife": {
+        "dogrulama": "kullanici_bildirimi",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil / Misafir"
+          }
+        ],
+        "notlar": [
+          "Kahvaltı ve KDV fiyatlara dahildir.",
+          "Konaklama ücreti girişte peşin alınır.",
+          "0–6 yaş ücretsizdir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı konaklama",
+                "fiyatlar": {
+                  "meb": 900,
+                  "kamu": 1250,
+                  "sivil": 1500
+                },
+                "birim": "kişi başı / gece"
+              },
+              {
+                "ad": "Tek kişi konaklama",
+                "fiyatlar": {
+                  "meb": 1000,
+                  "kamu": 1500,
+                  "sivil": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "meb": 1300,
+                  "kamu": 2000,
+                  "sivil": 2600
+                },
+                "birim": "kişi başı / gece"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

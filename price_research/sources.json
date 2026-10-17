@@ -19026,10 +19026,10 @@
     },
     {
       "il": "Kahramanmaraş",
-      "isim": "Andırın Öğretmenevi",
+      "isim": "Andırın Şehit Hakan Taşgıt Öğretmenevi ve Akşam Sanat Okulu",
       "kurum": "Öğretmenevi",
       "telefon": "0344 561 25 48",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -19043,6 +19043,12 @@
           "url": "https://andirinogretmenevi.meb.k12.tr/",
           "tur": "web",
           "rol": "ana_sayfa",
+          "alan_adi": "andirinogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://andirinogretmenevi.meb.k12.tr/icerikler/",
+          "tur": "web",
+          "rol": "fiyat",
           "alan_adi": "andirinogretmenevi.meb.k12.tr"
         }
       ],
