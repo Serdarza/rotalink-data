@@ -42934,6 +42934,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "bayindirogrevi.meb.k12.tr"
+        },
+        {
+          "url": "https://bayindirogretmenevi.meb.k12.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "bayindirogretmenevi.meb.k12.tr"
         }
       ],
       "ocr_eksik": [],
@@ -43692,6 +43698,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "odemisogretmeneviaso.meb.k12.tr"
+        },
+        {
+          "url": "https://odemisogretmenevi.meb.k12.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "odemisogretmenevi.meb.k12.tr"
         }
       ],
       "ocr_eksik": [],
@@ -45697,6 +45709,27 @@
           "tur": "web",
           "rol": "fiyat",
           "alan_adi": "tsetarsusashabikehfmtal.meb.k12.tr"
+        }
+      ],
+      "ocr_eksik": [],
+      "neden": null,
+      "son_kontrol": null,
+      "son_basarili_kontrol": null,
+      "son_sonuc": null
+    },
+    {
+      "il": "İzmir",
+      "isim": "Doç. Dr. İbrahim Üzümcü Öğrenci Yurdu Konukevi (Buca Misafirhanesi)",
+      "kurum": "Kamu Misafirhanesi",
+      "durum": "B",
+      "aktif": true,
+      "kontrol_yontemi": "rakam_dogrulama",
+      "kaynaklar": [
+        {
+          "url": "https://sks.deu.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "sks.deu.edu.tr"
         }
       ],
       "ocr_eksik": [],

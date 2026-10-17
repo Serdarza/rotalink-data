@@ -53454,6 +53454,249 @@
         ],
         "dogrulama": "resmi_kaynak"
       }
+    },
+    {
+      "il": "İzmir",
+      "isim": "Ödemiş Öğretmenevi",
+      "gecerlilik": "Kahvaltılı yatak fiyatları; ana bina devamlı öğrenci tarifesi ayrı",
+      "kaynak": "https://odemisogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "450 – 1.800 TL",
+      "fiyat_kamu_personeli": "450 – 1.500 TL",
+      "fiyat_kurum_personeli": "450 – 900 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "MEB/öğretmen fiyatları %50 indirimli listedir."
+        ],
+        "tablolar": [
+          {
+            "baslik": "Kahvaltılı konaklama (yatak)",
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 900,
+                  "kamu": 1500,
+                  "sivil": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik paylaşımlı oda",
+                "fiyatlar": {
+                  "meb": 900,
+                  "kamu": 1100,
+                  "sivil": 1200
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Üç ve üzeri paylaşımlı oda",
+                "fiyatlar": {
+                  "meb": 900,
+                  "kamu": 1000,
+                  "sivil": 1100
+                },
+                "birim": "kişi"
+              }
+            ]
+          },
+          {
+            "baslik": "Ana bina (kahvaltısız, öğrenci/devamlı)",
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda yatak",
+                "fiyatlar": {
+                  "meb": 450,
+                  "kamu": 450,
+                  "sivil": 450
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "İzmir",
+      "isim": "Bornova İzmir Uygulama Oteli",
+      "gecerlilik": "Kişi başı konaklama (Ege Üniversitesi yerleşkesi)",
+      "fiyat_sivil": "2.200 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Kişi başı",
+                "fiyatlar": {
+                  "konaklama": 2200
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "İzmir",
+      "isim": "Bayındır Öğretmenevi",
+      "gecerlilik": "Yatak fiyatı; kahvaltı dahil değil",
+      "kaynak": "https://bayindirogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "1.100 TL",
+      "fiyat_kamu_personeli": "1.050 TL",
+      "fiyat_kurum_personeli": "700 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "0–3 yaş ücretsiz; 4–6 yaş yarı ücret. Otopark mevcuttur."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi (yatak)",
+                "fiyatlar": {
+                  "meb": 700,
+                  "kamu": 1050,
+                  "sivil": 1100
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "İzmir",
+      "isim": "Doç. Dr. İbrahim Üzümcü Öğrenci Yurdu Konukevi (Buca Misafirhanesi)",
+      "gecerlilik": "Günlük oda ücreti; 0–6 yaş ücretsiz",
+      "kaynak": "https://sks.deu.edu.tr/",
+      "fiyat_sivil": "400 – 1.900 TL",
+      "fiyat_kamu_personeli": "350 – 1.650 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "kamu": 800,
+                  "diger": 1050
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2 kişilik oda",
+                "fiyatlar": {
+                  "kamu": 1350,
+                  "diger": 1700
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "3 kişilik oda",
+                "fiyatlar": {
+                  "kamu": 1650,
+                  "diger": 1900
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "7–12 yaş çocuk",
+                "fiyatlar": {
+                  "kamu": 350,
+                  "diger": 400
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "İlksan Kartal Konukevi",
+      "gecerlilik": "Tek ve 2–3 kişilik oda",
+      "fiyat_sivil": "1.750 – 1.950 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 1950
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2–3 kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 1750
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
     }
   ]
 }
