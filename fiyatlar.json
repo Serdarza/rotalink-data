@@ -1223,134 +1223,63 @@
     {
       "il": "Ankara",
       "isim": "DHMİ Havacılık Akademisi Ankara Esenboğa Eğitim Tesisi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -1510,134 +1439,63 @@
     {
       "il": "Antalya",
       "isim": "Antalya Havalimanı Misafirhanesi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -1782,134 +1640,63 @@
     {
       "il": "Balıkesir",
       "isim": "Balıkesir Koca Seyit Havalimanı Misafirhanesi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -3171,267 +2958,125 @@
     {
       "il": "Erzincan",
       "isim": "DHMİ Havacılık Akademisi Erzincan Eğitim Tesisi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
       "il": "Gaziantep",
       "isim": "Gaziantep Havalimanı Misafirhanesi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -4459,134 +4104,63 @@
     {
       "il": "İstanbul",
       "isim": "DHMİ Havacılık Akademisi İstanbul Eğitim Tesisi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -6451,134 +6025,63 @@
     {
       "il": "Kayseri",
       "isim": "Kayseri Havalimanı Misafirhanesi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -7110,134 +6613,63 @@
     {
       "il": "Mersin",
       "isim": "DHMİ Çukurova Uluslararası Havalimanı Misafirhanesi",
-      "fiyat_sivil": "1.176 TL",
-      "fiyat_kamu_personeli": "784 TL",
-      "fiyat_kurum_personeli": "784 TL",
-      "kaynak": "https://dhmi.gov.tr/Lists/IdariveSosyalslerMudurlugu/Attachments/37/Misafirhane%20%C3%9Ccret%20Tarifesi%202026.pdf",
-      "gecerlilik": "2026 yılı tarifesi; Kaynak: resmî PDF “DHMİ Misafirhane Ücret Tarifesi 2026 (Destek Hizmetleri Dairesi Başkanlığı)” (PDF değiştirilme 15.04.2026; “2026 yılında uygulanacak ücretler”); son kontrol 27.09.2026",
+      "gecerlilik": "DHMİ havalimanı / akademi misafirhane tarifesi",
+      "fiyat_sivil": "490 – 742 TL",
+      "fiyat_kamu_personeli": "196 – 420 TL",
       "tarife": {
-        "baslik": "DHMİ Misafirhane ve Eğitim Tesisleri 2026 Ücret Tarifesi",
-        "donem": "2026 yılı",
-        "birim": "kişi başı yatak ücreti / gece",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
-            "id": "kamu",
-            "ad": "Kamu Kurumu Personeli veya Emeklisi*"
+            "id": "gecici_10",
+            "ad": "Geçici görevli kamu (ilk 10 gün)"
+          },
+          {
+            "id": "gecici_11",
+            "ad": "Geçici görevli kamu (11+ gün)"
+          },
+          {
+            "id": "diger_sebep",
+            "ad": "Diğer sebeplerle gelenler"
           },
           {
             "id": "diger",
-            "ad": "Kamu Personeli veya Emeklisi Dışındakiler"
+            "ad": "Diğer misafirler"
           }
         ],
         "tablolar": [
           {
-            "baslik": "Misafirhaneler ve Eğitim Tesisleri",
-            "birim": "kişi başı yatak ücreti (TL)",
             "satirlar": [
               {
-                "ad": "Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Geçici görevli kamu (1–10. gün)",
                 "fiyatlar": {
-                  "kamu": 784,
-                  "diger": 1176
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Kuruluşumuz ve Diğer Kurum Kuruluşların Geçici Görevli Personeli**",
-            "birim": "kişi başı (TL)",
-            "aciklama": "Görev emrini ibraz etmek kaydıyla (geçici görev, kurs, eğitim, denetim vb.).",
-            "kategoriler": [
-              {
-                "id": "ilk10",
-                "ad": "Kamu Personeli İlk 10 Gün"
+                  "gecici_10": 420
+                },
+                "birim": "gece"
               },
               {
-                "id": "sonra10",
-                "ad": "Kamu Personeli 10 Günden Sonra"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Ek göstergesi 8000 ve daha yüksek olan kadrolarda bulunanlar",
+                "ad": "Geçici görevli kamu (11+ gün)",
                 "fiyatlar": {
-                  "ilk10": 1424,
-                  "sonra10": 445
-                }
+                  "gecici_11": 196
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 6400 (dahil) - 8000 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer sebeplerle gelenler",
                 "fiyatlar": {
-                  "ilk10": 1408,
-                  "sonra10": 440
-                }
+                  "diger_sebep": 490
+                },
+                "birim": "gece"
               },
               {
-                "ad": "Ek göstergesi 3600 (dahil) - 6400 (hariç) olan kadrolarda bulunanlar",
+                "ad": "Diğer misafirler",
                 "fiyatlar": {
-                  "ilk10": 1392,
-                  "sonra10": 435
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 1-4 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1376,
-                  "sonra10": 430
-                }
-              },
-              {
-                "ad": "Aylık/kadro derecesi 5-15 olanlar",
-                "fiyatlar": {
-                  "ilk10": 1360,
-                  "sonra10": 425
-                }
-              },
-              {
-                "ad": "II Sayılı Cetvele Tabi Personel",
-                "fiyatlar": {
-                  "ilk10": 1420.8,
-                  "sonra10": 444
-                }
-              },
-              {
-                "ad": "Denetim Görevlisi",
-                "fiyatlar": {
-                  "ilk10": 2198.3
-                }
+                  "diger": 742
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Tüm ücretler kişi başı ücrettir.",
-          "Paylaşımlı odalarda (birden fazla kişi kapasiteli) tek kalmak isteyen misafirler, misafirhanenin bağlı olduğu birimin onayıyla ve yeterli müsaitlik bulunması halinde oda ücretinin tamamını öder: Oda Ücreti = Kişi başı ücret x kapasite (bir kişilik oda 1, iki kişilik 2, üç kişilik 3).",
-          "Müsaitlik durumuna göre Kuruluş personeli veya emeklisi dışındakiler misafirhanelerden yararlandırılır.",
-          "Çıkış saatinde çıkış yapılmadığı zaman sonraki günün ücreti alınır."
-        ],
-        "giris_saati": "14:00",
-        "cikis_saati": "12:00",
-        "dahil": [
-          "KDV",
-          "Konaklama Vergisi"
-        ],
-        "indirimler": [
-          "1 Ocak 2023 tarihinden sonra doğan çocuklardan konaklama bedeli alınmaz.",
-          "1 Ocak 2020 ile 1 Ocak 2023 (bu tarihler dâhil) arasında doğan çocuklardan konaklama bedelinin yarısı alınır."
-        ],
-        "ek_ucretler": [
-          "Ek yatak istenmesi halinde ayrıca ücretlendirilir.",
-          "Süit oda olan yerlerde süit odalar VIP konuklara ayrılmıştır; Havalimanı Başmüdürlüğünün/Müdürlüğünün onayıyla tahsis edilir, süit oda ücreti 1.568,00 ₺.",
-          "Çamaşır makinesi jeton ücreti (deterjan hariç) 50,00 ₺; bir saatlik ütü ücreti 50,00 ₺."
-        ],
-        "notlar": [
-          "* Personelin kendisi, eşi, çocuğu (25 yaşını tamamlamamış), annesi, babası, büyükannesi, büyükbabası, torunu (25 yaşını tamamlamamış), eşin anne ve babası; TBMM üyeleri ve bu üyeliği sona erenler ile dışarıdan atanan bakanlar (ve aynı yakınları); şehitlerin eş, anne, baba ve çocukları ile gaziler, harp ve vazife malulleri ve bunların eş, anne, baba ve çocukları.",
-          "** Personelden ve diğer kamu kurum ve kuruluş personelinden geçici görevli (geçici görevli, kurs, eğitim, denetim vb.) olarak gelenler görev emrini ibraz etmek kaydıyla yararlandırılır.",
-          "Esaslarda belirtilmeyen konularda tebliğ/yönergelerdeki hususlar geçerlidir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -16533,24 +15965,21 @@
     {
       "il": "Gaziantep",
       "isim": "Gaziantep Öğretmenevi ve Akşam Sanat Okulu",
+      "gecerlilik": "2026 fiyat listesi",
+      "kaynak": "https://gaziantepturkogretmenevi.meb.k12.tr/",
       "fiyat_sivil": "2.300 – 8.000 TL",
       "fiyat_kamu_personeli": "1.850 – 6.800 TL",
       "fiyat_kurum_personeli": "1.400 – 5.600 TL",
-      "kaynak": "https://gaziantepogretmenevi.meb.k12.tr/meb_iys_dosyalar/27/98/776724/resimler/2026_08/95a25a505a87d7736b080ae937848cdc.jpg",
-      "gecerlilik": "3 Ağustos (2026) itibariyle tarifesi; Kaynak: resmî sitedeki tarife görseli “Gaziantep Öğretmenevi 2026 Yılı Fiyat Listesi (3 Ağustos İtibariyle Geçerli Konaklama Fiyat Listemiz)” (Yayın 05.08.2026 – Güncelleme 05.08.2026); son kontrol 27.09.2026",
       "tarife": {
-        "baslik": "2026 Yılı Fiyat Listesi",
-        "donem": "3 Ağustos (2026) itibariyle",
-        "birim": "gecelik",
-        "dogrulama": "resmi_kaynak",
+        "donem": "2026",
         "kategoriler": [
           {
-            "id": "ogretmen",
-            "ad": "Öğretmen"
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
           },
           {
             "id": "kamu",
-            "ad": "Kamu"
+            "ad": "Kamu personeli"
           },
           {
             "id": "sivil",
@@ -16561,68 +15990,72 @@
           {
             "satirlar": [
               {
-                "ad": "Paylaşımlı kişi başı",
-                "birim": "kişi başı",
+                "ad": "Paylaşımlı (kişi başı)",
                 "fiyatlar": {
-                  "ogretmen": 1400,
+                  "meb": 1400,
                   "kamu": 1850,
                   "sivil": 2300
-                }
+                },
+                "birim": "kişi"
               },
               {
-                "ad": "Double (tek kişi)",
-                "kisi": 1,
+                "ad": "Double – tek kişi",
                 "fiyatlar": {
-                  "ogretmen": 1850,
+                  "meb": 1850,
                   "kamu": 2540,
                   "sivil": 3200
-                }
+                },
+                "kisi": 1
               },
               {
-                "ad": "Double (çift kişi)",
-                "kisi": 2,
+                "ad": "Double – çift kişi",
                 "fiyatlar": {
-                  "ogretmen": 2800,
+                  "meb": 2800,
                   "kamu": 3700,
                   "sivil": 4600
-                }
+                },
+                "kisi": 2
               },
               {
-                "ad": "İki kişilik",
+                "ad": "İki kişilik oda",
                 "fiyatlar": {
-                  "ogretmen": 2800,
+                  "meb": 2800,
                   "kamu": 3700,
                   "sivil": 4600
-                }
+                },
+                "kisi": 2
               },
               {
-                "ad": "Üç kişilik",
+                "ad": "Üç kişilik oda",
                 "fiyatlar": {
-                  "ogretmen": 4200,
+                  "meb": 4200,
                   "kamu": 5550,
                   "sivil": 6900
-                }
+                },
+                "kisi": 3
               },
               {
-                "ad": "Aile odası 2+1",
+                "ad": "Aile odası (2+1)",
                 "fiyatlar": {
-                  "ogretmen": 4200,
+                  "meb": 4200,
                   "kamu": 5550,
                   "sivil": 6900
-                }
+                },
+                "kisi": 3
               },
               {
-                "ad": "Suit oda 2+1",
+                "ad": "Suit oda (2+1)",
                 "fiyatlar": {
-                  "ogretmen": 5600,
+                  "meb": 5600,
                   "kamu": 6800,
                   "sivil": 8000
-                }
+                },
+                "kisi": 3
               }
             ]
           }
         ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "resmi_kaynak"
       }
     },
     {
@@ -33868,48 +33301,35 @@
     {
       "il": "Gaziantep",
       "isim": "Gaziantep İl Tarım ve Orman Müdürlüğü Misafirhanesi",
-      "fiyat_kamu_personeli": "867 – 1.224 TL",
-      "kaynak": "https://gaziantep.tarimorman.gov.tr/Link/30/Misafirhane",
-      "gecerlilik": "2026 tarifesi; Kaynak: resmî web sayfası “Misafirhane” (2026 Yılı Fiyat Listesi); son kontrol 27.09.2026",
+      "gecerlilik": "Gecelik konaklama",
+      "fiyat_sivil": "1.250 TL",
+      "fiyat_kamu_personeli": "857 TL",
       "tarife": {
-        "baslik": "2026 Yılı Fiyat Listesi",
-        "donem": "2026",
-        "birim": "günlük",
-        "dogrulama": "resmi_kaynak",
         "kategoriler": [
           {
             "id": "kamu",
-            "ad": "Geçici görevli olmayan kamu görevlileri, eşleri ile alt ve üst soyları"
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
           }
         ],
         "tablolar": [
           {
             "satirlar": [
               {
-                "ad": "İki Kişilik Odalarda Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
+                "ad": "Konaklama",
                 "fiyatlar": {
-                  "kamu": 867
-                }
-              },
-              {
-                "ad": "Tek Kişilik Odalarda Kişi Başı Yatak Ücreti",
-                "birim": "kişi başı",
-                "fiyatlar": {
-                  "kamu": 1224
-                }
+                  "kamu": 857,
+                  "sivil": 1250
+                },
+                "birim": "gece"
               }
             ]
           }
         ],
-        "kurallar": [
-          "Misafirhaneye sadece kamu personeli kabul edilmektedir; personel kimlik kartı ibrazı zorunludur."
-        ],
-        "cikis_saati": "10:00",
-        "dahil": [
-          "%2 konaklama vergisi fiyatlara dahildir."
-        ],
-        "guncelleme": "2026-09-27"
+        "dogrulama": "kullanici_bildirimi"
       }
     },
     {
@@ -51422,6 +50842,492 @@
           }
         ],
         "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sakarya Söğütlü Öğretmenevi ve Akşama Sanat Okulu",
+      "gecerlilik": "2026 konaklama ücretleri",
+      "fiyat_sivil": "1.000 – 1.500 TL",
+      "fiyat_kamu_personeli": "750 – 1.250 TL",
+      "fiyat_kurum_personeli": "650 – 1.000 TL",
+      "tarife": {
+        "donem": "2026",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "6 yaş (72 ay) üzeri tam ücret; 3–6 yaş 300 TL; 3 yaş altı ayrı yatak yoksa ücretsiz."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Double (çift kişilik tek yatak; 2. kişi +300 TL)",
+                "fiyatlar": {
+                  "meb": 1000,
+                  "kamu": 1250,
+                  "sivil": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Twin (iki yatak, tek kişi)",
+                "fiyatlar": {
+                  "meb": 650,
+                  "kamu": 750,
+                  "sivil": 1000
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Malatya",
+      "isim": "Malatya Arapgir Şehit Hüsnü Bilgiç Öğretmenevi",
+      "gecerlilik": "2025/2026 konaklama tarifesi",
+      "fiyat_sivil": "900 – 1.500 TL",
+      "fiyat_kamu_personeli": "750 – 1.000 TL",
+      "fiyat_kurum_personeli": "450 – 900 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı konaklama",
+                "fiyatlar": {
+                  "meb": 450,
+                  "kamu": 750,
+                  "sivil": 900
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Paylaşımlı tek konaklama",
+                "fiyatlar": {
+                  "meb": 750,
+                  "kamu": 1000,
+                  "sivil": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda – iki kişi",
+                "fiyatlar": {
+                  "meb": 650,
+                  "kamu": 750,
+                  "sivil": 1200
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Suit oda – tek konaklama",
+                "fiyatlar": {
+                  "meb": 900,
+                  "kamu": 1000,
+                  "sivil": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "meb": 650,
+                  "kamu": 900,
+                  "sivil": 1200
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Beşiktaş Öğretmenler Lokali ve Öğretmenevi",
+      "gecerlilik": "Tek / çift kişi konaklama",
+      "fiyat_sivil": "2.800 – 3.200 TL",
+      "fiyat_kamu_personeli": "2.500 – 3.200 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi",
+                "fiyatlar": {
+                  "kamu": 2500,
+                  "sivil": 2800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişi",
+                "fiyatlar": {
+                  "kamu": 3200,
+                  "sivil": 3200
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Mersin",
+      "isim": "Tarsus Ashabi Kehf Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "gecerlilik": "Oda fiyatları; açık büfe kahvaltı dahil",
+      "kaynak": "https://tsetarsusashabikehfmtal.meb.k12.tr/",
+      "fiyat_sivil": "2.000 – 4.500 TL",
+      "fiyat_kamu_personeli": "2.000 – 4.500 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 2000
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 3000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 3500
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Dört kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 4000
+                },
+                "kisi": 4
+              },
+              {
+                "ad": "Beş kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 4500
+                },
+                "kisi": 5
+              }
+            ]
+          },
+          {
+            "baslik": "Ek hizmetler",
+            "satirlar": [
+              {
+                "ad": "Açık büfe kahvaltı (harici)",
+                "fiyatlar": {
+                  "konaklama": 300
+                }
+              },
+              {
+                "ad": "Öğle veya akşam yemeği",
+                "fiyatlar": {
+                  "konaklama": 300
+                }
+              },
+              {
+                "ad": "Konferans salonu yarım gün",
+                "fiyatlar": {
+                  "konaklama": 1500
+                }
+              },
+              {
+                "ad": "Konferans salonu tam gün",
+                "fiyatlar": {
+                  "konaklama": 3000
+                }
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Mersin",
+      "isim": "Mersin Üniversitesi Konukevi",
+      "gecerlilik": "02.02.2026 – SKS yürütme kurulu; KDV dahil, kahvaltı dahil",
+      "fiyat_sivil": "1.800 – 5.000 TL",
+      "fiyat_kamu_personeli": "1.500 – 50.000 TL",
+      "tarife": {
+        "donem": "02.02.2026 –",
+        "kategoriler": [
+          {
+            "id": "meu_kamu",
+            "ad": "MEÜ personeli / kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "Ek yatak 1.000 TL; aile ilave çocuk 800 TL; aile ilave yetişkin 1.000 TL."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Çift kişilik oda – tek kişi",
+                "fiyatlar": {
+                  "meu_kamu": 2000,
+                  "sivil": 2600
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik oda – çift kişi (oda)",
+                "fiyatlar": {
+                  "meu_kamu": 3000,
+                  "sivil": 3600
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit – tek kişi",
+                "fiyatlar": {
+                  "meu_kamu": 3500,
+                  "sivil": 4500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit – çift kişi (oda)",
+                "fiyatlar": {
+                  "meu_kamu": 4000,
+                  "sivil": 5000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Aile odası (2+1)",
+                "fiyatlar": {
+                  "meu_kamu": 3000,
+                  "sivil": 4000
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Aylık – MEÜ/kamu çift oda tek kişi",
+                "fiyatlar": {
+                  "meu_kamu": 45000
+                },
+                "birim": "ay"
+              },
+              {
+                "ad": "Aylık – MEÜ/kamu çift oda çift kişi",
+                "fiyatlar": {
+                  "meu_kamu": 50000
+                },
+                "birim": "ay"
+              },
+              {
+                "ad": "Aylık – sivil çift oda tek kişi",
+                "fiyatlar": {
+                  "sivil": 60000
+                },
+                "birim": "ay"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Sezginler MTAL Uygulama Oteli",
+      "gecerlilik": "12.01.2026 – münferit odalar; açık büfe kahvaltı dahil",
+      "kaynak": "https://sezginlermtaluygulamaoteli.com/",
+      "fiyat_sivil": "1.742,50 – 4.500 TL",
+      "fiyat_kamu_personeli": "1.742,50 – 4.500 TL",
+      "tarife": {
+        "donem": "12.01.2026 –",
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "indirimler": [
+          "5–10 oda %5, 10–25 oda %10, 25–45 oda %15 grup indirimi.",
+          "0–6 yaş ücretsiz; 6–13 yaş %50 (1.025 TL)."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 2050
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 3300
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 4500
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "konaklama": 2500
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Sakarya",
+      "isim": "Pamukova Öğretmenevi",
+      "gecerlilik": "Konaklama; kahvaltı yok, KDV dahil",
+      "kaynak": "https://pamukovaogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "1.200 – 2.400 TL",
+      "fiyat_kamu_personeli": "900 – 1.800 TL",
+      "fiyat_kurum_personeli": "600 – 1.200 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "Kahvaltı verilmemektedir; KDV dahildir.",
+          "3–0-5 yaş ücretsiz (ayrı yatak istenirse ücretli)."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama iki kişi",
+                "fiyatlar": {
+                  "meb": 800,
+                  "kamu": 1200,
+                  "sivil": 1600
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek oda (paylaşımsız)",
+                "fiyatlar": {
+                  "meb": 600,
+                  "kamu": 900,
+                  "sivil": 1200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Aile odası (2+1)",
+                "fiyatlar": {
+                  "meb": 1200,
+                  "kamu": 1800,
+                  "sivil": 2400
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Aile odası – tek kişi",
+                "fiyatlar": {
+                  "meb": 700,
+                  "kamu": 1050,
+                  "sivil": 1400
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Aile odası – iki kişi",
+                "fiyatlar": {
+                  "meb": 1000,
+                  "kamu": 1400,
+                  "sivil": 1800
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
       }
     }
   ]

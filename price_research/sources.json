@@ -16112,6 +16112,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "gaziantepogretmenevi.meb.k12.tr"
+        },
+        {
+          "url": "https://gaziantepturkogretmenevi.meb.k12.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "gaziantepturkogretmenevi.meb.k12.tr"
         }
       ],
       "ocr_eksik": [],
@@ -31751,7 +31757,7 @@
       "isim": "Sezginler MTAL Uygulama Oteli",
       "kurum": "Öğretmenevi",
       "telefon": "02642772054",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -31760,6 +31766,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "www.sezginlermtaluygulamaoteli.com"
+        },
+        {
+          "url": "https://sezginlermtaluygulamaoteli.com/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "sezginlermtaluygulamaoteli.com"
         }
       ],
       "ocr_eksik": [],
@@ -45591,6 +45603,27 @@
           "tur": "web",
           "rol": "fiyat",
           "alan_adi": "www.ermenekturkuaz.com"
+        }
+      ],
+      "ocr_eksik": [],
+      "neden": null,
+      "son_kontrol": null,
+      "son_basarili_kontrol": null,
+      "son_sonuc": null
+    },
+    {
+      "il": "Mersin",
+      "isim": "Tarsus Ashabi Kehf Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "kurum": "Kamu Misafirhanesi",
+      "durum": "B",
+      "aktif": true,
+      "kontrol_yontemi": "rakam_dogrulama",
+      "kaynaklar": [
+        {
+          "url": "https://tsetarsusashabikehfmtal.meb.k12.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "tsetarsusashabikehfmtal.meb.k12.tr"
         }
       ],
       "ocr_eksik": [],

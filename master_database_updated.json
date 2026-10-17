@@ -42277,6 +42277,15 @@
       "telefon": "",
       "latitude": 37.0196,
       "longitude": 36.6281
+    },
+    {
+      "isim": "Tarsus Ashabi Kehf Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "tip": "Uygulama Oteli",
+      "il": "Mersin",
+      "adres": "Tarsus / Mersin",
+      "telefon": "0324 614 23 32",
+      "latitude": 36.9176,
+      "longitude": 34.8956
     }
   ],
   "sosyal": [
