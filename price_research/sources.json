@@ -16225,7 +16225,7 @@
       "isim": "Gaziantep Şehit Karayılan Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
       "kurum": "Uygulama Oteli",
       "telefon": "(0342) 425 04 02",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -16240,6 +16240,12 @@
           "tur": "web",
           "rol": "ana_sayfa",
           "alan_adi": "gaziantepaotml.meb.k12.tr"
+        },
+        {
+          "url": "https://erkaradag.workers.dev/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "erkaradag.workers.dev"
         }
       ],
       "ocr_eksik": [],
@@ -17084,10 +17090,17 @@
       "isim": "Gümüşhane Üniversitesi Sosyal Tesisi",
       "kurum": "Üniversite Sosyal Tesisi",
       "telefon": "0456 233 10 56",
-      "durum": "C",
-      "aktif": false,
+      "durum": "B",
+      "aktif": true,
       "kontrol_yontemi": "pasif",
-      "kaynaklar": [],
+      "kaynaklar": [
+        {
+          "url": "https://sosyal-tesisler.gumushane.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "sosyal-tesisler.gumushane.edu.tr"
+        }
+      ],
       "ocr_eksik": [],
       "neden": "Resmî sitede konaklama ücreti bulunamadı (yalnızca üçüncü taraf sitelerde eski fiyatlar var).",
       "son_kontrol": null,
@@ -35983,7 +35996,7 @@
       "isim": "Tunceli Munzur Üniversitesi Misafirhanesi",
       "kurum": "Üniversite Konukevi",
       "telefon": "(0501) 011 12 34",
-      "durum": "C",
+      "durum": "B",
       "aktif": true,
       "kontrol_yontemi": "yeni_tarife_arama",
       "kaynaklar": [
@@ -35992,6 +36005,12 @@
           "tur": "web",
           "rol": "sayfa",
           "alan_adi": "sosyaltesis.munzur.edu.tr"
+        },
+        {
+          "url": "https://www.munzur.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "www.munzur.edu.tr"
         }
       ],
       "ocr_eksik": [],

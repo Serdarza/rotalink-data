@@ -42259,6 +42259,24 @@
       "telefon": "",
       "latitude": 40.9534,
       "longitude": 37.895
+    },
+    {
+      "isim": "Osman Sungur Motel",
+      "tip": "Konukevi",
+      "il": "Denizli",
+      "adres": "Karahayıt, Pamukkale / Denizli",
+      "telefon": "",
+      "latitude": 37.785,
+      "longitude": 29.117
+    },
+    {
+      "isim": "İslahiye Merinos Ali Erdemoğlu Öğretmenevi ve Akşam Sanat Okulu",
+      "tip": "Öğretmenevi",
+      "il": "Gaziantep",
+      "adres": "İslahiye / Gaziantep",
+      "telefon": "",
+      "latitude": 37.0196,
+      "longitude": 36.6281
     }
   ],
   "sosyal": [

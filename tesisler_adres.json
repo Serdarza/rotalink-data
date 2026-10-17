@@ -16402,6 +16402,18 @@
       "isim": "Ordu Orman Fidanlık Müdürlüğü Misafirhanesi",
       "adres": "Ordu / Merkez",
       "ilce": "Altınordu"
+    },
+    {
+      "il": "Denizli",
+      "isim": "Osman Sungur Motel",
+      "adres": "Karahayıt, Pamukkale / Denizli",
+      "ilce": "Pamukkale"
+    },
+    {
+      "il": "Gaziantep",
+      "isim": "İslahiye Merinos Ali Erdemoğlu Öğretmenevi ve Akşam Sanat Okulu",
+      "adres": "İslahiye / Gaziantep",
+      "ilce": "İslahiye"
     }
   ]
 }
