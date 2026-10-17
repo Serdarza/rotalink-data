@@ -50847,7 +50847,7 @@
     {
       "il": "Sakarya",
       "isim": "Sakarya Söğütlü Öğretmenevi ve Akşama Sanat Okulu",
-      "gecerlilik": "2026 konaklama ücretleri",
+      "gecerlilik": "2026 konaklama (güncelleme)",
       "fiyat_sivil": "1.000 – 1.500 TL",
       "fiyat_kamu_personeli": "750 – 1.250 TL",
       "fiyat_kurum_personeli": "650 – 1.000 TL",
@@ -50856,7 +50856,7 @@
         "kategoriler": [
           {
             "id": "meb",
-            "ad": "MEB / Öğretmen"
+            "ad": "MEB / üye"
           },
           {
             "id": "kamu",
@@ -50866,9 +50866,6 @@
             "id": "sivil",
             "ad": "Sivil"
           }
-        ],
-        "notlar": [
-          "6 yaş (72 ay) üzeri tam ücret; 3–6 yaş 300 TL; 3 yaş altı ayrı yatak yoksa ücretsiz."
         ],
         "tablolar": [
           {
@@ -51328,6 +51325,618 @@
           }
         ],
         "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Manisa",
+      "isim": "Soma Öğretmenevi Turgutalp",
+      "gecerlilik": "Paylaşımlı oda kişi başı; kahvaltı ve KDV dahil",
+      "kaynak": "https://somaogretmenevi.meb.k12.tr/",
+      "fiyat_sivil": "1.400 TL",
+      "fiyat_kamu_personeli": "950 TL",
+      "fiyat_kurum_personeli": "800 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / üye"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "notlar": [
+          "0–6 yaş ücretsiz; 6–12 yaş %50.",
+          "Paylaşımlı odada tek kalan diğer yatağın %50'sini öder."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı oda (kişi başı)",
+                "fiyatlar": {
+                  "meb": 800,
+                  "kamu": 950,
+                  "sivil": 1400
+                },
+                "birim": "gece"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Manisa",
+      "isim": "Manisa Polisevi",
+      "gecerlilik": "Kişi başı konaklama",
+      "fiyat_sivil": "1.470 – 3.822 TL",
+      "fiyat_kamu_personeli": "1.050 – 2.730 TL",
+      "fiyat_kurum_personeli": "735 – 1.911 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "teskilat",
+            "ad": "Teşkilat mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda / yatak",
+                "fiyatlar": {
+                  "teskilat": 735,
+                  "kamu": 1050,
+                  "onayli": 1470
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "2 kişilik oda",
+                "fiyatlar": {
+                  "teskilat": 1470,
+                  "kamu": 2100,
+                  "onayli": 2940
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "teskilat": 1911,
+                  "kamu": 2730,
+                  "onayli": 3822
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Manisa",
+      "isim": "Manisa Celal Bayar Üniversitesi Misafirhanesi",
+      "gecerlilik": "MCBÜ merkez misafirhaneleri (EK-3 tarife)",
+      "fiyat_sivil": "1.200 – 2.175 TL",
+      "fiyat_kamu_personeli": "800 – 1.450 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "ogrenci_kamu",
+            "ad": "Öğrenci / kamu personeli ve emeklisi"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil ve emeklisi"
+          }
+        ],
+        "notlar": [
+          "0–3 yaş ücretsiz; 3–6 yaş 400 TL."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "ogrenci_kamu": 850,
+                  "sivil": 1275
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik paylaşımlı – tek kalma",
+                "fiyatlar": {
+                  "ogrenci_kamu": 1050,
+                  "sivil": 1575
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik paylaşımlı – kişi başı",
+                "fiyatlar": {
+                  "ogrenci_kamu": 800,
+                  "sivil": 1200
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Suit oda (kişi başı)",
+                "fiyatlar": {
+                  "ogrenci_kamu": 1450,
+                  "sivil": 2175
+                },
+                "birim": "kişi"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Sultanşehir Uygulama Oteli",
+      "gecerlilik": "Oda + kahvaltı; KDV dahil",
+      "kaynak": "https://sivasotml.meb.k12.tr/",
+      "fiyat_sivil": "1.800 – 6.500 TL",
+      "fiyat_kamu_personeli": "1.800 – 6.500 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "notlar": [
+          "0–6 yaş birinci çocuk ücretsiz."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Single room",
+                "fiyatlar": {
+                  "konaklama": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Double room twin",
+                "fiyatlar": {
+                  "konaklama": 3100
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Triple room",
+                "fiyatlar": {
+                  "konaklama": 4050
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit – 1 kişi",
+                "fiyatlar": {
+                  "konaklama": 2500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit – 2 kişi",
+                "fiyatlar": {
+                  "konaklama": 4000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit – 3 kişi",
+                "fiyatlar": {
+                  "konaklama": 5000
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit – 4 kişi",
+                "fiyatlar": {
+                  "konaklama": 6000
+                },
+                "kisi": 4
+              },
+              {
+                "ad": "Suit – 5 kişi",
+                "fiyatlar": {
+                  "konaklama": 6500
+                },
+                "kisi": 5
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Sivas",
+      "isim": "Sivas Polisevi",
+      "gecerlilik": "Sivas Polisevi konaklama listesi",
+      "kaynak": "https://sivas.pol.tr/polisevi",
+      "fiyat_sivil": "1.470 – 6.230 TL",
+      "fiyat_kamu_personeli": "1.050 – 4.450 TL",
+      "fiyat_kurum_personeli": "735 – 3.115 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "teskilat",
+            "ad": "Teşkilat mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "notlar": [
+          "Teşkilat mensubu fiyatları %30 indirimli listedir."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "2–3 yataklı odada tek yatak",
+                "fiyatlar": {
+                  "teskilat": 735,
+                  "kamu": 1050,
+                  "onayli": 1470
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Müstakil tek yataklı oda",
+                "fiyatlar": {
+                  "teskilat": 945,
+                  "kamu": 1350,
+                  "onayli": 1890
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Aile odası (duble)",
+                "fiyatlar": {
+                  "teskilat": 1470,
+                  "kamu": 2100,
+                  "onayli": 2940
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Aile odası (duble + tek)",
+                "fiyatlar": {
+                  "teskilat": 2240,
+                  "kamu": 3200,
+                  "onayli": 4480
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit (duble + salon)",
+                "fiyatlar": {
+                  "teskilat": 1925,
+                  "kamu": 2750,
+                  "onayli": 3850
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit (duble + tek + salon)",
+                "fiyatlar": {
+                  "teskilat": 2590,
+                  "kamu": 3700,
+                  "onayli": 5180
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Suit (duble + 2 tek yatak)",
+                "fiyatlar": {
+                  "teskilat": 2765,
+                  "kamu": 3950,
+                  "onayli": 5530
+                },
+                "kisi": 4
+              },
+              {
+                "ad": "VIP suit",
+                "fiyatlar": {
+                  "teskilat": 3115,
+                  "kamu": 4450,
+                  "onayli": 6230
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Sivas",
+      "isim": "Kangal Öğretmenevi ve ASO",
+      "gecerlilik": "Kurum fiyat listesi",
+      "fiyat_sivil": "600 – 1.750 TL",
+      "fiyat_kamu_personeli": "600 – 1.000 TL",
+      "fiyat_kurum_personeli": "600 – 700 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "Üye / öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu çalışanları"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          },
+          {
+            "id": "ozel",
+            "ad": "Emekli / şehit yakını / gazi / engelli"
+          }
+        ],
+        "notlar": [
+          "Kahvaltı 250 TL; çamaşır 150 TL; düğün salonu 20.000 TL."
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı",
+                "fiyatlar": {
+                  "meb": 600,
+                  "kamu": 800,
+                  "sivil": 1000,
+                  "ozel": 600
+                },
+                "birim": "kişi"
+              },
+              {
+                "ad": "Tek kişilik",
+                "fiyatlar": {
+                  "meb": 700,
+                  "kamu": 1000,
+                  "sivil": 1250,
+                  "ozel": 700
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "meb": 1750,
+                  "kamu": 1750,
+                  "sivil": 1750,
+                  "ozel": 1750
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Sivas",
+      "isim": "Cumhuriyet Üniversitesi Vakfı Konuk Evi",
+      "gecerlilik": "Turistik pansiyon; kahvaltı hariç",
+      "fiyat_sivil": "1.000 – 1.900 TL",
+      "fiyat_kamu_personeli": "840 – 1.650 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer kullanıcılar"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Standart oda (paylaşımlı)",
+            "satirlar": [
+              {
+                "ad": "1 kişi",
+                "fiyatlar": {
+                  "kamu": 840,
+                  "diger": 1000
+                },
+                "kisi": 1
+              }
+            ]
+          },
+          {
+            "baslik": "Double oda",
+            "satirlar": [
+              {
+                "ad": "Kamu – 1 kişi",
+                "fiyatlar": {
+                  "kamu": 1200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Kamu – 2 kişi (oda)",
+                "fiyatlar": {
+                  "kamu": 1650
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Diğer – 1 kişi",
+                "fiyatlar": {
+                  "diger": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Diğer – 2 kişi (oda)",
+                "fiyatlar": {
+                  "diger": 1900
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
+      }
+    },
+    {
+      "il": "Muğla",
+      "isim": "Muğla Sıtkı Koçman Üniversitesi Akyaka Uygulama Oteli",
+      "gecerlilik": "Dönemsel oda fiyatları (MSKÜ Akyaka)",
+      "kaynak": "https://sksd.mu.edu.tr/",
+      "fiyat_sivil": "3.600 – 8.000 TL",
+      "fiyat_kamu_personeli": "3.600 – 8.000 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "indirimler": [
+          "0–6 yaş ücretsiz; 7–12 yaş %50.",
+          "MSKÜ personeli %20; diğer kamu %10 indirim."
+        ],
+        "tablolar": [
+          {
+            "baslik": "1–15 Haziran",
+            "satirlar": [
+              {
+                "ad": "Standart oda",
+                "fiyatlar": {
+                  "konaklama": 3600
+                },
+                "birim": "oda"
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "konaklama": 5500
+                },
+                "birim": "oda"
+              }
+            ]
+          },
+          {
+            "baslik": "16–30 Haziran ve Eylül",
+            "satirlar": [
+              {
+                "ad": "Standart oda",
+                "fiyatlar": {
+                  "konaklama": 5000
+                },
+                "birim": "oda"
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "konaklama": 7000
+                },
+                "birim": "oda"
+              }
+            ]
+          },
+          {
+            "baslik": "Temmuz – Ağustos",
+            "satirlar": [
+              {
+                "ad": "Standart oda",
+                "fiyatlar": {
+                  "konaklama": 6000
+                },
+                "birim": "oda"
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "konaklama": 8000
+                },
+                "birim": "oda"
+              }
+            ]
+          }
+        ],
+        "dogrulama": "resmi_kaynak"
+      }
+    },
+    {
+      "il": "Düzce",
+      "isim": "Şehit Yüzbaşı Özgür Özekin Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "gecerlilik": "Uygulama oteli oda fiyatları",
+      "fiyat_sivil": "1.750 – 3.750 TL",
+      "fiyat_kamu_personeli": "1.750 – 3.750 TL",
+      "tarife": {
+        "kategoriler": [
+          {
+            "id": "konaklama",
+            "ad": "Konaklama"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 1750
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 2750
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik oda",
+                "fiyatlar": {
+                  "konaklama": 3750
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "dogrulama": "kullanici_bildirimi"
       }
     }
   ]

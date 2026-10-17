@@ -28534,6 +28534,12 @@
           "rol": "fiyat",
           "alan_adi": "sksd.mu.edu.tr",
           "baslik": "MSKÜ Akyaka Uygulama Oteli"
+        },
+        {
+          "url": "https://sksd.mu.edu.tr/",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "sksd.mu.edu.tr"
         }
       ],
       "ocr_eksik": [],
@@ -33866,6 +33872,12 @@
           "alan_adi": "www.sivas.pol.tr",
           "baslik": "Sivas Polisevi – Oda Tipi Fiyatları",
           "tarih": "Tarih belirtilmemiş"
+        },
+        {
+          "url": "https://sivas.pol.tr/polisevi",
+          "tur": "web",
+          "rol": "fiyat",
+          "alan_adi": "sivas.pol.tr"
         }
       ],
       "ocr_eksik": [],
