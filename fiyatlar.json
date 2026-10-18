@@ -54170,6 +54170,156 @@
           "Öğretmenevinde yeme ve içme hizmeti verilmemektedir."
         ]
       }
+    },
+    {
+      "il": "Antalya",
+      "isim": "Demre Ögretmen Evi ve Akşam Sanat Okulu",
+      "fiyat_sivil": "4.000 – 9.000 TL",
+      "fiyat_kamu_personeli": "3.000 – 6.750 TL",
+      "fiyat_kurum_personeli": "2.000 – 4.500 TL",
+      "kaynak": "Demre Öğretmenevi resmi fiyat listesi (meb.k12.tr)",
+      "gecerlilik": "A ve B blok oda ücretleri. Öğretmen sütunu kaynakta %50 indirimli ücret olarak yazılmıştır.",
+      "tarife": {
+        "baslik": "Demre Öğretmenevi A ve B blok",
+        "birim": "oda / gece",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "Öğretmen (%50 indirimli)"
+          },
+          {
+            "id": "kamu",
+            "ad": "Üye / Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Konaklama",
+            "birim": "oda / gece",
+            "satirlar": [
+              {
+                "ad": "A blok iki kişilik oda",
+                "kisi": 2,
+                "fiyatlar": {
+                  "meb": 2000,
+                  "kamu": 3000,
+                  "sivil": 4000
+                }
+              },
+              {
+                "ad": "A blok üç kişilik oda",
+                "kisi": 3,
+                "fiyatlar": {
+                  "meb": 3000,
+                  "kamu": 4500,
+                  "sivil": 6000
+                }
+              },
+              {
+                "ad": "B blok iki kişilik oda",
+                "kisi": 2,
+                "fiyatlar": {
+                  "meb": 2200,
+                  "kamu": 3200,
+                  "sivil": 4400
+                }
+              },
+              {
+                "ad": "B blok üç kişilik oda",
+                "kisi": 3,
+                "fiyatlar": {
+                  "meb": 3300,
+                  "kamu": 4800,
+                  "sivil": 6600
+                }
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "meb": 4500,
+                  "kamu": 6750,
+                  "sivil": 9000
+                }
+              }
+            ]
+          },
+          {
+            "baslik": "Görevli tarifesi",
+            "birim": "gece",
+            "kategoriler": [
+              {
+                "id": "ucret",
+                "ad": "Ücret"
+              }
+            ],
+            "satirlar": [
+              {
+                "ad": "İl müfettiş",
+                "fiyatlar": {
+                  "ucret": 1735.5
+                }
+              },
+              {
+                "ad": "Bakanlık müfettiş",
+                "fiyatlar": {
+                  "ucret": 2198.3
+                }
+              },
+              {
+                "ad": "Geçici görev",
+                "fiyatlar": {
+                  "ucret": 1320
+                }
+              }
+            ]
+          },
+          {
+            "baslik": "Salon ve organizasyon",
+            "kategoriler": [
+              {
+                "id": "uye",
+                "ad": "Üye / Kamu"
+              },
+              {
+                "id": "diger",
+                "ad": "Diğer"
+              }
+            ],
+            "satirlar": [
+              {
+                "ad": "Havuz başı düğün",
+                "fiyatlar": {
+                  "uye": 12500,
+                  "diger": 15000
+                }
+              },
+              {
+                "ad": "Bahçe veya çok amaçlı salon (50 kişiye kadar)",
+                "fiyatlar": {
+                  "uye": 3250,
+                  "diger": 4000
+                }
+              },
+              {
+                "ad": "Bahçe veya çok amaçlı salon (51 kişi ve üstü)",
+                "fiyatlar": {
+                  "uye": 3750,
+                  "diger": 5000
+                }
+              }
+            ]
+          }
+        ],
+        "kurallar": [
+          "1 Ocak 2023 sonrası doğanlar ücretsizdir.",
+          "1 Ocak 2020 – 1 Ocak 2023 arası doğanlardan yarı ücret alınır."
+        ]
+      }
     }
   ]
 }
