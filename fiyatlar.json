@@ -55998,6 +55998,57 @@
           "Kaynak metninde Başkent Öğretmenevi fiyat görselleri de geçiyor; tarife Amele Birliği başlığıyla işlendi."
         ]
       }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Çankaya Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi ve Uygulama Oteli",
+      "fiyat_sivil": "2.500 – 3.750 TL",
+      "fiyat_kamu_personeli": "2.500 – 3.750 TL",
+      "fiyat_kurum_personeli": "2.500 – 3.750 TL",
+      "kaynak": "https://cankayauygulamaoteli.com",
+      "gecerlilik": "Gecelik oda ücreti; misafir türü ayrımı yok. Standart odada kahvaltı var.",
+      "tarife": {
+        "baslik": "Çankaya Borsa İstanbul Uygulama Oteli",
+        "birim": "oda / gece",
+        "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Kahvaltı (standart odalar)"
+        ],
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Oda ücreti"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Standart tek kişilik",
+                "fiyatlar": {
+                  "oda": 2500
+                },
+                "kisi": 1,
+                "aciklama": "Kahvaltı, Wi‑Fi, LCD TV, fön var; klima ve kasa yok"
+              },
+              {
+                "ad": "Standart iki kişilik",
+                "fiyatlar": {
+                  "oda": 3500
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Suit iki kişilik",
+                "fiyatlar": {
+                  "oda": 3750
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
