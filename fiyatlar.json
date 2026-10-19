@@ -54356,6 +54356,26 @@
           "Tesisle teyit edilmelidir."
         ]
       }
+    },
+    {
+      "il": "İstanbul",
+      "isim": "Vakıfbank Kavacık Misafirhanesi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": null,
+      "fiyat_kurum_personeli": "Yalnızca Vakıfbank personeli",
+      "kaynak": "Kullanıcı bildirimi",
+      "gecerlilik": "Banka personeli harici misafir kabul edilmiyor.",
+      "tarife": {
+        "baslik": "Vakıfbank Kavacık Misafirhanesi",
+        "dogrulama": "kullanici_bildirimi",
+        "kurallar": [
+          "Banka personeli harici misafir kabul edilmiyor.",
+          "Sivil ve diğer kamu personeli konaklayamaz."
+        ],
+        "notlar": [
+          "Kartal / Yakacık konumundaki Vakıfbank misafirhanesidir."
+        ]
+      }
     }
   ]
 }
