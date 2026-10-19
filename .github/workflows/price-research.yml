@@ -50,6 +50,17 @@ jobs:
           python price_research/validate.py --baseline "$RUNNER_TEMP/baseline.json"
           python -c "import json; [json.load(open(p, encoding='utf-8')) for p in ('fiyatlar.json','price_research/sources.json')]"
 
+      - name: Değişen fiyat bildirimi (e-posta)
+        if: always() && !cancelled()
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          GONDEREN: ${{ secrets.GONDEREN }}
+          PRICE_NOTIFY_TO: rotalinkinfo@gmail.com
+        run: python price_research/notify_degisiklik.py
+
       - name: Rapor artefaktı
         if: always()
         uses: actions/upload-artifact@v4
