@@ -53524,13 +53524,19 @@
     {
       "il": "İstanbul",
       "isim": "İlksan Kartal Konukevi",
-      "gecerlilik": "Tek ve 2–3 kişilik oda",
       "fiyat_sivil": "1.750 – 1.950 TL",
+      "fiyat_kamu_personeli": "1.750 – 1.950 TL",
+      "fiyat_kurum_personeli": "1.750 – 1.950 TL",
+      "kaynak": "WhatsApp iletişim görseli (+90 216 442 19 43)",
+      "gecerlilik": "Misafir türü ayrımı kaynakta yok",
       "tarife": {
+        "baslik": "İlksan Kartal Konukevi",
+        "birim": "gecelik",
+        "dogrulama": "kullanici_bildirimi",
         "kategoriler": [
           {
-            "id": "konaklama",
-            "ad": "Konaklama"
+            "id": "oda",
+            "ad": "Oda ücreti"
           }
         ],
         "tablolar": [
@@ -53539,21 +53545,21 @@
               {
                 "ad": "Tek kişilik oda",
                 "fiyatlar": {
-                  "konaklama": 1950
+                  "oda": 1950
                 },
                 "kisi": 1
               },
               {
-                "ad": "2–3 kişilik oda",
+                "ad": "2-3 kişilik oda",
                 "fiyatlar": {
-                  "konaklama": 1750
+                  "oda": 1750
                 },
-                "birim": "kişi"
+                "kisi": 1,
+                "birim": "kişi başı"
               }
             ]
           }
-        ],
-        "dogrulama": "kullanici_bildirimi"
+        ]
       }
     },
     {
@@ -55499,6 +55505,432 @@
                   "kamu": 3117.87,
                   "onayli": 6235.74
                 }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Gazi Üniversitesi Misafirhanesi",
+      "fiyat_sivil": "1.900 – 3.200 TL",
+      "fiyat_kamu_personeli": "1.750 – 3.200 TL",
+      "fiyat_kurum_personeli": "1.550 – 3.200 TL",
+      "kaynak": "https://ikis.gazi.edu.tr",
+      "gecerlilik": "Emek Misafirhanesi. Güncelleme 02.01.2026. Kişi başı / 1 yatak.",
+      "tarife": {
+        "baslik": "Gazi Üniversitesi Emek Misafirhanesi",
+        "guncelleme": "2026-01-02",
+        "birim": "kişi başı / yatak",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "ogrenci",
+            "ad": "Gazi Üniversitesi öğrencisi"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer misafirler"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "1 yatak / kişi başı",
+                "fiyatlar": {
+                  "ogrenci": 1550,
+                  "kamu": 1750,
+                  "diger": 1900
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişilik odada tek kişi",
+                "fiyatlar": {
+                  "ogrenci": 3200,
+                  "kamu": 3200,
+                  "diger": 3200
+                },
+                "kisi": 1,
+                "aciklama": "Kaynakta tek fiyat yazılmıştır."
+              }
+            ]
+          }
+        ],
+        "notlar": [
+          "Misafirhanede kişi başı ücret alınır; talep halinde ek yatak verilir."
+        ]
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Deçev Misafirhanei",
+      "fiyat_sivil": "1.500 – 2.200 TL",
+      "fiyat_kamu_personeli": "1.500 – 2.200 TL",
+      "fiyat_kurum_personeli": "1.500 – 2.200 TL",
+      "kaynak": "WhatsApp iletişim görseli (+90 544 435 84 41)",
+      "gecerlilik": "Misafir türü ayrımı kaynakta yok",
+      "tarife": {
+        "baslik": "Deçev Misafirhane",
+        "birim": "oda / gece",
+        "dogrulama": "kullanici_bildirimi",
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Oda ücreti"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi",
+                "fiyatlar": {
+                  "oda": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik",
+                "fiyatlar": {
+                  "oda": 2200
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Hacı Bayram Veli Üniversitesi AOÇ Konukevi",
+      "fiyat_sivil": "2.600 – 4.000 TL",
+      "fiyat_kamu_personeli": "1.600 – 2.400 TL",
+      "fiyat_kurum_personeli": "1.600 – 2.400 TL",
+      "kaynak": "Hacı Bayram Veli Üniversitesi resmi fiyat tablosu",
+      "gecerlilik": "Vergiler dahil, kahvaltı dahil değil",
+      "tarife": {
+        "baslik": "HBVÜ AOÇ Konukevi",
+        "birim": "oda / gece",
+        "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Vergiler"
+        ],
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "kamu": 1600,
+                  "sivil": 2600
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik oda",
+                "fiyatlar": {
+                  "kamu": 2400,
+                  "sivil": 4000
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "indirimler": [
+          "Üniversite personeli ve öğrencilere restoran hizmetlerinde %25 indirim."
+        ],
+        "notlar": [
+          "Kahvaltı dahil değildir."
+        ]
+      }
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Balıkesir Ayvalık Vilayetler Evi (VE Hotels)",
+      "fiyat_sivil": "3.704 – 9.878 TL",
+      "fiyat_kamu_personeli": "3.704 – 9.878 TL",
+      "fiyat_kurum_personeli": "3.704 – 9.878 TL",
+      "kaynak": "https://tatilbudur.com",
+      "gecerlilik": "Kampanyalı/indirimli fiyatlar (oda+kahvaltı). Tesisle teyit edilmeli.",
+      "tarife": {
+        "baslik": "Ayvalık Vilayetler Evi (VE Hotels)",
+        "birim": "1 gece / 1 yetişkin",
+        "dogrulama": "teyit_gerekli",
+        "dahil": [
+          "Kahvaltı"
+        ],
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Kampanyalı fiyat"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Standart oda",
+                "fiyatlar": {
+                  "oda": 3704
+                },
+                "kisi": 1,
+                "aciklama": "%48 indirimli güncel fiyat"
+              },
+              {
+                "ad": "Aile odası",
+                "fiyatlar": {
+                  "oda": 9878
+                },
+                "kisi": 1,
+                "aciklama": "%48 indirimli güncel fiyat"
+              }
+            ]
+          }
+        ],
+        "notlar": [
+          "Fiyatlar seyahat sitesi kampanyasından alınmıştır; rezervasyon öncesi teyit edin."
+        ]
+      }
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Ayvalık Öğretmenevi",
+      "fiyat_kamu_personeli": "2.400 – 4.800 TL",
+      "fiyat_kurum_personeli": "1.800 – 3.600 TL",
+      "kaynak": "Ayvalık Öğretmenevi resmi fiyat tablosu (01.04.2026)",
+      "gecerlilik": "01.04.2026. Sivil tarife kaynakta yok.",
+      "tarife": {
+        "baslik": "Ayvalık Öğretmenevi",
+        "donem": "01.04.2026",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "İki kişilik oda (1, 2, 5)",
+                "fiyatlar": {
+                  "meb": 1800,
+                  "kamu": 2400
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişilik oda (3, 4)",
+                "fiyatlar": {
+                  "meb": 2700,
+                  "kamu": 3600
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Dört kişilik oda (6, 7)",
+                "fiyatlar": {
+                  "meb": 3600,
+                  "kamu": 4800
+                },
+                "kisi": 4
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Balıkesir",
+      "isim": "Ayvalık Polisevi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "742,35 – 2.895,16 TL",
+      "fiyat_kurum_personeli": "742,35 – 2.895,16 TL",
+      "kaynak": "https://ayvalikpmem.pol.tr",
+      "gecerlilik": "Kamp dönemi harici konaklama fiyat listesi (Ayvalık PMEM)",
+      "tarife": {
+        "baslik": "Ayvalık Polis Moral Eğitim Merkezi",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "teskilat",
+            "ad": "Teşkilat mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Normal oda 3 tek yataklı (kişi başı)",
+                "fiyatlar": {
+                  "teskilat": 742.35,
+                  "kamu": 742.35,
+                  "onayli": 1484.7
+                },
+                "kisi": 1,
+                "birim": "kişi başı",
+                "aciklama": "Teşkilat mensubu %30 indirimli ücret"
+              },
+              {
+                "ad": "Aile odası (1 çift + 1 tek)",
+                "fiyatlar": {
+                  "teskilat": 2227.05,
+                  "kamu": 2227.05,
+                  "onayli": 4454.1
+                }
+              },
+              {
+                "ad": "Suit oda (2 oda, 1 çift + 3 tek)",
+                "fiyatlar": {
+                  "teskilat": 2895.16,
+                  "kamu": 2895.16,
+                  "onayli": 5790.32
+                }
+              }
+            ]
+          }
+        ],
+        "notlar": [
+          "Veritabanındaki Ayvalık Polisevi kaydı PMEM adresine bağlıdır."
+        ]
+      }
+    },
+    {
+      "il": "Edirne",
+      "isim": "Trakya Üniversitesi Balkan Konukevi",
+      "fiyat_sivil": "1.850 – 3.000 TL",
+      "fiyat_kamu_personeli": "1.850 – 3.000 TL",
+      "fiyat_kurum_personeli": "1.850 – 3.000 TL",
+      "kaynak": "Trakya Üniversitesi Balkan Konukevi rezervasyon sistemi",
+      "gecerlilik": "Gecelik oda ücreti; misafir türü ayrımı kaynakta yok",
+      "tarife": {
+        "baslik": "Balkan Konukevi",
+        "birim": "oda / gece",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Oda ücreti"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "oda": 1850
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2 kişilik oda",
+                "fiyatlar": {
+                  "oda": 2350
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "3 kişilik oda",
+                "fiyatlar": {
+                  "oda": 3000
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Kahramanmaraş",
+      "isim": "Afşin Öğretmenevi",
+      "fiyat_sivil": "1.000 – 2.100 TL",
+      "fiyat_kamu_personeli": "700 – 2.100 TL",
+      "fiyat_kurum_personeli": "400 – 1.500 TL",
+      "kaynak": "https://afsinogretmenevi.meb.k12.tr",
+      "gecerlilik": "Seviye 1/2/3 kademeleri MEB/kamu/sivil olarak eşlendi",
+      "tarife": {
+        "baslik": "Afşin Öğretmenevi",
+        "birim": "gecelik",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda (1 kişi)",
+                "fiyatlar": {
+                  "meb": 650,
+                  "kamu": 800,
+                  "sivil": 1000
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Paylaşımlı oda (4 kişi)",
+                "fiyatlar": {
+                  "meb": 400,
+                  "kamu": 700,
+                  "sivil": 1250
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "VIP / suit oda (2 kişi)",
+                "fiyatlar": {
+                  "meb": 1500,
+                  "kamu": 2100,
+                  "sivil": 2100
+                },
+                "kisi": 2,
+                "aciklama": "Kaynakta VIP için iki kademe var; üst kademe kamu/sivil yazıldı."
               }
             ]
           }

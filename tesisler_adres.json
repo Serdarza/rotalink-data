@@ -16450,6 +16450,18 @@
       "isim": "Afyonkarahisar Polis Moral Eğitim Merkezi",
       "adres": "Dörtyol Mah. Kütahya Yolu Bulvarı No:12, Merkez/Afyonkarahisar",
       "ilce": "Merkez"
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Hacı Bayram Veli Üniversitesi AOÇ Konukevi",
+      "adres": "Atatürk Orman Çiftliği, Yenimahalle/Ankara",
+      "ilce": "Yenimahalle"
+    },
+    {
+      "il": "Edirne",
+      "isim": "Trakya Üniversitesi Balkan Konukevi",
+      "adres": "Trakya Üniversitesi Balkan Yerleşkesi, Merkez/Edirne",
+      "ilce": "Merkez"
     }
   ]
 }
