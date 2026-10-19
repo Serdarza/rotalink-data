@@ -54775,6 +54775,735 @@
           "0-6 yaş grubu çocuklardan ücret alınmaz."
         ]
       }
+    },
+    {
+      "il": "Afyonkarahisar",
+      "isim": "Dinar Öğretmenevi",
+      "fiyat_kamu_personeli": "750 TL",
+      "fiyat_kurum_personeli": "500 TL",
+      "kaynak": "Dinar Öğretmenevi resmi web bilgileri",
+      "gecerlilik": "9 oda / 16 yatak. Sivil tarife kaynakta yok.",
+      "tarife": {
+        "baslik": "Dinar Öğretmenevi",
+        "birim": "gecelik",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB çalışanı"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu çalışanı"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "meb": 500,
+                  "kamu": 750
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ],
+        "notlar": [
+          "Sivil ücret kaynakta yayımlanmamış.",
+          "Kapasite: 9 oda, 16 yatak."
+        ]
+      }
+    },
+    {
+      "il": "Ağrı",
+      "isim": "Ağrı İbrahim Çeçen Üniversitesi Misafirhanesi",
+      "fiyat_sivil": "850 – 3.100 TL",
+      "fiyat_kamu_personeli": "765 – 3.000 TL",
+      "fiyat_kurum_personeli": "765 – 3.000 TL",
+      "kaynak": "https://agri.edu.tr",
+      "gecerlilik": "Kahvaltı ve konaklama vergisi dahil. 15 gün üzeri indirimli.",
+      "tarife": {
+        "baslik": "Ağrı İbrahim Çeçen Üniversitesi Konukevi",
+        "birim": "gecelik",
+        "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Kahvaltı",
+          "Konaklama vergisi"
+        ],
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Normal tarife",
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı oda",
+                "fiyatlar": {
+                  "kamu": 900,
+                  "sivil": 1000
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "kamu": 1100,
+                  "sivil": 1200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda tek kişilik",
+                "fiyatlar": {
+                  "kamu": 1500,
+                  "sivil": 1900
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda aile (eşiyle)",
+                "fiyatlar": {
+                  "kamu": 2000,
+                  "sivil": 2200
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Özel oda tek kişilik",
+                "fiyatlar": {
+                  "kamu": 2500,
+                  "sivil": 2700
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Özel oda aile",
+                "fiyatlar": {
+                  "kamu": 3000,
+                  "sivil": 3100
+                },
+                "kisi": 2
+              }
+            ]
+          },
+          {
+            "baslik": "15 gün üzeri",
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı oda",
+                "fiyatlar": {
+                  "kamu": 765,
+                  "sivil": 850
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "kamu": 950,
+                  "sivil": 1020
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda tek kişilik",
+                "fiyatlar": {
+                  "kamu": 1300,
+                  "sivil": 1615
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit oda aile (eşiyle)",
+                "fiyatlar": {
+                  "kamu": 1700,
+                  "sivil": 1870
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Özel oda tek kişilik",
+                "fiyatlar": {
+                  "kamu": 1900,
+                  "sivil": 2300
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Özel oda aile",
+                "fiyatlar": {
+                  "kamu": 2700,
+                  "sivil": 2800
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Ağrı",
+      "isim": "Ağrı Polisevi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "300 – 900 TL",
+      "fiyat_kurum_personeli": "210 – 630 TL",
+      "kaynak": "https://polisevine.com/agri",
+      "gecerlilik": "2026 konaklama fiyatları",
+      "tarife": {
+        "baslik": "Ağrı Polisevi 2026",
+        "donem": "2026",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "teskilat",
+            "ad": "Teşkilat mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Paylaşımlı oda kişi başı",
+                "fiyatlar": {
+                  "teskilat": 210,
+                  "kamu": 300,
+                  "onayli": 420
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "2 kişilik oda",
+                "fiyatlar": {
+                  "teskilat": 420,
+                  "kamu": 600,
+                  "onayli": 840
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "3 kişilik oda",
+                "fiyatlar": {
+                  "teskilat": 630,
+                  "kamu": 900,
+                  "onayli": 1260
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Ağrı",
+      "isim": "Hamur Öğretmenevi",
+      "fiyat_sivil": "800 TL",
+      "fiyat_kamu_personeli": "600 TL",
+      "fiyat_kurum_personeli": "400 TL",
+      "kaynak": "Hamur Öğretmenevi resmi web (04.10.2026)",
+      "gecerlilik": "Kişi başı, kahvaltı dahil. Güncelleme 04.10.2026. 11 oda / 25 yatak.",
+      "tarife": {
+        "baslik": "Hamur Öğretmenevi",
+        "birim": "kişi başı / gece",
+        "guncelleme": "2026-10-04",
+        "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Kahvaltı"
+        ],
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Konaklama",
+                "fiyatlar": {
+                  "meb": 400,
+                  "kamu": 600,
+                  "sivil": 800
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Amasya",
+      "isim": "Suluova Öğretmenevi",
+      "fiyat_sivil": "950 – 1.200 TL",
+      "fiyat_kamu_personeli": "750 – 1.000 TL",
+      "fiyat_kurum_personeli": "550 – 800 TL",
+      "kaynak": "Suluova Öğretmenevi konaklama fiyat tarifesi belgesi",
+      "gecerlilik": "Kişi başı gecelik ve oda kapatma tarifesi",
+      "tarife": {
+        "baslik": "Suluova Öğretmenevi",
+        "birim": "gecelik",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB / Öğretmen"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Standart konaklama (kişi başı)",
+            "satirlar": [
+              {
+                "ad": "Kişi başı",
+                "fiyatlar": {
+                  "meb": 550,
+                  "kamu": 750,
+                  "sivil": 950
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              }
+            ]
+          },
+          {
+            "baslik": "Oda kapatma",
+            "satirlar": [
+              {
+                "ad": "Oda",
+                "fiyatlar": {
+                  "meb": 800,
+                  "kamu": 1000,
+                  "sivil": 1200
+                }
+              }
+            ]
+          }
+        ],
+        "kurallar": [
+          "0-2 yaş ücretsiz, 3-5 yaş yarı ücret, 6 yaş ve üzeri tam ücret.",
+          "Engelli misafirlere tüm kategorilerde %10 indirim."
+        ],
+        "notlar": [
+          "MEB satırı gazi ve şehit yakınlarını da kapsar."
+        ]
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Kızılcahamam Hakimevi",
+      "fiyat_sivil": "1.800 – 9.450 TL",
+      "fiyat_kamu_personeli": "1.200 – 6.300 TL",
+      "fiyat_kurum_personeli": "1.200 – 6.300 TL",
+      "kaynak": "https://kahamamhakimevi.com",
+      "gecerlilik": "Standart, suit ve paylaşımlı oda tarifeleri",
+      "tarife": {
+        "baslik": "Kızılcahamam Hakimevi Termal Oteli",
+        "birim": "gecelik",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu & mensup"
+          },
+          {
+            "id": "misafir",
+            "ad": "Misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Standart oda",
+            "satirlar": [
+              {
+                "ad": "1 kişi",
+                "fiyatlar": {
+                  "kamu": 3500,
+                  "misafir": 5250
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2 kişi",
+                "fiyatlar": {
+                  "kamu": 5000,
+                  "misafir": 7500
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "3 kişi",
+                "fiyatlar": {
+                  "kamu": 6300,
+                  "misafir": 9450
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "Ek yatak",
+                "fiyatlar": {
+                  "kamu": 1600,
+                  "misafir": 2400
+                }
+              },
+              {
+                "ad": "Çocuk (4-6 yaş)",
+                "fiyatlar": {
+                  "kamu": 1200,
+                  "misafir": 1800
+                }
+              }
+            ]
+          },
+          {
+            "baslik": "Suit oda",
+            "satirlar": [
+              {
+                "ad": "1 kişi",
+                "fiyatlar": {
+                  "kamu": 4500,
+                  "misafir": 6750
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2 kişi",
+                "fiyatlar": {
+                  "kamu": 5700,
+                  "misafir": 8550
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Ek yatak",
+                "fiyatlar": {
+                  "kamu": 1600,
+                  "misafir": 2400
+                }
+              },
+              {
+                "ad": "Çocuk (4-6 yaş)",
+                "fiyatlar": {
+                  "kamu": 1425,
+                  "misafir": 2140
+                }
+              }
+            ]
+          },
+          {
+            "baslik": "Paylaşımlı oda",
+            "satirlar": [
+              {
+                "ad": "1 mensup + 1 misafir (kişi başı karşılığı)",
+                "fiyatlar": {
+                  "kamu": 2500,
+                  "misafir": 3750
+                },
+                "aciklama": "Toplam 6.250 TL"
+              },
+              {
+                "ad": "1 mensup + 2 misafir",
+                "fiyatlar": {
+                  "kamu": 2100,
+                  "misafir": 6300
+                },
+                "aciklama": "Toplam 8.400 TL"
+              }
+            ]
+          }
+        ],
+        "kurallar": [
+          "0-3 yaş ücretsizdir."
+        ]
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Türkiye Belediyeler Birliği Konukevi",
+      "fiyat_sivil": "1.450 – 2.900 TL",
+      "fiyat_kamu_personeli": "900 – 1.800 TL",
+      "fiyat_kurum_personeli": "750 – 1.500 TL",
+      "kaynak": "https://tbb.gov.tr/tr/konaklam",
+      "gecerlilik": "Belediye mensubu, kamu ve diğer tarife",
+      "tarife": {
+        "baslik": "Türkiye Belediyeler Birliği Konukevi",
+        "birim": "gecelik",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "belediye",
+            "ad": "Belediye mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "diger",
+            "ad": "Diğer"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Single oda tek kişi",
+                "fiyatlar": {
+                  "belediye": 800,
+                  "kamu": 950,
+                  "diger": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Single oda iki kişi",
+                "fiyatlar": {
+                  "belediye": 1500,
+                  "kamu": 1800,
+                  "diger": 2900
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Double yataklı oda tek kişi",
+                "fiyatlar": {
+                  "belediye": 800,
+                  "kamu": 950,
+                  "diger": 1500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Double yataklı oda iki kişi",
+                "fiyatlar": {
+                  "belediye": 1500,
+                  "kamu": 1800,
+                  "diger": 2900
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Ankara Açık Ceza İnfaz Kurumu Adaletevi Misafirhanesi",
+      "fiyat_sivil": "1.200 – 1.695 TL",
+      "fiyat_kamu_personeli": "800 – 1.130 TL",
+      "fiyat_kurum_personeli": "800 – 1.130 TL",
+      "kaynak": "Resmî fiyat listesi belgesi (ADVEM / Adaletevi)",
+      "gecerlilik": "Kamu personeli ve misafir tarifesi",
+      "tarife": {
+        "baslik": "Adaletevi konaklama tesisi",
+        "birim": "gecelik",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "misafir",
+            "ad": "Misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "kamu": 930,
+                  "misafir": 1395
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik oda kişi başı",
+                "fiyatlar": {
+                  "kamu": 800,
+                  "misafir": 1200
+                },
+                "kisi": 2,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Çift kişilik oda tek konaklama",
+                "fiyatlar": {
+                  "kamu": 1130,
+                  "misafir": 1695
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Ankara",
+      "isim": "İller Bankası Misafirhanesi",
+      "fiyat_sivil": "1.500 – 2.000 TL",
+      "fiyat_kamu_personeli": "1.500 – 2.000 TL",
+      "fiyat_kurum_personeli": "1.500 – 2.000 TL",
+      "kaynak": "İller Bankası sosyal tesisleri resmi veriler",
+      "gecerlilik": "Gecelik kişi başı; misafir türü ayrımı kaynakta yok",
+      "tarife": {
+        "baslik": "İller Bankası Sosyal Tesisleri",
+        "birim": "kişi başı / gece",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Kişi başı"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Normal oda",
+                "fiyatlar": {
+                  "oda": 1500
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Suit oda",
+                "fiyatlar": {
+                  "oda": 2000
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Afyonkarahisar",
+      "isim": "Afyonkarahisar Polis Moral Eğitim Merkezi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "742,35 – 3.117,87 TL",
+      "fiyat_kurum_personeli": "742,35 – 3.117,87 TL",
+      "kaynak": "https://afyonpmem.pol.tr",
+      "gecerlilik": "2026 yılı konaklama fiyat listesi. %1 konaklama vergisi dahil.",
+      "tarife": {
+        "baslik": "Afyonkarahisar PMEM 2026",
+        "donem": "2026",
+        "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "%1 konaklama vergisi"
+        ],
+        "kategoriler": [
+          {
+            "id": "teskilat",
+            "ad": "Teşkilat mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "onayli",
+            "ad": "Onaylı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "İki veya daha fazla yataklı odada tek yatak",
+                "fiyatlar": {
+                  "teskilat": 742.35,
+                  "kamu": 742.35,
+                  "onayli": 1484.7
+                },
+                "kisi": 1,
+                "birim": "yatak"
+              },
+              {
+                "ad": "Çift kişilik (double) yatak bulunan oda",
+                "fiyatlar": {
+                  "teskilat": 1484.7,
+                  "kamu": 1484.7,
+                  "onayli": 2969.4
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Aile odası (double + tek yatak)",
+                "fiyatlar": {
+                  "teskilat": 2227.05,
+                  "kamu": 2227.05,
+                  "onayli": 4454.1
+                }
+              },
+              {
+                "ad": "3 kişilik suit oda",
+                "fiyatlar": {
+                  "teskilat": 2598.27,
+                  "kamu": 2598.27,
+                  "onayli": 5196.45
+                },
+                "kisi": 3
+              },
+              {
+                "ad": "VIP oda",
+                "fiyatlar": {
+                  "teskilat": 3117.87,
+                  "kamu": 3117.87,
+                  "onayli": 6235.74
+                }
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
