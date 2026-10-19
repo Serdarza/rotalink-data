@@ -55936,6 +55936,68 @@
           }
         ]
       }
+    },
+    {
+      "il": "Ankara",
+      "isim": "Zonguldak Amele Birliği Misafirhanesi",
+      "fiyat_sivil": "5.760 – 7.680 TL",
+      "fiyat_kamu_personeli": "4.650 – 6.200 TL",
+      "fiyat_kurum_personeli": "3.555 – 4.740 TL",
+      "kaynak": "Resmi fiyat tarifesi görselleri (dosya kaynağında Başkent Öğretmenevi sitesi anılmış)",
+      "gecerlilik": "MEB / kamu / sivil oda tarifesi",
+      "tarife": {
+        "baslik": "Zonguldak Amele Birliği Konukevi",
+        "birim": "oda / gece",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "meb",
+            "ad": "MEB"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Suit oda (double + çekyat)",
+                "fiyatlar": {
+                  "meb": 4740,
+                  "kamu": 6200,
+                  "sivil": 7680
+                }
+              },
+              {
+                "ad": "Double + tek yataklı oda",
+                "fiyatlar": {
+                  "meb": 3555,
+                  "kamu": 4650,
+                  "sivil": 5760
+                }
+              },
+              {
+                "ad": "Üç yataklı oda",
+                "fiyatlar": {
+                  "meb": 3555,
+                  "kamu": 4650,
+                  "sivil": 5760
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ],
+        "notlar": [
+          "Kaynak metninde Başkent Öğretmenevi fiyat görselleri de geçiyor; tarife Amele Birliği başlığıyla işlendi."
+        ]
+      }
     }
   ]
 }
