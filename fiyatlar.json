@@ -54320,6 +54320,42 @@
           "1 Ocak 2020 – 1 Ocak 2023 arası doğanlardan yarı ücret alınır."
         ]
       }
+    },
+    {
+      "il": "Kayseri",
+      "isim": "Kayseri Misafirhane TEİAŞ",
+      "fiyat_sivil": "1.000 TL",
+      "kaynak": "Kullanıcı bildirimi",
+      "gecerlilik": "Sivil misafir 1 kişi 1.000 TL. Kamu ve kurum personeli bildirildi.",
+      "tarife": {
+        "baslik": "Kayseri TEİAŞ Misafirhane",
+        "birim": "kişi / gece",
+        "dogrulama": "kullanici_bildirimi",
+        "kategoriler": [
+          {
+            "id": "sivil",
+            "ad": "Sivil misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi konaklama",
+                "kisi": 1,
+                "birim": "kişi başı",
+                "fiyatlar": {
+                  "sivil": 1000
+                }
+              }
+            ]
+          }
+        ],
+        "notlar": [
+          "Kamu ve kurum personeli ücreti bildirilmedi.",
+          "Tesisle teyit edilmelidir."
+        ]
+      }
     }
   ]
 }
