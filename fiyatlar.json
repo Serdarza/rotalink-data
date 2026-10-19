@@ -5328,100 +5328,63 @@
     {
       "il": "İzmir",
       "isim": "İzmir TCDD Misafirhanesi",
-      "fiyat_sivil": "2.300 – 2.700 TL",
-      "fiyat_kamu_personeli": "1.500 – 1.800 TL",
-      "kaynak": "https://static.tcdd.gov.tr/webfiles/userfiles/files/duyuru/2026/msfrhneucret.pdf",
-      "gecerlilik": "01.02.2026 tarihinden itibaren geçerli; Kaynak: resmî PDF “2026 Yılı TCDD Genel Müdürlüğü Misafirhane Ücretleri” (Belge (Last-Modified) 27.01.2026); son kontrol 27.09.2026",
+      "fiyat_sivil": "1.800 – 2.700 TL",
+      "fiyat_kamu_personeli": "1.375 – 1.400 TL",
+      "fiyat_kurum_personeli": "1.375 – 1.400 TL",
+      "kaynak": "https://static.tcdd.gov.tr",
+      "gecerlilik": "01.02.2026 tarihinden itibaren. Vergiler dahil. Fenerbahçe/İzmir/Basmane/Adana-Konya/Afyon-Sivas grubu.",
       "tarife": {
-        "baslik": "2026 Yılı TCDD Misafirhane Ücretleri – İZMİR/BASMANE sütunu",
+        "baslik": "TCDD misafirhane ücretleri",
         "donem": "01.02.2026 tarihinden itibaren",
-        "birim": "gecelik",
         "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Vergiler"
+        ],
         "kategoriler": [
           {
-            "id": "gorevli",
-            "ad": "Görevli gelen, TCDD ve Diğer Kamu personeli (görev belgesi ile)"
-          },
-          {
             "id": "kamu",
-            "ad": "Konaklama amacıyla gelen, TCDD ve Diğer Kamu personeli, emeklileri ve bunların eşleri ile altsoylarının çocuklarına kadar"
+            "ad": "Kamu / kurum"
           },
           {
             "id": "sivil",
-            "ad": "TCDD ve Diğer Kamu personeli dışındaki Diğer Misafirler"
-          },
-          {
-            "id": "denetim",
-            "ad": "Görevli gelen Sayıştay Denetçisi, İç Denetçi ve Müfettişler (Kahvaltı Dahil)"
+            "ad": "Kamu dışı misafir"
           }
         ],
         "tablolar": [
           {
-            "baslik": "İZMİR/BASMANE – Standart Oda (Vergiler Dahil)",
             "satirlar": [
               {
-                "ad": "Standart Oda – Tek Kişi Konaklama",
-                "kisi": 1,
-                "birim": "kişi başı",
+                "ad": "Tek kişi konaklama",
                 "fiyatlar": {
-                  "gorevli": 1400,
-                  "kamu": 1700,
-                  "sivil": 2600,
-                  "denetim": 2190
-                }
+                  "kamu": 1400
+                },
+                "kisi": 1
               },
               {
-                "ad": "Standart Oda – İki kişi bir arada Konaklama",
+                "ad": "İki kişi bir arada",
+                "fiyatlar": {
+                  "kamu": 1375
+                },
                 "kisi": 2,
-                "birim": "kişi başına",
-                "fiyatlar": {
-                  "gorevli": 1375,
-                  "kamu": 1500,
-                  "sivil": 2300
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "İZMİR/BASMANE – Suit Oda (Vergiler Dahil)",
-            "satirlar": [
-              {
-                "ad": "Suit Oda – Tek Kişi Konaklama",
-                "kisi": 1,
-                "birim": "kişi başı",
-                "fiyatlar": {
-                  "gorevli": 1500,
-                  "kamu": 1800,
-                  "sivil": 2700,
-                  "denetim": 2190
-                }
+                "birim": "kişi başı"
               },
               {
-                "ad": "Suit Oda – İki kişi bir arada Konaklama",
-                "kisi": 2,
-                "birim": "kişi başına",
+                "ad": "Kamu dışı tek kişi (alt)",
                 "fiyatlar": {
-                  "gorevli": 1450,
-                  "kamu": 1600,
-                  "sivil": 2400
-                }
+                  "sivil": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Kamu dışı tek kişi (üst)",
+                "fiyatlar": {
+                  "sivil": 2700
+                },
+                "kisi": 1
               }
             ]
           }
-        ],
-        "kurallar": [
-          "Geçici görevli personelden ilk 10 gün gündeliğin %60 artırımlı miktarı, takip eden 80 gün gündeliğin %50'si, müteakip 90 gün gündeliğin %40'ı esas alınarak ücretlendirilir (Sayıştay Denetçisi, İç Denetçi, Müfettişler vb. hariç).",
-          "Görevli gelenlerde görev belgesi ibrazı gereklidir; konaklama amacıyla gelen kamu personeli için belgelemek şarttır."
-        ],
-        "ek_ucretler": [
-          "Kahvaltı oda ücretine dahil değildir: 5 çeşide kadar 150 TL, 7 çeşit ve üzeri 200 TL, 9 çeşit ve üzeri 250 TL (KDV dahil; görevli gelen ve denetim elemanları hariç)."
-        ],
-        "notlar": [
-          "%10 KDV ve %2 konaklama vergisi ücretlere dahildir.",
-          "1 Ocak 2023 tarihinden sonra doğan çocuklar için ayrı yatak istenmemesi kaydıyla konaklama bedeli alınmaz; 1 Ocak 2020 - 1 Ocak 2023 arasında doğanlardan yarım, 1 Ocak 2020 öncesi doğanlardan tam ücret alınır.",
-          "TCDD Taşımacılık A.Ş. tren üstü görevli personelin görev gereği konaklamaları kişi başı 1375 TL üzerinden faturalandırılır."
-        ],
-        "guncelleme": "2026-09-27"
+        ]
       }
     },
     {
@@ -35497,100 +35460,63 @@
     {
       "il": "Afyonkarahisar",
       "isim": "Afyon TCDD Misafirhanesi",
-      "fiyat_sivil": "1.500 – 1.950 TL",
-      "fiyat_kamu_personeli": "1.000 – 1.300 TL",
-      "kaynak": "https://static.tcdd.gov.tr/webfiles/userfiles/files/duyuru/2026/msfrhneucret.pdf",
-      "gecerlilik": "01.02.2026 tarihinden itibaren geçerli; Kaynak: resmî PDF “2026 Yılı TCDD Genel Müdürlüğü Misafirhane Ücretleri” (Belge (Last-Modified) 27.01.2026); son kontrol 27.09.2026",
+      "fiyat_sivil": "1.800 – 2.700 TL",
+      "fiyat_kamu_personeli": "1.375 – 1.400 TL",
+      "fiyat_kurum_personeli": "1.375 – 1.400 TL",
+      "kaynak": "https://static.tcdd.gov.tr",
+      "gecerlilik": "01.02.2026 tarihinden itibaren. Vergiler dahil. Fenerbahçe/İzmir/Basmane/Adana-Konya/Afyon-Sivas grubu.",
       "tarife": {
-        "baslik": "2026 Yılı TCDD Misafirhane Ücretleri – AFYON-SİVAS sütunu",
+        "baslik": "TCDD misafirhane ücretleri",
         "donem": "01.02.2026 tarihinden itibaren",
-        "birim": "gecelik",
         "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Vergiler"
+        ],
         "kategoriler": [
           {
-            "id": "gorevli",
-            "ad": "Görevli gelen, TCDD ve Diğer Kamu personeli (görev belgesi ile)"
-          },
-          {
             "id": "kamu",
-            "ad": "Konaklama amacıyla gelen, TCDD ve Diğer Kamu personeli, emeklileri ve bunların eşleri ile altsoylarının çocuklarına kadar"
+            "ad": "Kamu / kurum"
           },
           {
             "id": "sivil",
-            "ad": "TCDD ve Diğer Kamu personeli dışındaki Diğer Misafirler"
-          },
-          {
-            "id": "denetim",
-            "ad": "Görevli gelen Sayıştay Denetçisi, İç Denetçi ve Müfettişler (Kahvaltı Dahil)"
+            "ad": "Kamu dışı misafir"
           }
         ],
         "tablolar": [
           {
-            "baslik": "AFYON-SİVAS – Standart Oda (Vergiler Dahil)",
             "satirlar": [
               {
-                "ad": "Standart Oda – Tek Kişi Konaklama",
-                "kisi": 1,
-                "birim": "kişi başı",
+                "ad": "Tek kişi konaklama",
                 "fiyatlar": {
-                  "gorevli": 1400,
-                  "kamu": 1200,
-                  "sivil": 1800,
-                  "denetim": 2190
-                }
+                  "kamu": 1400
+                },
+                "kisi": 1
               },
               {
-                "ad": "Standart Oda – İki kişi bir arada Konaklama",
+                "ad": "İki kişi bir arada",
+                "fiyatlar": {
+                  "kamu": 1375
+                },
                 "kisi": 2,
-                "birim": "kişi başına",
-                "fiyatlar": {
-                  "gorevli": 1375,
-                  "kamu": 1000,
-                  "sivil": 1500
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "AFYON-SİVAS – Suit Oda (Vergiler Dahil)",
-            "satirlar": [
-              {
-                "ad": "Suit Oda – Tek Kişi Konaklama",
-                "kisi": 1,
-                "birim": "kişi başı",
-                "fiyatlar": {
-                  "gorevli": 1450,
-                  "kamu": 1300,
-                  "sivil": 1950,
-                  "denetim": 2190
-                }
+                "birim": "kişi başı"
               },
               {
-                "ad": "Suit Oda – İki kişi bir arada Konaklama",
-                "kisi": 2,
-                "birim": "kişi başına",
+                "ad": "Kamu dışı tek kişi (alt)",
                 "fiyatlar": {
-                  "gorevli": 1400,
-                  "kamu": 1100,
-                  "sivil": 1650
-                }
+                  "sivil": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Kamu dışı tek kişi (üst)",
+                "fiyatlar": {
+                  "sivil": 2700
+                },
+                "kisi": 1
               }
             ]
           }
-        ],
-        "kurallar": [
-          "Geçici görevli personelden ilk 10 gün gündeliğin %60 artırımlı miktarı, takip eden 80 gün gündeliğin %50'si, müteakip 90 gün gündeliğin %40'ı esas alınarak ücretlendirilir (Sayıştay Denetçisi, İç Denetçi, Müfettişler vb. hariç).",
-          "Görevli gelenlerde görev belgesi ibrazı gereklidir; konaklama amacıyla gelen kamu personeli için belgelemek şarttır."
-        ],
-        "ek_ucretler": [
-          "Kahvaltı oda ücretine dahil değildir: 5 çeşide kadar 150 TL, 7 çeşit ve üzeri 200 TL, 9 çeşit ve üzeri 250 TL (KDV dahil; görevli gelen ve denetim elemanları hariç)."
-        ],
-        "notlar": [
-          "%10 KDV ve %2 konaklama vergisi ücretlere dahildir.",
-          "1 Ocak 2023 tarihinden sonra doğan çocuklar için ayrı yatak istenmemesi kaydıyla konaklama bedeli alınmaz; 1 Ocak 2020 - 1 Ocak 2023 arasında doğanlardan yarım, 1 Ocak 2020 öncesi doğanlardan tam ücret alınır.",
-          "TCDD Taşımacılık A.Ş. tren üstü görevli personelin görev gereği konaklamaları kişi başı 1375 TL üzerinden faturalandırılır."
-        ],
-        "guncelleme": "2026-09-27"
+        ]
       }
     },
     {
@@ -35658,196 +35584,125 @@
     {
       "il": "İstanbul",
       "isim": "İstanbul TCDD Fenarbahçe Sosyal Tesisleri",
-      "fiyat_sivil": "2.400 – 2.700 TL",
-      "fiyat_kamu_personeli": "1.500 – 1.800 TL",
-      "kaynak": "https://static.tcdd.gov.tr/webfiles/userfiles/files/duyuru/2026/msfrhneucret.pdf",
-      "gecerlilik": "01.02.2026 tarihinden itibaren geçerli; Kaynak: resmî PDF “2026 Yılı TCDD Genel Müdürlüğü Misafirhane Ücretleri” (Belge (Last-Modified) 27.01.2026); son kontrol 27.09.2026",
+      "fiyat_sivil": "1.800 – 2.700 TL",
+      "fiyat_kamu_personeli": "1.375 – 1.400 TL",
+      "fiyat_kurum_personeli": "1.375 – 1.400 TL",
+      "kaynak": "https://static.tcdd.gov.tr",
+      "gecerlilik": "01.02.2026 tarihinden itibaren. Vergiler dahil. Fenerbahçe/İzmir/Basmane/Adana-Konya/Afyon-Sivas grubu.",
       "tarife": {
-        "baslik": "2026 Yılı TCDD Misafirhane Ücretleri – FENERBAHÇE sütunu",
+        "baslik": "TCDD misafirhane ücretleri",
         "donem": "01.02.2026 tarihinden itibaren",
-        "birim": "gecelik",
         "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Vergiler"
+        ],
         "kategoriler": [
           {
-            "id": "gorevli",
-            "ad": "Görevli gelen, TCDD ve Diğer Kamu personeli (görev belgesi ile)"
-          },
-          {
             "id": "kamu",
-            "ad": "Konaklama amacıyla gelen, TCDD ve Diğer Kamu personeli, emeklileri ve bunların eşleri ile altsoylarının çocuklarına kadar"
+            "ad": "Kamu / kurum"
           },
           {
             "id": "sivil",
-            "ad": "TCDD ve Diğer Kamu personeli dışındaki Diğer Misafirler"
-          },
-          {
-            "id": "denetim",
-            "ad": "Görevli gelen Sayıştay Denetçisi, İç Denetçi ve Müfettişler (Kahvaltı Dahil)"
+            "ad": "Kamu dışı misafir"
           }
         ],
         "tablolar": [
           {
-            "baslik": "FENERBAHÇE – Standart Oda (Vergiler Dahil)",
             "satirlar": [
               {
-                "ad": "Standart Oda – Tek Kişi Konaklama",
-                "kisi": 1,
-                "birim": "kişi başı",
+                "ad": "Tek kişi konaklama",
                 "fiyatlar": {
-                  "gorevli": 1400,
-                  "kamu": 1800,
-                  "sivil": 2700,
-                  "denetim": 2190
-                }
+                  "kamu": 1400
+                },
+                "kisi": 1
               },
               {
-                "ad": "Standart Oda – İki kişi bir arada Konaklama",
-                "kisi": 2,
-                "birim": "kişi başına",
+                "ad": "İki kişi bir arada",
                 "fiyatlar": {
-                  "gorevli": 1375,
-                  "kamu": 1500,
-                  "sivil": 2400
-                }
+                  "kamu": 1375
+                },
+                "kisi": 2,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Kamu dışı tek kişi (alt)",
+                "fiyatlar": {
+                  "sivil": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Kamu dışı tek kişi (üst)",
+                "fiyatlar": {
+                  "sivil": 2700
+                },
+                "kisi": 1
               }
             ]
           }
-        ],
-        "kurallar": [
-          "Geçici görevli personelden ilk 10 gün gündeliğin %60 artırımlı miktarı, takip eden 80 gün gündeliğin %50'si, müteakip 90 gün gündeliğin %40'ı esas alınarak ücretlendirilir (Sayıştay Denetçisi, İç Denetçi, Müfettişler vb. hariç).",
-          "Görevli gelenlerde görev belgesi ibrazı gereklidir; konaklama amacıyla gelen kamu personeli için belgelemek şarttır."
-        ],
-        "ek_ucretler": [
-          "Kahvaltı oda ücretine dahil değildir: 5 çeşide kadar 150 TL, 7 çeşit ve üzeri 200 TL, 9 çeşit ve üzeri 250 TL (KDV dahil; görevli gelen ve denetim elemanları hariç)."
-        ],
-        "notlar": [
-          "%10 KDV ve %2 konaklama vergisi ücretlere dahildir.",
-          "1 Ocak 2023 tarihinden sonra doğan çocuklar için ayrı yatak istenmemesi kaydıyla konaklama bedeli alınmaz; 1 Ocak 2020 - 1 Ocak 2023 arasında doğanlardan yarım, 1 Ocak 2020 öncesi doğanlardan tam ücret alınır.",
-          "TCDD Taşımacılık A.Ş. tren üstü görevli personelin görev gereği konaklamaları kişi başı 1375 TL üzerinden faturalandırılır.",
-          "Fenerbahçe Eğitim ve Dinlenme Tesislerinde öncelik eğitim programlarındadır; müsait durumda konaklama verilir, ön rezervasyon yapılmaz."
-        ],
-        "guncelleme": "2026-09-27"
+        ]
       }
     },
     {
       "il": "Sivas",
       "isim": "Sivas TCDD Misafirhanesi",
-      "fiyat_sivil": "1.500 – 1.950 TL",
-      "fiyat_kamu_personeli": "1.000 – 1.300 TL",
-      "kaynak": "https://static.tcdd.gov.tr/webfiles/userfiles/files/duyuru/2026/msfrhneucret.pdf",
-      "gecerlilik": "01.02.2026 tarihinden itibaren geçerli; Kaynak: resmî PDF “2026 Yılı TCDD Genel Müdürlüğü Misafirhane Ücretleri” (Belge (Last-Modified) 27.01.2026); son kontrol 27.09.2026",
+      "fiyat_sivil": "1.800 – 2.700 TL",
+      "fiyat_kamu_personeli": "1.375 – 1.400 TL",
+      "fiyat_kurum_personeli": "1.375 – 1.400 TL",
+      "kaynak": "https://static.tcdd.gov.tr",
+      "gecerlilik": "01.02.2026 tarihinden itibaren. Vergiler dahil. Fenerbahçe/İzmir/Basmane/Adana-Konya/Afyon-Sivas grubu.",
       "tarife": {
-        "baslik": "2026 Yılı TCDD Misafirhane Ücretleri – AFYON-SİVAS sütunu",
+        "baslik": "TCDD misafirhane ücretleri",
         "donem": "01.02.2026 tarihinden itibaren",
-        "birim": "gecelik",
         "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Vergiler"
+        ],
         "kategoriler": [
           {
-            "id": "gorevli",
-            "ad": "Görevli gelen, TCDD ve Diğer Kamu personeli (görev belgesi ile)"
-          },
-          {
             "id": "kamu",
-            "ad": "Konaklama amacıyla gelen, TCDD ve Diğer Kamu personeli, emeklileri ve bunların eşleri ile altsoylarının çocuklarına kadar"
+            "ad": "Kamu / kurum"
           },
           {
             "id": "sivil",
-            "ad": "TCDD ve Diğer Kamu personeli dışındaki Diğer Misafirler"
-          },
-          {
-            "id": "denetim",
-            "ad": "Görevli gelen Sayıştay Denetçisi, İç Denetçi ve Müfettişler (Kahvaltı Dahil)"
+            "ad": "Kamu dışı misafir"
           }
         ],
         "tablolar": [
           {
-            "baslik": "AFYON-SİVAS – Standart Oda (Vergiler Dahil)",
             "satirlar": [
               {
-                "ad": "Standart Oda – Tek Kişi Konaklama",
-                "kisi": 1,
-                "birim": "kişi başı",
+                "ad": "Tek kişi konaklama",
                 "fiyatlar": {
-                  "gorevli": 1400,
-                  "kamu": 1200,
-                  "sivil": 1800,
-                  "denetim": 2190
-                }
+                  "kamu": 1400
+                },
+                "kisi": 1
               },
               {
-                "ad": "Standart Oda – İki kişi bir arada Konaklama",
+                "ad": "İki kişi bir arada",
+                "fiyatlar": {
+                  "kamu": 1375
+                },
                 "kisi": 2,
-                "birim": "kişi başına",
-                "fiyatlar": {
-                  "gorevli": 1375,
-                  "kamu": 1000,
-                  "sivil": 1500
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "AFYON-SİVAS – Suit Oda (Vergiler Dahil)",
-            "satirlar": [
-              {
-                "ad": "Suit Oda – Tek Kişi Konaklama",
-                "kisi": 1,
-                "birim": "kişi başı",
-                "fiyatlar": {
-                  "gorevli": 1450,
-                  "kamu": 1300,
-                  "sivil": 1950,
-                  "denetim": 2190
-                }
+                "birim": "kişi başı"
               },
               {
-                "ad": "Suit Oda – İki kişi bir arada Konaklama",
-                "kisi": 2,
-                "birim": "kişi başına",
+                "ad": "Kamu dışı tek kişi (alt)",
                 "fiyatlar": {
-                  "gorevli": 1400,
-                  "kamu": 1100,
-                  "sivil": 1650
-                }
-              }
-            ]
-          },
-          {
-            "baslik": "Standart Olmayan Oda Ücreti – SİVAS",
-            "kategoriler": [
-              {
-                "id": "tcdd_kamu",
-                "ad": "TCDD Personeli ve Diğer Kamu personeli"
+                  "sivil": 1800
+                },
+                "kisi": 1
               },
               {
-                "id": "tcdd_disi",
-                "ad": "TCDD Personeli ve Diğer Kamu Personeli Dışındakiler"
-              }
-            ],
-            "satirlar": [
-              {
-                "ad": "Standart Olmayan Oda",
+                "ad": "Kamu dışı tek kişi (üst)",
                 "fiyatlar": {
-                  "tcdd_kamu": 300,
-                  "tcdd_disi": 450
-                }
+                  "sivil": 2700
+                },
+                "kisi": 1
               }
             ]
           }
-        ],
-        "kurallar": [
-          "Geçici görevli personelden ilk 10 gün gündeliğin %60 artırımlı miktarı, takip eden 80 gün gündeliğin %50'si, müteakip 90 gün gündeliğin %40'ı esas alınarak ücretlendirilir (Sayıştay Denetçisi, İç Denetçi, Müfettişler vb. hariç).",
-          "Görevli gelenlerde görev belgesi ibrazı gereklidir; konaklama amacıyla gelen kamu personeli için belgelemek şarttır."
-        ],
-        "ek_ucretler": [
-          "Kahvaltı oda ücretine dahil değildir: 5 çeşide kadar 150 TL, 7 çeşit ve üzeri 200 TL, 9 çeşit ve üzeri 250 TL (KDV dahil; görevli gelen ve denetim elemanları hariç)."
-        ],
-        "notlar": [
-          "%10 KDV ve %2 konaklama vergisi ücretlere dahildir.",
-          "1 Ocak 2023 tarihinden sonra doğan çocuklar için ayrı yatak istenmemesi kaydıyla konaklama bedeli alınmaz; 1 Ocak 2020 - 1 Ocak 2023 arasında doğanlardan yarım, 1 Ocak 2020 öncesi doğanlardan tam ücret alınır.",
-          "TCDD Taşımacılık A.Ş. tren üstü görevli personelin görev gereği konaklamaları kişi başı 1375 TL üzerinden faturalandırılır."
-        ],
-        "guncelleme": "2026-09-27"
+        ]
       }
     },
     {
@@ -54374,6 +54229,550 @@
         ],
         "notlar": [
           "Kartal / Yakacık konumundaki Vakıfbank misafirhanesidir."
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Çukurova Üniversitesi Balcalı Konukevi",
+      "fiyat_sivil": "1.800 – 4.000 TL",
+      "fiyat_kamu_personeli": "1.800 – 4.000 TL",
+      "fiyat_kurum_personeli": "1.800 – 4.000 TL",
+      "kaynak": "https://konukevleri.cu.edu.tr",
+      "gecerlilik": "Günlük oda fiyatı (misafir türü ayrımı kaynakta yok)",
+      "tarife": {
+        "baslik": "Çukurova Üniversitesi Balcalı Konukevi",
+        "birim": "oda / gece",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Oda ücreti"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi",
+                "fiyatlar": {
+                  "oda": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişi",
+                "fiyatlar": {
+                  "oda": 2700
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişi",
+                "fiyatlar": {
+                  "oda": 4000
+                },
+                "kisi": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Taşköprü Konukevi",
+      "fiyat_sivil": "2.000 – 3.000 TL",
+      "fiyat_kamu_personeli": "2.000 – 3.000 TL",
+      "fiyat_kurum_personeli": "2.000 – 3.000 TL",
+      "kaynak": "WhatsApp iletişim görseli (+90 501 751 74 64)",
+      "gecerlilik": "Kahvaltı dahil; misafir türü ayrımı kaynakta yok",
+      "tarife": {
+        "baslik": "Adana Taşköprü Konukevi",
+        "birim": "oda / gece",
+        "dogrulama": "kullanici_bildirimi",
+        "dahil": [
+          "Kahvaltı"
+        ],
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Oda ücreti"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "oda": 2000
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişilik oda",
+                "fiyatlar": {
+                  "oda": 3000
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Adliyesi Göltepe Eğitim ve Sosyal Tesisi",
+      "fiyat_sivil": "975 – 1.800 TL",
+      "fiyat_kamu_personeli": "650 – 1.200 TL",
+      "fiyat_kurum_personeli": "650 – 1.200 TL",
+      "kaynak": "Tesis içi bilgi panosu",
+      "gecerlilik": "Kamu mensubu ve misafir tarifesi; kahvaltı dahil değil",
+      "tarife": {
+        "baslik": "Adana Göltepe Eğitim Tesisi",
+        "birim": "kişi / gece",
+        "dogrulama": "kullanici_bildirimi",
+        "giris_saati": "14:00",
+        "cikis_saati": "12:00",
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu mensubu"
+          },
+          {
+            "id": "misafir",
+            "ad": "Misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "2 kişilik odada tek kişi",
+                "fiyatlar": {
+                  "kamu": 900,
+                  "misafir": 1350
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "2 kişilik odada iki kişi",
+                "fiyatlar": {
+                  "kamu": 650,
+                  "misafir": 975
+                },
+                "kisi": 2,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Suit odada tek kişi",
+                "fiyatlar": {
+                  "kamu": 1200,
+                  "misafir": 1800
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Suit odada iki kişi",
+                "fiyatlar": {
+                  "kamu": 850,
+                  "misafir": 1275
+                },
+                "kisi": 2,
+                "birim": "kişi başı"
+              }
+            ]
+          }
+        ],
+        "kurallar": [
+          "0-3 yaş ücretsiz, 3-6 yaş %50 indirimli, 6 yaş üzeri tam ücret.",
+          "Konaklama fiyatına kahvaltı dahil değildir."
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Zirai Üretim İşletmesi Misafirhanesi",
+      "fiyat_sivil": "850 – 1.950 TL",
+      "fiyat_kamu_personeli": "850 – 1.700 TL",
+      "fiyat_kurum_personeli": "425 – 2.210 TL",
+      "kaynak": "https://tim.tarimorman.gov.tr",
+      "gecerlilik": "Kişi başı; görevli, kamu ve kamu dışı tarifeler",
+      "tarife": {
+        "baslik": "Adana Zirai Üretim İşletmesi Misafirhanesi (TAYEM)",
+        "birim": "kişi başı / gece",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "gorevli",
+            "ad": "Görevli personel"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          },
+          {
+            "id": "sivil",
+            "ad": "Kamu dışı / özel sektör"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Görevli personel",
+            "satirlar": [
+              {
+                "ad": "Müfettiş (Türkiye geneli)",
+                "fiyatlar": {
+                  "gorevli": 2198.3
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Müfettiş (bölge)",
+                "fiyatlar": {
+                  "gorevli": 1860.1
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Müfettiş (il)",
+                "fiyatlar": {
+                  "gorevli": 1520.9
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki yataklı oda",
+                "fiyatlar": {
+                  "gorevli": 1360
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "gorevli": 1650
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Tek kişilik oda eşi ile",
+                "fiyatlar": {
+                  "gorevli": 2210
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Geçici görevli (ilk 10 günden sonra, iki yataklı)",
+                "fiyatlar": {
+                  "gorevli": 425
+                },
+                "kisi": 1
+              }
+            ]
+          },
+          {
+            "baslik": "Kamu personeli",
+            "satirlar": [
+              {
+                "ad": "İki yataklı oda",
+                "fiyatlar": {
+                  "kamu": 850
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "kamu": 1300
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Paylaşımlı odada tek kişi",
+                "fiyatlar": {
+                  "kamu": 1700
+                },
+                "kisi": 1
+              }
+            ]
+          },
+          {
+            "baslik": "Kamu dışı",
+            "satirlar": [
+              {
+                "ad": "İki yataklı oda",
+                "fiyatlar": {
+                  "sivil": 1275
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Tek kişilik oda",
+                "fiyatlar": {
+                  "sivil": 1950
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "10 kişi ve üstü / kursiyer çiftçi / 5 kişilik oda",
+                "fiyatlar": {
+                  "sivil": 850
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              }
+            ]
+          }
+        ],
+        "ek_ucretler": [
+          "Sauna saatlik 40 TL.",
+          "Spor salonu saatlik 40 TL."
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana TCDD Devlet Demiryolları 6.Bölge Müdürlüğü Misafirhanesi",
+      "fiyat_sivil": "1.800 – 2.700 TL",
+      "fiyat_kamu_personeli": "1.375 – 1.400 TL",
+      "fiyat_kurum_personeli": "1.375 – 1.400 TL",
+      "kaynak": "https://static.tcdd.gov.tr",
+      "gecerlilik": "01.02.2026 tarihinden itibaren. Vergiler dahil. Adana-Konya grubu.",
+      "tarife": {
+        "baslik": "TCDD misafirhane ücretleri (Adana-Konya grubu)",
+        "donem": "01.02.2026 tarihinden itibaren",
+        "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Vergiler"
+        ],
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu / kurum"
+          },
+          {
+            "id": "sivil",
+            "ad": "Kamu dışı misafir"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Tek kişi konaklama",
+                "fiyatlar": {
+                  "kamu": 1400
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "İki kişi bir arada",
+                "fiyatlar": {
+                  "kamu": 1375
+                },
+                "kisi": 2,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "Kamu dışı tek kişi",
+                "fiyatlar": {
+                  "sivil": 1800
+                },
+                "kisi": 1,
+                "aciklama": "Kaynakta 1.800 – 2.700 TL aralığı yazıyor."
+              },
+              {
+                "ad": "Kamu dışı tek kişi (üst)",
+                "fiyatlar": {
+                  "sivil": 2700
+                },
+                "kisi": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Polis Evi",
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "1.071 – 2.142 TL",
+      "fiyat_kurum_personeli": "750 – 1.500 TL",
+      "kaynak": "https://polisevine.com/adana",
+      "gecerlilik": "2026 yılı. Sivil tarife kaynakta yok.",
+      "tarife": {
+        "baslik": "Adana Polisevi 2026",
+        "donem": "2026",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "teskilat",
+            "ad": "Teşkilat mensubu"
+          },
+          {
+            "id": "kamu",
+            "ad": "Kamu personeli"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "Kişi başı konaklama",
+                "fiyatlar": {
+                  "teskilat": 750,
+                  "kamu": 1071
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "2 kişilik oda",
+                "fiyatlar": {
+                  "teskilat": 1500,
+                  "kamu": 2142
+                },
+                "kisi": 2,
+                "aciklama": "Kamu oda ücreti kaynakta kesik; kişi başının iki katı (2.142 TL) yazıldı."
+              }
+            ]
+          }
+        ],
+        "notlar": [
+          "Sivil misafir ücreti kaynakta yayımlanmamış."
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Saimbeyli Öğretmenevi Ve Akşam Sanat Okulu",
+      "fiyat_sivil": "1.200 – 2.400 TL",
+      "fiyat_kamu_personeli": "900 – 1.800 TL",
+      "fiyat_kurum_personeli": "900 – 1.800 TL",
+      "kaynak": "https://ogretmenevine.com/saimbeyli",
+      "gecerlilik": "Kamu ve sivil tarife; öğretmen ayrı sütunu kaynakta yok",
+      "tarife": {
+        "baslik": "Saimbeyli Öğretmenevi",
+        "birim": "gece",
+        "dogrulama": "resmi_kaynak",
+        "kategoriler": [
+          {
+            "id": "kamu",
+            "ad": "Kamu"
+          },
+          {
+            "id": "sivil",
+            "ad": "Sivil"
+          }
+        ],
+        "tablolar": [
+          {
+            "satirlar": [
+              {
+                "ad": "2 kişilik standart oda kişi başı",
+                "fiyatlar": {
+                  "kamu": 900,
+                  "sivil": 1200
+                },
+                "kisi": 1,
+                "birim": "kişi başı"
+              },
+              {
+                "ad": "2 kişilik standart oda",
+                "fiyatlar": {
+                  "kamu": 1800,
+                  "sivil": 2400
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "kurallar": [
+          "Evlilik cüzdanı ibrazı zorunludur.",
+          "0-3 yaş ücretsiz, 3-6 yaş %50 indirimli, 7 yaş ve üzeri tam ücret."
+        ]
+      }
+    },
+    {
+      "il": "Adana",
+      "isim": "Adana Nezihe Yalvaç Uygulama Oteli",
+      "fiyat_sivil": "2.200 – 4.500 TL",
+      "fiyat_kamu_personeli": "2.200 – 4.500 TL",
+      "fiyat_kurum_personeli": "2.200 – 4.500 TL",
+      "kaynak": "Resmî fiyat listesi (01.01.2026)",
+      "gecerlilik": "01.01.2026. Açık büfe kahvaltı dahil. Misafir türü ayrımı yok.",
+      "tarife": {
+        "baslik": "Nezihe Yalvaç Uygulama Oteli",
+        "donem": "01.01.2026",
+        "dogrulama": "resmi_kaynak",
+        "dahil": [
+          "Açık büfe kahvaltı"
+        ],
+        "giris_saati": "14:00",
+        "cikis_saati": "12:00",
+        "kategoriler": [
+          {
+            "id": "oda",
+            "ad": "Oda ücreti"
+          }
+        ],
+        "tablolar": [
+          {
+            "baslik": "Standart oda",
+            "satirlar": [
+              {
+                "ad": "Tek kişi",
+                "fiyatlar": {
+                  "oda": 2200
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişi",
+                "fiyatlar": {
+                  "oda": 3000
+                },
+                "kisi": 2
+              },
+              {
+                "ad": "Üç kişi",
+                "fiyatlar": {
+                  "oda": 4000
+                },
+                "kisi": 3
+              }
+            ]
+          },
+          {
+            "baslik": "Suit oda",
+            "satirlar": [
+              {
+                "ad": "Tek kişi",
+                "fiyatlar": {
+                  "oda": 3500
+                },
+                "kisi": 1
+              },
+              {
+                "ad": "Çift kişi",
+                "fiyatlar": {
+                  "oda": 4500
+                },
+                "kisi": 2
+              }
+            ]
+          }
+        ],
+        "kurallar": [
+          "0-6 yaş grubu çocuklardan ücret alınmaz."
         ]
       }
     }
