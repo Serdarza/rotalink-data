@@ -1,0 +1,62 @@
+{
+  "kategori": "kisGezisi",
+  "sonTarama": "2026-10-22",
+  "kayitlar": [
+    {
+      "id": "gezi-bursa-uludag-mp",
+      "kategori": "kisGezisi",
+      "il": "Bursa",
+      "ilce": "",
+      "isim": "Uludağ Milli Parkı",
+      "kurumTuru": "Milli park",
+      "kisaAciklama": "Kültür ve Turizm Bakanlığı, Uludağ'ı bitki örtüsü ve yaban hayatı nedeniyle milli park olarak tanıtır. Kışın da ziyaret edilen bir dağ alanıdır.",
+      "adres": "Uludağ, Bursa",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://www.ktb.gov.tr/EN-99234/bursa---uludag.html",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "gezi-erzurum-palandoken-dag",
+      "kategori": "kisGezisi",
+      "il": "Erzurum",
+      "ilce": "Palandöken",
+      "isim": "Palandöken Dağı",
+      "kurumTuru": "Doğal alan",
+      "kisaAciklama": "Erzurum İl Kültür ve Turizm Müdürlüğü, Palandöken Dağı çevresini dört mevsim gezi, piknik ve seyir alanı olarak tanıtır.",
+      "adres": "Palandöken Dağı, Erzurum",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "gezi-kars-allahuekber",
+      "kategori": "kisGezisi",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "isim": "Sarıkamış Allahuekber Dağları Milli Parkı",
+      "kurumTuru": "Milli park",
+      "kisaAciklama": "Kars İl Kültür ve Turizm Müdürlüğü, 2004'te kurulan milli parkı sarıçam ormanları ve Sarıkamış çevresiyle tanıtır.",
+      "adres": "Sarıkamış, Allahuekber Dağları",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://kars.ktb.gov.tr/Eklenti/82532,rota-karspdf.pdf?0=",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "gezi-ardahan-cildir",
+      "kategori": "kisGezisi",
+      "il": "Ardahan",
+      "ilce": "Çıldır",
+      "isim": "Çıldır Gölü",
+      "kurumTuru": "Korunan doğal alan",
+      "kisaAciklama": "Kars İl Kültür ve Turizm Müdürlüğü, gölün kışın donduğunu ve yüzeyde atlı kızak gezileri yapıldığını belirtir. Gölün büyük bölümü Ardahan sınırındadır.",
+      "adres": "Çıldır, Ardahan",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://kars.ktb.gov.tr/Eklenti/82532,rota-karspdf.pdf?0=",
+      "sonDogrulama": "2026-10-22"
+    }
+  ]
+}

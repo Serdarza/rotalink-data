@@ -1,0 +1,499 @@
+{
+  "kategori": "kayak",
+  "sonTarama": "2026-10-22",
+  "kayitlar": [
+    {
+      "id": "kayak-bursa-uludag",
+      "kategori": "kayak",
+      "il": "Bursa",
+      "ilce": "",
+      "isim": "Uludağ Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Bursa'nın kuzey yamaçlarındaki ulusal kış sporları merkezi. Teleferik ve karayoluyla ulaşılır.",
+      "adres": "Bursa'ya yaklaşık 36 km, Uludağ kuzey yamaçları",
+      "telefon": "0224 800 15 00",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 40.103992,
+      "longitude": 29.132888,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Bursa'ya 36 km"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1750–2543 m"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "Karatepe 2543 m"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "13 pist"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "8 telesiyej, 7 T-bar"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "Aralık sonu – Mart sonu"
+        },
+        {
+          "baslik": "Ulaşım",
+          "deger": "Karayolu ve teleferik"
+        }
+      ],
+      "resmiKaynak": "https://www.ktb.gov.tr/EN-99234/bursa---uludag.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://gouludag.com/tr/harita",
+        "kaynakAdi": "Uludağ Alan Başkanlığı",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-bolu-kartalkaya",
+      "kategori": "kayak",
+      "il": "Bolu",
+      "ilce": "",
+      "isim": "Kartalkaya Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Köroğlu Dağları'nda alp, kayaklı koşu ve tur kayağı için uygun kayak merkezidir.",
+      "adres": "Bolu güneydoğusu, Köroğlu Dağları",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 40.585966,
+      "longitude": 31.809815,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Bolu'nun 38 km güneydoğusu"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1850–2200 m"
+        },
+        {
+          "baslik": "Pist",
+          "deger": "12 pist, yaklaşık 20 km"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "2 telesiyej, 6 T-bar, 3 baby lift"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "1 Aralık – 31 Mart"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, kayaklı koşu ve tur kayağı"
+        }
+      ],
+      "resmiKaynak": "https://www.ktb.gov.tr/EN-99231/bolu-kartalkaya.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://kartalotel.com/en/ski/ski-map/",
+        "gorselUrl": "https://kartalotel.com/qaqiruv/themes/ajans360/assets/img/tmp/Kartalkaya-Pist-Harita@2x-80.jpg",
+        "kaynakAdi": "Kartal Otel",
+        "resmi": false,
+        "sonKontrol": "2026-10-22",
+        "durum": "gorsel"
+      }
+    },
+    {
+      "id": "kayak-kastamonu-ilgaz",
+      "kategori": "kayak",
+      "il": "Kastamonu",
+      "ilce": "Ilgaz",
+      "isim": "Ilgaz Dağı Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Ilgaz Dağı Milli Parkı içinde alp, kuzey disiplini, tur kayağı ve snowboard imkânı sunar.",
+      "adres": "Ilgaz Dağı",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 41.067658,
+      "longitude": 33.732755,
+      "anaBilgiler": [
+        {
+          "baslik": "Zirve",
+          "deger": "Büyükhacet 2587 m"
+        },
+        {
+          "baslik": "Yurduntepe rakımı",
+          "deger": "1838–2330 m"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "Yurduntepe 5600 m (2 etap)"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "20 Aralık – 30 Mart"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, kuzey disiplini, tur kayağı, snowboard"
+        },
+        {
+          "baslik": "Konum",
+          "deger": "Milli park içinde"
+        }
+      ],
+      "resmiKaynak": "https://kastamonu.ktb.gov.tr/Eklenti/112738,kastamonu-e-brosurpdf.pdf?0=",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sonKontrol": "2026-10-22",
+        "durum": "yok"
+      }
+    },
+    {
+      "id": "kayak-isparta-davraz",
+      "kategori": "kayak",
+      "il": "Isparta",
+      "ilce": "",
+      "isim": "Davraz Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Eğirdir Gölü manzaralı kayak merkezi. Alp, kuzey disiplini ve tur kayağı yapılır.",
+      "adres": "Isparta merkezine yaklaşık 26 km, Davraz Dağı",
+      "telefon": "0501 109 00 32",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 37.771014,
+      "longitude": 30.749874,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Isparta'ya yaklaşık 26 km"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "25 km"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "14 pist"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1650–2344 m"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "Ulparçukuru 2635 m"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "Aralık – Nisan"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, kuzey disiplini, tur kayağı, snowboard"
+        }
+      ],
+      "resmiKaynak": "https://isparta.ktb.gov.tr/TR-165310/davraz-kayak-merkezi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://davrazkayakmerkezi.org/pist-haritasi",
+        "gorselUrl": "https://davrazkayakmerkezi.org/shared/uploads/legacy/1b53e9879f85-harita_tr1.png",
+        "kaynakAdi": "Isparta Davraz Kayak Merkezi",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "gorsel"
+      }
+    },
+    {
+      "id": "kayak-antalya-saklikent",
+      "kategori": "kayak",
+      "il": "Antalya",
+      "ilce": "",
+      "isim": "Saklıkent Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Antalya'ya 50 km. Kış veya ilkbaharda aynı gün deniz ve kayak planlanabilir.",
+      "adres": "Antalya'ya yaklaşık 50 km, Bakırlıdağ çevresi",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 36.834286,
+      "longitude": 30.33054,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Antalya'ya 50 km, yaklaşık 1,5 saat"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1800–2547 m"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "Bakırlıdağ 2547 m"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "20 Aralık – 30 Mart"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "1400 m telesiyej, 950 m ve 650 m teleski"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, tur kayağı ve yamaç paraşütü"
+        }
+      ],
+      "resmiKaynak": "https://teda.ktb.gov.tr/Eklenti/6591,skicentersofturkeypdf.pdf?0=",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.saklikent.com.tr/saklikent-kayak-merkezi/menu/tr/6/pistler-ve-telesiyej.aspx",
+        "kaynakAdi": "Saklıkent Kayak Merkezi",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-kayseri-erciyes",
+      "kategori": "kayak",
+      "il": "Kayseri",
+      "ilce": "",
+      "isim": "Erciyes Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Türkiye'nin en geniş kayak altyapılarından biri. Dört kapıdan girilir; gondol ve telesiyej hattı vardır.",
+      "adres": "Kayseri'ye yaklaşık 25 km, Erciyes Dağı",
+      "telefon": "0352 342 39 17",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 38.550677,
+      "longitude": 35.492352,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Kayseri'ye yaklaşık 25 km"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "41 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "112 km"
+        },
+        {
+          "baslik": "En uzun pist",
+          "deger": "4210 m"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "19 tesis, 2 gondol"
+        },
+        {
+          "baslik": "Giriş kapıları",
+          "deger": "Develi, Tekir, Hisarcık, Hacılar"
+        }
+      ],
+      "resmiKaynak": "https://kulturportali.gov.tr/turkiye/kayseri/turizmaktiviteleri/erciyes-dagi--kayak-merkezi-",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.erciyeskayak.com/tr/pist-haritasi",
+        "gorselUrl": "https://www.erciyeskayak.com/img/gallery/erciyes-pist-haritasi.png",
+        "kaynakAdi": "Erciyes Kayak",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "gorsel"
+      }
+    },
+    {
+      "id": "kayak-erzurum-palandoken",
+      "kategori": "kayak",
+      "il": "Erzurum",
+      "ilce": "Palandöken",
+      "isim": "Palandöken Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Şehir merkezine yaklaşık 10 dakika. Gece kayağı yapılır; FIS onaylı pistleri vardır.",
+      "adres": "Palandöken, Erzurum",
+      "telefon": "0442 317 08 04",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 39.844691,
+      "longitude": 41.285856,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Merkeze yaklaşık 10 dakika"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "44 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "51 km"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "3176 m"
+        },
+        {
+          "baslik": "En uzun pist",
+          "deger": "12 km kesintisiz pist"
+        },
+        {
+          "baslik": "Özellik",
+          "deger": "Gece kayağı"
+        }
+      ],
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.ejder3200.com/merkez/palandoken",
+        "kaynakAdi": "EJDER3200 Kayak Merkezleri A.Ş.",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-erzurum-konakli",
+      "kategori": "kayak",
+      "il": "Erzurum",
+      "ilce": "",
+      "isim": "Konaklı Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "2011 Dünya Üniversiteler Kış Oyunları'na ev sahipliği yapan sakin kayak merkezidir.",
+      "adres": "Konaklı, Erzurum",
+      "telefon": "0442 317 08 04",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 39.779453,
+      "longitude": 41.20694,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Erzurum'a 17 km"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "2200–3185 m"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "11 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "35 km"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "Ocak – Mart"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp disiplini ve snowboard"
+        }
+      ],
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.ejder3200.com/merkez/konakli",
+        "kaynakAdi": "EJDER3200 Kayak Merkezleri A.Ş.",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-erzurum-kandilli",
+      "kategori": "kayak",
+      "il": "Erzurum",
+      "ilce": "Aşkale",
+      "isim": "Kandilli Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Kayaklı koşu ve biatlon için kuzey disiplini merkezidir. 2011 Kış Oyunları burada yapıldı.",
+      "adres": "Aşkale, Kandilli",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Erzurum'a 36 km"
+        },
+        {
+          "baslik": "Pist rakımı",
+          "deger": "1713–1767 m"
+        },
+        {
+          "baslik": "Alan",
+          "deger": "160 hektar"
+        },
+        {
+          "baslik": "Kayaklı koşu",
+          "deger": "2,5 / 3,75 / 5 km pistler"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Kayaklı koşu ve biatlon"
+        },
+        {
+          "baslik": "Kullanım",
+          "deger": "Dört mevsim çok amaçlı"
+        }
+      ],
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sonKontrol": "2026-10-22",
+        "durum": "yok"
+      }
+    },
+    {
+      "id": "kayak-kars-sarikamis",
+      "kategori": "kayak",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "isim": "Sarıkamış Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Soğanlı Dağları eteklerinde kristal karıyla bilinen kayak merkezidir. FIS tescilli pistleri vardır.",
+      "adres": "Sarıkamış, Kars'ın güneybatısı",
+      "telefon": "0474 223 21 36",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 40.301595,
+      "longitude": 42.60374,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Kars'a 52 km, ilçeye 1,5 km"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "9 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "17 km"
+        },
+        {
+          "baslik": "En uzun pist",
+          "deger": "3500 m"
+        },
+        {
+          "baslik": "FIS",
+          "deger": "5 km pist Uluslararası Kayak Federasyonu tescilli"
+        },
+        {
+          "baslik": "Kar türü",
+          "deger": "Kristal kar"
+        }
+      ],
+      "resmiKaynak": "https://kars.ktb.gov.tr/Eklenti/82532,rota-karspdf.pdf?0=",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.sarikamisdagas.com.tr/",
+        "kaynakAdi": "Sarıkamış Dağ A.Ş.",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "yok"
+      }
+    }
+  ]
+}

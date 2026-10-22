@@ -1,0 +1,21 @@
+{
+  "kategori": "kayak",
+  "kataloglar": [
+    {
+      "id": "teda-ski-centers",
+      "url": "https://teda.ktb.gov.tr/Eklenti/6591,skicentersofturkeypdf.pdf?0=",
+      "tur": "kayak_pdf"
+    }
+  ],
+  "adaylar": [
+    {
+      "id": "kayak-kocaeli-kartepe",
+      "il": "Kocaeli",
+      "isim": "Kartepe Kayak Merkezi",
+      "url": "https://kocaeli.ktb.gov.tr/TR-69185/genel-bilgiler.html",
+      "anahtar": ["kartepe", "kayak"],
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Kocaeli İl Kültür ve Turizm Müdürlüğü il tanıtımında Kartepe kayak merkezi olarak yer alır."
+    }
+  ]
+}

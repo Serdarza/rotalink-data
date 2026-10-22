@@ -1,0 +1,11 @@
+{
+  "kategori": "kisGezisi",
+  "kataloglar": [
+    {
+      "id": "dkmp-milli-parklar",
+      "url": "https://www.tarimorman.gov.tr/DKMP/Menu/27/Milli-Parklar",
+      "tur": "dkmp_html"
+    }
+  ],
+  "adaylar": []
+}

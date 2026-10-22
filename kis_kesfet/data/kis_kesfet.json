@@ -1,0 +1,1354 @@
+{
+  "aciklama": "Kış Keşfet yayın dosyası. Kayak, termal ve kış rotası taramaları ayrı GitHub Actions ile aylık güncellenir. Ana misafirhane ve fiyat verisine dokunulmaz.",
+  "sonBirlestirme": "2026-10-22",
+  "kayitlar": [
+    {
+      "id": "kayak-bursa-uludag",
+      "kategori": "kayak",
+      "il": "Bursa",
+      "ilce": "",
+      "isim": "Uludağ Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Bursa'nın kuzey yamaçlarındaki ulusal kış sporları merkezi. Teleferik ve karayoluyla ulaşılır.",
+      "adres": "Bursa'ya yaklaşık 36 km, Uludağ kuzey yamaçları",
+      "telefon": "0224 800 15 00",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 40.103992,
+      "longitude": 29.132888,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Bursa'ya 36 km"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1750–2543 m"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "Karatepe 2543 m"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "13 pist"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "8 telesiyej, 7 T-bar"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "Aralık sonu – Mart sonu"
+        },
+        {
+          "baslik": "Ulaşım",
+          "deger": "Karayolu ve teleferik"
+        }
+      ],
+      "resmiKaynak": "https://www.ktb.gov.tr/EN-99234/bursa---uludag.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://gouludag.com/tr/harita",
+        "kaynakAdi": "Uludağ Alan Başkanlığı",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-bolu-kartalkaya",
+      "kategori": "kayak",
+      "il": "Bolu",
+      "ilce": "",
+      "isim": "Kartalkaya Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Köroğlu Dağları'nda alp, kayaklı koşu ve tur kayağı için uygun kayak merkezidir.",
+      "adres": "Bolu güneydoğusu, Köroğlu Dağları",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 40.585966,
+      "longitude": 31.809815,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Bolu'nun 38 km güneydoğusu"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1850–2200 m"
+        },
+        {
+          "baslik": "Pist",
+          "deger": "12 pist, yaklaşık 20 km"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "2 telesiyej, 6 T-bar, 3 baby lift"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "1 Aralık – 31 Mart"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, kayaklı koşu ve tur kayağı"
+        }
+      ],
+      "resmiKaynak": "https://www.ktb.gov.tr/EN-99231/bolu-kartalkaya.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://kartalotel.com/en/ski/ski-map/",
+        "gorselUrl": "https://kartalotel.com/qaqiruv/themes/ajans360/assets/img/tmp/Kartalkaya-Pist-Harita@2x-80.jpg",
+        "kaynakAdi": "Kartal Otel",
+        "resmi": false,
+        "sonKontrol": "2026-10-22",
+        "durum": "gorsel"
+      }
+    },
+    {
+      "id": "kayak-kastamonu-ilgaz",
+      "kategori": "kayak",
+      "il": "Kastamonu",
+      "ilce": "Ilgaz",
+      "isim": "Ilgaz Dağı Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Ilgaz Dağı Milli Parkı içinde alp, kuzey disiplini, tur kayağı ve snowboard imkânı sunar.",
+      "adres": "Ilgaz Dağı",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 41.067658,
+      "longitude": 33.732755,
+      "anaBilgiler": [
+        {
+          "baslik": "Zirve",
+          "deger": "Büyükhacet 2587 m"
+        },
+        {
+          "baslik": "Yurduntepe rakımı",
+          "deger": "1838–2330 m"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "Yurduntepe 5600 m (2 etap)"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "20 Aralık – 30 Mart"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, kuzey disiplini, tur kayağı, snowboard"
+        },
+        {
+          "baslik": "Konum",
+          "deger": "Milli park içinde"
+        }
+      ],
+      "resmiKaynak": "https://kastamonu.ktb.gov.tr/Eklenti/112738,kastamonu-e-brosurpdf.pdf?0=",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sonKontrol": "2026-10-22",
+        "durum": "yok"
+      }
+    },
+    {
+      "id": "kayak-isparta-davraz",
+      "kategori": "kayak",
+      "il": "Isparta",
+      "ilce": "",
+      "isim": "Davraz Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Eğirdir Gölü manzaralı kayak merkezi. Alp, kuzey disiplini ve tur kayağı yapılır.",
+      "adres": "Isparta merkezine yaklaşık 26 km, Davraz Dağı",
+      "telefon": "0501 109 00 32",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 37.771014,
+      "longitude": 30.749874,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Isparta'ya yaklaşık 26 km"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "25 km"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "14 pist"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1650–2344 m"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "Ulparçukuru 2635 m"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "Aralık – Nisan"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, kuzey disiplini, tur kayağı, snowboard"
+        }
+      ],
+      "resmiKaynak": "https://isparta.ktb.gov.tr/TR-165310/davraz-kayak-merkezi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://davrazkayakmerkezi.org/pist-haritasi",
+        "gorselUrl": "https://davrazkayakmerkezi.org/shared/uploads/legacy/1b53e9879f85-harita_tr1.png",
+        "kaynakAdi": "Isparta Davraz Kayak Merkezi",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "gorsel"
+      }
+    },
+    {
+      "id": "kayak-antalya-saklikent",
+      "kategori": "kayak",
+      "il": "Antalya",
+      "ilce": "",
+      "isim": "Saklıkent Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Antalya'ya 50 km. Kış veya ilkbaharda aynı gün deniz ve kayak planlanabilir.",
+      "adres": "Antalya'ya yaklaşık 50 km, Bakırlıdağ çevresi",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 36.834286,
+      "longitude": 30.33054,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Antalya'ya 50 km, yaklaşık 1,5 saat"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "1800–2547 m"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "Bakırlıdağ 2547 m"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "20 Aralık – 30 Mart"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "1400 m telesiyej, 950 m ve 650 m teleski"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp, tur kayağı ve yamaç paraşütü"
+        }
+      ],
+      "resmiKaynak": "https://teda.ktb.gov.tr/Eklenti/6591,skicentersofturkeypdf.pdf?0=",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.saklikent.com.tr/saklikent-kayak-merkezi/menu/tr/6/pistler-ve-telesiyej.aspx",
+        "kaynakAdi": "Saklıkent Kayak Merkezi",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-kayseri-erciyes",
+      "kategori": "kayak",
+      "il": "Kayseri",
+      "ilce": "",
+      "isim": "Erciyes Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Türkiye'nin en geniş kayak altyapılarından biri. Dört kapıdan girilir; gondol ve telesiyej hattı vardır.",
+      "adres": "Kayseri'ye yaklaşık 25 km, Erciyes Dağı",
+      "telefon": "0352 342 39 17",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 38.550677,
+      "longitude": 35.492352,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Kayseri'ye yaklaşık 25 km"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "41 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "112 km"
+        },
+        {
+          "baslik": "En uzun pist",
+          "deger": "4210 m"
+        },
+        {
+          "baslik": "Mekanik tesis",
+          "deger": "19 tesis, 2 gondol"
+        },
+        {
+          "baslik": "Giriş kapıları",
+          "deger": "Develi, Tekir, Hisarcık, Hacılar"
+        }
+      ],
+      "resmiKaynak": "https://kulturportali.gov.tr/turkiye/kayseri/turizmaktiviteleri/erciyes-dagi--kayak-merkezi-",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.erciyeskayak.com/tr/pist-haritasi",
+        "gorselUrl": "https://www.erciyeskayak.com/img/gallery/erciyes-pist-haritasi.png",
+        "kaynakAdi": "Erciyes Kayak",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "gorsel"
+      }
+    },
+    {
+      "id": "kayak-erzurum-palandoken",
+      "kategori": "kayak",
+      "il": "Erzurum",
+      "ilce": "Palandöken",
+      "isim": "Palandöken Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Şehir merkezine yaklaşık 10 dakika. Gece kayağı yapılır; FIS onaylı pistleri vardır.",
+      "adres": "Palandöken, Erzurum",
+      "telefon": "0442 317 08 04",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 39.844691,
+      "longitude": 41.285856,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Merkeze yaklaşık 10 dakika"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "44 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "51 km"
+        },
+        {
+          "baslik": "Zirve",
+          "deger": "3176 m"
+        },
+        {
+          "baslik": "En uzun pist",
+          "deger": "12 km kesintisiz pist"
+        },
+        {
+          "baslik": "Özellik",
+          "deger": "Gece kayağı"
+        }
+      ],
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.ejder3200.com/merkez/palandoken",
+        "kaynakAdi": "EJDER3200 Kayak Merkezleri A.Ş.",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-erzurum-konakli",
+      "kategori": "kayak",
+      "il": "Erzurum",
+      "ilce": "",
+      "isim": "Konaklı Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "2011 Dünya Üniversiteler Kış Oyunları'na ev sahipliği yapan sakin kayak merkezidir.",
+      "adres": "Konaklı, Erzurum",
+      "telefon": "0442 317 08 04",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 39.779453,
+      "longitude": 41.20694,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Erzurum'a 17 km"
+        },
+        {
+          "baslik": "Kayak alanı rakımı",
+          "deger": "2200–3185 m"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "11 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "35 km"
+        },
+        {
+          "baslik": "Sezon",
+          "deger": "Ocak – Mart"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Alp disiplini ve snowboard"
+        }
+      ],
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.ejder3200.com/merkez/konakli",
+        "kaynakAdi": "EJDER3200 Kayak Merkezleri A.Ş.",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "sayfa"
+      }
+    },
+    {
+      "id": "kayak-erzurum-kandilli",
+      "kategori": "kayak",
+      "il": "Erzurum",
+      "ilce": "Aşkale",
+      "isim": "Kandilli Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Kayaklı koşu ve biatlon için kuzey disiplini merkezidir. 2011 Kış Oyunları burada yapıldı.",
+      "adres": "Aşkale, Kandilli",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Erzurum'a 36 km"
+        },
+        {
+          "baslik": "Pist rakımı",
+          "deger": "1713–1767 m"
+        },
+        {
+          "baslik": "Alan",
+          "deger": "160 hektar"
+        },
+        {
+          "baslik": "Kayaklı koşu",
+          "deger": "2,5 / 3,75 / 5 km pistler"
+        },
+        {
+          "baslik": "Kayak türü",
+          "deger": "Kayaklı koşu ve biatlon"
+        },
+        {
+          "baslik": "Kullanım",
+          "deger": "Dört mevsim çok amaçlı"
+        }
+      ],
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sonKontrol": "2026-10-22",
+        "durum": "yok"
+      }
+    },
+    {
+      "id": "kayak-kars-sarikamis",
+      "kategori": "kayak",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "isim": "Sarıkamış Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Soğanlı Dağları eteklerinde kristal karıyla bilinen kayak merkezidir. FIS tescilli pistleri vardır.",
+      "adres": "Sarıkamış, Kars'ın güneybatısı",
+      "telefon": "0474 223 21 36",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "latitude": 40.301595,
+      "longitude": 42.60374,
+      "anaBilgiler": [
+        {
+          "baslik": "Şehir mesafesi",
+          "deger": "Kars'a 52 km, ilçeye 1,5 km"
+        },
+        {
+          "baslik": "Pist sayısı",
+          "deger": "9 pist"
+        },
+        {
+          "baslik": "Pist uzunluğu",
+          "deger": "17 km"
+        },
+        {
+          "baslik": "En uzun pist",
+          "deger": "3500 m"
+        },
+        {
+          "baslik": "FIS",
+          "deger": "5 km pist Uluslararası Kayak Federasyonu tescilli"
+        },
+        {
+          "baslik": "Kar türü",
+          "deger": "Kristal kar"
+        }
+      ],
+      "resmiKaynak": "https://kars.ktb.gov.tr/Eklenti/82532,rota-karspdf.pdf?0=",
+      "sonDogrulama": "2026-10-22",
+      "pistHaritasi": {
+        "sayfaUrl": "https://www.sarikamisdagas.com.tr/",
+        "kaynakAdi": "Sarıkamış Dağ A.Ş.",
+        "resmi": true,
+        "sonKontrol": "2026-10-22",
+        "durum": "yok"
+      }
+    },
+    {
+      "id": "gezi-bursa-uludag-mp",
+      "kategori": "kisGezisi",
+      "il": "Bursa",
+      "ilce": "",
+      "isim": "Uludağ Milli Parkı",
+      "kurumTuru": "Milli park",
+      "kisaAciklama": "Kültür ve Turizm Bakanlığı, Uludağ'ı bitki örtüsü ve yaban hayatı nedeniyle milli park olarak tanıtır. Kışın da ziyaret edilen bir dağ alanıdır.",
+      "adres": "Uludağ, Bursa",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://www.ktb.gov.tr/EN-99234/bursa---uludag.html",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "gezi-erzurum-palandoken-dag",
+      "kategori": "kisGezisi",
+      "il": "Erzurum",
+      "ilce": "Palandöken",
+      "isim": "Palandöken Dağı",
+      "kurumTuru": "Doğal alan",
+      "kisaAciklama": "Erzurum İl Kültür ve Turizm Müdürlüğü, Palandöken Dağı çevresini dört mevsim gezi, piknik ve seyir alanı olarak tanıtır.",
+      "adres": "Palandöken Dağı, Erzurum",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "gezi-kars-allahuekber",
+      "kategori": "kisGezisi",
+      "il": "Kars",
+      "ilce": "Sarıkamış",
+      "isim": "Sarıkamış Allahuekber Dağları Milli Parkı",
+      "kurumTuru": "Milli park",
+      "kisaAciklama": "Kars İl Kültür ve Turizm Müdürlüğü, 2004'te kurulan milli parkı sarıçam ormanları ve Sarıkamış çevresiyle tanıtır.",
+      "adres": "Sarıkamış, Allahuekber Dağları",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://kars.ktb.gov.tr/Eklenti/82532,rota-karspdf.pdf?0=",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "gezi-ardahan-cildir",
+      "kategori": "kisGezisi",
+      "il": "Ardahan",
+      "ilce": "Çıldır",
+      "isim": "Çıldır Gölü",
+      "kurumTuru": "Korunan doğal alan",
+      "kisaAciklama": "Kars İl Kültür ve Turizm Müdürlüğü, gölün kışın donduğunu ve yüzeyde atlı kızak gezileri yapıldığını belirtir. Gölün büyük bölümü Ardahan sınırındadır.",
+      "adres": "Çıldır, Ardahan",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://kars.ktb.gov.tr/Eklenti/82532,rota-karspdf.pdf?0=",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-afyon-afbel",
+      "kategori": "termal",
+      "il": "Afyonkarahisar",
+      "ilce": "Merkez",
+      "isim": "AFBEL Termal & SPA Otel",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde Afyonkarahisar Belediyesi iştiraki termal otel olarak kayıtlıdır.",
+      "adres": "Dörtyol Mahallesi, 2150. Sokak No:4, 03030 Anıtkaya / Merkez / Afyonkarahisar",
+      "telefon": "0272 999 16 50",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/afyonkarahisar/merkez/sosyal-tesisler/afbel-termal-spa-otel",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 38.788232,
+      "longitude": 30.473028
+    },
+    {
+      "id": "termal-afyon-gazligol",
+      "kategori": "termal",
+      "il": "Afyonkarahisar",
+      "ilce": "İhsaniye",
+      "isim": "Belediye Gazlıgöl Termal Kaplıcaları",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde İhsaniye Gazlıgöl belediye kaplıcası olarak kayıtlıdır.",
+      "adres": "Cumhuriyet Mahallesi, 03370 Gazlıgöl/İhsaniye/Afyonkarahisar, Türkiye",
+      "telefon": "0272 273 61 62",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/afyonkarahisar/ihsaniye/sosyal-tesisler/belediye-gazligol-termal-kaplicalari",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 38.936653,
+      "longitude": 30.499327
+    },
+    {
+      "id": "termal-afyon-heybeli",
+      "kategori": "termal",
+      "il": "Afyonkarahisar",
+      "ilce": "Bolvadin",
+      "isim": "Bolvadin Heybeli Termal Tesisleri",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde Bolvadin Belediyesi termal tesisi olarak kayıtlıdır.",
+      "adres": "Güvenevler, Afyon Konya Yolu 25. Km, Bolvadin / Afyonkarahisar",
+      "telefon": "0272 248 36 36",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/afyonkarahisar/bolvadin/sosyal-tesisler/bolvadin-heybeli-termal-tesisleri",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 38.64526,
+      "longitude": 30.833879
+    },
+    {
+      "id": "termal-afyon-hudai",
+      "kategori": "termal",
+      "il": "Afyonkarahisar",
+      "ilce": "Sandıklı",
+      "isim": "Hüdai Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca tesisleri listesinde işletmecisi Sandıklı Belediyesi olarak kayıtlıdır.",
+      "adres": "Tozkoparan Mevkii Çakır Mah. Sandıklı/Afyonkarahisar",
+      "telefon": "0272 535 73 27",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hudai.sandikli.bel.tr/iletisim",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 38.432397,
+      "longitude": 30.184115
+    },
+    {
+      "id": "termal-afyon-iscehisar",
+      "kategori": "termal",
+      "il": "Afyonkarahisar",
+      "ilce": "İscehisar",
+      "isim": "İscehisar Belediyesi Termal Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Kocakır Mevkii Kavak Mahallesi İscehisar/Afyonkarahisar",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-ankara-ayas-tbb",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Ayaş",
+      "isim": "Ayaş Türkiye Barolar Birliği Termal Yaşam Merkezi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Barolar Birliği",
+      "kisaAciklama": "Kamu Tesisleri dizininde Türkiye Barolar Birliği Ayaş termal yaşam merkezi olarak kayıtlıdır.",
+      "adres": "Hacıveli Mahallesi, Ankara Caddesi No:1, 06710 Ayaş / Ankara",
+      "telefon": "0312 700 00 55",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/ankara/ayas/sosyal-tesisler/ayas-turkiye-barolar-birligi-termal-yasam-merkezi-man-0013",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 40.019746,
+      "longitude": 32.336913
+    },
+    {
+      "id": "termal-ankara-kizilcahamam-buyuk",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Kızılcahamam",
+      "isim": "Kızılcahamam Belediyesi Büyük Kaplıca",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı listesinde Kızılcahamam Belediyesi termal kaplıca işletmesi olarak kayıtlıdır.",
+      "adres": "Yenice Mah. Soğuksu Cad. No: 3 Kızılcahamam-ankara",
+      "telefon": "0312 736 20 00",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://kizilcahamam.bel.tr/TesisDetayi/BUYUK-KAPLICA/45",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 40.469648,
+      "longitude": 32.639411
+    },
+    {
+      "id": "termal-ankara-kizilcahamam-kucuk",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Kızılcahamam",
+      "isim": "Kızılcahamam Belediyesi Küçük Kaplıca",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı listesinde Kızılcahamam Belediyesi küçük kaplıca tesisi olarak kayıtlıdır.",
+      "adres": "Yenice Mah. Namık Kemal Cad. No: 32 Kızılcahamam-ankara",
+      "telefon": "0312 736 22 26",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://kizilcahamam.bel.tr/TesisDetayi/KUCUK-KAPLICA/24",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 40.469379,
+      "longitude": 32.644339
+    },
+    {
+      "id": "termal-ankara-soguksu",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Kızılcahamam",
+      "isim": "Kızılcahamam Belediyesi Soğuksu Otel",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde Kızılcahamam Belediyesi Soğuksu Otel olarak kayıtlıdır.",
+      "adres": "Yenice Mahallesi, Soğuksu Caddesi No:50, Kızılcahamam / Ankara",
+      "telefon": "0312 736 30 01",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/ankara/kizilcahamam/oteller/kizilcahamam-belediyesi-soguksu-otel",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-ankara-hakimevi",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Kızılcahamam",
+      "isim": "Kızılcahamam Eğitim ve Dinlenme Tesisi (Hakimevi)",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Vakıf",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde vakıf tesisi olarak kayıtlıdır.",
+      "adres": "Akçay Mah. Gençlik Cad. No: 3 Kızılcahamam-ankara",
+      "telefon": "0312 736 61 53",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21",
+      "latitude": 40.472042,
+      "longitude": 32.649275
+    },
+    {
+      "id": "termal-ankara-kizilcahamam-fizik-tedavi-ve-rehabilitas",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Kızılcahamam",
+      "isim": "Kızılcahamam Fizik Tedavi ve Rehabilitasyon Merkezi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Devlet hastanesi",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde devlet hastanesi tesisi olarak kayıtlıdır.",
+      "adres": "İsmetpaşa Mah. Akyüzler Cad. No: 1 Kızılcahamam",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-ankara-sifa",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Kızılcahamam",
+      "isim": "Kızılcahamam Şifa Termal Sosyal Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde Ankara Büyükşehir Belediyesi Şifa Termal Sosyal Tesisi olarak kayıtlıdır.",
+      "adres": "Yenice Mah., Namık Kemal Cad. No:41, Kızılcahamam / Ankara",
+      "telefon": "0312 736 72 43",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/ankara/kizilcahamam/sosyal-tesisler/sifa-termal-sosyal-tesisi-kizilcahamam",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 40.469055,
+      "longitude": 32.642656
+    },
+    {
+      "id": "termal-ankara-medrese",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Haymana",
+      "isim": "Medrese Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Medrese Mah. Fatih Cad. No: 4 Haymana-ankara",
+      "telefon": "0312 658 29 02",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-ankara-saray",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Haymana",
+      "isim": "Saray Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Seyran Mah. Hüseyin Gökşen Cad. No: 4 Haymana-ankara",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-ankara-haymana-merkez",
+      "kategori": "termal",
+      "il": "Ankara",
+      "ilce": "Haymana",
+      "isim": "Tarihi Haymana Kaplıca Tesisleri",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde Haymana merkez kaplıcası olarak kayıtlıdır. Medrese ve Saray kaplıcalarından ayrı bir tesistir.",
+      "adres": "Çaldağ Mah., Hüdaverdi Çetinkaya Sk. No:43, 06860 Haymana/Ankara",
+      "telefon": "0312 658 10 07",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://kamutesisleri.com/ankara/haymana/sosyal-tesisler/tarihi-haymana-kaplica-tesisleri",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 39.432295,
+      "longitude": 32.492276
+    },
+    {
+      "id": "termal-balikesir-afrodit",
+      "kategori": "termal",
+      "il": "Balıkesir",
+      "ilce": "Güre",
+      "isim": "Afrodit Termal",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Güre Mahallesi-edremit",
+      "telefon": "",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-balikesir-aytac",
+      "kategori": "termal",
+      "il": "Balıkesir",
+      "ilce": "Balya",
+      "isim": "Aytaç Termal",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Ilıca Mahallesi-balya/Balıkesir",
+      "telefon": "",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-balikesir-bigadic",
+      "kategori": "termal",
+      "il": "Balıkesir",
+      "ilce": "Bigadiç",
+      "isim": "Bigadiç Belediyesi Hisarköy Termal Tesisleri",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Hisarköy Mahallesi Bigadiç/Balıkesir",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-balikesir-form",
+      "kategori": "termal",
+      "il": "Balıkesir",
+      "ilce": "Edremit",
+      "isim": "Form Termal Otel",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Güre Mahallesi Edremit/Balıkesir",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-balikesir-hattusa",
+      "kategori": "termal",
+      "il": "Balıkesir",
+      "ilce": "Güre",
+      "isim": "Hattuşa Kazdağları Termal Tesis",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Güre Beldesi-edremit",
+      "telefon": "",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-balikesir-eman",
+      "kategori": "termal",
+      "il": "Balıkesir",
+      "ilce": "Sındırgı",
+      "isim": "Sındırgı Belediyesi Sosyal Tesisleri (Eman Termal)",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde Sındırgı Belediyesi Eman Termal tesisi olarak kayıtlıdır.",
+      "adres": "Hisaralan Mevkii, Sındırgı / Balıkesir",
+      "telefon": "0266 400 02 34",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/balikesir/sindirgi/sosyal-tesisler/sindirgi-belediyesi-sosyal-tesisleri-eman-termal",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-bingol-universite",
+      "kategori": "termal",
+      "il": "Bingöl",
+      "ilce": "Merkez",
+      "isim": "Bingöl Üniversitesi Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Üniversite",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Bingöl Üniversitesi olarak kayıtlıdır.",
+      "adres": "Merkez Ilıcalar Beldesi Kös Deresi Bingöl-erzurum Karayolu Üzeri 22.km Bingöl",
+      "telefon": "0426 252 50 04",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://ilicalar.bingol.edu.tr/iletisim/",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 38.987943,
+      "longitude": 40.672737
+    },
+    {
+      "id": "termal-bolu-aibu",
+      "kategori": "termal",
+      "il": "Bolu",
+      "ilce": "Karacasu",
+      "isim": "Abant İzzet Baysal Üniversitesi Karacasu FTR Hastanesi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Üniversite",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde üniversite tesisi olarak kayıtlıdır.",
+      "adres": "Karacasu Bolu",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-bolu-ftr",
+      "kategori": "termal",
+      "il": "Bolu",
+      "ilce": "Karacasu",
+      "isim": "Bolu Fizik Tedavi ve Rehabilitasyon Hastanesi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Sağlık Bakanlığı",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde sağlık bakanlığı tesisi olarak kayıtlıdır.",
+      "adres": "Karacasu / Bolu",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-bursa-polisevi",
+      "kategori": "termal",
+      "il": "Bursa",
+      "ilce": "Osmangazi",
+      "isim": "Bursa Polisevi Termal Tesisleri",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Emniyet",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde emniyet tesisi olarak kayıtlıdır.",
+      "adres": "Çekirge Mah. Selvinaz Sok. No.5/1 Osmangazi/Bursa",
+      "telefon": "0224 239 69 00",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21",
+      "latitude": 40.1953,
+      "longitude": 29.0286
+    },
+    {
+      "id": "termal-bursa-gemlik",
+      "kategori": "termal",
+      "il": "Bursa",
+      "ilce": "Gemlik",
+      "isim": "Gemlik Termal Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Kamu Tesisleri dizininde Bursa Büyükşehir Belediyesi Gemlik Termal Tesisi olarak kayıtlıdır.",
+      "adres": "Yener Sokak, Hisar Mahallesi, Gemlik / Bursa",
+      "telefon": "0224 800 20 60",
+      "kullanimTuru": "Günübirlik ve konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/bursa/gemlik/sosyal-tesisler/gemlik-termal-tesisi",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 40.423394,
+      "longitude": 29.15984
+    },
+    {
+      "id": "termal-bursa-tumbuldek",
+      "kategori": "termal",
+      "il": "Bursa",
+      "ilce": "Paşa",
+      "isim": "Tümbüldek Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Akarca Köyü M.kemal Paşa/Bursa",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-canakkale-bardakcilar",
+      "kategori": "termal",
+      "il": "Çanakkale",
+      "ilce": "Çan",
+      "isim": "Bardakçılar Dağ Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Köy",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde köy tesisi olarak kayıtlıdır.",
+      "adres": "Bardakçılar Köyü Çan-çanakkale",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-canakkale-kucuktepe",
+      "kategori": "termal",
+      "il": "Çanakkale",
+      "ilce": "Çan",
+      "isim": "Küçüktepe Karaılıca Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Köy",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde köy tesisi olarak kayıtlıdır.",
+      "adres": "Küçüktepe Köyü Muhtarlığı Çan-çanakkale",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-erzurum-aziziye",
+      "kategori": "termal",
+      "il": "Erzurum",
+      "ilce": "Aziziye",
+      "isim": "Aziziye Termal Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Aziziye Belediyesi olarak kayıtlıdır.",
+      "adres": "Yeni Mah.aziziye Cad.no 122 Aziziye/Erzurum",
+      "telefon": "0442 631 30 28",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://okuldisiogrenme.eba.gov.tr/mekan-detay/aziziye-belediyesi-ilica-termal-tesisleri-10300",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-istanbul-ataturk",
+      "kategori": "termal",
+      "il": "İstanbul",
+      "ilce": "Çeşme",
+      "isim": "Atatürk Kaplıca Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Atatürk Mah. Kuruçeşme Caddesi No: 28 Esenyurt",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-istanbul-saadetdere",
+      "kategori": "termal",
+      "il": "İstanbul",
+      "ilce": "Esenyurt",
+      "isim": "Saadetdere Kaplıca Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Turgut Özal Mah. 64. Sk. No: 10 Esenyurt İstanbul",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-izmir-balcova",
+      "kategori": "termal",
+      "il": "İzmir",
+      "ilce": "Balçova",
+      "isim": "Balçova Termal Otel ve Sosyal Tesisleri",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Valilik",
+      "kisaAciklama": "Kamu Tesisleri dizininde İzmir Valiliği Balçova Termal Otel ve Sosyal Tesisleri olarak kayıtlıdır. Dokuz Eylül Üniversitesi kaplıca biriminden ayrı bir tesistir.",
+      "adres": "Vali Hüseyin Öğütcen Caddesi No:16/1 İç Kapı No:1, 35330 Balçova / İzmir",
+      "telefon": "444 76 11",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/izmir/balcova/misafirhaneler/balcova-termal-tesisleri",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 38.388062,
+      "longitude": 27.035314
+    },
+    {
+      "id": "termal-izmir-deu",
+      "kategori": "termal",
+      "il": "İzmir",
+      "ilce": "Balçova",
+      "isim": "Dokuz Eylül Üniversitesi Kaplıca Birimi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Üniversite",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde Dokuz Eylül Üniversitesi Uygulama ve Araştırma Hastanesi tesisi olarak kayıtlıdır.",
+      "adres": "İnciraltı Mah. Mithatpaşa Cad. İnciraltı Yerleşkesi No: 1606 Balçova/İzmir",
+      "telefon": "0232 412 22 22",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hastane.deu.edu.tr/iletisim-ulasim.html",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-izmir-nebiler",
+      "kategori": "termal",
+      "il": "İzmir",
+      "ilce": "Dikili",
+      "isim": "Nebiler Köy Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Köy",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde köy tesisi olarak kayıtlıdır.",
+      "adres": "Nebiler Köyü Dikili/İzmir",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-kahramanmaras-ilica",
+      "kategori": "termal",
+      "il": "Kahramanmaraş",
+      "ilce": "Onikişubat",
+      "isim": "Kahramanmaraş Büyükşehir Belediyesi Ilıca Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Ilıca Mah.yunus Emre Cad. No: 43/F Onikişubat K.maraş",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-kayseri-yesilhisar",
+      "kategori": "termal",
+      "il": "Kayseri",
+      "ilce": "Yeşilhisar",
+      "isim": "Yeşilhisar İçmece Sosyal Tesisleri",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Yeşilhisar Belediyesi olarak kayıtlıdır.",
+      "adres": "İçmece Mah. İçmece Küme Evleri No: 22 Yeşilhisar/Kayseri",
+      "telefon": "0352 651 29 29",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://kayseri.bel.tr/kesfet-listeleme/yesilhisar-icmeceleri",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-kirsehir-ahi-evran",
+      "kategori": "termal",
+      "il": "Kırşehir",
+      "ilce": "Merkez",
+      "isim": "Ahi Evran Üniversitesi Kaplıca Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Üniversite",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde üniversite tesisi olarak kayıtlıdır.",
+      "adres": "Kusdıllı Mah.terme Caddesi No.135 Merkez-kırsehır",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-kocaeli-golcuk",
+      "kategori": "termal",
+      "il": "Kocaeli",
+      "ilce": "Gölcük",
+      "isim": "Gölcük Belediyesi Yazlık Ilıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde Gölcük Belediyesi termal tesisi olarak kayıtlıdır.",
+      "adres": "Yazlık Yeni Mahalle Osmanlı Caddesi No: 1 Gölcük/Kocaeli",
+      "telefon": "0262 433 23 33",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://golcuk.bel.tr/ne-nerede-d/1/2/-yazlik-ilica",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-konya-ilgin",
+      "kategori": "termal",
+      "il": "Konya",
+      "ilce": "Ilgın",
+      "isim": "Ilgın Belediyesi Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Ilgın Belediyesi olarak kayıtlıdır.",
+      "adres": "Ilıca Mah.inönü Cad.kaplıca Civarı Mevkii Ilgın Ilgın/Konya",
+      "telefon": "0332 882 71 52",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://www.ilginkaplicalari.com/iletisim.php",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 38.278241,
+      "longitude": 31.888818
+    },
+    {
+      "id": "termal-kutahya-citgol",
+      "kategori": "termal",
+      "il": "Kütahya",
+      "ilce": "Simav",
+      "isim": "Çitgöl Termal Tesisleri",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Çitgöl Belediyesi olarak kayıtlıdır.",
+      "adres": "Kovancık Mevkii-çitgöl-simav-kütahya",
+      "telefon": "0274 543 22 67",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://www.simav.gov.tr/simav-kaplicalari",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-kutahya-eynal",
+      "kategori": "termal",
+      "il": "Kütahya",
+      "ilce": "Simav",
+      "isim": "Eynal Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Simav Belediyesi olarak kayıtlıdır.",
+      "adres": "Eynal Kaplıcaları Mevkii- Simav- Kütahya",
+      "telefon": "0274 547 20 01",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://www.simav.bel.tr/istirak/eynal-kaplicalari/7/",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-kutahya-gobel",
+      "kategori": "termal",
+      "il": "Kütahya",
+      "ilce": "Tavşanlı",
+      "isim": "Göbel Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Tavşanlı Belediyesi olarak kayıtlıdır.",
+      "adres": "Göbel Kaplıcası -tavşanlı-kütahya",
+      "telefon": "0274 653 21 55",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://www.gobeltermal.com/iletisim",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-kutahya-yoncali",
+      "kategori": "termal",
+      "il": "Kütahya",
+      "ilce": "Merkez",
+      "isim": "Kütahya Yoncalı Uygulama Oteli (Termal)",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "MEB",
+      "kisaAciklama": "Kamu Tesisleri dizininde Millî Eğitim Bakanlığı Yoncalı Uygulama Oteli olarak kayıtlıdır.",
+      "adres": "Yoncalı Mahallesi, Sekiören Caddesi No:14/2, Merkez / Kütahya",
+      "telefon": "0274 250 00 65",
+      "kullanimTuru": "Konaklamalı",
+      "resmiKaynak": "https://kamutesisleri.com/kutahya/merkez/uygulama-otelleri/kutahya-yoncali-uygulama-oteli",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 39.485642,
+      "longitude": 29.836754
+    },
+    {
+      "id": "termal-manisa-kula",
+      "kategori": "termal",
+      "il": "Manisa",
+      "ilce": "Kula",
+      "isim": "Kula Emir Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Kula Belediyesi olarak kayıtlıdır.",
+      "adres": "Şehitlioğlu Köyü Acısu Mevki Kula/Manisa",
+      "telefon": "0531 741 52 95",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://www.kula.bel.tr/istirak/emir-kaplicalari/21/",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-manisa-kursunlu",
+      "kategori": "termal",
+      "il": "Manisa",
+      "ilce": "Kurşunlu",
+      "isim": "Kurşunlu Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde belediye tesisi olarak kayıtlıdır.",
+      "adres": "Kurşunlu Kaplıcaları Allahdiye Köyü Banyolar Mevkii Salihli Manisa",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-samsun-havza",
+      "kategori": "termal",
+      "il": "Samsun",
+      "ilce": "Havza",
+      "isim": "Havza Fizik Tedavi ve Rehabilitasyon Merkezi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Üniversite",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde üniversite tesisi olarak kayıtlıdır.",
+      "adres": "İmaret Mah. Şehit Uzman Çavuş Osman Ünal Sok. No: 25 Havza/Samsun",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-sivas-cumhuriyet",
+      "kategori": "termal",
+      "il": "Sivas",
+      "ilce": "Yıldızeli",
+      "isim": "Cumhuriyet Üniversitesi Kaplıca Merkezi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Üniversite",
+      "kisaAciklama": "Sağlık Bakanlığı 21.09.2019 lisanslı kaplıca listesinde üniversite tesisi olarak kayıtlıdır.",
+      "adres": "Sıcak Çermik Mevkii Kalın Beldesi Yıldızeli/Sivas",
+      "telefon": "",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "sonDogrulama": "2019-09-21"
+    },
+    {
+      "id": "termal-sivas-soguk-cermik",
+      "kategori": "termal",
+      "il": "Sivas",
+      "ilce": "Çermik",
+      "isim": "Soğuk Çermik Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Sivas Belediyesi olarak kayıtlıdır.",
+      "adres": "Beypınar Mevkii Soğuk Çermik Kaplıcası Sivas",
+      "telefon": "0553 383 81 13",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://www.sivaskaplica.com/iletisim",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-tokat-resadiye",
+      "kategori": "termal",
+      "il": "Tokat",
+      "ilce": "Çermik",
+      "isim": "Reşadiye Belediye Kaplıcası",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Belediye",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde işletmecisi Reşadiye Belediyesi olarak kayıtlıdır.",
+      "adres": "Çermik Mahallesi Ahmet Yesevi Cad. No: 8 Reşadiye Tokat",
+      "telefon": "0356 461 55 55",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://resadiye.bel.tr/iletisim/",
+      "sonDogrulama": "2026-10-22"
+    },
+    {
+      "id": "termal-yalova-bakanlik",
+      "kategori": "termal",
+      "il": "Yalova",
+      "ilce": "Termal",
+      "isim": "Yalova Termal Tesisi",
+      "tesisSinifi": "kamu",
+      "kurumTuru": "Sağlık Bakanlığı",
+      "kisaAciklama": "Sağlık Bakanlığı kaplıca listesinde bakanlık tesisi olarak kayıtlıdır.",
+      "adres": "Termal-yalova",
+      "telefon": "0226 675 74 00",
+      "kullanimTuru": "",
+      "resmiKaynak": "https://www.yalovatermal.com/iletisim",
+      "sonDogrulama": "2026-10-22",
+      "latitude": 40.603379,
+      "longitude": 29.173883
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "kategori": "termal",
+  "kataloglar": [
+    {
+      "id": "hsgm-kaplica-listesi",
+      "url": "https://hsgm.saglik.gov.tr/depo/birimler/cevre-sagligi-db/Dokumanlar/Diger/KaplicaPeloditalossolistesi_21092019tesisDetay.pdf",
+      "tur": "hsgm_pdf"
+    }
+  ],
+  "adaylar": []
+}
