@@ -1,6 +1,6 @@
 {
   "not": "Belediye sosyal tesislerinin kendi resmî sitelerinde yayımlanan yeme-içme fiyatları. Aylık tam tarama + haftalık kaynak kontrolü (sosyal_menu/menu.py). kapsam: 'tesis' = tesisin kendi menüsü, 'belediye' = belediyenin sosyal tesisler için genel fiyat tarifesi. durum: 'guncel' | 'kaynak_bulunamadi' (son doğrulanan fiyatlar korunur).",
-  "guncelleme": "2026-10-19",
+  "guncelleme": "2026-10-26",
   "items": [
     {
       "il": "Amasya",
@@ -10,7 +10,7 @@
       "kaynak_adi": "Taşova Belediyesi",
       "belge": "2026 hazi̇ran ayi mecli̇s kararlari",
       "yil": 2026,
-      "kaynak_tarihi": "2026-10-19",
+      "kaynak_tarihi": "2026-10-26",
       "kategoriler": [
         {
           "ad": "Ana yemekler",
@@ -55,8 +55,8 @@
         }
       ],
       "durum": "guncel",
-      "kontrol": "2026-10-19",
-      "dogrulama": "2026-10-19"
+      "kontrol": "2026-10-26",
+      "dogrulama": "2026-10-26"
     },
     {
       "il": "Amasya",
@@ -66,7 +66,7 @@
       "kaynak_adi": "Taşova Belediyesi",
       "belge": "2026 hazi̇ran ayi mecli̇s kararlari",
       "yil": 2026,
-      "kaynak_tarihi": "2026-10-19",
+      "kaynak_tarihi": "2026-10-26",
       "kategoriler": [
         {
           "ad": "Ana yemekler",
@@ -111,8 +111,8 @@
         }
       ],
       "durum": "guncel",
-      "kontrol": "2026-10-19",
-      "dogrulama": "2026-10-19"
+      "kontrol": "2026-10-26",
+      "dogrulama": "2026-10-26"
     },
     {
       "il": "İstanbul",
