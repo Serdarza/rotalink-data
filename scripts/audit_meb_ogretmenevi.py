@@ -66,7 +66,7 @@ def main():
             ratio=difflib.SequenceMatcher(None,a,b).ratio() if a and b else 0.0
             exact=a==b and bool(a)
             district=norm(src["ilce"])
-            locality=norm(f.get("isim","")+" "+f.get("ilce","")+" "+f.get("adres",""))
+            locality=norm(" ".join(str(f.get(k) or "") for k in ("isim","ilce","adres")))
             district_match=district not in ("merkez","buyuksehir","") and district in locality.split()
             score=(140 if has_phone else 0)+(85 if exact else 0)+(40 if ratio>.92 else 18 if ratio>.80 else 0)+(25 if district_match else 0)
             opts.append((score,i,has_phone,exact,ratio,district_match))
