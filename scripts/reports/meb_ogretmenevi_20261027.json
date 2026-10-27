@@ -1,0 +1,868 @@
+{
+  "source": "https://dhgm.meb.gov.tr/edestek/ogretmenevi/ogretmenevi_liste.aspx",
+  "timestamp": "2026-10-27T10:17:00.995760+00:00",
+  "official_count": 526,
+  "database_count": 1873,
+  "counts": {
+    "same_phone": 426,
+    "second_added": 30,
+    "ambiguous": 5,
+    "unmatched": 65
+  },
+  "second_added": [
+    {
+      "il": "Amasya",
+      "source": "Suluova Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Suluova Öğretmenevi",
+      "telefon": "(0358) 417 63 57",
+      "telefon2": "0358 417 24 11"
+    },
+    {
+      "il": "Antalya",
+      "source": "Alanya Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Alanya Ögretmen Evi ve Akşam Sanat Okulu",
+      "telefon": "(0242) 512 57 92",
+      "telefon2": "0242 513 01 47"
+    },
+    {
+      "il": "Bolu",
+      "source": "Göynük Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Göynük Öğretmenevi",
+      "telefon": "05304845797",
+      "telefon2": "0374 451 61 47"
+    },
+    {
+      "il": "Diyarbakır",
+      "source": "Bismil Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Bismil Öğretmenevi",
+      "telefon": "04124153048",
+      "telefon2": "0412 415 30 76"
+    },
+    {
+      "il": "Elazığ",
+      "source": "Sivrice Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Sivrice Öğretmenevi",
+      "telefon": "(0424) 411 20 20",
+      "telefon2": "0555 088 64 23"
+    },
+    {
+      "il": "Erzincan",
+      "source": "Çayırlı Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Çayırlı Öğretmenevi",
+      "telefon": "(0446) 3112350",
+      "telefon2": "0446 311 20 53"
+    },
+    {
+      "il": "Erzurum",
+      "source": "Şenkaya Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Şenkaya Öğretmenevi",
+      "telefon": "(0442) 861 24 11",
+      "telefon2": "0442 861 25 11"
+    },
+    {
+      "il": "Hakkari",
+      "source": "Çukurca Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Çukurca Öğretmenevi",
+      "telefon": "0438 511 21 36",
+      "telefon2": "0542 698 49 83"
+    },
+    {
+      "il": "Hatay",
+      "source": "Dörtyol Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Dörtyol Öğretmenevi",
+      "telefon": "(0546) 490 41 33",
+      "telefon2": "0326 712 28 51"
+    },
+    {
+      "il": "Hatay",
+      "source": "Hassa Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Hassa Öğretmenevi",
+      "telefon": "05346125909",
+      "telefon2": "0326 771 63 31"
+    },
+    {
+      "il": "Hatay",
+      "source": "Kırıkhan Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Kırıkhan Öğretmenevi",
+      "telefon": "(0543) 110 84 45",
+      "telefon2": "0326 344 18 98"
+    },
+    {
+      "il": "Kastamonu",
+      "source": "Şenpazarı Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Şenpazar Öğretmenevi",
+      "telefon": "0366 788 14 13",
+      "telefon2": "0539 241 79 70"
+    },
+    {
+      "il": "Konya",
+      "source": "Akşehir Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Akşehir Öğretmenevi",
+      "telefon": "05017343454",
+      "telefon2": "0332 813 63 10"
+    },
+    {
+      "il": "Konya",
+      "source": "Kulu Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Kulu Öğretmenevi",
+      "telefon": "0332 641 33 04",
+      "telefon2": "0535 617 62 42"
+    },
+    {
+      "il": "Konya",
+      "source": "Tuzlukçu  Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Tuzlukçu Öğretmenevi",
+      "telefon": "05058169057",
+      "telefon2": "0332 861 26 96"
+    },
+    {
+      "il": "Kütahya",
+      "source": "Simav Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Simav Öğretmenevi",
+      "telefon": "05352600043",
+      "telefon2": "0274 513 53 80"
+    },
+    {
+      "il": "Malatya",
+      "source": "Darende Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Darende Öğretmenevi",
+      "telefon": "0422 165 16 55",
+      "telefon2": "0422 615 16 55"
+    },
+    {
+      "il": "Mardin",
+      "source": "Kızıltepe Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Kızıltepe Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "05345211550",
+      "telefon2": "0482 312 52 27"
+    },
+    {
+      "il": "Mardin",
+      "source": "Midyat Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Midyat Öğretmen Evi Ve Aso Müdürlüğü",
+      "telefon": "0482 462 21 93",
+      "telefon2": "0535 766 47 00"
+    },
+    {
+      "il": "Mardin",
+      "source": "Savur Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Savur Öğretmenevi",
+      "telefon": "0482 571 25 05",
+      "telefon2": "0542 272 52 06"
+    },
+    {
+      "il": "Niğde",
+      "source": "Çiftlik Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Çiftlik Öğretmenevi",
+      "telefon": "0388 411 23 05",
+      "telefon2": "0553 318 96 83"
+    },
+    {
+      "il": "Ordu",
+      "source": "Akkuş Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Akkuş Öğretmen Evi Akşam Sanat Okulu",
+      "telefon": "0452 611 25 75",
+      "telefon2": "0452 611 22 88"
+    },
+    {
+      "il": "Ordu",
+      "source": "Ünye Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Ünye Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "telefon": "05300534452",
+      "telefon2": "0452 323 94 49"
+    },
+    {
+      "il": "Samsun",
+      "source": "Bafra Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Bafra Öğretmenevi",
+      "telefon": "0362 537 29 38",
+      "telefon2": "0362 537 29 28"
+    },
+    {
+      "il": "Trabzon",
+      "source": "Araklı Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Araklı Öğretmenevi",
+      "telefon": "05306856616",
+      "telefon2": "0462 721 67 50"
+    },
+    {
+      "il": "Trabzon",
+      "source": "Tonya Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Tonya Öğretmenevi",
+      "telefon": "0462 881 13 61",
+      "telefon2": "0462 881 25 32"
+    },
+    {
+      "il": "Yozgat",
+      "source": "Saraykent Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Saraykent Öğretmenevi",
+      "telefon": "0354 638 64 60",
+      "telefon2": "0354 368 64 60"
+    },
+    {
+      "il": "Aksaray",
+      "source": "Ortaköy Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Ortaköy Öğretmenevi Ve Akşam Sanat Okulu",
+      "telefon": "(0382) 351 50 88",
+      "telefon2": "0382 351 25 08"
+    },
+    {
+      "il": "Şırnak",
+      "source": "Silopi Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Silopi Öğretmenevi",
+      "telefon": "05055750073",
+      "telefon2": "0486 504 84 40"
+    },
+    {
+      "il": "Kilis",
+      "source": "Kilis Merkez Öğretmenevi ve Akşam Sanat Okulu",
+      "db": "Kilis Merkez Öğretmenevi",
+      "telefon": "0348 813 38 34",
+      "telefon2": "0348 813 11 78"
+    }
+  ],
+  "ambiguous": [
+    {
+      "source": {
+        "sira": 41,
+        "il": "Ankara",
+        "ilce": "Nallıhan",
+        "isim": "Nallıhan Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0312 785 23 74",
+        "key": "03127852374"
+      },
+      "candidates": [
+        {
+          "name": "Ankara Nallıhan Öğretmenevi",
+          "score": 150
+        },
+        {
+          "name": "Ankara Kızılcahamam Öğretmenevi",
+          "score": 0
+        },
+        {
+          "name": "Ankara Haymana Öğretmenevi",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "source": {
+        "sira": 154,
+        "il": "Elazığ",
+        "ilce": "Kovancılar",
+        "isim": "Kovancılar Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0424 611 24 11",
+        "key": "04246112411"
+      },
+      "candidates": [
+        {
+          "name": "Kovancılar Öğretmenevi",
+          "score": 150
+        },
+        {
+          "name": "Elazığ Arıcak Öğretmenevi",
+          "score": 0
+        },
+        {
+          "name": "Elazığ Ağın Yusuf Karabatak Öğretmenevi",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "source": {
+        "sira": 251,
+        "il": "İstanbul",
+        "ilce": "Üsküdar",
+        "isim": "Adile Sultan Kasrı Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0216 325 64 44",
+        "key": "02163256444"
+      },
+      "candidates": [
+        {
+          "name": "Üsküdar Adile Sultan Kasrı Öğretmenevi",
+          "score": 43
+        },
+        {
+          "name": "İstanbul Beylikdüzü Atatürk Öğretmenevi",
+          "score": 0
+        },
+        {
+          "name": "Ziraat Bankası Balmumcu Misafirhanesi",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "source": {
+        "sira": 354,
+        "il": "Muş",
+        "ilce": "Varto",
+        "isim": "Varto Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0436 411 30 04",
+        "key": "04364113004"
+      },
+      "candidates": [
+        {
+          "name": "Varto Öğretmenevi",
+          "score": 150
+        },
+        {
+          "name": "Hasköy Öğretmenevi",
+          "score": 140
+        },
+        {
+          "name": "Muş Merkez Öğretmenevi Aso",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "source": {
+        "sira": 511,
+        "il": "Ardahan",
+        "ilce": "Merkez",
+        "isim": "Merkez Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0478 211 27 50",
+        "key": "04782112750"
+      },
+      "candidates": [
+        {
+          "name": "Göle Öğretmenevi",
+          "score": 140
+        },
+        {
+          "name": "Ardahan Öğretmenevi",
+          "score": 140
+        },
+        {
+          "name": "Posof Öğretmenevi",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "sira": 11,
+      "il": "Adıyaman",
+      "ilce": "Merkez",
+      "isim": "Merkez Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0416 214 24 11",
+      "key": "04162142411"
+    },
+    {
+      "sira": 12,
+      "il": "Adıyaman",
+      "ilce": "Sincik",
+      "isim": "Hüseyin Çelik Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0416 421 21 40",
+      "key": "04164212140"
+    },
+    {
+      "sira": 17,
+      "il": "Afyonkarahisar",
+      "ilce": "Merkez",
+      "isim": "Merkez Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0272 212 08 92",
+      "key": "02722120892"
+    },
+    {
+      "sira": 20,
+      "il": "Ağrı",
+      "ilce": "Diyadin",
+      "isim": "Diyadin Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0471 511 47 06",
+      "key": "04715114706"
+    },
+    {
+      "sira": 23,
+      "il": "Ağrı",
+      "ilce": "Merkez",
+      "isim": "Burçin Uysal Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0472 215 30 06",
+      "key": "04722153006"
+    },
+    {
+      "sira": 31,
+      "il": "Amasya",
+      "ilce": "Taşova",
+      "isim": "Taşova Şehit Ömer Kesim Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0358 312 13 20",
+      "key": "03583121320"
+    },
+    {
+      "sira": 34,
+      "il": "Ankara",
+      "ilce": "Çamlıdere",
+      "isim": "Çamlıdere Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0312 753 13 98",
+      "key": "03127531398"
+    },
+    {
+      "sira": 38,
+      "il": "Ankara",
+      "ilce": "Kahramankazan",
+      "isim": "Kahramankazan Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0312 814 24 11",
+      "key": "03128142411"
+    },
+    {
+      "sira": 39,
+      "il": "Ankara",
+      "ilce": "Kalecik",
+      "isim": "Kalecik Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0312 857 10 10",
+      "key": "03128571010"
+    },
+    {
+      "sira": 42,
+      "il": "Ankara",
+      "ilce": "Polatlı",
+      "isim": "Polatlı Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0312 623 26 64",
+      "key": "03126232664"
+    },
+    {
+      "sira": 43,
+      "il": "Ankara",
+      "ilce": "Sincan",
+      "isim": "Sincan Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0312 276 59 60",
+      "key": "03122765960"
+    },
+    {
+      "sira": 44,
+      "il": "Ankara",
+      "ilce": "Şereflikoçhisar",
+      "isim": "Şereflikoçhisar Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0312 687 18 39",
+      "key": "03126871839"
+    },
+    {
+      "sira": 51,
+      "il": "Antalya",
+      "ilce": "Kepez",
+      "isim": "Antalya Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0242 227 11 43",
+      "key": "02422271143"
+    },
+    {
+      "sira": 72,
+      "il": "Balıkesir",
+      "ilce": "Büyükşehir",
+      "isim": "Karesibey Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0266 245 56 66",
+      "key": "02662455666"
+    },
+    {
+      "sira": 82,
+      "il": "Bilecik",
+      "ilce": "İnhisar",
+      "isim": "Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0228 371 22 33",
+      "key": "02283712233"
+    },
+    {
+      "sira": 90,
+      "il": "Bingöl",
+      "ilce": "Merkez",
+      "isim": "Bingöl Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0426 213 23 80",
+      "key": "04262132380"
+    },
+    {
+      "sira": 91,
+      "il": "Bingöl",
+      "ilce": "Solhan",
+      "isim": "Solhan Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0426 711 26 50",
+      "key": "04267112650"
+    },
+    {
+      "sira": 101,
+      "il": "Bolu",
+      "ilce": "Merkez",
+      "isim": "Solmaz Ahmet Baysal Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0374 217 53 93",
+      "key": "03742175393"
+    },
+    {
+      "sira": 117,
+      "il": "Çanakkale",
+      "ilce": "Gelibolu",
+      "isim": "Gelibolu Öğretmen Evi ve Akşam Sanat Okulu",
+      "telefon": "0286 566 18 10",
+      "key": "02865661810"
+    },
+    {
+      "sira": 120,
+      "il": "Çanakkale",
+      "ilce": "Merkez",
+      "isim": "Öğretmen Evi ve Akşam Sanat Okulu",
+      "telefon": "0286 213 78 31",
+      "key": "02862137831"
+    },
+    {
+      "sira": 121,
+      "il": "Çankırı",
+      "ilce": "Eldivan",
+      "isim": "Eldivan Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0376 311 21 63",
+      "key": "03763112163"
+    },
+    {
+      "sira": 145,
+      "il": "Diyarbakır",
+      "ilce": "Yenişehir",
+      "isim": "Yenişehir Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0412 223 91 91",
+      "key": "04122239191"
+    },
+    {
+      "sira": 149,
+      "il": "Edirne",
+      "ilce": "Uzunköprü",
+      "isim": "Uzunköprü Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0284 518 24 11",
+      "key": "02845182411"
+    },
+    {
+      "sira": 158,
+      "il": "Erzincan",
+      "ilce": "İliç",
+      "isim": "İliç Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0551 233 36 22",
+      "key": "05512333622"
+    },
+    {
+      "sira": 161,
+      "il": "Erzincan",
+      "ilce": "Merkez",
+      "isim": "Erzincan Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0533 412 40 24",
+      "key": "05334124024"
+    },
+    {
+      "sira": 182,
+      "il": "Eskişehir",
+      "ilce": "Büyükşehir",
+      "isim": "Eskişehir Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0222 230 68 38",
+      "key": "02222306838"
+    },
+    {
+      "sira": 188,
+      "il": "Gaziantep",
+      "ilce": "Şahinbey",
+      "isim": "Şahinbey Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0342 231 31 10",
+      "key": "03422313110"
+    },
+    {
+      "sira": 200,
+      "il": "Giresun",
+      "ilce": "Şebinkarahisar",
+      "isim": "Şebinkarahisar Öğretmen Evi ve Akşam Sanat Okulu",
+      "telefon": "0454 711 41 38",
+      "key": "04547114138"
+    },
+    {
+      "sira": 212,
+      "il": "Hatay",
+      "ilce": "Antakya",
+      "isim": "Antakya Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0326 216 11 56",
+      "key": "03262161156"
+    },
+    {
+      "sira": 213,
+      "il": "Hatay",
+      "ilce": "Arsuz",
+      "isim": "Arsuz Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0507 550 22 31",
+      "key": "05075502231"
+    },
+    {
+      "sira": 214,
+      "il": "Hatay",
+      "ilce": "Belen",
+      "isim": "Belen Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0326 441 24 24",
+      "key": "03264412424"
+    },
+    {
+      "sira": 226,
+      "il": "Isparta",
+      "ilce": "Merkez",
+      "isim": "Merkez Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0246 232 51 82",
+      "key": "02462325182"
+    },
+    {
+      "sira": 243,
+      "il": "İstanbul",
+      "ilce": "Beykoz",
+      "isim": "Sabancı Öğretmenevi ve Akşam Akşam Sanat Okulu",
+      "telefon": "0216 332 36 34",
+      "key": "02163323634"
+    },
+    {
+      "sira": 250,
+      "il": "İstanbul",
+      "ilce": "Şişli",
+      "isim": "Şişli Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0212 296 89 72",
+      "key": "02122968972"
+    },
+    {
+      "sira": 262,
+      "il": "Kars",
+      "ilce": "Merkez",
+      "isim": "Kars Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0474 212 00 49",
+      "key": "04742120049"
+    },
+    {
+      "sira": 282,
+      "il": "Kırklareli",
+      "ilce": "Merkez",
+      "isim": "Kırklareli Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0554 012 77 52",
+      "key": "05540127752"
+    },
+    {
+      "sira": 304,
+      "il": "Konya",
+      "ilce": "Karapınar",
+      "isim": "KarapınarÖğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0332 755 22 99",
+      "key": "03327552299"
+    },
+    {
+      "sira": 311,
+      "il": "Kütahya",
+      "ilce": "Merkez",
+      "isim": "Kütahya Merkez Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0274 223 62 49",
+      "key": "02742236249"
+    },
+    {
+      "sira": 318,
+      "il": "Malatya",
+      "ilce": "Doğanşehir",
+      "isim": "Doğanşehir Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0422 517 14 36",
+      "key": "04225171436"
+    },
+    {
+      "sira": 328,
+      "il": "K.Maraş",
+      "ilce": "Afşin",
+      "isim": "Afşin Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0344 511 24 34",
+      "key": "03445112434"
+    },
+    {
+      "sira": 329,
+      "il": "K.Maraş",
+      "ilce": "Andırın",
+      "isim": "Şehit Hakan Taşgıt Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0344 561 25 48",
+      "key": "03445612548"
+    },
+    {
+      "sira": 330,
+      "il": "K.Maraş",
+      "ilce": "Çağlayancerit",
+      "isim": "Çağlayancerit Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0344 351 24 45",
+      "key": "03443512445"
+    },
+    {
+      "sira": 331,
+      "il": "K.Maraş",
+      "ilce": "Dulkadiroğlu",
+      "isim": "Şehit Hanifi Çakallıoğlu Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0344 225 55 80",
+      "key": "03442255580"
+    },
+    {
+      "sira": 332,
+      "il": "K.Maraş",
+      "ilce": "Ekinözü",
+      "isim": "Ekinözü Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0534 507 16 46",
+      "key": "05345071646"
+    },
+    {
+      "sira": 333,
+      "il": "K.Maraş",
+      "ilce": "Elbistan",
+      "isim": "Elbistan Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0344 415 30 25",
+      "key": "03444153025"
+    },
+    {
+      "sira": 334,
+      "il": "K.Maraş",
+      "ilce": "Göksun",
+      "isim": "Prf. Dr. Mehmet Sağlam Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0344 714 35 60",
+      "key": "03447143560"
+    },
+    {
+      "sira": 335,
+      "il": "K.Maraş",
+      "ilce": "Nurhak",
+      "isim": "Nurhak Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0506 511  6578",
+      "key": "05065116578"
+    },
+    {
+      "sira": 339,
+      "il": "Mardin",
+      "ilce": "Merkez",
+      "isim": "Artuklu Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0482 213 70 80",
+      "key": "04822137080"
+    },
+    {
+      "sira": 353,
+      "il": "Muş",
+      "ilce": "Merkez",
+      "isim": "Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0538 810 33 27",
+      "key": "05388103327"
+    },
+    {
+      "sira": 375,
+      "il": "Rize",
+      "ilce": "Fındıklı",
+      "isim": "Fındıklı Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0464 511 24 11",
+      "key": "04645112411"
+    },
+    {
+      "sira": 383,
+      "il": "Sakarya",
+      "ilce": "Hendek",
+      "isim": "Hendek Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0264 614 79 55",
+      "key": "02646147955"
+    },
+    {
+      "sira": 390,
+      "il": "Samsun",
+      "ilce": "Büyükşehir",
+      "isim": "Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0362 432 38 36",
+      "key": "03624323836"
+    },
+    {
+      "sira": 399,
+      "il": "Siirt",
+      "ilce": "Eruh",
+      "isim": "Eruh Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0484 311 28 28",
+      "key": "04843112828"
+    },
+    {
+      "sira": 421,
+      "il": "Sivas",
+      "ilce": "Zara",
+      "isim": "Zara Mehmet Habib Soluk Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0346 816 10 49",
+      "key": "03468161049"
+    },
+    {
+      "sira": 423,
+      "il": "Tekirdağ",
+      "ilce": "Malkara",
+      "isim": "Malkara Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0282 427 44 12",
+      "key": "02824274412"
+    },
+    {
+      "sira": 424,
+      "il": "Tekirdağ",
+      "ilce": "Süleymanpaşa",
+      "isim": "Süleymanpaşa Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0282 216 08 35",
+      "key": "02822160835"
+    },
+    {
+      "sira": 437,
+      "il": "Trabzon",
+      "ilce": "Düzköy",
+      "isim": "Düzköy Lütfü Ofluoğlu Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0462 811 26 31",
+      "key": "04628112631"
+    },
+    {
+      "sira": 447,
+      "il": "Şanlıurfa",
+      "ilce": "Birecik",
+      "isim": "Birecik Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0414 652 26 73",
+      "key": "04146522673"
+    },
+    {
+      "sira": 451,
+      "il": "Şanlıurfa",
+      "ilce": "Merkez",
+      "isim": "Şanlıurfa Büyükşehir Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0414 315 78 73",
+      "key": "04143157873"
+    },
+    {
+      "sira": 452,
+      "il": "Şanlıurfa",
+      "ilce": "Siverek",
+      "isim": "Siverek Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0414 552 21 63",
+      "key": "04145522163"
+    },
+    {
+      "sira": 453,
+      "il": "Şanlıurfa",
+      "ilce": "Suruç",
+      "isim": "Suruç Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0414 611 21 95",
+      "key": "04146112195"
+    },
+    {
+      "sira": 454,
+      "il": "Şanlıurfa",
+      "ilce": "Viranşehir",
+      "isim": "Viranşehir Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0414 511 31 89",
+      "key": "04145113189"
+    },
+    {
+      "sira": 464,
+      "il": "Van",
+      "ilce": "İpekyolu",
+      "isim": "Van Şişli Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0432 216 46 58",
+      "key": "04322164658"
+    },
+    {
+      "sira": 507,
+      "il": "Bartın",
+      "ilce": "Amasra",
+      "isim": "AmasraÖğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0378 315 27 30",
+      "key": "03783152730"
+    },
+    {
+      "sira": 513,
+      "il": "Iğdır",
+      "ilce": "Merkez",
+      "isim": "Iğdır  Öğretmenevi ve Akşam Sanat Okulu",
+      "telefon": "0476 227 67 15",
+      "key": "04762276715"
+    }
+  ]
+}

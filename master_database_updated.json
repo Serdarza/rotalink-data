@@ -25880,7 +25880,8 @@
       "adres": "Plevne Mahallesi, Şereflikoçhisar Caddesi No:10, Ortaköy, Aksaray",
       "telefon": "(0382) 351 50 88",
       "latitude": 38.73799160780164,
-      "longitude": 34.03698036896466
+      "longitude": 34.03698036896466,
+      "telefon2": "0382 351 25 08"
     },
     {
       "isim": "Sarıyahşi Öğretmenevi",
@@ -26015,7 +26016,8 @@
       "adres": "Cumhuriyet Mahallesi, Atatürk Bulvarı, Özel İdare İşhanı No:210, Suluova, Amasya",
       "telefon": "(0358) 417 63 57",
       "latitude": 40.831580038650785,
-      "longitude": 35.64833938071545
+      "longitude": 35.64833938071545,
+      "telefon2": "0358 417 24 11"
     },
     {
       "isim": "Taşova Öğretmenevi",
@@ -26720,7 +26722,8 @@
       "adres": "Saray Mahallesi, Atatürk Cad. Otogar Yanı No:200, Alanya",
       "telefon": "(0242) 512 57 92",
       "latitude": 36.55238592608563,
-      "longitude": 31.976175468858457
+      "longitude": 31.976175468858457,
+      "telefon2": "0242 513 01 47"
     },
     {
       "isim": "Antalya Büyüksehir Belediyesi Hasta Ve Hasta Yakinlari Sosyal Tesisi",
@@ -28205,7 +28208,8 @@
       "adres": "Yenica Mahallesi. Selim Çapar Caddesi. Göynük – BOLU",
       "telefon": "05304845797",
       "latitude": 40.398492954317646,
-      "longitude": 30.783872536514608
+      "longitude": 30.783872536514608,
+      "telefon2": "0374 451 61 47"
     },
     {
       "isim": "Yeniçağa Öğretmenevi",
@@ -28952,7 +28956,8 @@
       "adres": "Kurtuluş Mahallesi. Özgürlük Bulvarı. Eski TMO Lojmanları. No:101-103. Bismil – DİYARBAKIR",
       "telefon": "04124153048",
       "latitude": 37.84725601107299,
-      "longitude": 40.66377813417076
+      "longitude": 40.66377813417076,
+      "telefon2": "0412 415 30 76"
     },
     {
       "isim": "Çüngüş Öğretmenevi",
@@ -29411,7 +29416,8 @@
       "adres": "Gölbaşı Mahallesi. Gazino Küme Evler. Sivrice – ELAZIĞ",
       "telefon": "(0424) 411 20 20",
       "latitude": 38.450720918568486,
-      "longitude": 39.30897849578241
+      "longitude": 39.30897849578241,
+      "telefon2": "0555 088 64 23"
     },
     {
       "isim": "Çayırlı Öğretmenevi",
@@ -29420,7 +29426,8 @@
       "adres": "Fatih Mahallesi. Eski Hükümet Konağı Yolu. Atatürk Caddesi. Özel İdare İş Hanı. Çayırlı – ERZİNCAN",
       "telefon": "(0446) 3112350",
       "latitude": 39.75042116808624,
-      "longitude": 39.51388901932528
+      "longitude": 39.51388901932528,
+      "telefon2": "0446 311 20 53"
     },
     {
       "isim": "DHMİ Havacılık Akademisi Erzincan Eğitim Tesisi",
@@ -29771,7 +29778,8 @@
       "adres": "Yukarı Mahalle. Şenkaya – ERZURUM",
       "telefon": "(0442) 861 24 11",
       "latitude": 40.56597812671021,
-      "longitude": 42.34317875172859
+      "longitude": 42.34317875172859,
+      "telefon2": "0442 861 25 11"
     },
     {
       "isim": "TEİAŞ Erzurum 15. Bölge Müdürlüğü Misafirhanesi",
@@ -30302,7 +30310,8 @@
       "adres": "Emir Şaban Mahallesi. Çukurca – HAKKARİ",
       "telefon": "0438 511 21 36",
       "latitude": 37.24806271842809,
-      "longitude": 43.61193130286358
+      "longitude": 43.61193130286358,
+      "telefon2": "0542 698 49 83"
     },
     {
       "isim": "Hakkari Öğretmenevi",
@@ -30374,7 +30383,8 @@
       "adres": "Numuneevler Mahallesi. Abdi İpekçi Caddesi. Dörtyol – HATAY",
       "telefon": "(0546) 490 41 33",
       "latitude": 36.83431196540327,
-      "longitude": 36.221259938017354
+      "longitude": 36.221259938017354,
+      "telefon2": "0326 712 28 51"
     },
     {
       "isim": "Erzin Öğretmenevi",
@@ -30401,7 +30411,8 @@
       "adres": "Girne Mahallesi. Derviş Paşa Bulvarı. No:164. Hassa – HATAY",
       "telefon": "05346125909",
       "latitude": 36.8025606289056,
-      "longitude": 36.52136525335977
+      "longitude": 36.52136525335977,
+      "telefon2": "0326 771 63 31"
     },
     {
       "isim": "Hatay Çevre Şehircilik İl Müdürlüğü Misafirhanesi",
@@ -30482,7 +30493,8 @@
       "adres": "Kurtuluş Mahallesi. Şehit Erdoğan Karaoğlu Caddesi. No:14. Kırıkhan – HATAY",
       "telefon": "(0543) 110 84 45",
       "latitude": 36.50021385879862,
-      "longitude": 36.35320045334289
+      "longitude": 36.35320045334289,
+      "telefon2": "0326 344 18 98"
     },
     {
       "isim": "Maliye Bakanlığı Hatay İli Defterdarlığı Dinlenme Tesisi",
@@ -32705,7 +32717,8 @@
       "adres": "Merkez Mahallesi. Köşk Sokak. No:10. KASTAMONU",
       "telefon": "0366 788 14 13",
       "latitude": 41.808853217013485,
-      "longitude": 33.23187633910564
+      "longitude": 33.23187633910564,
+      "telefon2": "0539 241 79 70"
     },
     {
       "isim": "Şerife Bacı Öğretmenevi Doğa Kültür Köyü",
@@ -33148,7 +33161,8 @@
       "adres": "Hacı İlyas Mahallesi. Ihlamur Sokak. No : 8. KİLİS",
       "telefon": "0348 813 38 34",
       "latitude": 36.71705747794187,
-      "longitude": 37.11837226769523
+      "longitude": 37.11837226769523,
+      "telefon2": "0348 813 11 78"
     },
     {
       "isim": "Kilis Polisevi",
@@ -33580,7 +33594,8 @@
       "adres": "Seyran Mahallesi. Cezaevi Sokak. No:8. Akşehir – KONYA",
       "telefon": "05017343454",
       "latitude": 38.35691961335566,
-      "longitude": 31.42334268126308
+      "longitude": 31.42334268126308,
+      "telefon2": "0332 813 63 10"
     },
     {
       "isim": "Beyşehir Öğretmenevi",
@@ -33814,7 +33829,8 @@
       "adres": "Camikebir Mahallesi. Öğretmen Orhan Pastutmaz Caddesi. No:11. Kulu – KONYA",
       "telefon": "0332 641 33 04",
       "latitude": 39.09535007759072,
-      "longitude": 33.07876411013464
+      "longitude": 33.07876411013464,
+      "telefon2": "0535 617 62 42"
     },
     {
       "isim": "Mevlana Öğretmenevi",
@@ -33868,7 +33884,8 @@
       "adres": "Orta Mahalle. Vatan Sokak. Hükümet Caddesi. No:3/1. Tuzlukçu/KONYA",
       "telefon": "05058169057",
       "latitude": 38.47360076035341,
-      "longitude": 31.628774752432303
+      "longitude": 31.628774752432303,
+      "telefon2": "0332 861 26 96"
     },
     {
       "isim": "Bengisu Sosyal Tesisleri",
@@ -33994,7 +34011,8 @@
       "adres": "Hisarardı Mahallesi. Cumhuriyet Caddesi. No:47. Simav – KÜTAHYA",
       "telefon": "05352600043",
       "latitude": 39.088908429070536,
-      "longitude": 28.975209267806896
+      "longitude": 28.975209267806896,
+      "telefon2": "0274 513 53 80"
     },
     {
       "isim": "Beydağı Tabiat Parkı İdari Tanıtım Ziyaretçi Konaklama Merkezi",
@@ -34012,7 +34030,8 @@
       "adres": "Ankara Karayolu Üzeri. No:129. Darende – MALATYA",
       "telefon": "0422 165 16 55",
       "latitude": 38.55781082311059,
-      "longitude": 37.48997262545396
+      "longitude": 37.48997262545396,
+      "telefon2": "0422 615 16 55"
     },
     {
       "isim": "Hekimhan Öğretmenevi",
@@ -34282,7 +34301,8 @@
       "adres": "Koçhisar Mahallesi. Şahkulibey Caddesi. Kızıltepe – MARDİN",
       "telefon": "05345211550",
       "latitude": 37.19028303896765,
-      "longitude": 40.5777776491569
+      "longitude": 40.5777776491569,
+      "telefon2": "0482 312 52 27"
     },
     {
       "isim": "Mardin Artuklu Üniversitesi Sosyal Tesisleri ve Uygulama Oteli",
@@ -34399,7 +34419,8 @@
       "adres": "Yeni Mahalle. Sinema Caddesi. No:9. Halk Eğitim Merkezi Arkası. Midyat – MARDİN",
       "telefon": "0482 462 21 93",
       "latitude": 37.42512280167365,
-      "longitude": 41.33917303358809
+      "longitude": 41.33917303358809,
+      "telefon2": "0535 766 47 00"
     },
     {
       "isim": "Mardin Artuklu Üniversitesi Uygulama Oteli",
@@ -34417,7 +34438,8 @@
       "adres": "Devlet Mahallesi. Gökhan Erdem Sokak. No:21. Savur – MARDİN",
       "telefon": "0482 571 25 05",
       "latitude": 37.53389582997255,
-      "longitude": 40.88726868493176
+      "longitude": 40.88726868493176,
+      "telefon2": "0542 272 52 06"
     },
     {
       "isim": " Mersin Yenişehir Belediyesi Misafirhanesi",
@@ -35119,7 +35141,8 @@
       "adres": "Çarşı Mahallesi. Kula Caddesi. No:1. Çiftlik – NİĞDE",
       "telefon": "0388 411 23 05",
       "latitude": 38.174922893636264,
-      "longitude": 34.48510789845314
+      "longitude": 34.48510789845314,
+      "telefon2": "0553 318 96 83"
     },
     {
       "isim": "Niğde DSİ 45. Şube Müdürlüğü Misafirhanesi",
@@ -35191,7 +35214,8 @@
       "adres": "Yazlıkbelen Mahallesi. Atatürk Caddesi. No:59 Akkuş – ORDU",
       "telefon": "0452 611 25 75",
       "latitude": 40.795396600735984,
-      "longitude": 37.017829117890756
+      "longitude": 37.017829117890756,
+      "telefon2": "0452 611 22 88"
     },
     {
       "isim": "Çaybaşı Öğretmenevi",
@@ -35317,7 +35341,8 @@
       "adres": "Kaledere Mahallesi. Devlet Sahil Yolu. İş Bankası Yanı. Ünye – ORDU",
       "telefon": "05300534452",
       "latitude": 41.11112840783446,
-      "longitude": 37.3418695942564
+      "longitude": 37.3418695942564,
+      "telefon2": "0452 323 94 49"
     },
     {
       "isim": "Ünye Turizm Otelcilik Uygulama Oteli",
@@ -35679,7 +35704,8 @@
       "adres": "Mevlana Mahallesi.Bakırpınar Yolu. No:18 Bafra – SAMSUN",
       "telefon": "0362 537 29 38",
       "latitude": 41.56735279381171,
-      "longitude": 35.91890945443844
+      "longitude": 35.91890945443844,
+      "telefon2": "0362 537 29 28"
     },
     {
       "isim": "Çarşamba Öğretmenevi",
@@ -36273,7 +36299,8 @@
       "adres": "Yeşiltepe Mahallesi. 1. Cadde. No:61. Silopi – Şırnak",
       "telefon": "05055750073",
       "latitude": 37.251866311541896,
-      "longitude": 42.471997267719885
+      "longitude": 42.471997267719885,
+      "telefon2": "0486 504 84 40"
     },
     {
       "isim": "Şırnak Hekimevi Misafirhanesi",
@@ -36759,7 +36786,8 @@
       "adres": "Yolgören Mahallesi. Yeni Sahilyolu Caddesi. No:8. Araklı –Trabzon",
       "telefon": "05306856616",
       "latitude": 40.93445763894821,
-      "longitude": 40.066074694880285
+      "longitude": 40.066074694880285,
+      "telefon2": "0462 721 67 50"
     },
     {
       "isim": "Arsin Öğretmenevi",
@@ -36840,7 +36868,8 @@
       "adres": "Cumhuriyet Alanı. no:1/A. Tonya –Trabzon",
       "telefon": "0462 881 13 61",
       "latitude": 40.88657275964657,
-      "longitude": 39.29069729673166
+      "longitude": 39.29069729673166,
+      "telefon2": "0462 881 25 32"
     },
     {
       "isim": "Trabzon Defterdarlığı Yıldızlı Misafirhane Ve Eğitim Tesisi",
@@ -37470,7 +37499,8 @@
       "adres": "Karşıyaka Mahallesi. Gazi mustafa Kemal Bulvarı. No:188/1. Saraykent – YOZGAT",
       "telefon": "0354 638 64 60",
       "latitude": 39.69323067188742,
-      "longitude": 35.513638254345
+      "longitude": 35.513638254345,
+      "telefon2": "0354 368 64 60"
     },
     {
       "isim": "Sarıkaya Öğretmenevi",
