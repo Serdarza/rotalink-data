@@ -25572,7 +25572,8 @@
       "adres": "Sıratut Mahallesi, Cumhuriyet Caddesi, No:4, Adıyaman",
       "telefon": "(0416) 2022468",
       "latitude": 37.76313665071826,
-      "longitude": 38.279367111245286
+      "longitude": 38.279367111245286,
+      "telefon2": "0416 214 24 11"
     },
     {
       "isim": "Adıyaman Polisevi",
@@ -25608,7 +25609,8 @@
       "adres": "Karaman Mahallesi, Sincik, Adıyaman",
       "telefon": " (0541) 9510369",
       "latitude": 38.03217973294058,
-      "longitude": 38.63573745488979
+      "longitude": 38.63573745488979,
+      "telefon2": "0416 421 21 40"
     },
     {
       "isim": "Afyon Kocatepe Üniversitesi Konuk Evi",
@@ -25626,7 +25628,8 @@
       "adres": "Cumhuriyet Mahallesi, Cevat Ahmetpaşa Caddesi No:14, Afyonkarahisar",
       "telefon": "(0272) 215 52 70",
       "latitude": 38.75291778996697,
-      "longitude": 30.550871853225193
+      "longitude": 30.550871853225193,
+      "telefon2": "0272 212 08 92"
     },
     {
       "isim": "Afyon TCDD Misafirhanesi",
@@ -25735,7 +25738,8 @@
       "adres": "Kağızman Caddesi No:1, Ağrı",
       "telefon": "04722152889",
       "latitude": 39.71818405685976,
-      "longitude": 43.03109256099664
+      "longitude": 43.03109256099664,
+      "telefon2": "0472 215 30 06"
     },
     {
       "isim": "Ağrı Polisevi",
@@ -26026,7 +26030,8 @@
       "adres": "Cumhuriyet Mahallesi, Mustafa Bey Caddesi No:8, Taşova, Amasya",
       "telefon": "(0358) 312 24 11",
       "latitude": 40.760643133935226,
-      "longitude": 36.31986437886221
+      "longitude": 36.31986437886221,
+      "telefon2": "0358 312 13 20"
     },
     {
       "isim": "Adalet Bakanlığı Bekir Bozdağ Personel Eğitim Merkezi",
@@ -26795,7 +26800,8 @@
       "adres": "Kültür Mahallesi, Dumlupınar Blv. Yanyolu No:2, 07090 Kepez/Antalya",
       "telefon": "(0242) 227 11 42",
       "latitude": 36.90496333136625,
-      "longitude": 30.663942121246144
+      "longitude": 30.663942121246144,
+      "telefon2": "0242 227 11 43"
     },
     {
       "isim": "Antalya Orman Müdürlüğü Misafirhanesi",
@@ -28614,7 +28620,8 @@
       "adres": "Kayserili Ahmet Paşa Caddesi. No:19/A. ÇANAKKALE",
       "telefon": "02862174868",
       "latitude": 40.14813699354305,
-      "longitude": 26.40474046889995
+      "longitude": 26.40474046889995,
+      "telefon2": "0286 213 78 31"
     },
     {
       "isim": "Çanakkale Polisevi",
@@ -29398,7 +29405,8 @@
       "adres": "Fırat Mahallesi. Fevzi Çakmak Caddesi. No:2. Kovancılar – ELAZIĞ",
       "telefon": "(0424)  571 21 57",
       "latitude": 38.7217063186461,
-      "longitude": 39.86310619765073
+      "longitude": 39.86310619765073,
+      "telefon2": "0424 611 24 11"
     },
     {
       "isim": "Palu Öğretmenevi",
@@ -29887,7 +29895,8 @@
       "adres": "Akarbaşı Mahallesi. Atatürk Bulvarı. Remzi Korkut Sokak. No:1. ESKİŞEHİR",
       "telefon": "0555 101 38 26",
       "latitude": 39.76607141506825,
-      "longitude": 30.511712995860478
+      "longitude": 30.511712995860478,
+      "telefon2": "0222 230 68 38"
     },
     {
       "isim": "Eskişehir Defterdarlığı Maliye Misafirhanesi",
@@ -30548,7 +30557,8 @@
       "adres": "İrfan Caddesi. Merkez – IĞDIR",
       "telefon": "(0476) 283 10 32",
       "latitude": 39.92394329370143,
-      "longitude": 44.04642408465704
+      "longitude": 44.04642408465704,
+      "telefon2": "0476 227 67 15"
     },
     {
       "isim": "Iğdır Polisevi",
@@ -30674,7 +30684,8 @@
       "adres": "İstiklal Mah. 106 Cad. No:21 / ISPARTA",
       "telefon": "05017333299",
       "latitude": 37.76610947509434,
-      "longitude": 30.556712139922876
+      "longitude": 30.556712139922876,
+      "telefon2": "0246 232 51 82"
     },
     {
       "isim": "Isparta Polisevi",
@@ -30881,7 +30892,8 @@
       "adres": "Küçüksu Cd. Anadolu Hisarı Beykoz – İSTANBUL",
       "telefon": "05057151770",
       "latitude": 41.0807163416636,
-      "longitude": 29.065681265252127
+      "longitude": 29.065681265252127,
+      "telefon2": "0216 332 36 34"
     },
     {
       "isim": "Beylerbeyi Askeri Gazino Müdürlüğü",
@@ -31628,7 +31640,8 @@
       "adres": "Tophanelioğlu Cd.No:39 Koşuyolu -İSTANBUL",
       "telefon": "02163400735",
       "latitude": 41.01447220577641,
-      "longitude": 29.039349098704733
+      "longitude": 29.039349098704733,
+      "telefon2": "0216 325 64 44"
     },
     {
       "isim": "Üsküdar Şemsi Paşa Hava Askeri Gazino",
@@ -32267,7 +32280,8 @@
       "adres": "Cumhuriyet Bulvarı. Kıyılar Mahallesi. No:147. Nurhak – KAHRAMANMARAŞ",
       "telefon": "0344 471 24 11",
       "latitude": 37.9660725810725,
-      "longitude": 37.42662298154411
+      "longitude": 37.42662298154411,
+      "telefon2": "0506 511  6578"
     },
     {
       "isim": "Karabük jandarma sosyal tesisleri",
@@ -32492,7 +32506,8 @@
       "adres": "Orta Kapı Mahallesi. Şehit Yusufbey Caddesi. No:28. KARS",
       "telefon": "04742127312",
       "latitude": 40.60191104766803,
-      "longitude": 43.095512681372185
+      "longitude": 43.095512681372185,
+      "telefon2": "0474 212 00 49"
     },
     {
       "isim": "Kars Orduevi",
@@ -33297,7 +33312,8 @@
       "adres": "Demirtaş Mahallesi. Mehmet Akif Caddesi. No:1. Kırklareli",
       "telefon": "0288 214 24 11",
       "latitude": 41.90052365772189,
-      "longitude": 27.18201263666613
+      "longitude": 27.18201263666613,
+      "telefon2": "0554 012 77 52"
     },
     {
       "isim": "Kırklareli Orduevi",
@@ -33712,7 +33728,8 @@
       "adres": "Hacı Ömerli Mahallesi. Konya Caddesi. No:17/2. Karapınar/KONYA",
       "telefon": "0332 755 33 27",
       "latitude": 37.71536675608112,
-      "longitude": 33.54632668046018
+      "longitude": 33.54632668046018,
+      "telefon2": "0332 755 22 99"
     },
     {
       "isim": "Konya Büyükşehir Merkez Öğretmenevi",
@@ -33957,7 +33974,8 @@
       "adres": "Abdurrahmnan Kara Bulvarı. İstasyon Caddesi. No:5. KÜTAHYA",
       "telefon": "05349758090",
       "latitude": 39.41971113546404,
-      "longitude": 29.9878272659692
+      "longitude": 29.9878272659692,
+      "telefon2": "0274 223 62 49"
     },
     {
       "isim": "Kütahya Orduevi",
@@ -34365,7 +34383,8 @@
       "adres": "Belediye Arkası. Nasrullah Demir Caddesi. No: 10. Yenişehir MARDİN",
       "telefon": "05539234707",
       "latitude": 37.32369470847893,
-      "longitude": 40.724969396559416
+      "longitude": 40.724969396559416,
+      "telefon2": "0482 213 70 80"
     },
     {
       "isim": "Mardin Nahıl Misafirevi",
@@ -34988,7 +35007,8 @@
       "adres": "Hürriyet Mahallesi, Sanat Okulu Yanı, Merkez, Muş",
       "telefon": "(0436) 212 54 06",
       "latitude": 38.738256730243606,
-      "longitude": 41.49303574291874
+      "longitude": 41.49303574291874,
+      "telefon2": "0538 810 33 27"
     },
     {
       "isim": "Muş Polisevi",
@@ -35006,7 +35026,8 @@
       "adres": "Aşağı Çarşı, Muş Caddesi, Kızılay Binası, Varto, Muş",
       "telefon": "(0436) 711 35 70",
       "latitude": 39.16930369312787,
-      "longitude": 41.45517199129943
+      "longitude": 41.45517199129943,
+      "telefon2": "0436 411 30 04"
     },
     {
       "isim": "Avanos Öğretmenevi",
@@ -35432,7 +35453,8 @@
       "adres": "Merkez Mahallesi. Sakıp Sabancı Caddesi. Fındıklı – RİZE",
       "telefon": "05439153088",
       "latitude": 41.27283091959395,
-      "longitude": 41.14241915941602
+      "longitude": 41.14241915941602,
+      "telefon2": "0464 511 24 11"
     },
     {
       "isim": "Güneysu Öğretmenevi",
@@ -35822,7 +35844,8 @@
       "adres": "Kale, İstiklal Cd. No:31, 55030 İlkadım/Samsun",
       "telefon": "0362 431 25 46",
       "latitude": 41.28934885541277,
-      "longitude": 36.331239969769285
+      "longitude": 36.331239969769285,
+      "telefon2": "0362 432 38 36"
     },
     {
       "isim": "Samsun Ondokuzmayıs Üniversitesi Konukevi-Misafirhanesi",
@@ -36534,7 +36557,8 @@
       "adres": "Kızılırmak Mahallesi. Reşitpaşa Caddesi. Akın İş Merkezi Karşısı. Zara – SİVAS",
       "telefon": "03468161042",
       "latitude": 39.89622130268052,
-      "longitude": 37.75726031017365
+      "longitude": 37.75726031017365,
+      "telefon2": "0346 816 10 49"
     },
     {
       "isim": "Hayrabolu Öğretmenevi",
@@ -37301,7 +37325,8 @@
       "adres": "Kazım Karabekir Caddesi. Vestel Kız Meslek Lisesi Karşısı. VAN",
       "telefon": "05303108438",
       "latitude": 38.500134669409405,
-      "longitude": 43.388558038942335
+      "longitude": 43.388558038942335,
+      "telefon2": "0432 216 46 58"
     },
     {
       "isim": "Van Orduevi",
@@ -37770,7 +37795,8 @@
       "adres": "Hacıbey Mah., Vatan Cad.-Nallıhan/ANKARA",
       "telefon": "(0312) 837 27 88",
       "latitude": 39.9207759,
-      "longitude": 32.8540497
+      "longitude": 32.8540497,
+      "telefon2": "0312 785 23 74"
     },
     {
       "isim": "Ankara Haymana Öğretmenevi",
