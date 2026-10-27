@@ -1,4 +1,4 @@
-name: One-time official MEB teacherhouse phone audit (retry TLS)
+name: One-time official MEB teacherhouse phone audit (normalized data)
 on:
   push:
     branches:
