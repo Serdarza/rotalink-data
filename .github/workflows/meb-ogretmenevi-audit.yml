@@ -1,0 +1,48 @@
+name: One-time official MEB teacherhouse phone audit
+on:
+  push:
+    branches:
+      - audit/meb-ogretmenevi-20261027
+    paths:
+      - .github/workflows/meb-ogretmenevi-audit.yml
+permissions:
+  contents: write
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Dependencies
+        run: pip install requests beautifulsoup4
+      - name: Compare official MEB listing and existing facilities
+        run: python scripts/audit_meb_ogretmenevi.py
+      - name: Validate data
+        run: |
+          python - <<'PY'
+          import json
+          d=json.load(open('master_database_updated.json',encoding='utf-8'))
+          assert len(d['tesisler'])==1873
+          assert all('isim' in r and 'il' in r and 'latitude' in r and 'longitude' in r for r in d['tesisler'])
+          print('Verified 1873 original accommodations remain')
+          PY
+      - name: Audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: meb-ogretmenevi-audit
+          path: scripts/reports/meb_ogretmenevi_20261027.json
+          if-no-files-found: error
+      - name: Commit only audit data (not main)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add master_database_updated.json scripts/reports/meb_ogretmenevi_20261027.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "data: audit MEB teacherhouses and stage secondary numbers"
+            git push origin HEAD:audit/meb-ogretmenevi-20261027
+          fi
