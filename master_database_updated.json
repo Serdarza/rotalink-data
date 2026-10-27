@@ -42225,6 +42225,51 @@
       "telefon": "",
       "latitude": 41.6422021,
       "longitude": 26.6159419
+    },
+    {
+      "isim": "Sincan Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Ankara",
+      "adres": "İstasyon Mahallesi, Erdal Sokak, Sincan, Ankara",
+      "telefon": "0312 276 59 60",
+      "latitude": 39.971181,
+      "longitude": 32.5828088
+    },
+    {
+      "isim": "Gelibolu Öğretmen Evi",
+      "tip": "Öğretmenevi",
+      "il": "Çanakkale",
+      "adres": "Hoca Hamza, Tuğsavul 2. Aralık Sokak, Gelibolu, Çanakkale",
+      "telefon": "0286 566 18 10",
+      "latitude": 40.4051039,
+      "longitude": 26.6757703
+    },
+    {
+      "isim": "Erzincan Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Erzincan",
+      "adres": "İzzetpaşa, Recep Tayyip Erdoğan Caddesi, Merkez, Erzincan",
+      "telefon": "0533 412 40 24",
+      "latitude": 39.74486,
+      "longitude": 39.5093214
+    },
+    {
+      "isim": "Şebinkarahisar Öğretmen Evi",
+      "tip": "Öğretmenevi",
+      "il": "Giresun",
+      "adres": "Bülbül Mah., Kadir Aydoğan Sokak, Şebinkarahisar, Giresun",
+      "telefon": "0454 711 41 38",
+      "latitude": 40.2886295,
+      "longitude": 38.4206134
+    },
+    {
+      "isim": "Viranşehir Öğretmenevi",
+      "tip": "Öğretmenevi",
+      "il": "Şanlıurfa",
+      "adres": "Kışla Mahallesi, E 90, Viranşehir, Şanlıurfa",
+      "telefon": "0414 511 31 89",
+      "latitude": 37.2278903,
+      "longitude": 39.7598069
     }
   ],
   "sosyal": [

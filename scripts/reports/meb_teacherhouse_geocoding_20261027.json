@@ -1,0 +1,511 @@
+{
+  "looked_up": 30,
+  "added_count": 5,
+  "added": [
+    {
+      "source": {
+        "sira": 43,
+        "il": "Ankara",
+        "ilce": "Sincan",
+        "isim": "Sincan Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0312 276 59 60",
+        "key": "03122765960"
+      },
+      "facility": {
+        "isim": "Sincan Öğretmenevi",
+        "tip": "Öğretmenevi",
+        "il": "Ankara",
+        "adres": "İstasyon Mahallesi, Erdal Sokak, Sincan, Ankara",
+        "telefon": "0312 276 59 60",
+        "latitude": 39.971181,
+        "longitude": 32.5828088
+      },
+      "verification": {
+        "adres": "İstasyon Mahallesi, Erdal Sokak, Sincan, Ankara",
+        "latitude": 39.971181,
+        "longitude": 32.5828088,
+        "osm_id": 451836936,
+        "osm_type": "way",
+        "poi_name": "Sincan Öğretmenevi",
+        "query": "Sincan Öğretmenevi,Sincan,Ankara,Türkiye"
+      }
+    },
+    {
+      "source": {
+        "sira": 117,
+        "il": "Çanakkale",
+        "ilce": "Gelibolu",
+        "isim": "Gelibolu Öğretmen Evi ve Akşam Sanat Okulu",
+        "telefon": "0286 566 18 10",
+        "key": "02865661810"
+      },
+      "facility": {
+        "isim": "Gelibolu Öğretmen Evi",
+        "tip": "Öğretmenevi",
+        "il": "Çanakkale",
+        "adres": "Hoca Hamza, Tuğsavul 2. Aralık Sokak, Gelibolu, Çanakkale",
+        "telefon": "0286 566 18 10",
+        "latitude": 40.4051039,
+        "longitude": 26.6757703
+      },
+      "verification": {
+        "adres": "Hoca Hamza, Tuğsavul 2. Aralık Sokak, Gelibolu, Çanakkale",
+        "latitude": 40.4051039,
+        "longitude": 26.6757703,
+        "osm_id": 5178137622,
+        "osm_type": "node",
+        "poi_name": "Gelibolu Öğretmen Evi",
+        "query": "Gelibolu Öğretmen Evi,Gelibolu,Çanakkale,Türkiye"
+      }
+    },
+    {
+      "source": {
+        "sira": 161,
+        "il": "Erzincan",
+        "ilce": "Merkez",
+        "isim": "Erzincan Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0533 412 40 24",
+        "key": "05334124024"
+      },
+      "facility": {
+        "isim": "Erzincan Öğretmenevi",
+        "tip": "Öğretmenevi",
+        "il": "Erzincan",
+        "adres": "İzzetpaşa, Recep Tayyip Erdoğan Caddesi, Merkez, Erzincan",
+        "telefon": "0533 412 40 24",
+        "latitude": 39.74486,
+        "longitude": 39.5093214
+      },
+      "verification": {
+        "adres": "İzzetpaşa, Recep Tayyip Erdoğan Caddesi, Merkez, Erzincan",
+        "latitude": 39.74486,
+        "longitude": 39.5093214,
+        "osm_id": 639094894,
+        "osm_type": "way",
+        "poi_name": "Erzincan Öğretmenevi",
+        "query": "Erzincan Öğretmenevi,Merkez,Erzincan,Türkiye"
+      }
+    },
+    {
+      "source": {
+        "sira": 200,
+        "il": "Giresun",
+        "ilce": "Şebinkarahisar",
+        "isim": "Şebinkarahisar Öğretmen Evi ve Akşam Sanat Okulu",
+        "telefon": "0454 711 41 38",
+        "key": "04547114138"
+      },
+      "facility": {
+        "isim": "Şebinkarahisar Öğretmen Evi",
+        "tip": "Öğretmenevi",
+        "il": "Giresun",
+        "adres": "Bülbül Mah., Kadir Aydoğan Sokak, Şebinkarahisar, Giresun",
+        "telefon": "0454 711 41 38",
+        "latitude": 40.2886295,
+        "longitude": 38.4206134
+      },
+      "verification": {
+        "adres": "Bülbül Mah., Kadir Aydoğan Sokak, Şebinkarahisar, Giresun",
+        "latitude": 40.2886295,
+        "longitude": 38.4206134,
+        "osm_id": 220706412,
+        "osm_type": "way",
+        "poi_name": "Şebinkarahisar Öğretmenevi",
+        "query": "Şebinkarahisar Öğretmenevi,Giresun,Türkiye"
+      }
+    },
+    {
+      "source": {
+        "sira": 454,
+        "il": "Şanlıurfa",
+        "ilce": "Viranşehir",
+        "isim": "Viranşehir Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0414 511 31 89",
+        "key": "04145113189"
+      },
+      "facility": {
+        "isim": "Viranşehir Öğretmenevi",
+        "tip": "Öğretmenevi",
+        "il": "Şanlıurfa",
+        "adres": "Kışla Mahallesi, E 90, Viranşehir, Şanlıurfa",
+        "telefon": "0414 511 31 89",
+        "latitude": 37.2278903,
+        "longitude": 39.7598069
+      },
+      "verification": {
+        "adres": "Kışla Mahallesi, E 90, Viranşehir, Şanlıurfa",
+        "latitude": 37.2278903,
+        "longitude": 39.7598069,
+        "osm_id": 804654654,
+        "osm_type": "way",
+        "poi_name": "Viranşehir Öğretmenevi",
+        "query": "Viranşehir Öğretmenevi,Viranşehir,Şanlıurfa,Türkiye"
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "source": {
+        "sira": 20,
+        "il": "Ağrı",
+        "ilce": "Diyadin",
+        "isim": "Diyadin Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0471 511 47 06",
+        "key": "04715114706"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 34,
+        "il": "Ankara",
+        "ilce": "Çamlıdere",
+        "isim": "Çamlıdere Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0312 753 13 98",
+        "key": "03127531398"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 38,
+        "il": "Ankara",
+        "ilce": "Kahramankazan",
+        "isim": "Kahramankazan Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0312 814 24 11",
+        "key": "03128142411"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 39,
+        "il": "Ankara",
+        "ilce": "Kalecik",
+        "isim": "Kalecik Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0312 857 10 10",
+        "key": "03128571010"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 42,
+        "il": "Ankara",
+        "ilce": "Polatlı",
+        "isim": "Polatlı Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0312 623 26 64",
+        "key": "03126232664"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 44,
+        "il": "Ankara",
+        "ilce": "Şereflikoçhisar",
+        "isim": "Şereflikoçhisar Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0312 687 18 39",
+        "key": "03126871839"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 72,
+        "il": "Balıkesir",
+        "ilce": "Büyükşehir",
+        "isim": "Karesibey Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0266 245 56 66",
+        "key": "02662455666"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 82,
+        "il": "Bilecik",
+        "ilce": "İnhisar",
+        "isim": "Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0228 371 22 33",
+        "key": "02283712233"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 90,
+        "il": "Bingöl",
+        "ilce": "Merkez",
+        "isim": "Bingöl Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0426 213 23 80",
+        "key": "04262132380"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 91,
+        "il": "Bingöl",
+        "ilce": "Solhan",
+        "isim": "Solhan Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0426 711 26 50",
+        "key": "04267112650"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 101,
+        "il": "Bolu",
+        "ilce": "Merkez",
+        "isim": "Solmaz Ahmet Baysal Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0374 217 53 93",
+        "key": "03742175393"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 121,
+        "il": "Çankırı",
+        "ilce": "Eldivan",
+        "isim": "Eldivan Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0376 311 21 63",
+        "key": "03763112163"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 145,
+        "il": "Diyarbakır",
+        "ilce": "Yenişehir",
+        "isim": "Yenişehir Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0412 223 91 91",
+        "key": "04122239191"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 149,
+        "il": "Edirne",
+        "ilce": "Uzunköprü",
+        "isim": "Uzunköprü Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0284 518 24 11",
+        "key": "02845182411"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 158,
+        "il": "Erzincan",
+        "ilce": "İliç",
+        "isim": "İliç Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0551 233 36 22",
+        "key": "05512333622"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 188,
+        "il": "Gaziantep",
+        "ilce": "Şahinbey",
+        "isim": "Şahinbey Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0342 231 31 10",
+        "key": "03422313110"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 212,
+        "il": "Hatay",
+        "ilce": "Antakya",
+        "isim": "Antakya Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0326 216 11 56",
+        "key": "03262161156"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 213,
+        "il": "Hatay",
+        "ilce": "Arsuz",
+        "isim": "Arsuz Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0507 550 22 31",
+        "key": "05075502231"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 214,
+        "il": "Hatay",
+        "ilce": "Belen",
+        "isim": "Belen Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0326 441 24 24",
+        "key": "03264412424"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 250,
+        "il": "İstanbul",
+        "ilce": "Şişli",
+        "isim": "Şişli Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0212 296 89 72",
+        "key": "02122968972"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 318,
+        "il": "Malatya",
+        "ilce": "Doğanşehir",
+        "isim": "Doğanşehir Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0422 517 14 36",
+        "key": "04225171436"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 330,
+        "il": "K.Maraş",
+        "ilce": "Çağlayancerit",
+        "isim": "Çağlayancerit Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0344 351 24 45",
+        "key": "03443512445"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 331,
+        "il": "K.Maraş",
+        "ilce": "Dulkadiroğlu",
+        "isim": "Şehit Hanifi Çakallıoğlu Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0344 225 55 80",
+        "key": "03442255580"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 383,
+        "il": "Sakarya",
+        "ilce": "Hendek",
+        "isim": "Hendek Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0264 614 79 55",
+        "key": "02646147955"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 399,
+        "il": "Siirt",
+        "ilce": "Eruh",
+        "isim": "Eruh Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0484 311 28 28",
+        "key": "04843112828"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 423,
+        "il": "Tekirdağ",
+        "ilce": "Malkara",
+        "isim": "Malkara Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0282 427 44 12",
+        "key": "02824274412"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 424,
+        "il": "Tekirdağ",
+        "ilce": "Süleymanpaşa",
+        "isim": "Süleymanpaşa Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0282 216 08 35",
+        "key": "02822160835"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 437,
+        "il": "Trabzon",
+        "ilce": "Düzköy",
+        "isim": "Düzköy Lütfü Ofluoğlu Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0462 811 26 31",
+        "key": "04628112631"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 447,
+        "il": "Şanlıurfa",
+        "ilce": "Birecik",
+        "isim": "Birecik Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0414 652 26 73",
+        "key": "04146522673"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 451,
+        "il": "Şanlıurfa",
+        "ilce": "Merkez",
+        "isim": "Şanlıurfa Büyükşehir Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0414 315 78 73",
+        "key": "04143157873"
+      },
+      "reason": "existing possible institution in same district/city"
+    },
+    {
+      "source": {
+        "sira": 452,
+        "il": "Şanlıurfa",
+        "ilce": "Siverek",
+        "isim": "Siverek Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0414 552 21 63",
+        "key": "04145522163"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 453,
+        "il": "Şanlıurfa",
+        "ilce": "Suruç",
+        "isim": "Suruç Öğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0414 611 21 95",
+        "key": "04146112195"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    },
+    {
+      "source": {
+        "sira": 507,
+        "il": "Bartın",
+        "ilce": "Amasra",
+        "isim": "AmasraÖğretmenevi ve Akşam Sanat Okulu",
+        "telefon": "0378 315 27 30",
+        "key": "03783152730"
+      },
+      "reason": "street-level coordinate and named POI not independently verified"
+    }
+  ]
+}
