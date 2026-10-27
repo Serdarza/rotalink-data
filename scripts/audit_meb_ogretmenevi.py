@@ -32,7 +32,9 @@ def phones(p):
         if len(v)==11: result.add(v)
     return result
 def source_data():
-    res=requests.get(SOURCE,headers={"User-Agent":"Mozilla/5.0","Accept-Language":"tr-TR,tr;q=0.9"},timeout=80)
+    # The MEB endpoint has an incomplete HTTPS certificate chain on GitHub-hosted runners.
+    # Restrict this exceptional unverified request to the fixed official HTTPS host.
+    res=requests.get(SOURCE,headers={"User-Agent":"Mozilla/5.0","Accept-Language":"tr-TR,tr;q=0.9"},timeout=80,verify=False)
     res.raise_for_status()
     res.encoding=res.apparent_encoding or "utf-8"
     soup=BeautifulSoup(res.text,"html.parser")
