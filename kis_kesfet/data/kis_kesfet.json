@@ -1348,7 +1348,432 @@
       "resmiKaynak": "https://www.yalovatermal.com/iletisim",
       "sonDogrulama": "2026-10-22",
       "latitude": 40.603379,
-      "longitude": 29.173883
+      "longitude": 29.173883,
+      "ucretBilgisi": {
+        "sonKontrol": "2026-11-01",
+        "arastirmaYili": 2026,
+        "aciklama": "Oda-kahvaltı tarifesine kahvaltı; yarım pansiyona kahvaltı ve akşam yemeği dâhildir. Konaklama vergisi ve KDV fiyatlara dâhildir. 0–5 yaş ücretsizdir; 6 yaş üzeri için ilave yatak ücreti alınır. Sağlık Bakanlığı personeli ile anne, baba, eş ve çocuklarına liste üzerinden %50 indirim uygulanır; cuma-cumartesi, bayram, resmî tatil, sömestr ve ara tatilde bu indirim geçerli değildir. Konaklama listesi bayram, resmî tatil, sömestr ve ara tatilde geçerli değildir. Otel misafirleri açık havuz ve Kurşunlu Banyo’yu ücretsiz, Sultan Banyo’yu %50 indirimli kullanabilir. Hamam ve havuz için rezervasyon gerekmez; masaj ve kese ayrıca ücretlidir.",
+        "kaynaklar": [
+          "https://www.yalovatermal.com/Fiyatlar"
+        ],
+        "kalemler": [
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel arka / 1 kişi",
+            "tutar": 6500,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Oda ve kahvaltı · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel arka / 1 kişi",
+            "tutar": 7500,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Yarım pansiyon · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel arka / 1 kişi",
+            "tutar": 6000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Kampanyalı yarım pansiyon (%20 indirim) · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel arka / 2 kişi",
+            "tutar": 8000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Oda ve kahvaltı · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel arka / 2 kişi",
+            "tutar": 10000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Yarım pansiyon · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel arka / 2 kişi",
+            "tutar": 8000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Kampanyalı yarım pansiyon (%20 indirim) · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel ön / 1 kişi",
+            "tutar": 7500,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Oda ve kahvaltı · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel ön / 1 kişi",
+            "tutar": 8500,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Yarım pansiyon · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel ön / 1 kişi",
+            "tutar": 6800,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Kampanyalı yarım pansiyon (%20 indirim) · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel ön / 2 kişi",
+            "tutar": 10000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Oda ve kahvaltı · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel ön / 2 kişi",
+            "tutar": 12000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Yarım pansiyon · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel ön / 2 kişi",
+            "tutar": 9600,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Kampanyalı yarım pansiyon (%20 indirim) · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel süit / 2 kişi",
+            "tutar": 11500,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Oda ve kahvaltı · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel süit / 2 kişi",
+            "tutar": 13500,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Yarım pansiyon · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Termal Otel süit / 2 kişi",
+            "tutar": 10800,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Kampanyalı yarım pansiyon (%20 indirim) · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "İlave yatak",
+            "tutar": 3500,
+            "birim": "yatak / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Oda ve kahvaltı · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": false
+          },
+          {
+            "tur": "konaklama",
+            "ad": "İlave yatak",
+            "tutar": 4500,
+            "birim": "yatak / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Yarım pansiyon · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": false
+          },
+          {
+            "tur": "konaklama",
+            "ad": "İlave yatak",
+            "tutar": 3600,
+            "birim": "yatak / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Kampanyalı yarım pansiyon (%20 indirim) · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": false
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Apart / 5 kişi",
+            "tutar": 12000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Oda ve kahvaltı · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "konaklama",
+            "ad": "Apart / 5 kişi",
+            "tutar": 17000,
+            "birim": "oda / gece",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Yarım pansiyon · bayram ve özel tatil dönemleri hariç.",
+            "baslangic": true
+          },
+          {
+            "tur": "havuz",
+            "ad": "Açık havuz ve Kurşunlu Banyo / yetişkin",
+            "tutar": 800,
+            "birim": "kişi / 180 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "havuz",
+            "ad": "Açık havuz ve Kurşunlu Banyo / çocuk",
+            "tutar": 600,
+            "birim": "çocuk / 180 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": false
+          },
+          {
+            "tur": "giris",
+            "ad": "Kurşunlu Hamamı / yetişkin",
+            "tutar": 700,
+            "birim": "kişi / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "giris",
+            "ad": "Kurşunlu Hamamı / çocuk",
+            "tutar": 500,
+            "birim": "çocuk / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": false
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / yetişkin",
+            "tutar": 800,
+            "birim": "kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / 2 kişi",
+            "tutar": 1000,
+            "birim": "2 kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / ilave kişi",
+            "tutar": 250,
+            "birim": "ilave kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": false
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / VIP oda",
+            "tutar": 1400,
+            "birim": "oda / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "giris",
+            "ad": "Valide Hamamı / yetişkin",
+            "tutar": 350,
+            "birim": "kişi / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "giris",
+            "ad": "Valide Hamamı / çocuk",
+            "tutar": 270,
+            "birim": "çocuk / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": false
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sıra banyo / yetişkin",
+            "tutar": 800,
+            "birim": "kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sıra banyo / 2 kişi",
+            "tutar": 1000,
+            "birim": "2 kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sıra banyo / ilave kişi",
+            "tutar": 300,
+            "birim": "ilave kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta içi",
+            "baslangic": false
+          },
+          {
+            "tur": "havuz",
+            "ad": "Açık havuz ve Kurşunlu Banyo / yetişkin",
+            "tutar": 1000,
+            "birim": "kişi / 180 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "havuz",
+            "ad": "Açık havuz ve Kurşunlu Banyo / çocuk",
+            "tutar": 800,
+            "birim": "çocuk / 180 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": false
+          },
+          {
+            "tur": "giris",
+            "ad": "Kurşunlu Hamamı / yetişkin",
+            "tutar": 900,
+            "birim": "kişi / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "giris",
+            "ad": "Kurşunlu Hamamı / çocuk",
+            "tutar": 700,
+            "birim": "çocuk / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": false
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / yetişkin",
+            "tutar": 1000,
+            "birim": "kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / 2 kişi",
+            "tutar": 1250,
+            "birim": "2 kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / ilave kişi",
+            "tutar": 300,
+            "birim": "ilave kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": false
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sultan Banyo / VIP oda",
+            "tutar": 1600,
+            "birim": "oda / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "giris",
+            "ad": "Valide Hamamı / yetişkin",
+            "tutar": 400,
+            "birim": "kişi / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "giris",
+            "ad": "Valide Hamamı / çocuk",
+            "tutar": 300,
+            "birim": "çocuk / 90 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": false
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sıra banyo / yetişkin",
+            "tutar": 1000,
+            "birim": "kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sıra banyo / 2 kişi",
+            "tutar": 1250,
+            "birim": "2 kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": true
+          },
+          {
+            "tur": "aileBanyosu",
+            "ad": "Sıra banyo / ilave kişi",
+            "tutar": 350,
+            "birim": "ilave kişi / 60 dakika",
+            "kaynakUrl": "https://www.yalovatermal.com/Fiyatlar",
+            "kosul": "Hafta sonu",
+            "baslangic": false
+          }
+        ],
+        "arastirmaNotu": "2026 konaklama tarifesi ve aynı resmî sayfadaki hafta içi/sonu kaplıca listeleri kontrol edildi. Konaklamada vergi ve KDV dâhil. Bayram, resmî tatil, sömestr ve ara tatilde konaklama listesi geçerli değil. Sağlık Bakanlığı personeli ve anne/baba/eş/çocukları için liste üzerinden %50 indirim yalnız belirtilen günlerde uygulanıyor; hafta sonu ve tatillerde uygulanmıyor. Otel misafirlerine açık havuz ve Kurşunlu Banyo dâhil; Sultan Banyo %50 indirimli. Ayrı tarifeler birbiriyle toplanmadı."
+      }
     }
   ]
 }
