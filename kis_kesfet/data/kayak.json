@@ -1,6 +1,6 @@
 {
   "kategori": "kayak",
-  "sonTarama": "2026-10-22",
+  "sonTarama": "2026-11-02",
   "kayitlar": [
     {
       "id": "kayak-bursa-uludag",
@@ -145,7 +145,7 @@
         }
       ],
       "resmiKaynak": "https://kastamonu.ktb.gov.tr/Eklenti/112738,kastamonu-e-brosurpdf.pdf?0=",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sonKontrol": "2026-10-22",
         "durum": "yok"
@@ -195,7 +195,7 @@
         }
       ],
       "resmiKaynak": "https://isparta.ktb.gov.tr/TR-165310/davraz-kayak-merkezi.html",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sayfaUrl": "https://davrazkayakmerkezi.org/pist-haritasi",
         "gorselUrl": "https://davrazkayakmerkezi.org/shared/uploads/legacy/1b53e9879f85-harita_tr1.png",
@@ -245,7 +245,7 @@
         }
       ],
       "resmiKaynak": "https://teda.ktb.gov.tr/Eklenti/6591,skicentersofturkeypdf.pdf?0=",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sayfaUrl": "https://www.saklikent.com.tr/saklikent-kayak-merkezi/menu/tr/6/pistler-ve-telesiyej.aspx",
         "kaynakAdi": "Saklıkent Kayak Merkezi",
@@ -294,7 +294,7 @@
         }
       ],
       "resmiKaynak": "https://kulturportali.gov.tr/turkiye/kayseri/turizmaktiviteleri/erciyes-dagi--kayak-merkezi-",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sayfaUrl": "https://www.erciyeskayak.com/tr/pist-haritasi",
         "gorselUrl": "https://www.erciyeskayak.com/img/gallery/erciyes-pist-haritasi.png",
@@ -344,7 +344,7 @@
         }
       ],
       "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sayfaUrl": "https://www.ejder3200.com/merkez/palandoken",
         "kaynakAdi": "EJDER3200 Kayak Merkezleri A.Ş.",
@@ -393,7 +393,7 @@
         }
       ],
       "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sayfaUrl": "https://www.ejder3200.com/merkez/konakli",
         "kaynakAdi": "EJDER3200 Kayak Merkezleri A.Ş.",
@@ -440,7 +440,7 @@
         }
       ],
       "resmiKaynak": "https://erzurum.ktb.gov.tr/tr-56072/kis-turizmi.html",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sonKontrol": "2026-10-22",
         "durum": "yok"
@@ -486,7 +486,7 @@
         }
       ],
       "resmiKaynak": "https://kars.ktb.gov.tr/Eklenti/82532,rota-karspdf.pdf?0=",
-      "sonDogrulama": "2026-10-22",
+      "sonDogrulama": "2026-11-02",
       "pistHaritasi": {
         "sayfaUrl": "https://www.sarikamisdagas.com.tr/",
         "kaynakAdi": "Sarıkamış Dağ A.Ş.",
@@ -494,6 +494,48 @@
         "sonKontrol": "2026-10-22",
         "durum": "yok"
       }
+    },
+    {
+      "id": "kayak-gumushane-zigana-kayak-merkezi",
+      "kategori": "kayak",
+      "il": "Gümüşhane",
+      "ilce": "",
+      "isim": "Zigana Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Kültür ve Turizm Bakanlığı kayak merkezleri kaynağında yer alır.",
+      "adres": "",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://teda.ktb.gov.tr/Eklenti/6591,skicentersofturkeypdf.pdf?0=",
+      "sonDogrulama": "2026-11-02"
+    },
+    {
+      "id": "kayak-erzincan-ergan-kayak-merkezi",
+      "kategori": "kayak",
+      "il": "Erzincan",
+      "ilce": "",
+      "isim": "Ergan Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Kültür ve Turizm Bakanlığı kayak merkezleri kaynağında yer alır.",
+      "adres": "",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://teda.ktb.gov.tr/Eklenti/6591,skicentersofturkeypdf.pdf?0=",
+      "sonDogrulama": "2026-11-02"
+    },
+    {
+      "id": "kayak-kocaeli-kartepe",
+      "kategori": "kayak",
+      "il": "Kocaeli",
+      "ilce": "",
+      "isim": "Kartepe Kayak Merkezi",
+      "kurumTuru": "Kış sporları merkezi",
+      "kisaAciklama": "Kocaeli İl Kültür ve Turizm Müdürlüğü il tanıtımında Kartepe kayak merkezi olarak yer alır.",
+      "adres": "",
+      "telefon": "",
+      "kullanimTuru": "Günübirlik",
+      "resmiKaynak": "https://kocaeli.ktb.gov.tr/TR-69185/genel-bilgiler.html",
+      "sonDogrulama": "2026-11-02"
     }
   ]
 }
