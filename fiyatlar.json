@@ -56069,6 +56069,16 @@
       "tarife": null,
       "il": "Şanlıurfa",
       "isim": "Şanlıurfa Harran Üniversitesi Sosyal Tesisleri"
+    },
+    {
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "1500",
+      "fiyat_kurum_personeli": null,
+      "kaynak": "Kullanıcı Bildirimi",
+      "gecerlilik": "07.11.2026",
+      "tarife": null,
+      "il": "Ankara",
+      "isim": "Tez-Koop-İş Sendikası Konukevi"
     }
   ]
 }
