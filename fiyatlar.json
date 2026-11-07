@@ -56059,6 +56059,16 @@
       "tarife": null,
       "il": "Afyonkarahisar",
       "isim": "Afyonkarahisar Karayolları 31.Şube Şefliği ve Misafirhanesi"
+    },
+    {
+      "fiyat_sivil": "1200",
+      "fiyat_kamu_personeli": "1200",
+      "fiyat_kurum_personeli": "1200",
+      "kaynak": "Kullanıcı Bildirimi",
+      "gecerlilik": "",
+      "tarife": null,
+      "il": "Şanlıurfa",
+      "isim": "Şanlıurfa Harran Üniversitesi Sosyal Tesisleri"
     }
   ]
 }
