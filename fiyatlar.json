@@ -56049,6 +56049,16 @@
           }
         ]
       }
+    },
+    {
+      "fiyat_sivil": null,
+      "fiyat_kamu_personeli": "1000",
+      "fiyat_kurum_personeli": null,
+      "kaynak": "Kullanıcı Bildirimi",
+      "gecerlilik": "",
+      "tarife": null,
+      "il": "Afyonkarahisar",
+      "isim": "Afyonkarahisar Karayolları 31.Şube Şefliği ve Misafirhanesi"
     }
   ]
 }
