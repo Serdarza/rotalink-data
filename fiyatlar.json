@@ -56089,6 +56089,16 @@
       "tarife": null,
       "il": "Diyarbakır",
       "isim": "Diyarbakır Devlet Su İşleri Misafirhanesi"
+    },
+    {
+      "fiyat_sivil": "750",
+      "fiyat_kamu_personeli": null,
+      "fiyat_kurum_personeli": null,
+      "kaynak": "Kullanıcı Bildirimi",
+      "gecerlilik": "09.11.2026",
+      "tarife": null,
+      "il": "Samsun",
+      "isim": "Samsun Etibakır A.Ş. Misafirhanesi"
     }
   ]
 }
