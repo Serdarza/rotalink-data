@@ -56079,6 +56079,16 @@
       "tarife": null,
       "il": "Ankara",
       "isim": "Tez-Koop-İş Sendikası Konukevi"
+    },
+    {
+      "fiyat_sivil": "1500",
+      "fiyat_kamu_personeli": null,
+      "fiyat_kurum_personeli": null,
+      "kaynak": "Kullanıcı Bildirimi",
+      "gecerlilik": "09.11.2026",
+      "tarife": null,
+      "il": "Diyarbakır",
+      "isim": "Diyarbakır Devlet Su İşleri Misafirhanesi"
     }
   ]
 }
