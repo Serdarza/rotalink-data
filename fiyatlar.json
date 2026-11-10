@@ -56099,6 +56099,16 @@
       "tarife": null,
       "il": "Samsun",
       "isim": "Samsun Etibakır A.Ş. Misafirhanesi"
+    },
+    {
+      "fiyat_sivil": "1500",
+      "fiyat_kamu_personeli": "1500",
+      "fiyat_kurum_personeli": "1500",
+      "kaynak": "Kullanıcı Bildirimi",
+      "gecerlilik": "10.11.2026",
+      "tarife": null,
+      "il": "Erzincan",
+      "isim": "Erzincan Sosyal Tesisleri Misafirhane"
     }
   ]
 }
